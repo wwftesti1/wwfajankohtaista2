@@ -15,7 +15,7 @@ concurrency:
 jobs:
   paivita:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 400
     steps:
       - uses: actions/checkout@v4
 
@@ -31,7 +31,7 @@ jobs:
 
       - name: Hae uutiset ja lausunnot wwf.fi:stä
         run: |
-          for y in $(seq 2021 $(date +%Y)); do
+          for y in $(seq 2000 $(date +%Y)); do
             YEAR=$y python scripts/hae_wwf.py
           done
 
