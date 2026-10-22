@@ -6,7 +6,7 @@ ne Markdown-tiedostoiksi Claude-projektin kontekstiksi.
 Lähde on sama rajapinta, jota wwf.fi/ajankohtaista-sivu käyttää (/wp-json/wwffi/v1/archive).
 
 Ympäristömuuttujat:
-  START_YEAR  ensimmäinen haettava vuosi (oletus: 2021); haetaan siitä kuluvaan päivään
+  START_YEAR  ensimmäinen haettava vuosi (oletus: 2000); haetaan siitä kuluvaan päivään
   OUT_DIR     tulostiedostojen kansio (oletus: context)
   CACHE_DIR   välimuisti, jotta jo haettuja sivuja ja PDF:iä ei ladata uudelleen (oletus: cache)
   REFRESH_DAYS näin tuoreet kohteet haetaan aina uudelleen muokkausten varalta (oletus: 30)
@@ -20,7 +20,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 BASE = "https://wwf.fi"
-START_YEAR = int(os.environ.get("START_YEAR") or 2021)
+START_YEAR = int(os.environ.get("START_YEAR") or 2000)
 OUT = Path(os.environ.get("OUT_DIR", "context"))
 CACHE = Path(os.environ.get("CACHE_DIR", "cache"))
 REFRESH_DAYS = int(os.environ.get("REFRESH_DAYS") or 30)
