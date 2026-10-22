@@ -1,0 +1,45 @@
+name: Päivitä WWF-konteksti
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # joka päivä klo 04:00 UTC (klo 6 tai 7 Suomen aikaa)
+  workflow_dispatch:       # mahdollistaa käsin ajamisen Actions-välilehdeltä
+
+permissions:
+  contents: write          # lupa commitoida päivitetyt tiedostot
+
+concurrency:
+  group: paivita-wwf
+  cancel-in-progress: false
+
+jobs:
+  paivita:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Asenna riippuvuudet
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q poppler-utils
+          pip install -q beautifulsoup4
+
+      - name: Hae uutiset ja lausunnot wwf.fi:stä
+        run: python scripts/hae_wwf.py
+
+      - name: Commitoi muutokset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add context cache
+          if git diff --cached --quiet; then
+            echo "Ei muutoksia."
+          else
+            git commit -m "WWF-konteksti päivitetty $(date -u +%Y-%m-%d)"
+            git push
+          fi
