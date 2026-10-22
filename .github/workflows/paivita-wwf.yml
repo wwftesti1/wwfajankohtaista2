@@ -15,7 +15,7 @@ concurrency:
 jobs:
   paivita:
     runs-on: ubuntu-latest
-    timeout-minutes: 400
+    timeout-minutes: 120   # ensimmäinen ajo (kaikki vuodet) kestää 40–60 min
     steps:
       - uses: actions/checkout@v4
 
@@ -30,10 +30,9 @@ jobs:
           pip install -q beautifulsoup4
 
       - name: Hae uutiset ja lausunnot wwf.fi:stä
-        run: |
-          for y in $(seq 2000 $(date +%Y)); do
-            YEAR=$y python scripts/hae_wwf.py
-          done
+        env:
+          START_YEAR: "2021"   # haetaan vuodet 2021 → kuluva vuosi
+        run: python scripts/hae_wwf.py
 
       - name: Commitoi muutokset
         run: |
