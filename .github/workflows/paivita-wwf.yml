@@ -15,7 +15,7 @@ concurrency:
 jobs:
   paivita:
     runs-on: ubuntu-latest
-    timeout-minutes: 120   # ensimmäinen ajo (kaikki vuodet) kestää 40–60 min
+    timeout-minutes: 300   # ensimmäinen ajo (kaikki vuodet) kestää 40–60 min
     steps:
       - uses: actions/checkout@v4
 
@@ -31,7 +31,7 @@ jobs:
 
       - name: Hae uutiset ja lausunnot wwf.fi:stä
         env:
-          START_YEAR: "2021"   # haetaan vuodet 2021 → kuluva vuosi
+          START_YEAR: "2000"   # haetaan vuodet 2021 → kuluva vuosi
         run: python scripts/hae_wwf.py
 
       - name: Commitoi muutokset
