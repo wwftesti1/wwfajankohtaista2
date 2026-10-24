@@ -8,7 +8,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 **Joulukuu 2022**
 
-- 19.12.2022 – Historiallinen lopputulos YK:n luontokokouksessa:”Kaikki riippuu nyt toimeenpanosta”
+- 19.12.2022 – Historiallinen lopputulos YK:n luontokokouksessa: “Kaikki riippuu nyt toimeenpanosta”
 - 14.12.2022 – Kansallinen metsästrategia ei vastaa luontokadon ja ilmastokriisin torjuntaan – Luonnonsuojeluliitto ja WWF jättivät eriävän mielipiteen
 
 **Marraskuu 2022**
@@ -48,7 +48,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 **Kesäkuu 2022**
 
-- 30.6.2022 – WWF: Itämerennorpalle ehdotettu metsästyskiintiö on liian suuri –”Suomi ja Ruotsi ovat vauhdittamassa itämerennorpan uhanalaistumista”
+- 30.6.2022 – WWF: Itämerennorpalle ehdotettu metsästyskiintiö on liian suuri – “Suomi ja Ruotsi ovat vauhdittamassa itämerennorpan uhanalaistumista”
 - 28.6.2022 – WWF vetoaa: Suojele saimaannorppaa jättämällä kalaverkot kuivalle maalle myös heinäkuussa ja päivitä katiska norppaturvalliseksi
 - 21.6.2022 – Luontokato ei pysähdy ilman tekoja – ympäristöjärjestöt vaativat hallitukselta kiireellisiä päätöksiä metsiemme suojelemiseksi
 - 20.6.2022 – Päätös luontokadon pysäyttämisestä siirtyy – WWF: “Olemme vaarassa ajautua syöksykierteeseen”
@@ -94,7 +94,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 ## Joulukuu 2022
 
-### Historiallinen lopputulos YK:n luontokokouksessa:”Kaikki riippuu nyt toimeenpanosta”
+### Historiallinen lopputulos YK:n luontokokouksessa: “Kaikki riippuu nyt toimeenpanosta”
 
 Julkaistu: 19.12.2022  
 Linkki: https://wwf.fi/tiedotteet/2022/12/historiallinen-lopputulos-ykn-luontokokouksessa-kaikki-riippuu-nyt-toimeenpanosta/
@@ -974,7 +974,7 @@ Lisätietoja: Liisa Rohweder, Lisätietoja
 
 ## Kesäkuu 2022
 
-### WWF: Itämerennorpalle ehdotettu metsästyskiintiö on liian suuri –”Suomi ja Ruotsi ovat vauhdittamassa itämerennorpan uhanalaistumista”
+### WWF: Itämerennorpalle ehdotettu metsästyskiintiö on liian suuri – “Suomi ja Ruotsi ovat vauhdittamassa itämerennorpan uhanalaistumista”
 
 Julkaistu: 30.6.2022  
 Aiheet: Itämerennorppa, Suomi  

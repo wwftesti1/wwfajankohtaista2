@@ -42,7 +42,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 - 9.6.2023 – Pinnalla nyt! WWF:läiset vinkkaavat puuhia kesään
 - 9.6.2023 – Miltä tuleva hallituskausi näyttää luonnon kannalta?
 - 9.6.2023 – Lue WWF:n saavutuksista norsunluun laittoman kaupan vastaisessa työssä – kysyntä väheni Kiinassa
-- 8.6.2023 – Mitä ympäristöä tukevia ratkaisuja voi tehdä golfkentällä? —”Ympäristöystävällisyys on velvollisuus”
+- 8.6.2023 – Mitä ympäristöä tukevia ratkaisuja voi tehdä golfkentällä? — “Ympäristöystävällisyys on velvollisuus”
 - 7.6.2023 – Oppia ja elämyksiä luonnosta
 - 6.6.2023 – Historiallinen valtamerisopimus aavan meren hyväksi ja muita tuoreita onnistumisia
 - 6.6.2023 – Feissaus mahdollistaa luonnonsuojelutyön:”Olemme osa sitä työtä, jolla saimaannorppakanta on saatu kasvuun”
@@ -65,7 +65,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 - 16.3.2023 – Ilmastonmuutos kadottaa kulttuuria
 - 15.3.2023 – YK:n luontokokouksessa historiallinen sopu ja muita tuoreita onnistumisia
 - 14.3.2023 – Norppa sai nimekseen Holomottaja
-- 14.3.2023 – Luonnonsuojelun historiaa kirjoittamassa:”Jännitys säilyi viime hetkille”
+- 14.3.2023 – Luonnonsuojelun historiaa kirjoittamassa: “Jännitys säilyi viime hetkille”
 - 14.3.2023 – Kolumni: Tuulivoiman haitat puhuttavat, vaikka oikeasti ongelma on ylikulutus
 - 14.3.2023 – Anna ääni luonnolle – Nämä luonnon kannalta keskeiset asiat seuraavan hallituksen tulee ratkaista
 
@@ -986,7 +986,7 @@ Artikkelia korjattu 12.6.2023: Norsunluukaupan vastaisen ohjelman perustamista e
 
 ---
 
-### Mitä ympäristöä tukevia ratkaisuja voi tehdä golfkentällä? —”Ympäristöystävällisyys on velvollisuus”
+### Mitä ympäristöä tukevia ratkaisuja voi tehdä golfkentällä? — “Ympäristöystävällisyys on velvollisuus”
 
 Julkaistu: 8.6.2023  
 Aiheet: WWF-lehti, Luonnon köyhtyminen, Suomi, Yritykset  
@@ -1621,7 +1621,7 @@ Saunistosta on mukavaa, että kotiseudulla elelee erittäin uhanalainen saimaann
 
 ---
 
-### Luonnonsuojelun historiaa kirjoittamassa:”Jännitys säilyi viime hetkille”
+### Luonnonsuojelun historiaa kirjoittamassa: “Jännitys säilyi viime hetkille”
 
 Julkaistu: 14.3.2023  
 Aiheet: WWF-lehti, Luonnon köyhtyminen  

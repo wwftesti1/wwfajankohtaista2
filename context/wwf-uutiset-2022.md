@@ -1,9 +1,8 @@
 # WWF Suomi – Uutiset 2022
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Uutiset). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 173 (uusin 28.12.2022).
+Kohteita: 168 (uusin 28.12.2022).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -12,8 +11,7 @@ Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 28.12.2022 – Hyppivä hämähäkki, tiikeri torkuilla ja loikkaava meritaimen – poimimme 10 upeaa luontokuvaa vuodelta 2022
 - 21.12.2022 – 30 hyvää uutista luonnonsuojelusta vuodelta 2022
 - 20.12.2022 – WWF:n Vuoden luontokirja 2022 tarjoaa neuvoja luontotekoihin omalla kotipihalla
-- 19.12.2022 – Historiallinen lopputulos YK:n luontokokouksessa:”Nyt on ryhdyttävä toimiin”
-- 14.12.2022 – Näkökulma: Hakkuiden sääntely palvelee koko yhteiskuntaa – Suomen pyrittävä suurempaan hiilinielutavoitteeseen
+- 19.12.2022 – Historiallinen lopputulos YK:n luontokokouksessa: “Nyt on ryhdyttävä toimiin”
 - 14.12.2022 – Kansallinen metsästrategia ei vastaa luontokadon ja ilmastokriisin torjuntaan – WWF ja Luonnonsuojeluliitto jättivät eriävän mielipiteen
 - 13.12.2022 – Talvilintukameraan tallentui ensimmäistä kertaa mestarimaastoutujana ja pikkulintujen kiipeilytaiturina tunnettu puukiipijä
 - 9.12.2022 – Mestarimaastoutujan jäljillä kilometrien korkeudessa – Tällaista on lumileoparditutkijan työ Nepalissa
@@ -33,7 +31,6 @@ Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 24.11.2022 – Terästeollisuudella keskeinen rooli ilmastokriisin ratkaisemisessa – vähähiiliseen tuotantoon investoitava merkittävästi jo tällä vuosikymmenellä
 - 23.11.2022 – Viraali-ilmiöksi aamupäivän aikana: näin supersuosittu Norppalive sai alkunsa
 - 23.11.2022 – Saimaannorppakanta on kasvanut – norppa tarvitsee silti ihmisen apua vielä pitkään
-- 21.11.2022 – Näkökulma: Mitä Sharm El-Sheikhin ilmastokokouksessa loppujen lopuksi päätettiin?
 - 20.11.2022 – Egyptin ilmastokokouksessa isoja epäonnistumisia ja muutama valonpilkahdus – vitkuttelu kasvattaa riskiä 1,5 asteen rajan ylittämisestä
 - 18.11.2022 – Tässä ovat WWF:n Vuoden Luontokirja -kilpailun viisi finalistia!
 - 18.11.2022 – Maailman ensimmäiset öljyntorjuntajoukot ovat aina valmiina auttamaan
@@ -75,9 +72,8 @@ Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 23.9.2022 – Prinssi Philip vieraili Suomessa 1995 — jämähti jäihin Nuuksiossa
 - 21.9.2022 – Saimaalla etsitään nyt haamuverkkoja – pohjaan unohtuneet verkot voivat pyytää saalista jopa 15 vuotta ja päätyä norppien kohtaloksi
 - 21.9.2022 – Odotettu vesilain uudistus nytkähti eteenpäin
-- 20.9.2022 – Näkökulma: Käsitteiden huolimaton käyttö sekoittaa kompensaatiokeskustelua entisestään
 - 20.9.2022 – Luontokerhoja ja kansallispuistoja — miltä näyttivät luonnonsuojelun ensiaskeleet Suomessa ennen WWF:ää?
-- 16.9.2022 – Vuosikymmeniä kiljuhanhien perässä –”Miksi tuo hemmo seuraa meitä?”
+- 16.9.2022 – Vuosikymmeniä kiljuhanhien perässä – “Miksi tuo hemmo seuraa meitä?”
 - 15.9.2022 – Äärimmäisen uhanalaisia kiljuhanhia lepäilee jälleen Oulun seudulla – WWF ja Suomen riistakeskus kehottavat erityiseen varovaisuuteen vesilintujen metsästyksessä
 - 14.9.2022 – Europarlamentti äänesti vahvan metsäkatolain puolesta
 - 7.9.2022 – Sääksenpoikaset tankkaavat nyt kalaa ja valmistautuvat muuttomatkaan – minne poikaset suuntaavat sääksiliven sulkeuduttua?
@@ -115,7 +111,7 @@ Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 **Kesäkuu 2022**
 
-- 30.6.2022 – WWF: Itämerennorpalle ehdotettu metsästyskiintiö on liian suuri –”Suomi ja Ruotsi ovat vauhdittamassa itämerennorpan uhanalaistumista”
+- 30.6.2022 – WWF: Itämerennorpalle ehdotettu metsästyskiintiö on liian suuri – “Suomi ja Ruotsi ovat vauhdittamassa itämerennorpan uhanalaistumista”
 - 28.6.2022 – Suojele norppaa: Jätä kalaverkot kuivalle maalle heinäkuussa ja päivitä katiska norppaturvalliseksi
 - 27.6.2022 – Näin tutustut lähiluontoon yhdessä lapsen kanssa – poimi talteen 9 hauskaa ideaa metsäretkelle
 - 26.6.2022 – YK:n luontoneuvottelut uhkaavat epäonnistua – jarruina Brasilia ja kiistat rahoituksesta
@@ -131,7 +127,7 @@ Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 8.6.2022 – Norppalivessä ei tänä keväänä tapahtunut juuri mitään –”Meni odotusten mukaisesti”
 - 7.6.2022 – WWF:n talkooleirikohteesta löytyi jo hävinneeksi luokiteltu hyönteinen
 - 7.6.2022 – Nämä neljä asiaa voimme menettää, jos emme suojele tiikereitä
-- 6.6.2022 – ”Pulleita ja hyväkuntoisia” – saimaannorpan kuutteja syntyi viime talvena 92
+- 6.6.2022 – “Pulleita ja hyväkuntoisia” – saimaannorpan kuutteja syntyi viime talvena 92
 
 **Toukokuu 2022**
 
@@ -140,13 +136,11 @@ Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 23.5.2022 – Mietitkö mitä tehdä kesällä?”WWF:n vapaaehtoisena aikasi ei mene hukkaan”
 - 20.5.2022 – Näin teemme yhteistyötä suomalaisten yritysten kanssa – Tutustu kolmeen esimerkkiin WWF:n yrityskumppanuuksista
 - 20.5.2022 – 2021 patojenpurun ennätysvuosi: satoja vaellusesteitä poistettiin Euroopassa
-- 18.5.2022 – Näkökulma: Yrityksillä on merkittävä rooli luontokadon pysäyttämisessä
 - 18.5.2022 – Maankäyttösektorin ilmastosuunnitelmassa on suuria puutteita – valmistelussa palattava lähtöruutuun
-- 16.5.2022 – Näkökulma: Maankäyttö uhkaa tulla ohitetuksi EU:n ilmastotavoitteissa
 - 13.5.2022 – WWF:”Uusi luonnonsuojelulaki on askel parempaan suuntaan”
 - 13.5.2022 – Hyviä uutisia Australiasta! Uhanalainen pörhöhäntäkenguru näyttää kotiutuneen vanhoille elinalueilleen
 - 12.5.2022 – WWF:n vieraslajitalkookausi käynnistyy – lauantaina hävitetään espanjansiruetanaa luonnonsuojelualueella
-- 11.5.2022 – ”Huippuviihdettä, jossa ei tapahdu juuri mitään” – Nyt alkaa WWF:n Norppalive!
+- 11.5.2022 – “Huippuviihdettä, jossa ei tapahdu juuri mitään” – Nyt alkaa WWF:n Norppalive!
 - 9.5.2022 – Pesälaskentojen päätöspäivä huipentui kohtaamiseen saimaannorppaemon ja kuutin kanssa
 - 6.5.2022 – Näin torjut muoviroskaa arjessasi – 6 vinkkiä kestävämpään elämään
 - 5.5.2022 – WWF eroaa Kestävän kaivostoiminnan verkostosta
@@ -206,7 +200,7 @@ Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 **Tammikuu 2022**
 
 - 31.1.2022 – 12 tapaa, joilla suojelimme tiikereitä viimeisten 12 vuoden aikana
-- 28.1.2022 – Suden kannanhoidolliset kaatoluvat täytäntöönpanokieltoon –”Näyttäisi, että näiden susien henki säästyi tältä talvelta”
+- 28.1.2022 – Suden kannanhoidolliset kaatoluvat täytäntöönpanokieltoon – “Näyttäisi, että näiden susien henki säästyi tältä talvelta”
 - 25.1.2022 – Taksonomia pähkinänkuoressa – tämä on hyvä tietää EU:n kestävän rahoituksen”ekomerkistä”
 - 24.1.2022 – Nämä kolme luonnonympäristöä katoavat huolestuttavasti – suurin syypää tuhoon on ihminen
 - 18.1.2022 – Käsillä ovat luonnon kohtalonhetket – kokosimme 5 + 1 asiaa, joita luonnonystävä seuraa tänä vuonna
@@ -225,7 +219,6 @@ Huom: 69 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 Julkaistu: 28.12.2022  
 Aiheet: Kentällä, Ahma, Suomen uhanalaiset kalat, Tiikeri, Valaat ja delfiinit  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/12/hyppiva-hamahakki-tiikeri-torkuilla-ja-loikkaava-meritaimen-poimimme-10-upeaa-luontokuvaa-vuodelta-2022/
 
 **WWF:n valokuvakokoelma täydentyy joka vuosi upeilla otoksilla, jotka kuvaavat työtämme ympäri maailmaa. Valikoimme vuodelta 2022 kymmenen vaikuttavaa kuvaa, jotka muistuttavat monimuotoisesta ja kiehtovasta luonnostamme.**
@@ -427,7 +420,7 @@ Lue myös: WWF:n Vuoden luontokirjassa kuvataan isän ja pojan seikkailuja Suome
 
 ---
 
-### Historiallinen lopputulos YK:n luontokokouksessa:”Nyt on ryhdyttävä toimiin”
+### Historiallinen lopputulos YK:n luontokokouksessa: “Nyt on ryhdyttävä toimiin”
 
 Julkaistu: 19.12.2022  
 Aiheet: Luonnon köyhtyminen, Ilmastonmuutos, Onnistumistarina, Ylikulutus  
@@ -468,43 +461,6 @@ Uusi tavoitekehikko on nimeltään Kunmingin-Montrealin sopimus kokouksen järje
 
 ---
 
-### Näkökulma: Hakkuiden sääntely palvelee koko yhteiskuntaa – Suomen pyrittävä suurempaan hiilinielutavoitteeseen
-
-Julkaistu: 14.12.2022  
-Aiheet: Suomi, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2022/12/nakokulma-hakkuiden-saantely-palvelee-koko-yhteiskuntaa-suomen-pyrittava-suurempaan-hiilinielutavoitteeseen/
-
-**Talousmetsillä on keskeinen rooli ilmastolain mukaisen hiilineutraaliustavoitteen saavuttamisessa, ja siksi nielupolitiikan pitää näkyä talousmetsien hoidossa ja metsäsektorin tulevaisuusstrategioissa, kirjoittavat WWF:n asiantuntijat Mai Suominen ja Bernt Nordman.**
-
-Marraskuussa EU-parlamentti ja jäsenmaiden neuvosto pääsivät yhteisymmärrykseen Suomeakin velvoittavan maankäyttösektorin asetuksen (LULUCF) päivittämisestä. Päivitettyjen tavoitteiden mukaisesti Suomen pitää vuosina 2026–2030 päästä metsä- ja maatalousmaiden osalta keskimäärin vähintään -18 megatonnin vuosittaisiin nieluihin. Tilastokeskuksen juuri julkaisemiin vuoden 2021 lukuihin peilattuna Suomen olisi siis lisättävä nielujaan neljän vuoden aikana lähes 19 megatonnin verran. Jos nielut ovat sovittua pienemmät, pitää Suomen kompensoida joko vähentämällä päästöjä muualla, esimerkiksi liikennesektorilla, tai hankkimalla nieluyksiköitä muista EU-maista.
-
-EU ei ole vielä asettanut vuoteen 2035 ulottuvaa nielutavoitetta, mutta tavoitteen löysentäminen olisi Pariisin sopimuksen vastaista. WWF:n mielestä Suomen tuleekin jo tässä vaiheessa ennakoivasti pyrkiä nykyistä vähimmäisvelvoitetta huomattavasti suurempaan nielutavoitteeseen. Kansalliseen ilmastolakiimme kirjattu vaade Suomen hiilineutraaliudesta viimeistään vuonna 2035 on ilmastopaneelin laskelmien mukaan saavutettavissa 21 megatonnin nielutasolla, mutta esimerkiksi kansallista maankäyttösektorin ilmastosuunnitelmaa (MISU) varten laaditut selvitykset osoittivat, että keinot huomattavasti suuremman nielutason saavuttamiseen ovat jo tiedossa. Metsä- ja maatalousmaiden kokonaisnielujen kasvattaminen 25 megatonnin tasolle vuoteen 2030 mennessä on WWF Suomen mielestä täysin realistinen tavoite, mutta se edellyttää muutoksia talousmetsien hoitoon ja käyttöön.
-
-#### Näemmekö metsän puilta?
-
-Tasaikäisrakenteisessa talousmetsässä hiilen määrä on korkeimmillaan ennen päätehakkuutta, ja iäkäs, järeäpuustoinen metsä jatkaa hiilen sitomista puuston kasvun jo hidastuttua. Mikäli puusukupolven kiertoaikaa eli hakkuiden väliin jäävää jaksoa lyhennetään, tämä runsashiilinen vaihe jää lyhyemmäksi. Metsälain uudistamisen jälkeen tapahtunut talousmetsien kiertoaikojen lyhentäminen onkin pienentänyt Suomen hiilinieluja.
-
-Metsä ei kuitenkaan tarkoita vain siellä kasvavia puita. Suomen metsiin sitoutuneesta hiilestä jopa puolet tai enemmän on puiden sijaan maaperässä. Avohakkuun ja siihen liittyvän ojituksen ja muun voimakkaan maanmuokkauksen seurauksena maaperään sitoutunut hiili hajoaa ja karikkeen muodostuminen hidastuu pitkäksi aikaa. Erityisen suurta ilmastohaittaa syntyy ojituksista turvemailla eli suometsissä, joihin orgaanista ainesta on kertynyt vuosituhansien ajan.
-
-Puuntuotantoon liittyviä ilmastohaittoja ja nieluhävikkiä voidaan vähentää huomattavasti muuttamalla hakkuutapoja. WWF suosittaa siirtymistä avohakkuuttomaan puuntuotantoon pääosassa Suomen metsiä. Jatkuvapeitteisestä metsänhoidosta on vähemmän haittaa sekä metsäluonnolle että metsien hiilinieluille.
-
-#### Puun käytön negatiiviset vaikutukset tulee minimoida
-
-Suomessa vain noin puolet hakatusta puubiomassasta päätyy puutuotteisiin – puolet poltetaan lähes välittömästi. Ilmakehän hiilidioksidipitoisuuden kannalta olisi hyvin tärkeää, että hiili pysyisi sidottuna puutuotteisiin mahdollisimman pitkään. Talousmetsistä korjattu puuraaka-aine tulisikin käyttää pitkäkestoisiin tuotteisiin kuten talojen rakenteisiin ja huonekaluihin. Hiiltä pitkään sitovilla puutuotteilla voidaan myös korvata esimerkiksi sementistä, teräksestä tai muista fossiiliperäisiä päästöjä tuottavista materiaaleista valmistettuja tuotteita.
-
-Metsänhoidon eri vaiheissa syntyvää harvennuspuuta ja hakkuutähteitä on Suomessa vielä tällä hetkellä perusteltua hyödyntää sähkön ja lämmön tuotannossa, jos sillä voidaan korvata fossiilisia polttoaineita kuten turvetta ja kivihiiltä. Puubiomassalla on kuitenkin monia vaihtoehtoisia käyttökohteita, joiden arvonlisä yhteiskunnalle on suurempi kuin lämmöntuotannossa. Siksi esimerkiksi kaukolämmön tuotannossa tulee jatkossa investoida teknologiaan, joka ei perustu puun polttoon.
-
-#### Maksajasta edelläkävijäksi
-
-Suomessa ei ole haluttu ottaa käyttöön valtion ohjauskeinoja kokonaishakkuiden rajoittamiseksi. Tätä on perusteltu sekä metsäteollisuuden intresseillä että yksityisten metsänomistajien omaisuuden suojalla. Ilmastolain sitovan hiilineutraalisuustavoitteen sekä Suomen EU-lainsäädännön mukaisten nieluvelvoitteiden valossa hakkuiden tiukemmasta sääntelystä pitää kuitenkin puhua vakavasti. Nykyinen tilanne on epäoikeudenmukainen, sillä koko yhteiskunta joutuu maksajan rooliin, jos ylimitoitetut hakkuut estävät riittävän nielutason saavuttamisen. Oikeudenmukainen keino olisi ottaa käyttöön kuutioperusteinen hakkuuvero, joka loisi puun ostajalle kannusteita vähentää puun käyttöä pienen lisäarvon tuotteisiin ja kerryttäisi yhteiskunnalle varoja nieluhäviöiden korvaamiseen. Myös metsätalouden valtiontukia tulisi jatkossa kohdentaa toimenpiteisiin, jotka vahvistavat talousmetsien hiilinieluja (ks. lausuntomme metsätalouden määräaikaisesta kannustinjärjestelmästä METKA:sta ).
-
-Vähintään yhtä tärkeää on käynnistää Suomen talousmetsien hyödyntämisen rakennemuutos. Metsänhoidon käytäntöjen uudistaminen ja koko teollisen infrastruktuurin muuttaminen vie useita vuosikymmeniä, eikä muutosprosessin aloittamista voi siksi enää lykätä. Ilmastonäkökohtien painoarvo politiikassa ei taatusti ole vähenemässä.
-
-Lisätietoja: Mai Suominen, Johtava metsäasiantuntija; Bernt Nordman, Ohjelmajohtaja
-
----
-
 ### Kansallinen metsästrategia ei vastaa luontokadon ja ilmastokriisin torjuntaan – WWF ja Luonnonsuojeluliitto jättivät eriävän mielipiteen
 
 Julkaistu: 14.12.2022  
@@ -538,7 +494,6 @@ WWF:n lausunto kansallisesta metsästrategiasta
 Julkaistu: 13.12.2022  
 Aiheet: Luontolive, Kentällä, Onnistumistarina, Suomen metsät, Suomi  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/12/talvilintukameraan-tallentui-ensimmaista-kertaa-mestarimaastoutujana-ja-pikkulintujen-kiipeilytaiturina-tunnettu-puukiipija/
 
 **Luontoliven talvilintukamera avattiin marraskuun alussa Oulangan lumisiin maisemiin. Lähetyksessä on tähän mennessä nähty harvinaisia lintuvieraita sekä liuta näyttäviä ja uhanalaisia lajeja.**
@@ -584,7 +539,6 @@ WWF on toteuttanut talvilintukameran yhdessä Kuusamo Nature Photographyn kanssa
 Julkaistu: 9.12.2022  
 Aiheet: Lumileopardi, Ilmastonmuutos, Luonnon köyhtyminen, Nepal  
 Kirjoittaja: Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/12/mestarimaastoutujan-jaljilla-kilometrien-korkeudessa-tallaista-on-lumileoparditutkijan-tyo-nepalissa/
 
 **WWF Nepalin lumileopardiasiantuntija kertoo työstään Himalajan jylhissä maisemissa. Nepalin lumileopardien suojeluun on osallistunut myös 50-vuotias WWF Suomi.**
@@ -789,7 +743,6 @@ Eduskunta päättää vielä lakiesityksen hyväksymisestä tai hylkäämisestä
 Julkaistu: 8.12.2022  
 Aiheet: Metsäkato, Luonnon köyhtyminen, Sademetsät  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/12/ei-enaa-metsakatotuotteita-eu-markkinoille-metsakatolaista-paastiin-sopuun-eussa/
 
 **EU:n metsäkatolaki estää jatkossa metsäkatoa aiheuttavien tuotteiden pääsyn EU-markkinoille. Globaaliin metsäkatoon puuttuva laki on ensimmäinen laatuaan koko maailmassa. Sen vaikutus on merkittävä, sillä EU-maiden kulutus on globaalisti suurimpia metsäkadon aiheuttajia.**
@@ -825,7 +778,6 @@ Osana järjestöjen yhteistä Together4Forests -kampanjaa pyysimme EU-kansalaisi
 Julkaistu: 7.12.2022  
 Aiheet: Luonnon köyhtyminen, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/12/paivittyva-seuranta-nain-ykn-luontokokous-cop15-etenee-kanadassa/
 
 **Maailman maat kokoontuvat luontoneuvotteluihin Kanadan Montrealiin 7.–19.12.2022. Kokoamme tähän juttuun tuoreita kuulumisia kokouksen etenemisestä.**
@@ -969,7 +921,6 @@ Toivoa neuvotteluihin luo EU:n tuore päätös hyväksyä niin sanottu metsäkat
 Julkaistu: 7.12.2022  
 Aiheet: Virtavedet, Jokihelmisimpukka, Luonnon köyhtyminen, Suomen uhanalaiset kalat, Talkoot, Yritykset  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/12/metsapurojen-puolesta-yhteistyossa-kunnostettiin-satoja-metreja-virtavesia-vuonna-2022/
 
 **Kolmevuotisen yhteistyön ensimmäisen kauden aikana WWF:n, Stora Enson ja Tornatorin talkoolaiset pääsivät konkreettisesti luomaan kutu- ja pienpoikasalueita, jotka ovat tärkeitä erittäin uhanalaisen taimenen luontaisen elinkierron kannalta.**
@@ -1068,7 +1019,6 @@ WWF:n osallistuminen Ämmäkosken kunnostamiseen katetaan Vauhtia vaellukseen -h
 Julkaistu: 30.11.2022  
 Aiheet: Luonnon köyhtyminen, Ilmastonmuutos, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/elintarkea-ykn-luontokokous-alkaa-seuraa-naita-teemoja-neuvotteluissa/
 
 **Maailman maat kokoontuvat luontoneuvotteluihin Kanadan Montrealiin 7.–19.12.2022. Luontokadon pysäyttäminen on ihmiskunnalle kohtalonkysymys.**
@@ -1141,7 +1091,6 @@ Vaarassa ovat pykälät 64 ja 65, joilla uhanalaisten luontotyyppien suojeluun o
 Julkaistu: 28.11.2022  
 Aiheet: Merten muoviroska, Meret  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/historiallinen-hetki-maailman-merille-yk-aloittaa-tanaan-neuvottelut-globaalin-muoviroskaongelman-ratkaisemiseksi/
 
 **Muoviroskan määrä merissä kasvaa kiihtyvää vauhtia, ja ongelmaan haetaan ratkaisua kansainvälisestä muoviroskasopimuksesta. WWF:n teettämän kyselyn mukaan enemmistö ihmisistä kannattaa sitovaa kansainvälistä muoviroskalainsäädäntöä.**
@@ -1284,56 +1233,10 @@ Norppaa voi auttaa muun muassa luopumalla verkkokalastuksesta Saimaalla tai liit
 
 ---
 
-### Näkökulma: Mitä Sharm El-Sheikhin ilmastokokouksessa loppujen lopuksi päätettiin?
-
-Julkaistu: 21.11.2022  
-Aiheet: Näkökulma, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2022/11/nakokulma-mita-sharm-el-sheikhin-ilmastokokouksessa-loppujen-lopuksi-paatettiin/
-
-**YK:n ilmastoneuvottelut Sharm El-Sheikhissä päättyivät pettymykseen. Historiallista päätöstä menetysten ja vahinkojen korvaamisesta varjostaa päättäjien vitkuttelu fossiilisten polttoaineiden alasajossa, kirjoittaa WWF:n ilmastovastaava Bernt Nordman.**
-
-Pariisin ilmastokokouksessa vuonna 2015 päätettiin maapallon keskilämpötilan nousun rajoittamisesta. Sen jälkeisissä ilmastokokouksissa on pyritty löytämään yhteisymmärrys siitä, miten 1,5 asteen rajan alle jääminen voidaan käytännössä varmistaa. Sharm El-Sheikhin sunnuntaina päättyneessä kokouksessa saatiin lopulta kovan väännön tuloksena aikaan kompromissi niin sanotusta ilmastomuutoksen hillinnän monivuotisesta työohjelmasta. Tätä kutsutaan jatkossa Sharm El-Sheikhin työohjelmaksi.
-
-Nyt tehty päätös on ilmastokriisin vakavuuteen nähden huomattavan epämääräinen. Sovitun prosessin puitteissa – osapuolten niin halutessa – voidaan kuitenkin sopia hyvinkin merkittävistä päästövähennyksistä. Tämän prosessipäätöksen myötä maapallon keskilämpötilan nousun rajaaminen 1,5 asteeseen on vielä mahdollista, mutta vain teoriassa: kriittisen rajan alittamiseen vaaditaan käytännön toimia. Siksi on hyvin huolestuttavaa, että Sharm El-Sheikhin kokouksessa ei saatu aikaan mitään uusia päätöksiä fossiilisten polttoaineiden alasajosta.
-
-#### Suurin onnistuminen: uusi rahasto ilmastotuhojen korvaamiseen
-
-Kokouksen merkittävin päätös oli uuden rahaston perustaminen, joka korvaa ilmastokriisin aiheuttamia vahinkoja ja menetyksiä (englanniksi Loss and Damage). Päätöksen toimeenpano tulee kestämään muutaman vuoden ja rahoituksen kerääminen vieläkin pitempään.
-
-Miksi uudenlaista rahastoa sitten tarvitaan? Jo käytössä olevien pitkäjänteisen sopeutumisrahoituksen ja humanitaarisen katastrofiavun välimaastoon tarvitaan tehokkaita rahoitusmekanismeja ja erityisesti kaikkein haavoittuvimmille maille ja ihmisille korvamerkittyä rahaa. Ensisijainen vastuu rahoituksesta on niillä mailla, joiden historialliset päästöt ovat aiheuttaneet nykyisen ilmastonmuutoksen.
-
-Jatkossa olisi perusteltua luoda myös mekanismeja, joilla saastuttaja maksaa -periaate ulottuisi yksityisen sektorin toimijoille, esimerkiksi kansainvälisen meriliikenteen tai lentoliikenteen fossiiliverojen muodossa.
-
-#### Vaikuttavia päätöksiä hiilimarkkinoista lykättiin jälleen
-
-Sharm El-Sheikhin kokoukselta odotettiin selkeitä linjauksia myös Pariisin ilmastosopimuksen artikla 6:een kirjattujen, maiden yhteistyötä ja hiilimarkkinoita koskevien periaatteiden täytäntöönpanosta. Viime vuoden ilmastokokouksessa hiilimarkkinoille laadittiin yleisen tason sääntökirja, mutta Sharm El-Sheikhissä neuvottelut yksityiskohdista osoittautuivat vaikeiksi. Hiilimarkkinoiden pelisääntöihin tehtiin tarkennuksia muun muassa ilmastohyödyn kaksoislaskennan, eli samojen hiilinielujen päällekkäisen ilmoittamisen useamman kuin yhden tahon toimesta, ehkäisemiseksi. Nyt tehtyjen tarkennusten myötä hankkeiden isäntämaiden, eli valtioiden, joissa hankkeet toteutetaan, tulee mukauttaa kasvihuonekaasutilastojaan, mikäli päästövähennystuloksia viedään kansainvälisille markkinoille, joista yritykset voivat niitä hankkia.
-
-Pariisin sopimuksen artikla 6 korvaa Kioton pöytäkirjan mukaiset hiilimarkkinat, eikä esimerkiksi puhtaan kehityksen mekanismia (CDM) enää käytetä. Glasgow’ssa sovittiin, että näistä vanhoista hankkeista luotuja yksiköitä voidaan tietyin edellytyksin siirtää Artikla 6 -markkinoille. Tämä oli iso pettymys WWF:lle, sillä niitä ei voida pitää lisäisinä. Sharm El-Sheikhin kokouksessa tietyt maat halusivat entisestään helpottaa näiden huonolaatuisten yksiköiden siirtoa. Hiilikrediittien ostajalla on jatkossakin iso vastuu laadun tarkistuksesta.
-
-Kokonaisuuteen jäi edelleen huomattavia aukkoja. Esimerkiksi valtioidenvälisen yhteistyön osalta tietojen avoimuuteen ja hankkeiden ulkopuoliseen arviointiin liittyvät, avoimeksi jääneet kysymykset heikentävät luottamusta mekanismiin. Ei-valtiollisia toimijoita koskevia sääntökohtia täsmennettiin, mutta muun muassa ehdotus hiilensidontahankkeita koskevasta ohjeistuksesta palautettiin uuteen valmisteluun selvästi puutteellisena.
-
-#### Koronivia-työlle jatkoa, ihmisoikeudet ja luontokato vahvasti esillä
-
-Maatalouden ilmastonäkökohtiin liittyvä viisivuotinen Koronivia-dialogi päättyi Sharm El-Sheikhin COP27-kokoukseen. Tärkeää työtä päätettiin kuitenkin jatkaa uuden nelivuotisen Maataloutta ja ruokajärjestelmää koskevan Sharm El-Sheikhin yhteistyö -prosessin muodossa. Tässäkin asiassa ollaan hyvin kaukana varsinaisista yhteisistä päätöksistä, sillä osapuolten näkemykset ovat vielä hyvin kaukana toisistaan.
-
-Myönteisenä kehityksenä voidaan pitää sitä, että ihmisoikeusnäkökulma on selvästi vahvistumassa ilmastokokouksissa. Vastustavia kannanottoja kuultiin vähemmän kuin viime vuonna ja monen asiakohdan päätöksiin kirjattiin hyviä ehtoja ihmisoikeuksien huomioimisesta hillintä- ja sopeutumistoimien suunnittelussa ja toteutuksessa.
-
-Toinen läpileikkaava teema oli luontokadon ja ilmastokriisin monet yhteydet. Näillä globaaleilla ongelmilla on useita yhteisiä syitä, kuten metsäkato. Luontopohjaisten ratkaisujen merkitystä korostettiin monessa päätöksessä, muun muassa ilmastonmuutokseen sopeutumisessa. Tämä on tärkeä signaali joulukuussa pidettävälle biodiversiteettisopimuksen osapuolikokoukselle, johon kollegani, WWF Suomen kansainvälisen ohjelman ohjelmajohtaja Anne Tarvainen osallistuu.
-
-Kokouksessa tehtiin tuttuun tapaan iso liuta poliittisia kannanottoja, joiden käytännön merkitys jää kuitenkin usein hyvin vaatimattomaksi. Ne heijastavat kuitenkin hyvin kansainvälisen ilmastodiplomatian nykytilaa. Suuri pettymys oli, että jotkut fossiilitalouden keskeiset maat blokkaavat edelleen tiukempia kirjauksia fossiilisten polttoaineiden alasajosta.
-
-Bernt Nordman on WWF Suomen ilmasto-ohjelman johtaja. Hän seurasi COP27-neuvotteluja paikan päällä Sharm El-Sheikhissä 4.—19.11.2022.
-
-Ilmastopuitesopimuksen sihteeristön tekemän koosteen COP27-kokouksen päätöksistä voit lukea täältä.
-
----
-
 ### Egyptin ilmastokokouksessa isoja epäonnistumisia ja muutama valonpilkahdus – vitkuttelu kasvattaa riskiä 1,5 asteen rajan ylittämisestä
 
 Julkaistu: 20.11.2022  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/egyptin-ilmastokokouksessa-isoja-epaonnistumisia-ja-muutama-valonpilkahdus-vitkuttelu-kasvattaa-riskia-15-asteen-rajan-ylittamisesta/
 
 **YK:n ilmastokokoukselta ei saatu riittäviä linjauksia ilmastonmuutoksen hillinnän kannalta kriittisestä fossiilisten polttoaineiden alasajosta. Kokouksen merkittävin päätös tehtiin ilmastonmuutoksesta johtuvien vahinkojen ja menetysten korvaamiseen keskittyvän uuden rahoitusmekanismin perustamisesta. Myös ihmisoikeudet nousivat kokouksessa entistä vahvemmin esiin.**
@@ -1418,7 +1321,6 @@ Lue lisää WWF:n öljyntorjuntajoukoista ja liity mukaan!
 Julkaistu: 18.11.2022  
 Aiheet: Virtavedet, Ilmastonmuutos, Kentällä, Luonnon köyhtyminen, Suomen uhanalaiset kalat, Suomi  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/eurooppalainen-dokumenttielokuva-patojen-purkamisesta-saa-ensi-iltansa-suomessa-mukana-myos-jasper-paakkonen/
 
 **Ensi viikolla ensi-iltansa Suomessa saava Dambusters-elokuva seuraa patojen purkamista viidessä Euroopan maassa. Suomessa kuvausryhmä vieraili Etelä-Karjalan Hiitolanjoella ja haastatteli muun muassa vaelluskala-aktiivi, näyttelijä Jasper Pääkköstä ja WWF:n ohjelmajohtajaa Sampsa Vilhusta.**
@@ -1484,7 +1386,6 @@ Kasvipohjaisen ruuan edistämisohjelmalle on jo myönnetty rahoitus esimerkiksi 
 
 Julkaistu: 11.11.2022  
 Aiheet: Lahjoittaminen, Ilmastonmuutos, Luonnon köyhtyminen, Onnistumistarina, Suomi, Ylikulutus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/wwf-ja-viihdeohjelma-posse-yhdistavat-voimansa-luvassa-ilta-luonnon-puolesta/
 
 **Viihde ja luonnonsuojelu lyövät tänä syksynä käpälää Posse-viihdeohjelman WWF-erikoisjaksossa. Jakson ensiesitys nähtiin MTV-kanavalla 18.11. suorassa lähetyksessä. WWF Suomen 50-vuotissyntymäpäivien kunniaksi Possen esiintyjät tutustuvat WWF:n työhön luonnon suojelemiseksi ja kannustajat myös katsojia mukaan auttamaan.**
@@ -1514,7 +1415,6 @@ Posse x WWF: Ilta luonnon puolesta -jakso esitetään MTV-kanavalla pe 18.11.202
 Julkaistu: 11.11.2022  
 Aiheet: Itä-Afrikka, Ilmastonmuutos, Kentällä, Luonnon köyhtyminen, Metsäkato  
 Kirjoittaja: Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/tyopaikkana-sademetsa-nain-madagaskarin-kylayhteisot-suojelevat-saaren-ainutlaatuista-luontoa/
 
 **Metsiensuojeluun osallistuvat paikalliset kertovat työstään Madagaskarin vaikeakulkuisissa ja pökerryttävän monimuotoisissa metsissä. 50-vuotias WWF Suomi tukee suojelutyötä Madagaskarilla.**
@@ -1871,7 +1771,6 @@ Juttua korjattu 9.11.2022: Metsäkeskustelu kytkeytyy Suomessa tällä hetkellä
 Julkaistu: 4.11.2022  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Ylikulutus  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/ykn-ilmastokokouksessa-tehtava-tiukkoja-paatoksia-nykymenolla-maapallo-lampenee-yli-15-asteen-tavoitteen/
 
 **Sunnuntaina alkavassa YK:n ilmastokokouksessa tulee saada aikaan päätöksiä ilmastokriisin taakan oikeudenmukaisesta jakamisesta ja fossiilisista polttoaineista luopumisesta.**
@@ -1903,7 +1802,6 @@ Neuvotteluissa ei tule myöskään unohtaa luonnon ja ilmaston yhteyttä. Luonno
 Julkaistu: 3.11.2022  
 Aiheet: Luontolive, Perinneympäristöt, Suomen metsät, Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/suositut-talvilinnut-tekivat-paluun-luontoliveen-lahetykseen-odotetaan-nayttavia-ja-uhanalaisia-lintuja/
 
 **WWF:n Luontoliven lähetyksessä seurataan Kuusamossa talvehtivia lintuja. Luontolivessä nähdään vanhoissa metsissä viihtyviä lajeja, esimerkiksi kuukkeleita, tiaisia ja tikkoja. Lähetyksessä on myös ääni.**
@@ -1970,7 +1868,6 @@ Liite: Tutustu TRAFFICin raporttiin! (https://www.traffic.org/publications/repor
 Julkaistu: 1.11.2022  
 Aiheet: Metsäkato, Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/11/uusi-arvio-paljastaa-nykytoimet-eivat-riita-pysayttamaan-maailman-metsien-haviamista-vuoteen-2030-mennessa/
 
 **Suomi ja muut maailman valtiot ovat sitoutuneet lopettamaan metsäkadon viimeistään vuoteen 2030. WWF oli mukana tekemässä arviointia, jonka mukaan tavoite on lipumassa käsistä. Epäonnistuminen metsäkadon torjunnassa kiihdyttäisi ilmastonmuutosta ja luontokatoa. WWF:n tuore Living Planet -raportti kertoo metsäkadon olevan yksi merkittävimmistä syistä selkärankaisten villieläinten ahdinkoon.**
@@ -2105,7 +2002,6 @@ Yrityksenne voi olla tänään tärkeässä roolissa ja osa ratkaisua. Osoittaka
 Julkaistu: 27.10.2022  
 Aiheet: Yritykset, Itämeri, Lahjoittaminen  
 Kirjoittaja: Maiju Kimpisalo  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/10/heirol-tukee-royalty-lahjoituksella-wwfn-itameren-suojelutyota/
 
 **WWF x HEIROL -royalty-kampanjan paistoastiat on valmistettu ympäristöystävällisesti. Kampanjasta kerätyt varat tukevat WWF:n työtä Itämeren suojelemiseksi.**
@@ -2149,7 +2045,6 @@ Liite: Lue, miten WWF edistää Itämeren suojelua (https://wwf.fi/alueet/itamer
 Julkaistu: 26.10.2022  
 Aiheet: Ilmastonmuutos, Suomi  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/10/taydennetty-ilmastolaki-luovutettiin-eduskunnan-kasittelyyn-kansalaisten-valitusmahdollisuutta-on-ehdotuksessa-rajattu-liikaa/
 
 **Viranomaisten ilmastolle haitallisista toimista valittaminen ei tule uuden ilmastolain myötä kansalaisille helpommaksi, sillä ilmastolakiin kaavailtu valitusoikeus ei koske lainkaan ilmastopäätöksiä tai -toimenpiteitä. WWF vaatii lakiin todellisen vaikuttamisen mahdollistavaa muutoksenhakua.**
@@ -2302,7 +2197,6 @@ Kysely toteutettiin Euroopan unionin tuella osana Eat4Change-hanketta. Lue lisä
 Julkaistu: 13.10.2022  
 Aiheet: Luonnon köyhtyminen, Ilmastonmuutos, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/10/wwfn-uusi-raportti-selkarankaisten-villielainten-ahdinko-jatkuu/
 
 **WWF:n Living Planet -raportin tulokset ovat hälyttäviä. Selkärankaisten villieläinten populaatiot ovat kutistuneet keskimäärin 69 prosenttia vuodesta 1970. Raportti piirtää tähän saakka tarkimman kuvan populaatioiden kehityksestä.**
@@ -2338,7 +2232,6 @@ Liite: Tutustu Living Planet 2022 -raporttiin (https://wwf.fi/app/uploads/7/1/z/
 Julkaistu: 13.10.2022  
 Aiheet: Luonnon köyhtyminen, Ruoka, Suomen metsät, Virtavedet  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/10/luonnonmetsat-suojeluun-kulutus-puoliksi-ja-panostusta-kasvipohjaiseen-ruokaan-nama-paatokset-tarvitaan-luontokadon-pysayttamiseksi/
 
 **WWF:n tuoreen Living Planet -raportin vies ti on huolestuttava: selkärankaisten villi eläinten populaatiot ovat kutistuneet keskimäärin 69 prosenttia vuodesta 1970. O ikei lla toimilla luontokadon pysäyttäminen on kuitenkin mahdollista. Olemme koonneet tähän artikkeliin kuusi poliittista päätöstä, jotka tulisi tehdä seuraavien kuukausien aikana luonnon monimuotoisuuden turvaamiseksi.**
@@ -2466,7 +2359,6 @@ Luontoliven teknisestä toteutuksesta vastaavat Live Eye, Pukki Visuals ja WWF. 
 Julkaistu: 30.9.2022  
 Aiheet: Merikotka, Kentällä, Luonnon köyhtyminen, Onnistumistarina, Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/09/merikotka-pelastettiin-sukupuutolta-suomessa-taalla-on-kolme-poikasta%e2%80%af/
 
 **Merikotkien tilanne oli vuonna 1972 lohduton: kanta oli pienentynyt jatkuvasti 1900-luvun alusta lähtien. Lisäksi havaittiin, että pesivien lintujen lisääntymiskyky oli alentunut ympäristömyrkkyjen takia. WWF:n merikotkatyöryhmä aloitti pesäpaikkojen suojelun ja talviruokinnan merikotkien turvaksi, ja työ kantoi hedelmää pelastaen lajin lopulta sukupuutolta Suomessa.**
@@ -2551,7 +2443,6 @@ Laamakokeilu Mikkolan tilalla on ollut osa WWF:n johtamaa ja ympäristöminister
 Julkaistu: 28.9.2022  
 Aiheet: Talkoot, Kentällä, Onnistumistarina, Perinneympäristöt, Suomen metsät, Suomi, Virtavedet  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/09/talkooleirien-konkarin-tarinoita-kolme-vuotta-teltassa-nukkumista-haat-ja-upeita-luontokohteita/
 
 **Vuonna 1977 biologian opettaja vinkkasi 18-vuotiaalle Antti Lapolle WWF:n ensimmäisestä talkooleiristä. Sen jälkeen hän on ollut mukana joka vuosi – ensin leiriläisenä, sitten järjestäjänä.**
@@ -2589,7 +2480,6 @@ Vapaaehtoisten merkitystä leirien onnistumisessa ei voi liikaa korostaa. Leiril
 Julkaistu: 26.9.2022  
 Aiheet: Saimaannorppa, Ilmastonmuutos, Kentällä, Onnistumistarina, Suomi  
 Kirjoittaja: Joonas Frtize  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/09/norpansuojelijoita-kolmessa-sukupolvessa-muualla-en-asuisi-eika-asu-norppakaan%e2%80%af/
 
 **Taipalsaarelaisella Marttisen suvulla on ollut merkittävä rooli WWF:n tekemässä työssä saimaannorpan suojelemiseksi. Norpansuojelua tehdään jo kolmannessa polvessa, mutta vaikka työ on kantanut hedelmää norppakantojen kasvaessa, vuosikymmenten aikana on nähty myös ilmaston lämpenemisen seurauksia.**
@@ -2758,7 +2648,6 @@ Lue lisää WWF:n historiasta ja saavutuksistamme: wwf.fi/50-vuotta
 Julkaistu: 21.9.2022  
 Aiheet: Saimaannorppa, Kentällä, Suomi, Tukijan tarina  
 Kirjoittaja: Noora Jussila  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/09/saimaalla-etsitaan-nyt-haamuverkkoja-pohjaan-unohtuneet-verkot-voivat-pyytaa-saalista-jopa-15-vuotta-ja-paatya-norppien-kohtaloksi/
 
 **Haamuverkkoja, eli karanneita, unohtuneita tai muusta syystä pohjaan jääneitä verkkoja etsitään Saimaalla niiltä norpan asuinalueilta, joissa myös verkkokalastetaan paljon. Tehokkain tapa suojella saimaannorppaa on jättää kaikki verkot kuivalle maalle.**
@@ -2842,45 +2731,6 @@ Lakimuutoksen valmiiksi saaminen hallituskauden aikana vaatii kiireellistä käs
 
 ---
 
-### Näkökulma: Käsitteiden huolimaton käyttö sekoittaa kompensaatiokeskustelua entisestään
-
-Julkaistu: 20.9.2022  
-Aiheet: Ilmastonmuutos, Suomen metsät, Suomi, Yritykset  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2022/09/nakokulma-kasitteiden-huolimaton-kaytto-sekoittaa-kompensaatiokeskustelua-entisestaan/
-
-**Julkinen keskustelu päästökompensaatiosta on sekavaa: sanaa”kompensaatio” käytetään huolimattomasti, ja eri ilmastonmuutoksen hillintätoimet niputetaan virheellisesti yhteen, kirjoittaa WWF:n ilmastovastaava Bernt Nordman.**
-
-Julkinen keskustelu päästökompensaatiosta on sekavaa, eikä asiaa auta se, että kompensaatioon liittyvät termit sekoittuvat usein keskenään. Monilta väärinkäsityksiltä vältyttäisiin pitämällä käsitteellisesti erillään kaksi asiaa: 1) hiilensidonta ja 2) päästöjen kompensaatio tai”hyvittäminen”.
-
-Ilmakehän hiilidioksidin sitominen biomassaan on yksi hyvin merkittävä tapa hillitä ilmastonmuutosta. Monet maapallon ekosysteemit, kuten metsät ja meret, sitovat hiiltä ilmakehästä. Ihmisen muokkaamista ekosysteemeistä muun muassa talousmetsillä ja maatalousmaalla on tärkeä rooli maapallon elonkehän hiilen kiertokulussa.
-
-Erilaisilla toimilla, esimerkiksi kasvattamalla pellolla syväjuurisia kasveja tai ehkäisemällä turvemetsien ojituksia jatkuvapeitteisellä puunkasvatuksella, on mahdollista saavuttaa lisäistä hiilensidontaa verrattuna tiettyyn perusuraan. Lisäistä hiilensidontaa on mahdollista tuotteistaa, jolloin puhutaan hiilikrediittien luomisesta. Hiilikrediitit ovat hiilimarkkinoiden vaihdannan välineitä. Ne vastaavat seteleitä rahan maailmassa. Niiden avulla hiilensidontapalvelun tuottaja (myyjä) ja rahoittaja (ostaja) voivat sujuvasti kohdata markkinoilla.
-
-Hiilikrediitin ostaja tarvitsee uskottavia takeita siitä, että krediitti perustuu todellisiin toimiin. Se on lähtökohtaisesti todistus siitä, että on tehty jotain lisäistä ja pysyvää ja että kyseessä on uniikki toimi, jota kukaan muu ei väitä omakseen, eikä kyse siten ole kaksoislaskennasta. Vapaaehtoisten hiilimarkkinoiden ajatuksena on, että krediitin avulla lisäinen hiilensidonta vaihtaa omistajaa. Tuottaja, esimerkiksi metsän ja pellon omistaja, myy hiilensidontapalvelun toiselle osapuolelle.
-
-Markkinoilla voi myös olla välittäjiä, eli hiilensidontapalvelun tuottajan ja krediitin loppukuluttajan välisiä välikäsiä. Suomessa tämän alan tunnettu toimija on Compensate-säätiö. Suomalaisten talousmetsien tuotteistettuun hiilensidontaan perustuvia kompensaatiopalveluja tarjoaa muun muassa Green Carbon.
-
-Hiilensidontapalvelun myyjällä ei ole mitään tekemistä sen kanssa, mihin krediitin ostaja käyttää krediittiä. Metsän tai pellon omistaja ei siis voi”tuottaa kompensaatiota” tai”myydä kompensaatiota”. Esimerkiksi LUKE on syyskuun aluissa julkaistuilla uusilla tietosivuillaan valitettavasti sortunut näiden virheellisten ilmaisujen käyttämiseen.
-
-#### Kompensaatio on väite, hiilensidonta todellista
-
-Mitä kompensaatio sitten on? On tärkeää huomata, että kompensaatio ei ole samalla tavalla”todellista” kuin esimerkiksi lisäinen hiilensidonta, jonka perusteella markkinoille on luovutettu todistus eli krediitti. Kompensaatio on puhtaasti sopimuksenvarainen väittämä siitä, että tietyssä paikassa syntyvä päästö on ilmastonmuutoksen hillinnän näkökulmasta samanarvoinen kuin hillintätoimi jossain muualla. Lue lisää kompensaatiosta.
-
-Nykyisessä kriisitilanteessa tarvitsemme kaikkia keinoja, joilla ilmastonmuutosta voidaan hillitä: sekä päästöjen vähentämistä, että ilmakehän hiilidioksidipitoisuuden vähentämistä hiilensidonnan avulla. Fossiilipäästöjen vähentämistä ei pidä jarruttaa vetoamalla siihen, että jossain muualla sidotaan hiilidioksidia ilmakehästä.
-
-Kompensaatiosta ovat kiinnostuneet niin yksittäiset kansalaiset ja julkiset organisaatiotkin, mutta erityisesti se liittyy yrityksiin. Yritys voi markkinoinnissaan sanoa olevansa kokonaan hiilineutraali tai että myytävä tuote tai palvelu on hiilineutraali. Hiilineutraaliusväittämien, tai uuden sukupolven nettonollaväittämien, taustalla on käytännössä aina jokin määrä kompensaatiota, eli sitä, että yrityksen päästöjä”hyvitetään” rahoittamalla hillintätoimia jossain muualla.”Muualla” voi tarkoittaa missä päin maailmaa tahansa, sillä vapaaehtoiset hiilimarkkinat ovat globaalit.
-
-Vastuu hiilineutraaliusväittämästä on aina yrityksellä itsellään. Hiilensidontapalveluja myyvällä taholla on vastuu ainoastaan siitä, että krediitti perustuu todelliseen ilmastohyötyyn. Hiilineutraaliusväittämien yhteiskunnallinen sääntely kuuluu kuluttajansuojalainsäädännön piiriin. WWF julkaisi kesäkuussa 2022 selvityksen hiilineutraaliusväittämistä Suomen kuluttajamarkkinoilla.
-
-Hiilineutraaliusväittämiä esittävän yrityksen pitäisi pystyä osoittamaan, että päästöt ja hankitut krediitit ovat samanarvoisia. Tähän liittyy omat haasteensa, sillä fossiilisen hiilen lisääminen elonkehään on pitkällä aikavälillä hyvin toisenlainen ilmiö kuin hiilidioksidin sitominen puuhun, joka mahdollisesti hakataan jo kymmenen vuoden päästä.
-
-Vapaaehtoiset hiilimarkkinat ovat kehittyneet nopeasti ja tähän asti pitkälti ilman viranomaissääntelyä. Ei siis ole kovin yllättävää, että eri toimijat käyttävät keskeisiä käsitteitä omalla tavallaan. Nyt olisi kuitenkin korkea aika selkiinnyttää käsitteitä tavalla, joka auttaa myös suurta yleisöä asian ymmärtämisessä.
-
-Lisätietoja: Bernt Nordman, Ohjelmajohtaja
-
----
-
 ### Luontokerhoja ja kansallispuistoja — miltä näyttivät luonnonsuojelun ensiaskeleet Suomessa ennen WWF:ää?
 
 Julkaistu: 20.9.2022  
@@ -2914,7 +2764,7 @@ Lue tarina WWF Suomen perustamisesta WWF-lehden artikkelista: Kaikki alkoi puhel
 
 ---
 
-### Vuosikymmeniä kiljuhanhien perässä –”Miksi tuo hemmo seuraa meitä?”
+### Vuosikymmeniä kiljuhanhien perässä – “Miksi tuo hemmo seuraa meitä?”
 
 Julkaistu: 16.9.2022  
 Aiheet: Kiljuhanhi, Arktinen, Kentällä, Onnistumistarina, Suomi  
@@ -2986,7 +2836,6 @@ Alueen metsästystoimijoille on perustettu viestintäryhmä, jossa tiedotetaan j
 Julkaistu: 14.9.2022  
 Aiheet: Metsäkato, Luonnon köyhtyminen, Sademetsät  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/09/europarlamentti-aanesti-vahvan-metsakatolain-puolesta/
 
 **Yli 200 000 EU-kansalaisen toive tuli kuulluksi, kun europarlamentti antoi tiistaina tukensa vahvalle metsäkatolaille.**
@@ -3019,7 +2868,6 @@ Metsäkatolain käsittely jatkuu vielä europarlamentin, jäsenmaiden ja komissi
 
 Julkaistu: 7.9.2022  
 Aiheet: Luontolive, Onnistumistarina, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/09/saaksenpoikaset-tankkaavat-nyt-kalaa-ja-valmistautuvat-muuttomatkaan-minne-poikaset-suuntaavat-saaksiliven-sulkeuduttua/
 
 **Supersuosittu sääksikamera suljetaan pian ja sääksenpoikaset aloittavat itsenäisen elämän pitkän muuttomatkan alkaessa.**
@@ -3067,7 +2915,6 @@ Kirjoittaja: Heidi Volotinen
 Julkaistu: 6.9.2022  
 Aiheet: Sademetsät, Ilmastonmuutos, Kentällä, Luonnon köyhtyminen, Metsäkato, Metsäpalot, Valaat ja delfiinit  
 Kirjoittaja: Andrea Cabrera Ovando  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/09/kurkista-kanssamme-bolivian-amazonille-nain-wwf-turvaa-ainutlaatuista-jokiseutua-jota-uhkaa-ilmastonmuutos/
 
 **Iténezin suojelualue on monimuotoisuuden aarreaitta, jonka lajit ja paikallisyhteisöt joutuvat sopeutumaan ilmastonmuutoksen seurauksiin, kuten kiihtyviin metsäpaloihin. Paikalliset kertovat luonnonsuojelusta alueella, missä WWF on toiminut lähes 20 vuotta.**
@@ -3133,7 +2980,6 @@ Alueen hallinnointisuunnitelmat ovat avainasemassa paikallisyhteisöjen sopeutum
 Julkaistu: 1.9.2022  
 Aiheet: Virtavedet, Suomen uhanalaiset kalat  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/09/patojen-purun-supersyksy-on-taalla/
 
 **Miljoonia kiloja kivimassaa, parikymmentä kaivinkonetta ja erinomaiset yhteistyökumppanit. Näistä aineksista syntyvät tänä syksynä Suomen suurimmat patojen purut, joilla vapautamme uhanalaisille vaelluskaloille kilometrikaupalla elintilaa tarpeettomien patojen tieltä.**
@@ -3191,7 +3037,6 @@ Sen ensimmäisessä osassa ELY rakennutti vaelluskaloille kalatien eli kulkuväy
 Julkaistu: 31.8.2022  
 Aiheet: Itämerennorppa, Itämeri, Luontolive, Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/08/itamerennorpat-tekevat-paluun-wwfn-luontoliveen-suosittu-saaksikamera-sulkeutuu/
 
 **WWF:n Luontolivessä pääsee seuraamaan taas itämerennorppien elämää. Kamera on asennettu samalle Saaristomerellä sijaitsevalle luodolle kuin aiemmin tänä vuonna. Sääksien elämän seuraaminen suorassa lähetyksessä sen sijaan päättyy reilun viikon kuluttua. Sääksikameraa on katsottu tänä vuonna lähes kolme miljoonaa kertaa.**
@@ -3341,7 +3186,6 @@ Kirjoittaja: Heidi Volotinen
 
 Julkaistu: 26.8.2022  
 Aiheet: Talkoot, Kentällä, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/08/wwfn-talkoolaiset-kohentavat-kalojen-elinoloja-evon-retkeilyalueella/
 
 **WWF:n talkoolaiset saapuvat elokuun lopulla Evon retkeilyalueelle Hämeenlinnaan, missä he kohentavat alueen virtavesien tilaa viikon ajan. Talkooleiri alkaa Suomen luonnon päivänä lauantaina 27. elokuuta ja päättyy 3. syyskuuta. Leiri on osa laajaa Freshabit LIFE IP -hanketta.**
@@ -3365,7 +3209,6 @@ Freshabit LIFE IP -hanke on Metsähallituksen Luontopalvelujen koordinoima, poik
 Julkaistu: 26.8.2022  
 Aiheet: Salametsästys, Ilves, Metsäpalot, Susi  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/08/nuuskijakoiria-laumanvartijoita-ja-koalanetsijoita-ihmisen-paras-ystava-on-korvaamaton-apu-myos-luonnonsuojelussa/
 
 **Esittelemme kansainvälisen koiranpäivän kunniaksi kolme tapaa, joilla koirat edistävät luonnonsuojelua.**
@@ -3411,7 +3254,6 @@ Suomessa koirien hajuaistiin perustuvaa lajintunnistustaitoa on hyödynnetty my�
 Julkaistu: 24.8.2022  
 Aiheet: Ruoka  
 Kirjoittaja: Antti Haavisto Elisa Niemi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/08/ruuan-hinta-jatkaa-nousuaan-nailla-vinkeilla-voit-saastaa-rahaa-ja-luontoa/
 
 **Kallistunut ruoka on saanut monet pohtimaan valintojaan kaupassa. Kukkaro n lisäksi r uualla on iso vaikutus ilmastoon, vesistöihin ja luonnon monimuotoisuuteen. K okosimme vinkit, joiden avulla voi syödä edullisesti, herkullisesti ja ympäristöystävällisesti.**
@@ -3638,7 +3480,6 @@ Kamera on auki osoitteessa wwf.fi/luontolive/laama.
 Julkaistu: 15.8.2022  
 Aiheet: Talkoot, Luonnon köyhtyminen, Perinneympäristöt, Suomi  
 Kirjoittaja: Minna Nyrhinen-Blazquez  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/08/uhanalaisille-lajeille-raivataan-uutta-elintilaa-sundholmin-talkooleirilla/
 
 **Sundholmin saarella vanhat laidunalueet ovat viime vuosikymmeninä kasvaneet umpeen. WWF:n ja Metsähallituksen talkoolaiset palauttavat nyt niittyjä ja hakamaita alkuperäiseen kuntoonsa, jotta uhanalaiset lajit saavat lisää elintilaa ja laiduneläimet voivat palata hoitamaan saaren luontoa.**
@@ -3670,7 +3511,6 @@ WWF:n ja Metsähallituksen järjestämä kahdeksanpäiväinen talkooleiri Houtsk
 Julkaistu: 12.8.2022  
 Aiheet: Talkoot, Kentällä, Suomen metsät, Suomi, Virtavedet, Yritykset  
 Kirjoittaja: Emmi Karhiaho Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/08/wwfn-stora-enson-ja-tornatorin-virtavesiyhteistyo-kaynnistyi-talkoilla-puumalan-peukalojoella/
 
 **WWF Suomen, Stora Enson ja Tornatorin Metsäpurojen puolesta -yhteistyö käynnistyi 11.–12. elokuuta Puumalan Peukalojoella järjestettävillä kunnostustalkoilla. Yhteistyön tavoitteena on kunnostaa kohti luonnontilaa pääasiassa metsissä sijaitsevia pienvesistöjä, jotka ovat tärkeitä elinympäristöjä monille lajeille.**
@@ -3706,7 +3546,6 @@ Yritysyhteistyö on osa WWF:n laajempaa ja pitkäjänteistä virtavesiympärist�
 Julkaistu: 5.8.2022  
 Aiheet: Arktinen, Ilmastonmuutos, Meret  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/08/ilmastokriisi-on-mursun-murhe-vaheneva-jaa-uhkaa-arkaa-lyllertajaa/
 
 **Mursut ovat koostaan ja näyttävistä hampaistaan huolimatta hyvin arkoja eläimiä, ja ilmastokriisi uhkaa niiden jäästä riippuvaista elintapaa. Ilmasto lämpenee arktisella alueella jopa kolme kertaa muuta maailmaa nopeammin.**
@@ -3801,7 +3640,6 @@ Patojen purku on ollut paikallisten aktiivien unelma ja pitkäjänteisen työn k
 
 Julkaistu: 29.7.2022  
 Aiheet: Tiikeri, Luonnon köyhtyminen, Metsäkato, Nepal, Salametsästys  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/07/luonnonsuojelun-uroteko-nepalissa-villien-tiikerien-maara-kaksinkertaistettu/
 
 **Nepalissa elää tällä hetkellä 355 luonnonvaraista tiikeriä. Maa ylitti kirkkaasti tavoitteen kaksinkertaistaa tiikerien määrä verrattuna vuoteen 2010. Tiikeri on edelleen erittäin uhanalainen laji.**
@@ -3862,7 +3700,6 @@ Ankeriaan suojelussa riittää kuitenkin vielä työtä. Suomen sisävesien anke
 Julkaistu: 28.7.2022  
 Aiheet: Ylikulutus, Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/07/ylikulutus-turhauttaa-mutta-toivoa-ei-kannata-menettaa/
 
 **Tänään on maailman ylikulutuspäivä, eli maapallon luonnonvarat on nyt käytetty laskennallisesti loppuun tältä vuodelta. Vaikka yksittäisenä kansalaisena olo voi olla välillä voimaton, on tärkeä muistaa, että ylikulutuksen taittaminen on mahdollista – ja on osittain jo tapahtumassa.**
@@ -3920,7 +3757,6 @@ Myös fossiiliyhtiöiden viherpesuun voidaan tulevaisuudessa mahdollisesti puutt
 Julkaistu: 20.7.2022  
 Aiheet: Suomi, Kentällä, Suomen metsät  
 Kirjoittaja: Pinja Silvonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/07/luonto-linssin-lapi/
 
 **Helsinkiläinen luontokuvaaja Konsta Punkka tuntee reseptin onnistuneeseen luontokuvaan. On kuitenkin eräs eläinlaji, joka puuttuu hänenkin kuva-arkistoistaan.**
@@ -4009,7 +3845,6 @@ WWF:n ja Metsähallituksen järjestämä talkooleiri Utin linnoituksessa kestä�
 Julkaistu: 18.7.2022  
 Aiheet: Yritykset, Ilves, Lahjoittaminen, Suomen metsät, Uncategorized @fi  
 Kirjoittaja: Emmi Karhiaho  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/07/wwf-ja-reima-julkaisevat-kansainvalisen-yhteistyomalliston-jolla-tuetaan-luonnonsuojelua/
 
 **Reima tukee yrityslahjoituksella WWF:n kansainvälistä työtä monimuotoisen luonnon suojelemiseksi. Reima x WWF -yhteistyömallisto on tehty ympäristöä säästävistä materiaaleista.**
@@ -4055,7 +3890,6 @@ Liite: Tutustu yhteistyömallistoon (http://www.reima.com/wwf)
 Julkaistu: 8.7.2022  
 Aiheet: Itämeri, Ilmastonmuutos, Ruoka  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/07/pilasiko-sinileva-taas-uintireissun-nain-voit-hillita-vesistojen-rehevoitymista-ruokavalinnoillasi/
 
 **Hellesäällä uimarannan veden pintaan ilmestyvät sinileväkukinnot muistuttavat ikävällä tavalla vesistöjemme riesasta, rehevöitymisestä. Ruokavalintamme vaikuttavat paitsi ilmaston, myös vesistöjen tilaan.**
@@ -4132,7 +3966,7 @@ WWF Suomen hallituksen väliaikaisena puheenjohtajana toimii toistaiseksi varapu
 
 ## Kesäkuu 2022
 
-### WWF: Itämerennorpalle ehdotettu metsästyskiintiö on liian suuri –”Suomi ja Ruotsi ovat vauhdittamassa itämerennorpan uhanalaistumista”
+### WWF: Itämerennorpalle ehdotettu metsästyskiintiö on liian suuri – “Suomi ja Ruotsi ovat vauhdittamassa itämerennorpan uhanalaistumista”
 
 Julkaistu: 30.6.2022  
 Aiheet: Itämerennorppa, Suomi  
@@ -4360,7 +4194,6 @@ Avoimia kysymyksiä ovat esimerkiksi, laumaantuvatko eläimet ja miten paljon ne
 Julkaistu: 22.6.2022  
 Aiheet: Sademetsät, Bhutan, Borneo, Ilmastonmuutos, Itä-Afrikka, Luonnon köyhtyminen, Mekong, Metsäkato, Nepal, Norsu, Oranki, Sarvikuono, Suomi, Tiikeri, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/06/yli-kaksi-miljoonaa-hehtaaria-suojeltua-sademetsaa-ja-turvaa-uhanalaisille-lajeille-nain-kansainvalinen-tyomme-auttaa-maailmalla/
 
 **WWF:n kansainvälinen työ auttaa niin uhanalaisten eläinten tilannetta kuin paikallisten ihmisten toimeentuloa. Kuluneen neljän vuoden aikana WWF Suomen työllä on suojeltu yli 2,5 miljoonaa hehtaaria sademetsää, autettu tiikerikantoja elpymään ja tuettu yli 165 000 ihmistä.**
@@ -4469,7 +4302,6 @@ Suojelutoimien toteutus vaatii sekä resursseja että jatkuvuutta. Järjestöjen
 Julkaistu: 20.6.2022  
 Aiheet: Luonnon köyhtyminen, Pandemiat, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/06/paatos-luontokadon-pysayttamisesta-siirtyy-wwf-olemme-vaarassa-ajautua-syoksykierteeseen/
 
 **Kansainvälinen, luonnon köyhtymistä käsittelevä YK:n huippukokous lykkääntyy jälleen. Neuvottelut ovat siirtyneet pandemian vuoksi jo useita kertoja, ja luonto köyhtyy edelleen hälyttävää vauhtia.**
@@ -4583,7 +4415,6 @@ Luonnonlaidunpäivän verkkosivulta löytyy lisätietoja sekä lista avoimet ove
 Julkaistu: 10.6.2022  
 Aiheet: Perinneympäristöt, Luonnon köyhtyminen, Suomi, Talkoot  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/06/perinneymparistot-ovat-koti-sadoille-uhanalaisille-lajeille-joista-osa-on-voinut-elaa-alun-perin-mammuttien-aroilla/
 
 **Luonnon monimuotoisuudelle tärkeitä perinneympäristöjä oli ennen joka puolella Suomea, mutta nyt niistä on jäljellä enää murto-osa.**
@@ -4715,7 +4546,6 @@ Linkki: https://wwf.fi/uutiset/2022/06/onko-paastojen-kompensoiminen-ilmastoteko
 Julkaistu: 8.6.2022  
 Aiheet: Luontolive, Itämerennorppa, Saimaannorppa, Suomi  
 Kirjoittaja: Noora Jussila  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/06/norppalivessa-ei-tana-kevaana-tapahtunut-juuri-mitaan-meni-odotusten-mukaisesti/
 
 **WWF:n Luontoliven klassikkokamera Norppalive suljetaan tämän kevään osalta keskiviikkona 8. kesäkuuta. Suurimman osan ajasta livekuva on seurannut Saimaan laineiden liplatusta kiviä vasten, mutta katsojat ovat saaneet kokea myös iloisen jälleennäkemisen Pullervon kanssa.**
@@ -4818,7 +4648,7 @@ Tiikerinsuojelussa olennaista on puuttua elinympäristöjen häviämiseen ja sal
 
 ---
 
-### ”Pulleita ja hyväkuntoisia” – saimaannorpan kuutteja syntyi viime talvena 92
+### “Pulleita ja hyväkuntoisia” – saimaannorpan kuutteja syntyi viime talvena 92
 
 Julkaistu: 6.6.2022  
 Aiheet: Saimaannorppa, Ilmastonmuutos, Suomi  
@@ -4932,7 +4762,6 @@ Lisätietoja: Johtava kalastuksen asiantuntija, Suojeluasiantuntija
 Julkaistu: 23.5.2022  
 Aiheet: Suomi, Öljyntorjuntajoukot, Perinneympäristöt, Vieraslajit  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/05/mietitko-mita-tehda-kesalla-wwfn-vapaaehtoisena-aikasi-ei-mene-hukkaan/
 
 **WWF tarjoaa monenlaisia mahdollisuuksia tehdä vapaaehtoistyötä luonnon hyväksi. Tulevan kesän aikana voit osallistua esimerkiksi öljyntorjuntakurssille tai talkoisiin haitallisten vieraslajien poistamiseksi.**
@@ -5062,64 +4891,10 @@ Myös Suomessa virtavesien patoamisen ja perkaamisen seurauksena virtavesilajist
 
 ---
 
-### Näkökulma: Yrityksillä on merkittävä rooli luontokadon pysäyttämisessä
-
-Julkaistu: 18.5.2022  
-Aiheet: Yritykset, Luonnon köyhtyminen, Metsäkato, Sademetsät  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2022/05/nakokulma-yrityksilla-on-merkittava-rooli-luontokadon-pysayttamisessa/
-
-**Onko millään yrityksellä varaa olla huomioimatta kestävyyssiirtymän vaikutuksia toimintaympäristöönsä? Kyse ei ole ainoastaan ympäristötietoisen kuluttajasegmentin kasvusta tai taitavasta markkinoinnista. Kyse on siitä, mahtuuko yrityksen liiketoimintamalli yhden planeetan rajoihin. Nykyisin suomalaisten luonnonvarojen kulutus on useimmiten vähintään kolminkertainen kestävään tasoon verrattuna riippuen tarkastelussa käytetystä mittarista.**
-
-Luontokato ja ekosysteemien heikkeneminen uhkaa ihmisten toimeentuloa, toteaa kansainvälinen luontopaneeli IPBES. Yritysjohtajien näkemyksen mukaan luontokato on ilmastopolitiikan epäonnistumisen ja äärimmäisten sääilmiöiden jälkeen kolmanneksi suurin maailmanlaajuinen riski seuraavan kymmenen vuoden aikana (Global Risk Report 2022). Yritysten rooli luontokadon pysäyttämisessä on oikeutetusti noussut vahvemmin keskusteluun myös Suomessa.
-
-Yksittäisen yrityksen valinnat luontokadon pysäyttämisessä riippuvat huomattavasti muun muassa sen paikasta arvoketjussa, toimialasta ja yleisesti toimintaympäristöstä. Yksi asia yrityksen onnistumisessa on keskeistä: onko luontokato kiinteästi osa yrityksen hallituksen ja johdon asialistaa, vai delegoidaanko se alemmille tasoille organisaatiossa.
-
-IPBESin tiedeyhteenvetojen mukaan luontokadon pysäyttäminen”muuttaa kaiken”. Tämä tarkoittaa perinpohjaista systeemitason muutosta teknologisissa, taloudellisissa ja sosiaalisissa tekijöissä halki yhteiskunnan. Eri toimialat uudistuvat ja investoivat eri tahdeilla, mutta merkittävien muutosten tekeminen liiketoimintamalleihin vuoteen 2030 mennessä on luultavasti melkoinen haaste mille tahansa toimialalle.
-
-Tämä kirjoitus keskittyy pääasiassa yritystoiminnan haitallisten biodiversiteettivaikutusten pienentämiseen, koska se on usein yritysten välittömän mielenkiinnon kohteena. Useita muita tärkeitä näkökulmia jää käsittelemättä. Luontokadon vaatima kestävyysmurros on riski useille olemassa oleville liiketoimintamalleille. Mutta kuten kaikenlaiset murrokset, se on myös mahdollisuus uusille yrittäjille ja uusiutumiskykyisille perinteisille toimijoille. Lisäksi rahoittajien ja sijoittajien kiinnostus luontokatokysymykseen kasvaa jatkuvasti.
-
-#### 2030 tulee pian, tavoitteet saavutettu?
-
-EU:n tavoitteiden mukaan luontokato piti pysäyttää ensin vuoteen 2010 mennessä ja sitten vuoteen 2020 mennessä. Tavoite on jälleen siirretty eteenpäin vuoteen 2030. Nyt viimein vaikuttaa siltä, että luontokadon pysäyttäminen on integroitu EU-politiikkaan vahvemmin, ja politiikan ohjausvaikutus voi mahdollisesti muodostua merkittäväksi.
-
-EU:n vihreän kehityksen ohjelman, kestävän rahoituksen strategian sekä biodiversiteettistrategian alla on useita yksityiskohtaisempia sääntelyaloitteita, jotka voivat vaikuttaa yritysten toimintaan merkittävästi jo pian. Muun muassa kestävän rahoituksen taksonomia tai kestävyysraportointivelvollisuuksien laajentuminen ovat kiinnostavia esimerkkejä siitä, kuinka luontokadon pysäyttäminen alkaa koskea myös rahoitusta ja pakollisesti raportoitavia tunnuslukuja, jotka ovat hyvin keskeisiä asioita yrityksen johdon kannalta. EU:n biodiversiteettistrategian tavoite suojelualueiden merkittävästä laajentamisesta voi vaikuttaa raaka-aineiden saatavuuteen sekä hintaan ja siten erityisesti luonnonvaraintensiivisiin toimialoihin ja arvoketjujen eri vaiheisiin. Myös ilmastopolitiikan tavoitteiden vahvistaminen ohjaa samaan suuntaan.
-
-EU-politiikan lisäksi kansainvälisellä tasolla käydään neuvotteluja YK:n biodiversiteettisopimuksen (CBD) tavoitteista vuodelle 2030. Jos tavoitteisiin tulee mukaan luonnonvarojen kulutukseen liittyvä jalanjälkitavoite, nykyiset länsimaiset luonnonvarojen ylikulutukseen perustuvat yhteiskuntarakenteet ja liiketoimintamallit kohtaavat uudistumisen tarpeen myös sitä kautta. Oli jalanjälkitavoite mukana CBD-sopimuksessa tai ei, ylikulutuksen purkaminen on välttämätöntä luontokadon pysäyttämiseksi, kuten kansainvälisen luontopaneelin IPBESin tiedeyhteenveto toteaa.
-
-(teksti jatkuu kuvan jälkeen)
-
-#### Yritys ei voi ulkoistaa luontokadon pysäyttämistä
-
-Mistä yrityksen tulisi aloittaa toimet luontokadon pysäyttämiseksi? Eräs asiaa selkeyttävä kehikko on SBTN (Science Based Targets Network) – ohjeistusluonnos, jota myös WWF on ollut mukana kehittämässä. SBTN-verkoston ja ohjeistuksen avulla yritykset voivat asettaa luontotavoitteensa järjestelmällisesti ja mahdollisimman tiedepohjaisesti. Ohjeistukseen kuuluu tavanomaiset vaiheet vaikutusten arvioinnista, priorisoinnista, tavoitteiden asettamisesta, toiminnasta ja seurannasta. Ohjeistusta kehitetään jatkuvasti.
-
-WWF-verkoston kokemukset SBTN-pilotoinneista yritysten kanssa kertovat muun muassa siitä, että mittarointi, datan saatavuus ja erityisesti arvoketjujen alkuperäjäljitettävyys ovat tavanomaisia päänsärkyjen aiheita. Lähes varmaa siis on, että kun yritykset lähtevät hahmottamaan omien arvoketjujensa luontokatovaikutuksia, edessä on isompia ja pienempiä haasteita.
-
-Ensivaiheessa yrityksellä voi olla edessään joukko monimutkaisia kysymyksiä ja paljon selvitettävää. Tämä on välttämätön vaihe polulla, jotta yrityksen ymmärrys oman toiminnan ja arvoketjujen usein monimutkaisista kytköksistä luontokatoon kasvaa. Haasteen edessä positiivista on kuitenkin se, että luontokatovaikutusten kokonaisvaltainen arvioinnin kysymys on noussut vahvemmin esiin vasta viime vuosina, joten asiaa koskevat menetelmät tulevat varmasti kehittymään ja yhtenäistymään. Esimerkiksi WWF tulee julkaisemaan vuodenvaihteessa Biodiversity Risk Filter -työkalun, joka auttaa yrityksiä biodiversiteettiin liittyvien riskien tunnistamisessa ja priorisoinnissa. Yritysten vesivastuun toteuttamisen apuna on jo vuosia ollut olemassa WWF:n Water Risk Filter. Myös yritysten ilmastotoimista kertynyt kokemus helpottaa luontokadon pysäyttämiseen tarvittavien toimien saamista vauhtiin.
-
-Yrityksen ymmärryksen kasvaminen oman toiminnan ja arvoketjujen luontokatovaikutuksista auttaa myös havaitsemaan sen, että mitään pikakeinoja luontokadon pysäyttämiseksi ei ole. Kuten ilmastoasioissa on huomattu, uusien aiheiden noustessa pinnalle markkinoille ilmestyy monenkirjavia ratkaisujen tarjoajia. Jos yritysten luontokatotoimien kenttä vaikuttaa vielä sekavalta – tai kauniimmin sanottuna kehittyvältä – niin yksi asia on selvä: luontokadon ehkäisyä ei ole mahdollista ulkoistaa.
-
-Ymmärrys oman toiminnan luontokatovaikutuksista antaa suojaa sellaisia virheinvestointeja vastaan, jotka eivät todellisuudessa vähennä yrityksen luontokatoriskejä merkittävästi. Yksinkertaisen paljastava kysymys yritykselle on oman arvoketjun raaka-aineiden alkuperä. Tietääkö yritys raaka-aineiden alkuperän tarkasti, ja millaisia luontokatovaikutuksia sen tuotannolla on ollut? Jos tarkka alkuperä ei ole tiedossa, niin se on syytä selvittää ensimmäisenä. Esimerkiksi Unilever korostaa omilla vastuullisuussivuillaan tarkan alkuperätiedon tärkeyttä luontokatovaikutusten minimoimisessa. Toimialasta ja tuotevalikoimasta riippuen joudutaan usein priorisoimaan tärkeimmiksi arvoituja raaka-aineita ja tuotantoalueita. Jokaista perunaa ei kannata heti ryhtyä jäljittämään.
-
-(teksti jatkuu kuvan jälkeen)
-
-#### Vahva sääntely on vastuullisen toimijan etu
-
-Monet yritykset ovat jo vuosikausia ponnistelleet luontokadon kitkemiseksi arvoketjuistaan. Edistystä on tapahtunut, mutta se ei ole helppoa. Mielenkiintoista on, että joukko yrityksiä on päätynyt pyytämään lisää ja tiukempaa sääntelyä. Esimerkiksi lähes 80 eurooppalaista yritystä allekirjoitti kirjeen EU-komissiolle, jossa ne pyysivät vahvaa ja velvoittavaa metsäkatolakia. Luontokadon ehkäisyyn sitoutuneet, vastuulliset yritykset joutuvat huolehtimaan metsäkatoriskituotteiden arvoketjujen alkuperäjäljitettävyydestä ja kestävyydestä. Tämän varmistaminen ei ole aina yksinkertaista ja vaatii panostusta. Samaan aikaan yritykset kilpailevat markkinoilla, joilla osa toimijoista käyttää metsäkatotuotteiden kaltaisia epäreiluja kilpailukeinoja.
-
-Sitova ja kattava metsäkatolainsäädäntö, joka estää metsäkatotuotteiden tulon EU-markkinoille, on siis sekä vastuullisten toimijoiden että trooppisten metsien monimuotoisen luonnon etu. Vastuullisten yritysten nouseva rooli edistyksellisen ilmasto- ja luontopolitiikan kirittäjinä on yksi lupaavimmista systeemisen muutoksen ajureista. WWF:llä on pitkä historia yhteistyöstä yrityskentän kanssa vahvemman poliittisen ohjauksen edistäjänä. Eräs esimerkki on WWF:n ja S-ryhmän yhteinen Vieraskynäkirjoitus vahvan metsäkatolain puolesta. Yritysten luontokatotoimet eivät missään nimessä rajoitu vain omaan toimintaan ja arvoketjuihin. Aktiivista yrityskansalaisuutta tarvitaan myös.
-
-Lähes kaikille edellä mainituille luontokadon ehkäisyn toimille on yhteistä, että harvoista niistä yritys selviää täysin omin voimin. Toimivat kumppanuudet ovat äärimmäisen arvokkaita, oli sitten kyseessä konsultin käyttö luontokatoarvioinneissa, alihankintaketjujen kehittäminen, toimialan yhteiset ponnistelut, yhteiskunnallinen vaikuttaminen tai yhteistyö kansalaisjärjestöjen kanssa. Muutos on edessä ja se on välttämätön. Se saavutetaan kaikkien kannalta parhaiten, kun se tehdään yhdessä.
-
-Lisätietoja: Jussi Nikula, Suojelun neuvonantaja
-
----
-
 ### Maankäyttösektorin ilmastosuunnitelmassa on suuria puutteita – valmistelussa palattava lähtöruutuun
 
 Julkaistu: 18.5.2022  
 Aiheet: Suomen metsät, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/05/maankayttosektorin-ilmastosuunnitelmassa-on-suuria-puutteita-valmistelussa-palattava-lahtoruutuun/
 
 **Maankäyttösektorin ilmastosuunnitelman (MISU) lausuntokierros päättyy tänään. MISU:ssa määritellään toimenpiteitä päästöjen vähentämiseksi ja hiilensidonnan vahvistamiseksi maataloudessa, metsätaloudessa sekä muussa maankäytössä. WWF esittää, että suunnitelman valmistelua jatketaan perustavanlaatuisten puutteiden korjaamiseksi.**
@@ -5156,37 +4931,6 @@ Teksti: Lotta Närhi
 
 ---
 
-### Näkökulma: Maankäyttö uhkaa tulla ohitetuksi EU:n ilmastotavoitteissa
-
-Julkaistu: 16.5.2022  
-Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2022/05/maankaytto-uhkaa-tulla-ohitetuksi-eun-ilmastotavoitteissa/
-
-**Tapamme käyttää maata lämmittää ilmastoa. Maatalouden, metsätalouden ja muun maankäytön muutoksilla lämpenemistä voidaan kuitenkin hillitä. Tähän EU:ssa on käsillä tärkeä tilaisuus, kun maankäyttöä koskevaa LULUCF-asetusta uudistetaan EU-parlamentin ja jäsenmaiden kesken. Suomalaismepeillä on työtä tehtävänä, jotta riittävä ilmastovaikutus saadaan turvattua.**
-
-#### Nielutavoite uhkaa jäädä löysäksi
-
-Hyvinvoiva luonto poistaa ilmasta hiilidioksidia. Monet ihmistoimet, kuten intensiiviset metsähakkuut, kuitenkin heikentävät hiilensidontaa ja pienentävät hiilivarastoja. Sen lisäksi esimerkiksi ojitus ja viljely vapauttavat turvemaiden hiilivarastoja ilmakehään. Silloin, kun metsät ja maat sitovat itseensä hiiltä enemmän kuin on päästöjä, syntyy lämpenemistä hillitsevä hiilinielu.
-
-EU-alueen ilmastotoimista päättäminen on EU:n toimivallan alla. Nielupolitiikka on keskeinen osa ilmastopolitiikkaa. EU:n hiilinielujen vähimmäistaso määritellään LULUCF-asetuksessa (Land Use, Land-Use Change and Forestry), jota päivitetään parhaillaan. EU-parlamentti muodostaa kantansa komission riittämättömään esitykseen lähikuukausien äänestyksissä.
-
-Komission esityksen mukaan EU:n maankäyttösektorin hiilinielun tulisi vuonna 2030 olla -310 Mt CO2-ekv. (miljoonaa tonnia CO2-ekvivalenttia). Jos tavoite hyväksytään, hiilinieluja velvoitettaisiin vahvistamaan nykyisestä vain noin -40 Mt CO2-ekv. verran. Koska tavoitteen jako EU-maiden kesken pohjautuu vuosien 2016–2018 nieluihin – jolloin Suomessa oli ennätyshakkuut – ei asetus vaatisi hiilinielujen vahvistamista Suomessa lainkaan. Monet suomalaismepit ovat tyytymässä komission ehdotukseen tai ehdottaneet jopa sen heikentämistä, mikä kertoo karua kieltä sitoutumisesta ilmastokriisin torjuntaan.
-
-Maankäytössä on EU:ssa huomattavasti paremmat edellytykset hillitä ilmastonmuutosta. Maa- ja metsätaloudessa päästöjä voidaan vähentää ja hiilensidontaa vahvistaa lukuisin keinoin, kuten peltojen hiiliviljelyllä ja kestävämmillä metsänkäsittelytavoilla. Keinot ovat keskimäärin halvempia kuin muilla sektoreilla tehtävät ilmastotoimet. Ne myös vahvistavat suomalaisen maa- ja metsätaloustuotannon asemaa markkinoilla, joilla vastuullisuus kiinnostaa. Näistä syistä WWF on ilolla pannut merkille, että muutamat suomalaismepit ovat vaatineet nielutavoitteen korottamista -490 tai jopa -600 Mt CO2-ekv. tasolle. Näyttää kuitenkin epätodennäköiseltä, että parlamentin enemmistö siirtyisi tukemaan tavoitetason nostoa.
-
-#### Päästövähennyksiä ei pidä korvata hiilinieluilla
-
-Komission LULUCF-esitys antaisi jäsenmaiden jatkaa erilaisten joustojen käyttöä päästöjen ja hiilensidonnan kanssa tasapainoiluun. Maat voisivat esimerkiksi jättää taakanjakosektorin päästövähennystavoitteensa täyttämättä ja korvata vajetta LULUCF-nieluilla.
-
-Päästövähennyksiä ja nielujen vahvistamista ei voida pitää toisilleen vaihtoehtoisina. Jokaisen maan ja sektorin on kannettava vastuunsa kummankin suhteen. Poikkeukset ovat WWF:n mielestä perusteltuja vain luonnonkatastrofitilanteissa. IPCC:n raportit painottavat, ettei ilmastotoimia voida enää lykätä, jos lämpeneminen halutaan rajoittaa 1,5 asteeseen. Joustoista luopumista vaativat äänet ovat kuitenkin jäämässä parlamentissa alakynteen.
-
-LULUCF-uudistuksessa tarvitaan nyt loppukiriä. Suomalaismepit voivat näyttää suuntaa vaatimalla kunnianhimoista parannusta maankäytön ilmastovaikutukseen. Se on viime kädessä paitsi suomalaisen maa- ja metsätalouden myös jokaisen suomalaisen etu.
-
-Teksti: Lotta Närhi, WWF Suomen metsiensuojelun harjoittelija
-
----
-
 ### WWF:”Uusi luonnonsuojelulaki on askel parempaan suuntaan”
 
 Julkaistu: 13.5.2022  
@@ -5211,7 +4955,6 @@ Luonnon näkökulmasta lakiesityksessä on kuitenkin vielä parannettavaa. WWF:n
 Julkaistu: 13.5.2022  
 Aiheet: Eläin, Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/05/hyvia-uutisia-australiasta-uhanalainen-porhohantakenguru-nayttaa-kotiutuneen-vanhoille-elinalueilleen/
 
 **Luonnonsuojelijat yrittävät palauttaa uhanalaisen pörhöhäntäkengurun sen entisille elinalueille Etelä-Australiassa. Onnistunut alku kannustaa kokeilemaan samaa muiden alueelt a hävinneiden lajien kohdalla.**
@@ -5244,7 +4987,6 @@ Artikkelia muokattu 16.5.2022 kello 12:03: Yorken niemimaa sijaitsee Etelä-Aust
 
 Julkaistu: 12.5.2022  
 Aiheet: Vieraslajit, Kentällä, Suomi, Talkoot  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/05/wwfn-vieraslajitalkookausi-kaynnistyy-lauantaina-havitetaan-espanjansiruetanaa-luonnonsuojelualueella/
 
 **WWF järjestää yhdessä Metsähallituksen kanssa haitallisena vieraslajina esiintyvän espanjansiruetanan poistotalkoot lauantaina Espoon Laajalahdessa. Tapahtuma käynnistää WWF:n vieraslajitalkookauden, jossa poistetaan luonnon monimuotoisuutta uhkaavia vieraslajeja luontoarvoiltaan rikkailta luonnonsuojelualueilta ja niiden läheltä.**
@@ -5271,7 +5013,7 @@ Koska WWF kitkee vieraslajeja pääosin vain Uudellamaalla, Niinimäki vinkkaa m
 
 ---
 
-### ”Huippuviihdettä, jossa ei tapahdu juuri mitään” – Nyt alkaa WWF:n Norppalive!
+### “Huippuviihdettä, jossa ei tapahdu juuri mitään” – Nyt alkaa WWF:n Norppalive!
 
 Julkaistu: 11.5.2022  
 Aiheet: Luontolive, Saimaannorppa, Suomi  
@@ -5553,7 +5295,6 @@ Juttua päivitetty 4.3.2024. Lisätty tarkennus mikromuovin syntymisestä.
 Julkaistu: 3.5.2022  
 Aiheet: Naali, Arktinen, Onnistumistarina, Suomi  
 Kirjoittaja: Pinja Silvonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/05/tuoreet-riistakamerakuvat-lapin-tuntureilta-antavat-kasvavan-toivon-kipinan-naalin-pesinta-suomessa-on-lahempana-kuin-vuosikymmeniin/
 
 **Viime vuosien aikana naalin pesintää Suomen tuntureilla on odotettu toiveikkaammin kuin koskaan sitten vuoden 1996. Metsähallituksen luontopalveluiden ja WWF:n ylläpitämillä ruokinta-automaateilla on käynyt odotusta nostattavia asiakkaita.**
@@ -5721,7 +5462,6 @@ Asiantuntijat päätyivät pian siihen, että muotonsa perusteella eläin oli it
 Julkaistu: 28.4.2022  
 Aiheet: Itämerennorppa, Ilmastonmuutos, Itämeri, Suomi, Tukijan tarina  
 Kirjoittaja: Noora Jussila  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/04/norppa-nakyvissa-saaristomeren-uhattu-norppakanta-keraantyy-jokakevaiseen-rituaaliin/
 
 **Huhtikuun lopulla Saaristomeren rannoille ja luodoille kerääntyy pieni ja uhattu itämerennorppakanta jokakeväiseen karvanvaihtoon. Ilmastonmuutoksen mukanaan tuomat leudot ja jäättömät talvet uhkaavat itämerennorppaa.**
@@ -5982,7 +5722,6 @@ Suomen lajien uhanalaisuusarvioinnissa itämerennorppa on luokiteltu silmälläp
 Julkaistu: 14.4.2022  
 Aiheet: Näkökulma, Ilmastonmuutos, Suomen metsät, WWF-lehti, Ylikulutus  
 Kirjoittaja: Pinja Silvonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/04/lukuvinkit-paasiaiseen-naita-teoksia-asiantuntijamme-suosittelevat/
 
 **Kevätaurinko lämmittää jo parvekkeilla ja takapihoilla. Yksi oivallinen tapa rentoutua tai virittäytyä lomatunnelmaan on istahtaa alas aurinkoon ja uppoutua mukaansa tempaavaan kirjaan. Nappaa tästä WWF:n asiantuntijoiden vinkit omalle lukulistallesi.**
@@ -6062,7 +5801,6 @@ Minna Nyrhinen-Blazquez, viestinnän asiantuntija
 Julkaistu: 11.4.2022  
 Aiheet: Earth Hour  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/04/earth-hour-oli-jalleen-menestys-15-miljoonaa-suomalaista-osallistui-ymparistotempaukseen/
 
 **Suomessa ja maailmalla näytettiin jälleen yhteinen valomerkki maapallon puolesta lauantaina 26. maaliskuuta. Noin 1,5 miljoonaa suomalaista näytti joukkovoimaa maapallon puolesta. Maailmanlaajuisesti tapahtumaan otti osaa 192 maata ja maantieteellistä aluetta.**
@@ -6166,7 +5904,6 @@ Luontoliven talvikausi on nyt taputeltu, kun lintujen talviruokintaa Kuusamossa 
 Julkaistu: 4.4.2022  
 Aiheet: Ilmastonmuutos  
 Kirjoittaja: Vilma Vuorio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/04/uusi-ipccn-raportti-kertoo-etta-keinoja-ilmastonmuutoksen-hillintaan-on-toimeen-on-kaytava-heti/
 
 **Pikaisia rakenteellisia muutoksia tarvittaisiin energiatuotantoon, teollisuuteen, maatalouteen, maankäyttöön, rakentamiseen ja liikenteeseen, todetaan uudessa raportissa. Raportti keskittyy ilmastonmuutoksen hillintään ja ratkaisuihin, joilla ilmaston lämpenemistä voitaisiin rajoittaa. Maapallon keskilämpötilan nousun rajaaminen 1,5 asteeseen on päivä päivältä hankalampaa, mutta tavoitteeseen on mahdollista päästä olemassa olevilla keinoilla.**
@@ -6200,7 +5937,6 @@ IPCC:n kuudes arviointiraportti julkaistaan vuosina 2021–2022 ja se koostuu ko
 Julkaistu: 31.3.2022  
 Aiheet: Öljyntorjuntajoukot, Itämeri, Kentällä, Suomi, Tukijan tarina  
 Kirjoittaja: Pinja Silvonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/03/oljyonnettomuus-on-vakava-uhka-vesilinnuille-vapaaehtoiset-harjoittelivat-oljyyntyneiden-lintujen-hoitoa-helsingissa/
 
 **Onnettomuustilanteessa suu rin voimavara löytyy koulutetuista vapaaehtoisista, tietää Sea Life Helsingin akvaariokuraattori ja öljyntorjuntajoukkojen ryhmänjohtaja Markus Dernjatin.**
@@ -6250,7 +5986,6 @@ Dernjatin on kurssin opeista innoissaan ja aikoo viedä tietojaan eteenpäin my�
 Julkaistu: 31.3.2022  
 Aiheet: Suomi, Suomen metsät  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/03/kehysriihessa-paatettava-uusiutuvan-energian-tukemisesta-ja-luonnonmetsien-suojelusta/
 
 **Tuleva kehysriihi jää istuvan hallituksen viimeiseksi. WWF painottaa, että hallituksen on tehtävä kehysriihessä päätöksiä luontokadon pysäyttämiseksi ja uusiutuvan energian edistämiseksi. WWF:n mielestä Ukrainan sota ei voi olla syy suojelutoimien lykkäämiseen.**
@@ -6290,7 +6025,6 @@ Noora Jussila, viestintäpäällikkö, WWF Suomi, [email protected], 050 478 594
 Julkaistu: 30.3.2022  
 Aiheet: Suomi, Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Vilma Vuorio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/03/vihrea-siirtyma-saatava-kehysriihen-keskioon-tarjoaa-ratkaisun-ruokaturvaan-ja-energian-saatavuuteen/
 
 **Tuleva kehysriihi jää istuvan hallituksen viimeiseksi. WWF painottaa, että vihreän siirtymän, eli muun muassa siirtymistä fossiilisista uusiutuviin energialähteisiin, tukemisen tulee olla kehysriihen keskiössä.**
@@ -6366,7 +6100,6 @@ Lisätiedot ja kartat kaikista Luonnonmetsä-työryhmän kartoittamista kohteist
 Julkaistu: 30.3.2022  
 Aiheet: Suomi, Ilmastonmuutos, Luonnon köyhtyminen, Metsäkato, Ruoka, Suomen metsät  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/03/turpeen-paluu-ja-lisaantyvat-hakkuut-muun-muassa-nailla-viidella-tavalla-ukrainan-sota-voi-vaikuttaa-ymparistoon-suomessa/
 
 **Ukrainan sota on järkyttävä humanitaarinen kriisi, jolla on kauaskantoisia seurauksia paitsi ihmisille myös luonnolle. Listasimme vaikutuksia, joita sodalla voi olla ympäristölle Suomessa.**
@@ -6499,7 +6232,6 @@ Negatiivisiin tunteisiin auttaa usein se, että voi itse tehdä jotain; oli se s
 Julkaistu: 29.3.2022  
 Aiheet: Luonnon köyhtyminen, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/03/hallitukset-kompastelivat-ykn-luontoneuvotteluissa-vaikka-yhteinen-suunta-on-selkea/
 
 **Maailman valtiot ovat yhtä mieltä siitä, että vuonna 2030 maailmassa on oltava enemmän luontoa kuin nyt. Toimet, rahoitus ja mittarit tämän tavoitteen saavuttamiseksi jäivät kuitenkin puolitiehen, kun YK:n luontoneuvottelujen välikokous päättyi tänään Genevessä.**
@@ -6634,7 +6366,6 @@ Suojelun lisäksi kehitämme kestäviä elinkeinoja paikallisten kanssa, ehkäis
 Julkaistu: 18.3.2022  
 Aiheet: Ilmastonmuutos, Yritykset  
 Kirjoittaja: Vilma Vuorio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/03/ymparistoystavallisten-sijoitusten-maara-on-kasvanut-tasta-siina-on-kyse/
 
 **Vastuullisuus näkyy yhä vahvemmin sijoitusmarkkinoilla. Ilmastonmuutoksen torjunta edellyttää rahavirtojen siirtymistä kohti kestävämpiä ratkaisuja. WWF:n ja Mandatumin ilmasto-opas kertoo, miten sijoittaa ympäristövastuullisesti.**
@@ -6725,7 +6456,6 @@ Kiinnostaako sinua lukea lisää luontoystävällisestä sijoittamisesta? Lue t�
 Julkaistu: 18.3.2022  
 Aiheet: Earth Hour, Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/03/earth-hour-tulee-jalleen-tapahtuma-kannustaa-yhteisollisyyteen-ja-vaikuttamaan-arjen-valinnoilla/
 
 **Maailman suurin ympäristötapahtuma WWF:n Earth Hour järjestetään pian. Sadat miljoonat ihmiset lähes 200 maassa näyttävät valomerkkiä ilmaston ja luonnon puolesta 26. maaliskuuta kello 20.30. WWF Suomi kannustaa tämän vuoden kampanjassaan jokaista kokeilemaan pieniä muutoksia arjessaan ja tekemään lupauksen maapallolle**
@@ -7105,7 +6835,6 @@ Tutkimusmenetelmien kehittymisen myötä IPCC on nyt pystynyt viemään analyysi
 Julkaistu: 21.2.2022  
 Aiheet: Sademetsät, Metsäkato  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/02/suomalainen-broileri-saattaa-aiheuttaa-metsakatoa-wwfn-selvityksen-mukaan-rehusoijan-alkupera-on-usein-tuntematon/
 
 **WWF:n tänään julkaisema selvitys osoittaa, että suomalaisen broilerin, sianlihan ja kananmunien tuotannossa käytetyn soijarehun alkuperästä ei ole aina varmuutta. Selvityksen mukaan aiempaa isompi osuus suomalaisyritysten käyttämästä soijasta on sertifioitua. Siitä huolimatta Suomeen tuodaan edelleen soijarehua, jonka tuotanto on voinut aiheuttaa metsäkatoa.**
@@ -7214,7 +6943,6 @@ Greenpeace, WWF Suomi ja Suomen luonnonsuojeluliitto laativat kyselyn yhteistyö
 Julkaistu: 15.2.2022  
 Aiheet: Luontolive, Metsäkato, Suomen metsät, Suomi  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/02/mista-tikkojen-rahina-johtuu-ja-miten-pakkanen-vaikuttaa-lintujen-kayttaytymiseen-kerasimme-vastaukset-viiteen-kysymykseen-talvilintukamerasta/
 
 **Luontoliven talvilintukameraa seuraamalla voi oppia paljon lintujen käyttäytymisestä. Ruokintapaikalla vierailee myös lintuja, jotka ovat harvinaisia suuressa osassa Suomea.**
@@ -7272,7 +7000,6 @@ Artikkelia varten on haastateltu WWF:n metsäasiantuntija Mai Suomista ja talvil
 Julkaistu: 14.2.2022  
 Aiheet: Salametsästys, Metsäkato  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/02/ystavanpaivana-vietetaan-myos-maailman-bonobopaivaa-poikkeuksellisen-lempeat-kadelliset-elavat-matriarkaatissa-ja-vaalivat-ystavyyssuhteita/
 
 **Ihmisillä voisi olla paljon opittavaa läheisiltä sukulaisiltamme bonoboilta, jotka kaihtavat väkivaltaa ja ratkaisevat konfliktit hellyydellä.**
@@ -7469,7 +7196,7 @@ Artikkelia muokattu 2.6.2022: Poistettu tieto tiikerihuippukokouksesta Venäjäl
 
 ---
 
-### Suden kannanhoidolliset kaatoluvat täytäntöönpanokieltoon –”Näyttäisi, että näiden susien henki säästyi tältä talvelta”
+### Suden kannanhoidolliset kaatoluvat täytäntöönpanokieltoon – “Näyttäisi, että näiden susien henki säästyi tältä talvelta”
 
 Julkaistu: 28.1.2022  
 Aiheet: Susi, Suomi  
@@ -7653,7 +7380,6 @@ Arjessa on järkevää kiinnittää huomiota kulutuksen määrään ja suosia ke
 Julkaistu: 18.1.2022  
 Aiheet: Luonnon köyhtyminen, Ilmastonmuutos, Metsäkato  
 Kirjoittaja: Noora Jussila  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/01/kasilla-ovat-luonnon-kohtalonhetket-kokosimme-5-1-asiaa-joita-luonnonystava-seuraa-tana-vuonna/
 
 **Onko edessä luonnon supervuosi? Ainakin tämä vuosi tarjoaa monia mahdollisuuksia pysäyttää luonnon köyhtyminen, metsäkato ja ilmastonmuutos. Kokosimme tähän juttuun niistä viisi.**
@@ -7745,7 +7471,6 @@ Kerromme pitkin vuotta menestystarinoita viimeisten 50 vuoden ajalta. WWF-lehden
 Julkaistu: 17.1.2022  
 Aiheet: Mekong, Luonnon köyhtyminen, Metsäkato, Sademetsät, Salametsästys  
 Kirjoittaja: Juho Talja  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2022/01/mekongin-alueella-elaa-sykahdyttava-kadellisten-kirjo-lahes-kaikki-lajit-ovat-uhanalaisia/
 
 **Ihminen on pahin uhka Kaakkois-Aasian kädellisille, joita metsästetään ruuaksi tai myydään turistien selfieitä varten. Liian myöhäistä lajien pelastaminen ei kuitenkaan ole.**

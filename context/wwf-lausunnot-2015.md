@@ -1,14 +1,14 @@
 # WWF Suomi – Lausunnot 2015
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 30 (uusin 4.12.2015).
+Kohteita: 41 (uusin 18.12.2015).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 30 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
 **Joulukuu 2015**
 
+- 18.12.2015 – WWF:n eriävä mielipide Saimaannorppa ja kalastus -seurantaryhmän raporttiin (18.12.2015)
 - 4.12.2015 – WWF:n lausunto susikiintiöasetuksesta (4.12.2015)
 
 **Marraskuu 2015**
@@ -20,6 +20,8 @@ Huom: 30 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 23.10.2015 – WWF:n lausunto kestävän metsätalouden rahoitukseen liittyen (23.10.2015)
 - 16.10.2015 – WWF:n lausunto koskien hallituksen esitystä (HE 34/2015 vp) eduskunnalle energiaverotusta koskevan lainsäädännön muuttamiseksi (16.10.2015)
+- 15.10.2015 – Kepan ja WWF:n kirje valtiovarainministeri Stubbille ja ulkomaankauppa- ja kehitysministeri Toivakalle: Pariisin ilmastosopimus vaakalaudalla ilman ilmastorahoitusta (14.10.2015)
+- 13.10.2015 – WWF:n kommentit kalastusasetusehdotukseen (13.10.2015)
 - 7.10.2015 – WWF:n lausunto ilveksen metsästyskiintiöstä (7.10.2015)
 - 7.10.2015 – WWF:n lausunto päästökauppadirektiivin muuttamisesta (6.10.2015)
 
@@ -31,9 +33,14 @@ Huom: 30 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 **Elokuu 2015**
 
 - 27.8.2015 – WWF:n kannanotto GLACIER-kokoukseen liittyen (27.8.2015)
+- 20.8.2015 – WWF Suomen kanta: onnistuneen ilmastosopimuksen sisältö (20.8.2015)
 - 19.8.2015 – WWF Suomen lausunto maa- ja metsätalousministeriön asetuksesta koskien metson, teeren, pyyn ja riekon metsästyksen kieltämisestä metsästysvuonna 2015–2016 (19.8.2015)
 - 19.8.2015 – WWF:n lausunto luonnoksista MMM:n asetuksiksi koskien hallin, itämerennorpan, euroopanmajavan ja saukon metsästystä metsästysvuonna 2015-2016 (21.7.2015)
 - 17.8.2015 – WWF:n kannanotto kehitysyhteistyövarojen leikkauksiin (14.8.2015)
+
+**Heinäkuu 2015**
+
+- 13.7.2015 – Biotalous ja puhtaat ratkaisut, WWF Suomen suositukset (1.7.2015)
 
 **Kesäkuu 2015**
 
@@ -42,6 +49,7 @@ Huom: 30 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 10.6.2015 – WWF Suomen lausunto Itämeren kalastuskiintöistä (10.6.2015)
 - 4.6.2015 – WWF Suomen lausunto vieraslajeista aiheutuvien riskien hallinnasta ja luonnonsuojelulain muuttamisesta (4.6.2015)
 - 4.6.2015 – WWF Suomen kannanotto: Monimuotoinen luonto turvaa naisten ja lasten hyvinvoinnin (4.6.2015)
+- 2.6.2015 – WWF Suomen kirje valmistelevalle vientiluottoryhmälle: Kivihiiltä tukevat vientiluotot lopetettava (22.5.2015)
 
 **Toukokuu 2015**
 
@@ -49,6 +57,8 @@ Huom: 30 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 **Huhtikuu 2015**
 
+- 29.4.2015 – METSO-ohjelman rahoituksen turvaaminen vuosille 2015–2019 (28.4.)
+- 15.4.2015 – Ympäristöjärjestöjen kirje ministeri Orpolle Itämeren turska-, silakka-ja kilohailikantojen monivuotisesta hoitosuunnitelmasta (15.4.)
 - 8.4.2015 – WWF Suomen lausunto luonnoksesta Valtioneuvoston asetukseksi kestävän metsätalouden rahoituksesta (8.4.)
 - 2.4.2015 – WWF Suomen lausunto ehdotuksesta Suomen merenhoitosuunnitelman toimenpideohjelmaksi (31.3.)
 
@@ -61,24 +71,48 @@ Huom: 30 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 6.2.2015 – WWF Suomen lausunto metsätilastoinnista (6.2.2015)
 - 3.2.2015 – WWF Suomen lausunto koskien kalataloushallinnon uudelleen organisointia (2.2.2015)
+- 3.2.2015 – WWF Finland’s comments on NKF Bothnian Bay vendace trawl (12.1.2015)
 - 3.2.2015 – WWF Suomen lausunto Itämeren lohikannan monivuotisesta hoitosuunnitelmasta (4.2.2015)
 
 **Tammikuu 2015**
 
 - 30.1.2015 – WWF Suomen lausunto selvityksestä Pienimuotoisen energiantuotannon edistämistyöryhmän loppuraportti (30.1.2015)
+- 22.1.2015 – WWF:n kirje ministereille: Aika sanoa ei kivihiilihankkeiden vientiluotoille (22.1.2015)
 - 14.1.2015 – WWF:n lausunto poikkeusluvalla sallittavasta suden metsästyksestä poronhoitoalueen ulkopuolella metsästysvuonna 2014—2015 (14.1.2015)
 - 14.1.2015 – WWF:n lausunto luonnoksesta Suomen susikannan hoitosuunnitelmaksi (14.1.2015)
 - 12.1.2015 – WWF:n lausunto koskien hallituksen esitystä laiksi uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta (9.1.2015)
+- 9.1.2015 – Muistutus koskien Jakkuvärkin tuulivoimapuiston osayleiskaavaehdotusta (18.12.2014)
 
 ---
 
 ## Joulukuu 2015
 
+### WWF:n eriävä mielipide Saimaannorppa ja kalastus -seurantaryhmän raporttiin (18.12.2015)
+
+Julkaistu: 18.12.2015  
+Aiheet: Saimaannorppa, Suomi  
+Linkki: https://wwf.fi/app/uploads/d/n/p/dhxojpfaejmdrtvnabsorqh/mmm-saimaannorppa-ja-kalastus-wwf-eriaevae-mielipide-151204.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 Faksi: (09) 7740 2139 www.wwf.fi, www.panda.org
+
+4.12.2015 WWF:n eriävä mielipide Saimaannorppa ja kalastus -seurantaryhmän raporttiin Kun WWF aloitti saimaannorpan suojelutyön vuonna 1979, kanta oli noin 150–170 yksilöä. Suojelutyön myötä kanta on kääntynyt hitaaseen kasvuun. Tämänhetkinen kannanarvio on noin 320 yksilöä. Talvien lämpeneminen on kuitenkin jo johtanut tilanteeseen, että kannan kokoa ja kehityssuuntaa ei ole voitu muutamaan vuoteen arvioida luotettavasti niin luotettavasti kuin aikaisemmin. Saimaannorpan suojelustrategian mukaisena välitavoitteena on, että vuoteen 2020 mennessä Saimaassa elää vähintään 400 norppaa. Tästä vain viiden vuoden päässä olevasta tavoitteesta ollaan vielä varsin kaukana, ja voimistuva talvien lämpeneminen muodostaa yhä suuremman epävarmuustekijän ja konkreettisemman uhan kuuttien selviytymiselle. Lisäksi saimaannorpan genetiikasta on saatu uutta tutkimustietoa, joka osoittaa että kannan geneettisen kapeuden muodostaman uhan takia kanta on saatava nopeasti kasvuun. Tässä tilanteessa tehokkain keino on poistaa mahdollisimman tehokkaasti kalanpyydysten aiheuttamaa sivusaaliskuolleisuutta. WWF on osallistunut aktiivisesti Saimaannorppa ja kalastus –seurantaryhmän työhön, ja pitää arvokkaana, että kalastukseen liittyvien saimaannorpan suojelutoimien kehittämistä on pohdittu yhteistyössä kaikkien keskeisten sidosryhmien kanssa. WWF esitti lausunnossaan jo nyt voimassa olevien asetusten valmisteluvaiheessa vuonna 2011, että valvonnan ja käytännön hahmottamisen kannalta paras ratkaisu olisi, että kahden asetuksen kattamat alueet olisivat tasan samat. WWF onkin tyytyväinen seurantaryhmän raportissa esitettyyn ratkaisuun, jossa kaksi aiemmin erillistä ja alueellisesti rikkonaista asetusaluetta yhdistetään yhtenäiseksi asetusalueeksi. Hyvää esityksessä on myös kalastusrajoitusalueen laajeneminen nykyisestä vajaalla 600 neliökilometrillä, ja se että tämä rajaus on tehty loogisesti norpan tunnettujen poikaspesien ja niitä ympäröivän turvasäteen perusteella. Seurantatyöryhmän raportti sisältää kuitenkin seuraavat kolme saimaannorpan suojelun kannalta niin merkittävää puutetta, että WWF on päättänyt jättää raporttiin eriävän mielipiteen. WWF toi esille ja perusteli nämä tarpeet useaan otteeseen työryhmän työn aikana.
+1. WWF esittää, että verkkokalastus kielletään asetusalueella aikana 15.4.–31.7. (ei 15.4.–30.6. kuten raportissa esitetään, raportin Taulukko 7, toimenpide-esitys 3, kohta B). Verkkokiellon jatkamiselle heinäkuun loppuun on esitetty työryhmän työn aikana selvät ja painavat perusteet. Kuuttien kalanpyydyskuolleisuus on nykyisen asetuksen voimassaoloaikana siirtynyt hyvin voimakkaasti heinäkuulle, ja toisaalta kuuttien havaittu kokonaiskuolleisuus kalanpyydyksiin suhteessa kannan kokoon ei ole oleellisesti vähentynyt. Lisäksi asiassa haluttiin hallitusohjelman kirjauksen mukaisesti kuulla paikallista väestöä. Kyselyistä (sekä Etelä-Savon maakuntaliiton kyselystä että WWF:n teettämästä gallupista) saatiin selkeä Saimaan alueen asukkaiden enemmistön tuki sille, että verkkokielto jatketaan heinäkuun loppuun. Sekä kuuttien kuolleisuustilasto että alueen asukkaiden enemmistön mielipide ovat kiistatta sen puolesta, että verkkokalastus kielletään heinäkuun loppuun asti. Kunnollisia perusteita, miksi näin ei tehtäisi – vieläpä vastoin alueen asukkaiden enemmistön mielipidettä, ei ole raportissa esitetty.
+
+2. WWF esittää, että ajallisen verkkokalastuskiellon tulee koskea nykyiseen tapaan kaikkia kalaverkkoja, myös muikkuverkkoja (raportin Taulukko 7, toimenpide-esitys 3, kohta C). Muikkuverkkojen salliminen olisi saimaannorpan suojelutoimien kannalta heikennys nykyiseen tilanteeseen ja vaikeuttaisi ennen kaikkea verkkokiellon valvontaa oleellisella tavalla. Kuten työryhmän työssä on tullut esille, muikkuverkoilla kalastetaan hyvin vähän ennen syyskesää, mikä osaltaan selittää sitä, miksi havaittua enempää norppia ei ole hukkunut muikkuverkkoihin. Myös aikuinen norppa on hukkunut muikkuverkkoon, joten muikkuverkon tiedetään olevan norpalle potentiaalisesti vaarallinen pyydys. Toisaalta varsinaista painetta muikkuverkkojen sallimiseen tänä aikana (nykyisestä poiketen) ei ole, koska muikun verkkopyynti on kyseisenä aikana todetusti niin vähäistä.
+3. Esitetty laajennus kalastusrajoitusalueeseen, vaikkakin on parannus nykyiseen, ei ole biologisesti perusteltu. Itä-Suomen yliopisto ja Metsähallitus, joilla on paras tutkimustieto norpan esiintymisestä ja yksilöiden liikkumisessa, esittivät työryhmälle rajausehdotuksen, jossa poikaspesien ympärillä sovellettava turvasäde on 5.6 km, ja esiintymisen reuna-alueilla 16 km. Nämä turvasäteet on johdettu parhaalla käytettävissä olevalla tiedolla saimaannorpan kuuttien liikkumistutkimuksen tuloksista. WWF esittää asetuksen alueen rajaamista nykyisten tunnettujen synnytyspesäpaikkojen ja niitä ympäröivän kuuttien liikkumistutkimuksen perusteella Itä-Suomen yliopiston ja Metsähallituksen alkuperäisen esityksen mukaan (raportin Taulukko 7, toimenpideesitys 1 / kohta A). Kaikki tunnetut poikaspesäpaikat (myös Joroisten Haapaselkä, joka nyt ei ole mukana raportissa esitetyssä rajauksessa) on otettava mukaan kuuttien liikkumistutkimuksesta johdetun turvasäteen kanssa. Tavoitteena on estää kuuttien verkkokuolemat norpan lisääntymisalueella, joten jo olemassa olevien pesäpaikkojen jättämistä rajauksen ulkopuolelle ei voi hyväksyä. WWF Suomi
+
+Jari Luukkonen suojelujohtaja
+
+Petteri Tolvanen ohjelmapäällikkö, suomalainen luonto
+
+---
+
 ### WWF:n lausunto susikiintiöasetuksesta (4.12.2015)
 
 Julkaistu: 4.12.2015  
 Aiheet: Suomi, Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/l/p/xv634pfhylo23fremodtu7d/wwf-lausunto-susi-kiintioeasetus-151204.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -116,7 +150,6 @@ Petteri Tolvanen ohjelmapäällikkö
 
 Julkaistu: 24.11.2015  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/k/q/3oamfbnfzxbxlx7zvoowmqh/wwf-lausunto-mmm-mh_laki-151124-valmis.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -149,7 +182,6 @@ Petteri Tolvanen, ohjelmapäällikkö (petteri.tolvanen@wwf.fi)
 
 Julkaistu: 13.11.2015  
 Aiheet: Luonnon köyhtyminen, Perinneympäristöt, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/v/z/t/4faygirgqveasqgy5gkfe4g/wwf-lausunto-lsl-151113-valmis.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -180,7 +212,6 @@ Annukka Valkeapää, metsäasiantuntija (annukka.valkeapaa@wwf.fi)
 
 Julkaistu: 23.10.2015  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/q/u/lxbiforcxphjrxjlyd2qmcc/mmm-kemera-lausunto-151023-wwf.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -209,7 +240,6 @@ Luonnon monimuotoisuudelle haitalliset tuet – Taustaselvitys. Saatavilla: http
 
 Julkaistu: 16.10.2015  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/f/j/2/zjkxesncptawz5ijz6vd6se/wwf-lausunto-energiaverotuslainsaeaedaentoe-lokakuu2016v1.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -257,11 +287,100 @@ lähde: WWF 2015: Mitä metsä kestää? Suomen metsien ekologistaloudellisesti 
 
 ---
 
+### Kepan ja WWF:n kirje valtiovarainministeri Stubbille ja ulkomaankauppa- ja kehitysministeri Toivakalle: Pariisin ilmastosopimus vaakalaudalla ilman ilmastorahoitusta (14.10.2015)
+
+Julkaistu: 15.10.2015  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/a/a/o/6a6lnkrdfpapacpuonob6eb/ilmastokannanotto.pdf
+
+Helsinki 14.10.2015
+
+Pariisin ilmastosopimus vaakalaudalla ilman ilmastorahoitusta Arvoisat valtiovarainministeri Stubb ja ulkomaankauppa- ja kehitysministeri Toivakka,
+
+ilmastorahoituksen puutteellisuuden on ennakoitu olevan yksi Pariisin ilmastokokouksen keskeisimmistä kynnyskysymyksistä. YK:n Kööpenhaminan ilmastokokouksessa vuonna 2009 päätettiin kehitysmaille suunnatusta ilmastorahoituksesta sopeutumis- ja päästövähennystoimiin. Kehittyneet maat sitoutuivat rahoittamaan kehitysmaiden ilmastotoimia lyhyellä aikavälillä yhteensä 30 miljardilla dollarilla vuosina 2010–2012 ja kasvattamaan rahoitusta 100 miljardin dollarin vuositasolle vuoteen 2020 mennessä. Toistaiseksi annetut lupaukset ovat kuitenkin kaukana tästä summasta. OECD:n ja Climate Policy Initiativen uunituoreen arvion mukaan vuosien 2013 ja 2014 ilmastorahoituksen keskiarvo oli 57 miljardia dollaria vuodessa 1. Tästä rahasta olennainen osa on kuitenkin laskettu ottaen esimerkiksi lainojenkokonaismäärän sekä yksityissektorin investoinnit lukuun. Tämänkaltainen rahoitusmuoto hyödyttää pääosin verrattain rikkaamoia maita, ei niitä, joihin ilmastonmuutoksen vaikutukset kohdistuvat kaikista rajuimmin. Ilmastorahoitus vaatii siis vielä loppukirin. Globaalin sopimuksen synnyn kulmakivenä on luottamus. Siksi kehitysmaiden mukaantulon maailmanlaajuiseen ilmastosopimukseen on yleisesti nähty olevan riippuvainen siitä, kuinka kehittyneet maat pystyvät pitämään 100 miljardin dollarin lupauksensa 2. Viime kuukausina onkin saatu uusia rahoituslupauksia sekä kehittyneiltä valtioilta että kehitysmailta. Saksa on luvannut kaksinkertaistaa oman rahoitusosuutensa vuoteen 2020 mennessä, Iso-Britannian panos on arviolta 8,8 miljardia dollaria, ja jopa Kiina on laittamassa likoon 3,1 miljardia dollaria 3 kehitysmaiden välisen yhteistyön puitteissa. Ilmastonmuutoksen torjuminen vaatii huomattavia summia yksityistä rahoitusta, sillä vähähiilisen talouden luomiseen tarvitaan biljoonia euroja – ei vain miljardeja 4. Verorahoilla kerätyt summat eivät yksinomaan riitä ilmastonmuutoksen ratkaisuun. Vaikka yksityissektorin lisääntyvä rooli ilmastoystävällisten toimien toteuttamisessa on välttämättömyys, 100 miljardin dollarin on oltava enimmäkseen julkista rahoitusta. Vain julkinen rahoitus voi taata sen, että ilmastonmuutokselle kaikista haavoittuvimmat saavat tarvitsemaansa tukea. Ilmastonmuutokseen sopeutuminen ei houkuttele puoleensa yksityissektorin investointeja, ja jää väistämättä lapsipuolen asemaan, mikäli raha ei ole julkista. Vahingot ja menetykset ovat vielä selkeämmin julkisesta rahoituksesta riippuvaista.
+
+OECD & Climate Policy Initiative, 2015. Climate Finance in 2013-14 and the USD 100 billion goal. Esimerkiksi Presidentti Hollanden puhe (25.8.2015) http://www.english.rfi.fr/environment/20150825-cop21-accord-impossible-withoutfinancial-commitments-says-french-president 3 U.S.-China Joint Presidential Statement on Climate Change, 2015. https://www.whitehouse.gov/the-press-office/2015/09/25/us-china-jointpresidential-statement-climate-change 4 The Global Commission on Economy and Climate, 2014. The New Climate Economy Report – Better Climate, Better Growth. http://2014.newclimateeconomy.report/wp-content/uploads/2014/08/NCE_ExecutiveSummary.pdf 2
+
+On myös olennaista tehdä selvä erottelu perinteisen kehitysavun ja ilmastorahoituksen välille, jotta rahoitusta voidaan pitää uskottavana. Suomessa on tänä vuonna leikattu kehitysapurahoja tavalla, joka on jättänyt monet järjestöt tukalaan tilanteeseen ja vaatinut vaikeita päätöksiä. Sovittaessa 100 miljardin dollarin rahoituksesta sovittiin myös, että sen tulisi olla uutta ja lisäistä suhteessa kehitysapuun. On siis varmistettava, että ilmastorahoitus ei nakerra perinteisen kehitysyhteistyön määrärahoja. Näin ollen ilmastorahoituksen ja kehitysyhteistyön määrärahojen budjetit tulee pitää tiukasti erillään. Paras ratkaisu olisi, että päästökaupan tulot ohjattaisiin jatkossakin ilmasto- ja kehitysrahoitukseen. Hallituksen päätöstä kompensoida päästökaupasta aiheutuvia epäsuoria kustannuksia teollisuudelle päästökaupan huutokauppatuloilla tulee tarkastella huolella ja rajata kompensaatiota esimerkiksi vain sellaisille tahoille, jotka voivat taata parhaan mahdollisen energiatehokkuuden laitoksissaan. Vähäisempi energiankulutus itsessään säästää myös laitosten kustannuksia eli tarjoaisi hyötyjä kaikille tahoille. Vaikka maksimikompensaatioon päädyttäisiinkin, niin EU-lainsäädännössä on annettu tarkat ohjeet hyvityksen rajoittamiseen 5, ja on ennustettu, että tulevina vuosina maksimikompensaatio tulee olemaan vähemmän kuin päästökaupasta saatavat tulot 6. Päästökauppatuloja jäisi siis yli ja niitä voitaisiin palauttaa ilmastorahoitukseen.
+
+Vaatimuksemme koskien Suomen ilmastorahoitusta ovat seuraavat: ●
+
+Suomen vuosittaisen ilmastorahoituksen osuuden ei tule taantua, vaan ennen kaikkea nousta, jotta 100 miljardin dollarin lupaus saadaan täytettyä.
+
+●
+
+Suomen maksama kehitysapu on pakotettu ottamaan sille kohdistuneet valtavat leikkaukset. Ilmastorahoituksen osuuden on siis oltava erillinen perinteisestä kehitysavusta, eikä nakertaa jo valtavasti vähennettyä määrärahapottia.
+
+●
+
+Kaikki päästökaupan huutokauppatulot tulee ohjata niiltä osin takaisin ilmastorahoitukseen kuin on mahdollista päästökaupan epäsuorien kustannusten kompensaation lisäksi.
+
+Keskustelemme mielellämme asiasta tulevina viikkoina, jotta voimme esitellä suosituksiamme. Kiitämme jo etukäteen, ja toivomme kuulevamme teistä.
+
+Ystävällisin terveisin,
+
+Liisa Rohweder pääsihteeri WWF Suomi
+
+Timo Lappalainen toiminnanjohtaja Kepa ry
+
+Lisätiedot:
+
+SWD (2012) 130 final. http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52012XC0605(01
+
+6 Elinkeinoelämän keskusliitto, Metsäteollisuus, Elfi, Energiateollisuus, Kemianteollisuus & Teknologiateollisuus. Myös Suomessa tarvitaan
+
+päästökauppakompensaatiota http://www.metsateollisuus.fi/mediabank/5678.pdf
+
+Kaarina Kolle Ilmastoasiantuntija WWF Suomi p. 050 591 3072 kaarina.kolle@wwf.fi
+
+Jonas Biström Kehityspoliittinen asiantuntija Kepa ry p. 050 317 6686 jonas.bistrom@kepa.fi
+
+---
+
+### WWF:n kommentit kalastusasetusehdotukseen (13.10.2015)
+
+Julkaistu: 13.10.2015  
+Aiheet: Liikakalastus, Suomen uhanalaiset kalat, Suomi  
+Linkki: https://wwf.fi/app/uploads/d/r/g/tkwhhwvchbkh7ywley2le3h/wwf_kommentit_asetusehdotukseen_lokakuu2015.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Maa- ja metsätalousministeriö VIITE: ASIA:
+
+Puh: (09) 7740 100 Faksi: (09) 7740 2139 www.wwf.fi, www.panda.org
+
+13.10.2015
+
+’Nopean toiminnan joukko’ Facebook -ryhmässä esillä ollut luonnos kalastusasetuksesta (luettu 9.10.2015) WWF Suomen kommentit
+
+Viitaten Nopeantoiminnan joukko Facebook-ryhmässä esillä olleeseen kalastusasetuksen luonnokseen (luettu 9.10.2015), WWF esittää maa- ja metsätalousministeriölle kommenttinsa kalastusasetusehdotuksen muutoksiin ilman erityistä lausuntopyyntöä. WWF pitää erittäin valitettavana, että julkisuuteen tulleen maa- ja metsätalousministeriön laatiman kalastusasetusehdotuksen sisältöjä ja muutoksia ei ole tuotu kalastuslain seurantaryhmän tai lohi- ja meritaimenstrategian seurantaryhmän tietoon. WWF katsoo, että uusi julkisuuteen tullut asetusehdotus on erityisesti taimenen ja kuhan osalta selkeä heikennys toukokuussa 2015 lausunnolla olleeseen ehdotukseen ja uusi ehdotus pitää sisällään kirjauksia, joilla on merkittävä vaikutus uudistuneen kalastuslain tavoitteiden toteutumiseen. Lisäksi WWF huomauttaa, että osa julkisuuteen tulleen asetusehdotuksen sisällöistä on ristiriidassa lohi- ja meritaimenstrategian kirjausten kanssa.
+
+1 § Kalojen rauhoittaminen WWF katsoo, että uusi ehdotus rasvaevällisen taimenen rauhoituksesta ainoastaan 64°00’N eteläpuolella on selkeä heikennys toukokuussa 2015 lausunnolla olleeseen luonnokseen, jossa luonnossa lisääntyvät taimenkannat ehdotettiin rauhoitettavaksi 67°00’N eteläpuolella. Lisäksi ehdotus on todella ongelmallinen ja ristiriitainen, sillä alueella on nykyisiä ja potentiaalisia meritaimenjokia (mm. Lestijoki ja Kiiminkijoki) ja meritaimen pitäisi olla ehdottomasti rauhoitettu myös ollessaan joessa. Ehdotus ei myöskään noudata uhanalaisuusarvioinnin aluerajauksia ja 64°00’N ja 67°00’N väliselle alueelle jää paljon suojelua tarvitsevia luonnonvaraisia taimenkantoja. WWF katsoo, että luonnontaimenen rauhoituksen rajaksi tulee asettaa ehdottomasti 67°00’N lausunnolla olleen asetusehdotuksen mukaisesti. Luonnontaimenen tilannetta ko. alueella heikentää myös asetusehdotuksen 3 §, jonka mukaan ELY-keskus voisi poiketa taimenen osalta 20 % alaspäin. Tämä tarkoittaisi, että 64°00’N ja 67°00’N välisellä alueella voitaisiin soveltaa luonnontaimenen osalta alle 50 senttimetrin alamittaa. Tämä on täysin ristiriidassa suojelutavoitteiden ja uudistuneen kalastuslain periaatteiden kanssa. Taimenen luonnonkantojen rauhoittaminen 64°00´N ja 67°00´N välisellä alueella on aiheuttanut keskustelua lähinnä säännösteltyihin järviin tehtävien istutusten vuoksi, joissa ei toistaiseksi ole ollut käytäntönä eväleikata istutettavia kaloja. WWF katsoo, että luonnontaimenkantojen
+
+rauhoittaminen ei voi olla alisteinen mittaville istutuksille, etenkään alueella, jossa on suojelua tarvitsevia taimenen luonnonkantoja ja huomattava määrä potentiaalisia taimenvesistöjä. Suojelun ja kalakantojen elvyttämisen tulee uuden kalastuslain tavoitteiden mukaisesti ajaa edelle istutuskeskeisestä kalavesien hoidosta. WWF katsoo, että Pohjois-Pohjanmaan, Kainuun sekä Etelä- ja Keski-Lapin osalta ei ole mitään perusteita poiketa muusta Napapiirin eteläpuolisesta Suomesta luonnontaimenen rauhoittamisen suhteen ja katsoo, että toteutuessaan ehdotus olisi kalastusasetuksen keskeinen heikkous ja ristiriidassa kalastuslain tavoitteiden kanssa. WWF huomauttaa, että taimenen luonnonlisääntymisestä ko. alueella löytyy huomattava määrä tietoa mm. ELY-keskusten ja LUKE:n tekemien kalakantojen seurannan kautta. Lisäksi WWF pitää edelleen ongelmallisen asetusehdotuksen poikkeusta, jonka mukaan rauhoitus ei koske taimenta, joka on pyydetty sellaisesta purosta tai lammesta, johon ei ole vaellusyhteyttä merestä tai järvestä. Kirjaus on erittäin epäselvä esimerkiksi suuriin padottuihin jokivesiin laskevien purojen osalta, jotka ovat taimenen lisääntymis- ja poikasalueita. Ns. purotaimenen kalastus pitäisi olla sallittua ainoastaan erikseen käyttö- ja hoitosuunnitelmassa määritellyissä vesissä. Vähintäänkin ehdotus vaatii lisämaininnan siitä, että poikkeusta ei voida soveltaa 11 § mukaisissa vaelluskalavesistöissä, mukaan lukien padotut vesistöt.
+
+2 § Kalojen sallitut pyyntimitat Ehdotus laskea rasvaevättömän taimenen alamitta 50 senttimetriin on selkeä heikennys nykytilanteeseen ja vastoin lohi- ja meritaimenstrategian kirjauksia. Toteutuessaan ehdotettu alamittasäätely voi ohjata verkkokalastusta tiheäsilmäisempiin pyydyksiin. Lisäksi jos ELYkeskus voisi asetusehdotuksen 3 § mukaisesti poiketa taimenen osalta 20 % alaspäin, voitaisiin istutetun taimenen alamitta asettaa jopa 40 senttimetriin, mikä olisi täysin kalastuslain tavoitteiden vastaista. WWF katsoo, että tapaukset, joissa istutettujen kalojen alamitta pitäisi olla luonnonkaloja pienempi, voitaisiin määritellä erikseen käyttö- ja hoitosuunnitelmissa, eikä asettaa asetuksella alamittaa alemmalle tasolle kaikkialla. Tällaiset tapauksia voisivat olla esimerkiksi vesistöt, joissa taimenella ei ole edellytyksiä luonnonlisääntymiseen. Kuhan osalta asetusehdotuksen 2 pykälän 6 kohdan kirjaus laskea kuhan alamitta 42 senttimetriin on selkeä heikennys edelliseen luonnokseen ja WWF katsoo, että kuhan alamitta tulee asettaa 45 senttimetriin kaikissa vesistöissä. Kuhan viehe- ja rysäpyyntiin ehdotettu 60 senttimetrin ylämitta on hyvä aloite, mutta WWF katsoo, että se ei valitettavasti kannusta vähentämään tappavien pyydyksien, erityisesti verkkojen, käyttöä. Päinvastoin, jos rysille asetetaan vapautusvelvoite yli 60cm kuhille, voi asetus jopa edistää siirtymistä rysäpyynnistä verkkoihin, mikä ei ole kokonaisuuden kannalta toivottavaa.
+
+3 § Elinkeino-, liikenne- ja ympäristökeskuksen oikeus määrätä pyyntimitoista WWF katsoo, että asetusehdotuksen kirjaus sallia 20 % poikkeus taimenen kohdalla on vastoin kalastuslain tavoitteita. Ehdotus mahdollistaisi villin taimenen alamitan laskemisen 64°00’N pohjoispuolella 48 senttimetriin ja istutetun taimenen alamitan laskemisen 40 senttimetriin. Tämä ei vastaa tavoitetta luonnonlisääntymisen tukemisesta eikä myöskään paranna istutusten tuottavuutta.
+
+4 § Saaliskiintiöt Asetusehdotuksesta esitetään enintään kahden lohen ja Vuoksen vesistöalueella yhden rasvaevättömän järvilohen kiintiötä kalastajaa ja vuorokautta kohti. WWF katsoo, että esitys on oikean suuntainen, mutta myös taimen tulee ottaa vapaa-ajankalastuksessa kalastajakohtaisen saaliskiintiöinnin piiriin. Yksi lohi tai taimen vuorokautta kohti olisi asianmukainen kiintiö.
+
+11 § Vaelluskalavesistöt WWF katsoo, että tämä on hyvä tarkennus edelliseen asetusluonnokseen, joskin vaelluskalojen osalta myös syönnösalueet olisi syytä lukea vaelluskalavesistöiksi.
+
+WWF tulee seuraamaan kalastusasetuksen etenemistä ja pitämään omalta osaltaan keskustelua yllä varmistaakseen, että asetuksessa huomioidaan eri toimijoiden näkemykset ja että asetus vastaa tehokkaasti uuden kalastuslain tavoitteisiin.
+
+Jari Luukkonen Suojelujohtaja
+
+Matti Ovaska Suojeluasiantuntija
+
+Lisätietoja: Matti Ovaska, Suojeluasiantuntija, p. 040 7273149, matti.ovaska@wwf.fi
+
+---
+
 ### WWF:n lausunto ilveksen metsästyskiintiöstä (7.10.2015)
 
 Julkaistu: 7.10.2015  
 Aiheet: Ilves, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/t/h/pprzjqrfe5cf52nwji7n65g/wwf-lausunto-ilves-mmm-151007.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -298,7 +417,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 7.10.2015  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/s/y/24tcf2ffjhpx563guy6lvue/ympaeristoevaliokuntalausunto_ets_6_10_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -370,7 +488,6 @@ Kaarina Kolle Ilmastoasiantuntija
 
 Julkaistu: 17.9.2015  
 Aiheet: Itämeri, Liikakalastus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/6/p/3wv7xxfdtve5jwhm6sk3pqc/mmm_tac2016_wwflausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -405,7 +522,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 8.9.2015  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/j/d/f6uguarb7xar62rqfo2rkff/wwf_pariisin-poeytaekirja_ympaeristoevaliokunta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -446,7 +562,6 @@ Kaarina Kolle Ilmastoasiantuntija
 
 Julkaistu: 27.8.2015  
 Aiheet: Arktinen, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/g/f/cd7x3pvawrjtpx3sg3ucaeb/wwf-kannanotto-glacier-kokous.pdf
 
 WWF:n kannanotto GLACIER-kokoukseen liittyen Useiden maiden ulkoministerit tapaavat ensi viikolla Yhdysvaltain presidentti Barack Obaman kutsusta Alaskan Anchoragessa. GLACIER-konferenssia (Conference on Global Leadership in the Arctic: Cooperation, Innovation, Engagement and Resilience) isännöi Yhdysvaltain ulkoministeri John Kerry ja Suomea edustaa ulkoministeri Timo Soini. WWF:n toiveena on, että Soini ja muut päättäjät näkevät Alaskassa omin silmin ilmastonmuutoksen tuhoisat vaikutukset ja tarttuvat aktiivisesti toimiin ihmiskunnan isoimman haasteen voittamiseksi. Noin 40 miljoonan neliökilometrin suuruisella arktisella alueella on suuri merkitys koko maapallon luonnon monimuotoisuudelle. Ilmastonmuutos lämmittää kuitenkin arktista aluetta kaksi kertaa nopeammin kuin mitään muuta aluetta maapallolla. Arktista aluetta koettelevan muutoksen valtavuus ja nopeus on jo nähtävillä. Esimerkiksi Alaskassa talvilämpötilat ovat nousseet 3-4 astetta viimeisten 50 vuoden aikana. Lämpenemisen johdosta arktisen alueen jääpeite hupenee, meri happamoituu ja ikirouta sulaa. Huomattava osa ympärivuotisesta jääpeitteestä on jo hävinnyt arktiselta alueelta. Jääpeitteen sulaminen muun muassa nostaa veden pintaa ja vaikeuttaa eläinten selviytymistä: Kylmään tottuneet kasvit ja eläimet voivat muualla maailmassa yrittää sopeutua ilmastonmuutokseen vetäytymällä kohti pohjoista. Maapallon pohjoisimmassa kolkassa pakomatka pohjoiseen ei ole ratkaisu. Mitä on tehtävä? Ilmastonmuutoksen hillitsemiseksi valtioiden on saatava solmittua uusi kansainvälinen ilmastosopimus joulukuussa käynnistyvissä Pariisin ilmastoneuvotteluissa. Ilmastonmuutoksen hillitseminen vaatii, että päästöt saavuttavat maailmanlaajuisesti huippunsa tällä vuosikymmenellä ja laskevat sen jälkeen ripeästi. Vuoteen 2050 mennessä ihmiskunnan on luovuttava fossiilisista polttoaineista. Valtiojohtajien haasteena ei ole pelkästään näihin päästövähennyksiin yltäminen, vaan tavoitteiden saavuttaminen reilulla tavalla – maapallon köyhimmät ja haavoittuvimmat ihmiset eivät saa kantaa liian suurta taakkaa. On erinomaista, että Yhdysvallat on kutsunut ulkoministerit koolle – ilmastonmuutoksen vastainen taistelu kaipaa johtajuutta. Konferenssia varjostaa kuitenkin Yhdysvaltojen arktiselle öljynporaukselle antama hyväksyntä. Yhdysvallat on suojellut Bristolinlahden kaltaisia arktisia alueita öljynporaukselta, mutta samaan aikaan myöntänyt Shellille porausluvan toisaalle. WWF Suomen mielestä kaikki arktisella alueella sijaitseva öljy ja kaasu tulee jättää koskematta. Lisäksi jo nyt maailmanlaajuisesti tunnetuista fossiilivarannoista 75 prosenttia pitää jättää maankuoreen (IPCC, 2013). Shellin arktiseen öljynporaukseen liittyy ilmastonmuutoksen ohella myös toinen riski: Yhdysvaltojen hallituksen oman riskiarvion mukaan ison öljyvuodon todennäköisyys lupa-ajan puitteissa on 75
@@ -455,11 +570,82 @@ prosenttia. Öljyonnettomuus arktisella alueella olisi valtava katastrofi, sill�
 
 ---
 
+### WWF Suomen kanta: onnistuneen ilmastosopimuksen sisältö (20.8.2015)
+
+Julkaistu: 20.8.2015  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/e/y/h/vlqk4hbfsnf7xacmzxnxrjg/cop21_tavoitteet_wwf.pdf
+
+ONNISTUNUT ILMASTOSOPIMUS Prosessin puutteiden oikominen
+• Sopimustekstiä on lyhennettävä ja selkiytettävä.
+• Vaikeimmista neuvotteluaiheista, kuten oikeudenmukaisuus, vahingot ja menetykset, ilmastorahoitus ja tekstin oikeudellinen muoto, sovittava etukäteen.
+
+Ennen vuotta 2020
+
+Vuoden 2020 jälkeen
+• Mekanismi toimenpiteiden valvomiseen ja analysointiin.
+• Ilmastorahoitus, sopeuttaminen sekä vahinkojen ja menetyksien korvaamismekanismit keskeisiä.
+• Sopeutumiselle sekä vahingoille ja menetyksille omat globaalit tavoitteensa.
+• Maankäyttö- ja metsäsektorin päästöjen vaikutus täytyy ottaa täysimääräisesti lukuun.
+
+• Konkreettiset toimenpiteet päästövähennyskuilun kiinnikuromiseksi.
+• UNFCCC:n piiriin kuuluville teknologia- ja rahoitusinstituutioille mahdollisuus tukea päästökuilun kuromista edistäviä aloitteita.
+• Selkeä ohjeistus jokavuotisen korkean tason kokouksen tueksi.
+• Puitteet ns. ambitionmekanismille.
+• Suomen ei pitäisi tyytyä vähimmäistasoon.
+
+ONNISTUNUT ILMASTOSOPIMUS WWF:N MIELESTÄ SEURAAVAT ELEMENTIT OVAT ILMASTOSOPIMUKSEN KANNALTA KESKEISIÄ:
+
+1. Päästövähennysvajeen kurominen umpeen ennen vuotta 2020
+
+2. Vuoden 2020 jälkeisen vajeen supistaminen
+
+•
+
+Tarvitaan konkreettisia ja suunniteltuja toimenpiteitä, jotta kuilu tarvittavien päästövähennyksien sekä ilmoitettujen vähennyksien välillä saadaan aisoihin. YK:n ympäristöohjelma UNEPin mukaan ero oli vuonna 2014 maailmanlaajuisesti 8–10 GtCO2e.
+
+•
+
+Ilmastosopimuksen piiriin on rakennettava mekanismi, joka vastaa toimenpiteiden valvomisesta ja analysoinnista sekä tavoitteiden korotuksesta oikeudenmukaisella tavalla, jotta lämpötilannousu voitaisiin rajoittaa 1,5 asteeseen esiteolliseen aikaan verrattuna.
+
+•
+
+UNFCCC:n piiriin kuuluvien teknologia- ja rahoitusinstituutioiden tulee saada mandaatti tukea konkreettisia aloitteita, joilla nykyinen päästökuilu saadaan suljettua joko edistämällä uusiutuvaa energiaa ja energiatehokkuutta tai maankäyttösektorin avulla.
+
+•
+
+Ilmastorahoituksen, sopeuttamisen sekä vahinkojen ja menetykset –mekanismien on oltava keskeisessä asemassa ilmastosopimuksessa.
+
+•
+
+Sopeutumiselle sekä vahingoille ja menetyksille on asetettava omat globaalit tavoitteensa, jotta kummankin osa-alueen vahvistamista tullaan lisäämään.
+
+•
+
+Maankäyttö- ja metsäsektorin päästöjen vaikutus täytyy ottaa täysimääräisesti lukuun, jotta päästötavoitteissa olisi mahdollista pysyä.
+
+•
+
+Selkeän ohjeistuksen tarjoaminen jokavuotisen korkean tason kokouksen tueksi, jotta ylimääräiset toimenpiteet ilmastonmuutoksen pysäyttämiseksi saadaan kiireellisellä aikataululla käyntiin. Tämä pitää sisällään lisättyä taloudellista tukea, teknologian siirtoa sekä valmiuksien kehittämistä.
+
+•
+
+Vuoden 2020 jälkeisten raamien tulisi luoda puitteet ns. ambition-mekanismille, jotta aiottujen kansallisten kontribuutioiden (INDC) jättämä väistämätön kunnianhimovaje voidaan kuroa.
+
+•
+
+Vaikka Suomi toimeenpanee ennen kaikkea EU:n ilmastopolitiikkaa ja on sitoutunut omiin maakohtaisiin tavoitteisiinsa, tulisi kotimaassa tarttua tilaisuuteen saavuttaa luvattua korkeammat päästövähennykset eikä tyytyä ulkopuolelta määriteltyyn vähimmäistasoon. Moni EU-maa on rohkeasti määritellyt omat EU-tasoa kunnianhimoisemmat tavoitteensa – tästä tulisi ottaa mallia.
+
+3. Prosessin puutteet tulee oikoa •
+
+Tarvitaan selkeä prosessi sovitun aikataulun puitteissa, jotta voidaan varmistaa, että kriittiset kohdat käsitellään tarpeeksi ajoissa ennen Pariisiin viimeisiä neuvottelutunteja. Tämä pitää sisällään etenkin oikeudenmukaisuuskysymykset, vahingot ja menetykset, tekstin oikeudellisen muodon ja yhteiset mutta eritellyt vastuut.
+
+---
+
 ### WWF Suomen lausunto maa- ja metsätalousministeriön asetuksesta koskien metson, teeren, pyyn ja riekon metsästyksen kieltämisestä metsästysvuonna 2015–2016 (19.8.2015)
 
 Julkaistu: 19.8.2015  
 Aiheet: Luonnon köyhtyminen, Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/u/w/s2bxt4zavvfcozkgz56mppc/wwf-lausunto-metsaekanalinnut-mmm-150819.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -484,7 +670,6 @@ http://www.birdlife.org/sites/default/files/attachments/RedList%20-%20BirdLife%2
 
 Julkaistu: 19.8.2015  
 Aiheet: Itämerennorppa, Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/f/d/5/5ob23eng7bfhd7mqemv4nlh/wwf-lausunto-hylkeet-majava-saukko-mmm-150709_ab.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -583,7 +768,6 @@ Petteri Tolvanen ohjelmapäällikkö, WWF Suomi
 
 Julkaistu: 17.8.2015  
 Aiheet: Ilmastonmuutos, Liikakalastus, Luonnon köyhtyminen, Metsäkato  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/i/2/y/5hekbx5dslj2q4x3rhbsxma/kannanotto_kehitysyhteistyoevarojen_leikkaukset.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -598,13 +782,80 @@ Valtiovarainministeriö julkaisi tänään ensi vuoden budjettiesityksen, joka s
 
 ---
 
+## Heinäkuu 2015
+
+### Biotalous ja puhtaat ratkaisut, WWF Suomen suositukset (1.7.2015)
+
+Julkaistu: 13.7.2015  
+Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Suomen metsät  
+Linkki: https://wwf.fi/app/uploads/n/5/i/3e5j6xvgxvciliy7ziepfub/wwf-suositukset_-karkihankkeille_2-7-2015.pdf
+
+Biotalouden ja puhtaiden ratkaisujen ministerityöryhmälle on annettu tehtäväksi käsitellä hallituksen ”biotalous ja puhtaat ratkaisut” -kärkitavoitteen alle kuuluvat asiat. WWF Suomi katsoo, että monet ryhmän vastuulla olevat kärkihankkeet ovat luonnon monimuotoisuuden sekä kestävän luonnovarojen käytön kannalta avainasemassa sekä ne tulee suunnitella huolella. Alla esitämme suosituksemme seuraaville teemoille:  Hiilettömään, puhtaaseen, uusiutuvaan energiaan kustannustehokkaasti  Puu liikkeelle ja uusia tuotteita metsästä  Kiertotalouden läpimurto, vesistöt kuntoon  Luontopolitiikkaa luottamuksella ja reiluin keinoin WWF Suomi toivoo, että suosituksemme otetaan huomioon ministerityöryhmän toiminnassa.
+
+WWF-suositukset
+1. Tuetaan alueellista kokeiluhanketta liikenteen sähköistämiseksi
+2. Tuetaan kokeiluhankkeena erilaisia toiminta- ja rahoitusmalleja 60–70-luvuilla rakennettujen lähiöiden energiaperuskorjauksessa
+3. Nostetaan puun jalostusastetta
+4. Pidetään jatkossakin Metsähallituksen luontopalvelut ja talous erillisinä toimintoina. Metsähallitusta ei tule yhtiöittää.
+5. Osoitetaan varoja kalatiestrategialle sekä lohi- ja meritaimenstrategialle
+6. Jatketaan verkkokalastuskieltoa heinäkuulle ja rajataan alueet 2016 asetuksessa norppien esiintymisen perusteella
+7. Tuetaan METSOa
+8. Toteutetaan EU:n meristrategiadirektiivin mukainen merenhoitosuunnitelman toimenpideohjelma vesipuitedirektiivin mukaisten alueellisten vesienhoitosuunnitelmien toimenpideohjelmat
+
+Hallituksella on erinomainen ja kunnianhimoinen tavoite puolittaa tuontiöljyn käyttö kotimaan tarpeisiin 2020luvun aikana. Jos oletetaan, että tämä tavoite toteutetaan liikenteessä siirtymällä metsäbiomassaan perustuviin biopolttoaineisiin, siihen tarvitaan laskelmiemme mukaan noin 15 miljoonaa kuutiota lisää puuta. Koko hallitusohjelman tavoite puun käytön lisäämisestä kuluu siis tämän tavoitteen toteuttamiseen. Lisäksi tavoitteena on kivihiilen käytön lopettaminen. Kivihiilen suora korvaaminen puubiomassalla lisäisi puun käyttöä toiset 15 miljoonaa kuutiota. Hallitusohjelman hyvät ja kiitettävät linjaukset öljyriippuvuuden vähentämisestä ja kivihiilestä luopumisesta vaativat selvästi muitakin laajoja toimia kuin biomassapohjaisen energian lisäämistä.
+
+WWF-suositus 1: Tuetaan alueellista kokeiluhanketta liikenteen sähköistämiseksi Bioenergian tuotannon kehittämisen rinnalle on otettava käyttöön tehokasta yhdyskuntarakennetta ja joukkoliikenteen mahdollisuuks(mm. Pisara-rata), sekä liikenteen sähköistämistä edistäviä keinoja. WWF ehdottaa, että hallitus toteuttaa hyvin suunnitellun alueellisen kokeiluhankkeen liikenteen sähköistämiseksi ja osoittaa tälle riittävät varat.
+
+2 WWF Suomi | Suositukset | 1.7.2015
+
+WWF-suositus 2: Tuetaan kokeiluhankkeena erilaisia toiminta- ja rahoitusmalleja 60–70luvulla rakennettujen lähiöiden energiaperuskorjauksessa Kivihiilen korvaamisessa biomassalla on suurelta osin kyse muun muassa Helsingin asuntokannan lämmöntarpeen täyttämisestä. WWF ehdottaa kokeiluhanketta, joka keskittyy 60- ja 70-luvulla rakennettujen lähiöiden energiaperuskorjauksen (voimakas energiatehokkuuden lisäys ja hajautetun lämmön tuotannon mahdollisuuksien hyödyntäminen) toiminta- ja rahoitusmallien kehittämiseen ja laajentamiseen. Toimintamalli voisi perustua esimerkiksi energiatehokkuusrahastoon, jolla hankkeita rahoitetaan ja lainoitetaan, jolloin valtion budjettivaikutuksetkin olisivat rajalliset. Hanke palvelisi myös rakennuksiin liittyvän korjausvelan pienentämistä.
+
+Hallituksen tavoitteena on tehdä Suomesta bio- ja kiertotalouden sekä cleantechin edelläkävijä. Suomesta tehdään kestävän biotalouden mallimaa vain siten, että talous, ympäristö ja sosiaalinen näkökulma ovat aidosti tasavertaisessa asemassa. Edelläkävijyydessä kestävyyden ja ilmastotavoitteiden kannalta keskeistä on tarkastella huolellisesti puun käyttötarkoituksia ja käytön volyymia. Metsien käytön lisäys sinänsä ei vältämättä luo hyvinvointia, vaikutukset voivat olla kokonaisuuden kannalta jopa negatiivisia. Metsien osalta keskeistä on nostaa puupohjaisten tuotteiden jalostusastetta, jolla on suora vaikutus hyvinvoinnin lisäämiseen. Toisaalta metsien muut kuin puuntuotannolliset hyödyt on turvattava, jotta metsien käytön hyväksyttävyys säilyy. Metsien käyttöä on tarkasteltava myös ilmastotavoitteiden kannalta.
+
+WWF-suositus 3: Nostetaan puun jalostusastetta Metsien lisääntyvästä kasvusta huolimatta metsäluonnon monimuotoisuus on heikentynyt edelleen. Puuvarat ovat rajalliset. Suomi kaipaa selvää näkemystä siitä, millainen puun käyttö on viisainta ympäristön, metsien moninaisten hyötyjen ja kansantalouden kannalta. WWF ehdottaa käynnistämään prosessin, jolla luodaan kansalliset prioriteetit metsävarojen käytön ohjaamiseksi.
+
+Metsähallituslain uudistamisen yhteydessä ehdotettu osakeyhtiömuotoinen järjestely heikentää mahdollisuutta tarkastella kokonaisuudessaan valtion metsien hyvinvointivaikutuksia. EU:n vaatima kilpailuneutraliteetti on mahdollista toteuttaa erityisliikelaitoksena ja tämä mahdollisuus on selvitettävä huolellisesti. Luontopalvelujen ja metsätalouden osalta nykyisestä lain kirjauksesta on syytä pitää kiinni.
+
+WWF-suositus 4: Pidetään jatkossakin Metsähallituksen luontopalvelut ja talous erillisinä toimintoina. Metsähallitusta ei tule yhtiöittää. Nykyisestä lain kirjauksesta on syytä pitää kiinni. Lakiin on kirjattu näin: Metsähallitus on maa- ja metsätalousministeriön hallinnonalalla toimiva valtion liikelaitos. Luonnonsuojelua koskevissa asioissa Metsähallitus on ympäristöministeriön ohjauksessa.
+
+3 WWF Suomi | Suositukset | 1.7.2015
+
+”Tehostetaan uhanalaisten kalalajien suojelua ja toimeenpannaan kalatiestrategiaa” & ”Toteutetaan lohi- ja meritaimenstrategiaa Itämeren lohikantojen varmistamiseksi” Viime vuosina säädettyjen strategioiden ja linjausten sekä kalastuslain uudistuksen tärkeimmiksi tavoitteiksi on asetettu vaarantuneiden ja uhanalaisten kalakantojen luontaisen elinkierron mahdollistaminen ja tukeminen. WWF pitää erittäin tärkeänä, että nämä tavoitteet on huomioitu myös hallitusohjelman kärkihankkeissa. Elinympäristökunnostuksista ja kalateiden toimivuudesta on saatu lisää tietoa, joka on vahvistanut käsitystä vaelluskalojen palauttamisen onnistumisesta. Vaelluskalakantojen elvyttäminen tuottaa myös taloudellista hyötyä, ja yksin Tornionjoella kalastusmatkailun arvo on jo lähes kuusi miljoonaa euroa vuodessa. Vuonna 2014 Tornionjoen yhtenäisluvan lunasti yli 10 000 kalastajaa, mikä on kaksinkertainen määrä 2000-luvun keskiarvoon verrattuna.
+
+WWF-suositus 5: Osoitetaan varoja kalatiestrategialle sekä lohi- ja meritaimenstrategialle WWF katsoo, että hallituksen kärkihankkeisiin listatut kalatiestrategian sekä lohi- ja meritaimenstrategian toteuttaminen tulee huomioida myös ns. kasvupaketista suunnattavia varoja jaettaessa. Toistaiseksi valtio on suunnannut kalataloudellisiin kunnostushankkeisiin valtakunnallisesti alle miljoona euroa vuodessa, mikä on täysin riittämätön määrä esimerkiksi pohjoisen suurten jokien kalatiehankkeiden toteuttamiseen. Vaelluskalakantojen elvyttäminen vaatii valtiolta vahvaa johtamista ja koordinaatiota sekä riittävää rahoitusta, jolla kalatie- sekä lohi- ja meritaimenstrategiaa voidaan toteuttaa.
+
+”Varmistetaan saimaannorpan suojelu yhdessä paikallisen väestön ja tahojen kanssa.” Saimaannorpan suojelun strategian mukaan välitavoitteena on, että kanta kasvaa vähintään 400 yksilöön vuoteen 2025 mennessä. Tämä ei vielä tarkoita suotuisan suojelun tason saavuttamista, mutta poistaisi välittömän sukupuuton uhan. Kannan pienuus ja perinnöllinen kapeus on uhka sinänsä, ja siksi kanta on saatava nykyistä nopeampaan kasvuun. Ainoa tehokas ja nopea tapa parantaa saimaannorpan suojelutilannetta on säädellä verkkokalastusta. Samaan aikaan kalastus voi jatkua norppaturvallisilla pyydyksillä, kuten muikun ammattikalastus troolilla ja norppaturvallisilla rysillä sekä vapaa-ajan kalastus mm. katiskalla ja uistelemalla.
+
+4 WWF Suomi | Suositukset | 1.7.2015
+
+WWF-suositus 6: Jatketaan verkkokalastuskieltoa heinäkuulle ja rajataan alueet 2016asetuksessa norppien esiintymisen perusteella Voimassa olevat sopimukset ja sitä täydentävä asetus verkkokalastuksen kieltämisestä 15.4.–30.6. ovat toimineet toivotulla tavalla: kuuttien verkkokuolemien määrä vuodessa on asetuksen voimassaoloaikana pudonnut rajoitusaikana puoleen sitä edeltävän viisivuotiskauden luvuista. Samalla kuuttien verkkokuolemat ovat kuitenkin siirtyneet voimakkaasti heinäkuulle: asetuksen voimassaoloaikana heinäkuisten kuuttien verkkokuolemien määrä on vastaavasti nelinkertaistunut. Tämän takia tietoon tulleiden kuuttien verkkokuolemien kokonaismäärä vuodessa ei ole vähentynyt asetuksen voimassaoloaikana. Verkkokalastuskieltoa onkin WWF:n mielestä ehdottomasti jatkettava heinäkuun loppuun. Heinäkuun jälkeen verkkokalastajien määrä Saimaalla vähenee tuntuvasti ja kuutit ovat myös varttuneet hieman vahvemmiksi, joten verkkokuolemien kokonaisriski on selvästi pienempi. Uusien, keväästä 2016 voimaan tulevien asetusten alueet on rajattava norpan esiintymisen perusteella. Verkkokalastuksen ajalla 15.4.–31.7. kieltävän asetuksen on katettava vähintään kaikki nyt tiedossa olevat poikaspesät kuuttien lähetinseurannan tulosten perusteella määritellyn 5,6 km liikkumissäteen kanssa, mukaan lukien Luonteri ja Joroisten Haapaselkä.
+
+”Metsien ja soiden suojelua jatketaan vapaaehtoisin keinoin” Jos metsien käyttöä lisätään, myös luonnon monimuotoisuuden turvaamiseen on satsattava enemmän. Pelkkään metsien käytön lisäykseen (ja luonnonsuojelun rahoituksen leikkaukseen) on sisäänrakennettu konflikti, joka ei ole toivottavaa metsäalalla. Luonnon monimuotoisuuden turvaaminen on myös suomalaisen metsäteollisuuden etu. Teollisuuden kilpailukyvyn kannalta on huolestuttavaa, jos metsien käytön hyväksyttävyys kansalaisten silmissä vähenee ja ristiriidat metsienkäytössä lisääntyvät. Metsäasioissa hyväksyttävyys on edistynyt viimeisten kahden vuosikymmenen aikana huomattavasti, METSO-ohjelmalla on ollut siinä huomattava rooli. METSOn rahoitus on näin ollen syytä turvata jatkossakin
+
+WWF-suositus 7: tuetaan METSOa METSO-ohjelman rahoitus on turvattava ja luonnonsuojelualueiden hankinta ja korvausrahoitusta nostettava mahdollisuuksien mukaan 60–70 miljoonaan euroon vuodessa.
+
+”Itämeren hyvän ekologisen tilan edistämiseksi toimitaan yhteistyössä kotimaisten ja kansainvälisten toimijoiden kanssa”
+
+WWF-suositus 8: Toteutetaan EU:n meristrategiadirektiivin mukainen merenhoitosuunnitelman toimenpideohjelma sekä vesipuitedirektiivin mukaisten alueellisten vesienhoitosuunnitelmien toimenpideohjelmat WWF suosittelee Itämeren hyvään ekologiseen tilaan tähtäävän EU:n meristrategiadirektiivin mukaisen merenhoitosuunnitelman toimenpideohjelman toteuttamista kahden seuraavan hallituskauden aikana. Tämä vaatii olemassa olevan kustannusanalyysin mukaisesti 17,8 miljoonaa euroa vuodessa (kokonaiskustannukset ovat 143 miljoonaa). Tästä osa on tarpeen jakaa laajalle joukolle toimijoita kohdennetun hankehaun kautta (esimerkkinä RAKI-hankerahat). WWF esittää myös vesipuitedirektiivin mukaisten alueellisten vesienhoitosuunnitelmien toimenpideohjelmien toteuttamista sisävesien ja rannikkovesien hyvän ekologisen tilan saavuttamiseksi.
+
+5 WWF Suomi | Suositukset | 1.7.2015
+
+
+
+Lisätietojen antajat: Liisa Rohweder Pääsihteeri WWF Suomi Email:liisa.rohweder@wwf.fi Puh. 040 840 7461
+
+Anne Brax Viestintäjohtaja WWF Suomi Email: anne.brax@wwf.fi Puh. 050 367 1888
+
+6 WWF Suomi | Suositukset | 1.7.2015
+
+---
+
 ## Kesäkuu 2015
 
 ### WWF Suomen lausunto koskien metsähanhen metsästyksen kieltämistä (17.6.2015)
 
 Julkaistu: 18.6.2015  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/v/f/m/s7rykmzh3lah6m2ccrhxz6e/wwf-lausunto-metsaehanhi-mmm-150617.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -629,7 +880,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 18.6.2015  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/r/p/b/5xpc3w5c4ppszfavqcaprqg/wwf-lausunto-karhu-mmm-150617.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -676,7 +926,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 10.6.2015  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/v/7/d/mbbjbaneszd66fsdprrzeyh/mmv_100615_wwf_kiintiot.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -713,7 +962,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 4.6.2015  
 Aiheet: Vieraslajit  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/v/7/y/yta2oizgg5bnpihoplr4kha/wwf-lausunto-vieraslajilaki-150604.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -766,7 +1014,6 @@ Lausunnon valmisteluun ovat osallistuneet myös suojeluasiantuntija Matti Ovaska
 
 Julkaistu: 4.6.2015  
 Aiheet: Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/j/r/i/juz6p7nhrffvufmnbv3j7vc/kannanotto_monimuotoinen-luonto-turvaa-naisten-ja-lasten-hyvinvoinnin_04062015.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -779,13 +1026,44 @@ Kannanotto: Monimuotoinen luonto turvaa naisten ja lasten hyvinvoinnin Kehitysmi
 
 ---
 
+### WWF Suomen kirje valmistelevalle vientiluottoryhmälle: Kivihiiltä tukevat vientiluotot lopetettava (22.5.2015)
+
+Julkaistu: 2.6.2015  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/v/p/b/wrhlibbfzpkerlyhju5q4qf/wwf-kivihiiltae-tukevat-vientiluotot-lopetettava-22052015.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+Kivihiiltä tukevat vientiluotot lopetettava: WWF:n suositukset OECD:n sopimuksen parantamiseksi
+
+22.5.2015
+
+Hyvät valmistelevan vientiluottoryhmän jäsenet, OECD:n vientiluottoryhmän puheenjohtaja on tehnyt ehdotuksen koskien vientiluottoja ja ilmastonmuutosta. Ehdotuksen tarkoituksena on tyrehdyttää hiilivoimainvestointeja ylläpitävä tuki ja saada aikaan sopimus OECD:n piirissä ennen Pariisin ilmastokokousta joulukuussa 2015. WWF on huolissaan siitä, että ehdotus vain ylläpitää vakiintunutta tapaa ja epäonnistuu hiilivoimainvestointien tuen vähentämisessä. Vastikään tehty ehdotus kieltäisi tuen ainoastaan suurituloisissa maissa. Kaikissa muissa maissa vallitseva tila ei siis muutu. Niinpä hiilivoimaloiden takaisinmaksuehdot ovat aivan yhtä anteliaat kuin kaasuvoimaloiden, joiden ilmastonmuutosvaikutukset ovat kuitenkin huomattavasti alhaisemmat. WWF katsoo, että ehdotus jää kauas tavoitteesta ja sitä ei tule sellaisenaan hyväksyä. Ehdotus ei edusta EU:n keskusteluissa esiintynyttä kunnianhimon tasoa. Ehdotamme seuraavia muutosehdotuksia puheenjohtajan kompromissiratkaisuun, jotta OECD:n sopimuksesta saataisiin uskottava: -
+
+Laajennetaan kielto myös keskituloisten maiden piiriin. Tuki hiilivoimalle jäisi näin voimaan ainoastaan alhaisen tulotason maissa. Tämä tulisi selkeästi kirjata lyhyen aikavälin askeleeksi, jota seuraa kahden vuoden välein tehtävä arviointi alkaen vuodesta 2017.
+
+Mikäli OECD-tason neuvottelut epäonnistuvat ja uskottavaa kompromissia ei saada aikaan, pitää EU:n luoda omat poliittiset raaminsa, jotta hiilituotantoa tukevat vientiluotot saataisiin kuriin. Konservatiivisempien OECD-maiden ei pidä antaa toimia jarruna ja estää EU:n omia toimia, joilla se osoittaa johtajuutta ilmastonmuutoksen torjumisessa.
+
+© naturepl.com / Edwin Giesbers / WWF
+
+Suomen pitäisi olla entistä aktiivisemmin läsnä ja viestiä julkisesti ylläehdotettuja kantoja, jotta voisimme EU:n kautta ohjata keskustelua edistyksellisempään suuntaan. Suomi on kansainvälisillä foorumeilla ilmaissut sitoumuksensa luopua hiili-intensiivisten hankkeiden rahoittamisesta Yhdysvaltojen ja muiden pohjoismaiden lailla sekä kertonut suunnitelmista luopua kivihiilen käytöstä vuoteen 2025 mennessä1. On tärkeää, että Suomi korottaa ääntään myös vientiluottojen suhteen. Pyydämme, että tämä asia nostetaan esiin tulevassa OECD:n vuotuisessa Ministerial Council -kokouksessa 3.–4. kesäkuuta. Keskustelemme mielellämme asiasta tulevina viikkoina, jotta voimme esitellä suosituksiamme. Kiitämme jo etukäteen ja toivomme kuulevamme teistä.
+
+Ystävällisin terveisin,
+
+Liisa Rohweder pääsihteeri WWF Suomi p. 040 840 7461 Lisätiedot: Jussi Nikula ohjelmapäällikkö WWF Suomi p. 040 5959002 jussi.nikula@wwf.fi
+
+1 Statement by President of the Republic of Finland Sauli Niinistö at the UN Climate Summit in New York on 23 September 2014. http://presidentti.fi/public/default.aspx?contentid=313087&nodeid=44810&contentlan=2&culture=en-US
+
+---
+
 ## Toukokuu 2015
 
 ### WWF Suomen lausunto kalastusasetusluonnoksesta (13.5.)
 
 Julkaistu: 14.5.2015  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/k/o/uedwkwfgf7owwi4svbbhonb/kalastusasetuslausunto_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -818,11 +1096,54 @@ Lähteet:
 
 ## Huhtikuu 2015
 
+### METSO-ohjelman rahoituksen turvaaminen vuosille 2015–2019 (28.4.)
+
+Julkaistu: 29.4.2015  
+Aiheet: Suomen metsät, Suomi  
+Linkki: https://wwf.fi/app/uploads/5/k/7/7qehpy5asdjg6ycygavuzmh/metso_vetoomus_mtk_mtry_sll_wwf.pdf
+
+28.4.2015 Lähettäjät: Maa- ja metsätaloustuottajain Keskusliitto MTK r.y. Metsäteollisuus ry Suomen luonnonsuojeluliitto ry WWF Suomi Vastaanottajat: Eduskuntaryhmät Valtionvarainministeriö Ympäristöministeriö Maa- ja metsätalousministeriö
+
+Asia: METSO-ohjelman rahoituksen turvaaminen vuosille 2015–2019 Maa- ja metsätaloustuottajain Keskusliitto MTK ry, Metsäteollisuus ry, Suomen luonnonsuojeluliitto ry ja WWF Suomi vetoavat yhdessä kaikkiin eduskuntaryhmiin ja asianomaisiin ministeriöihin, jotta EteläSuomen metsien monimuotoisuusohjelma METSO:n rahoitus turvattaisiin alkavalla hallituskaudella vuosina 2015–2019. METSO-ohjelman määrärahat tulee säilyttää vähintään nykytasolla. Suojelualueiden perustamiseen tulee varata vuosittain noin 30 miljoonaa euroa. Määräaikaisiin suojelusopimuksiin sekä talousmetsien luonnonhoitoon tulee varata vuosittain vähintään noin 7 miljoonaa euroa. METSO-ohjelman tavoitteena on pysäyttää metsäisten elinympäristöjen ja metsälajien taantuminen vuoteen 2025 mennessä. Konkreettisena tavoitteena on perustaa pysyviä suojelualueita noin 100 000 hehtaarilla ja toteuttaa talousmetsien luonnonhoitoa sekä määräaikaisia suojelusopimuksia 82 000 hehtaarilla. Nämä keinot yhdessä turvaavat Suomen metsäluonnon monimuotoisuutta merkittävällä tavalla. METSO-ohjelman tavoitteilla ja keinoilla on laaja eri toimijaryhmien tuki. Vapaaehtoisuuteen perustuva ohjelma on parantanut luonnonsuojelun hyväksyttävyyttä ja lisännyt metsä- ja ympäristöalan toimijoiden välistä yhteistyötä. METSO-ohjelman toteutukseen on oltava riittävät resurssit, jotta sen toimivuus, hyväksyttävyys ja uskottavuus pysyisivät edelleen korkealla tasolla. Niinpä järjestöt vetoavatkin yhdessä METSO-ohjelman rahoituksen nykytason turvaamisen puolesta tulevalla hallituskaudella vuosina 2015–2019.
+
+Lisätiedot: Juha Hakkarainen, metsäjohtaja, Maa- ja metsätaloustuottajain Keskusliitto MTK r.y, p. 0400 870 867 Tomi Salo, metsäjohtaja, Metsäteollisuus ry, p. 045 875 8911 Risto Sulkava, puheenjohtaja, Suomen luonnonsuojeluliitto ry, p. 050 560 2113 Liisa Rohweder, pääsihteeri, WWF Suomi, p. 040 840 7461
+
+---
+
+### Ympäristöjärjestöjen kirje ministeri Orpolle Itämeren turska-, silakka-ja kilohailikantojen monivuotisesta hoitosuunnitelmasta (15.4.)
+
+Julkaistu: 15.4.2015  
+Aiheet: Itämeri, Liikakalastus, Suomi  
+Linkki: https://wwf.fi/app/uploads/v/e/d/ootno75hkplspsqpkvi2nud/minister-letter-baltic-map-2015-4-15.pdf
+
+Maa- ja metsätalousministeri Petteri Orpo petteri.orpo@mmm.fi Dear minister Orpo, In the upcoming AgriFish Council meeting you will discuss the Commission’s proposal for the Baltic multi-annual plan (MAP) [2014/0285 (COD)], and in particular the Presidency proposal for a compromise. We urge Member States to adhere to the binding objectives of the Common Fisheries Policy (CFP), to be mindful of the Fisheries Committee vote of 31st March, and to carefully address the following issues: -
+
+MAP objective. The objectives of multi-annual plans need to reflect the agreed language in the CFP to ensure consistency and delivery of the policy’s objectives. Article 3 of the Commission’s proposal does not include language on restoring and maintaining fish populations above levels that can produce the maximum sustainable yield (MSY), which is a core objective of the new CFP. Furthermore, the proposal seems to establish different objectives for different types of stocks. This is not in line with the CFP, which states that populations of all harvested species should be restored and maintained above MSY levels, i.e., for all stocks. Therefore, Article 3 must be adapted to set the clear objective to restore and maintain all harvested species above levels capable of producing the MSY.
+
+-
+
+Sustainable fishing mortality rates. Article 2.2. of the CFP requires exploitation rates (F) that restore and maintain populations of harvested species above levels which can produce the MSY. Therefore, F ranges in Article 4 must be set below FMSY levels. Yet, the Commission requested that ICES provide values for fishing mortality around FMSY, and these values were subsequently integrated into the Commission’s proposal in Article 4. The UN Fish Stocks Agreement identifies FMSY as a minimum standard for an upper limit reference point which is in line with International Council for the Exploration of the Sea (ICES) framework for advice. As a consequence, the proposed F ranges exceed the MSY exploitation rate FMSY and are therefore inappropriate.
+
+-
+
+Conservation reference points. The Commission’s proposal is framed to react if stocks fall below the Minimum Spawning Biomass level (Article 5). This is a level well below the biomass which can produce MSY (BMSY), and represents a level where the risk of stock collapse is increased. The proposal therefore lacks the ambition of the agreed CFP to restore and maintain stocks above biomass levels capable of producing MSY. The proposal should be amended to ensure measures are taken as soon as biomass levels fall below BMSY rather than the Minimum Spawning Biomass. Also within the framework of the evaluation of the plan and consistent with the CFP, the Commission should report on progress towards restoring and maintaining fish stocks above levels capable of producing MSY on an annual basis.
+
+-
+
+Ecosystem-based approach. Implementing the ecosystem-based approach is a fundamental objective of the CFP (Article 2.3). The multi-annual plan must therefore include wording under
+
+Article 3 that reflects the need to protect the wider marine environment, contribute to achieving Good Environmental Status, and integrate the ecosystem-based approach to fisheries management. In addition, the plan needs to encompass measures to minimise the impact of fisheries on the marine ecosystem and to avoid degradation of the wider marine environment. This includes minimising the impact on seabirds, marine mammals and the integrity of the seabed. Environmental non-governmental organisations of Finland acknowledge that the Fisheries Committee of the European Parliament has taken steps to address the issues above and are urging member states to demonstrate the same level of ambition to implement the reformed CFP. We look forward to working with you throughout the negotiations on the Baltic MAP and are available for any questions or feedback you might have. Yours sincerely, Hanna Paulomäki, Oceana, Itämerikampan johtaja. puh +358 409311690
+
+Tapani Veistola, erityisasiantuntija, Suomen luonnonsuojeluliitto puh. +358 400 615 530 Teemu Lehtiniemi, suojelu- ja tutkimusjohtaja, BirdLife Suomi puh +358 400 749 786 Jari Luukkonen, Suojelujohtaja, WWF Suomi
+
+cc. Valtiosihteeri Tiina Rytilä (tiina.rytila@mmm.fi)
+
+---
+
 ### WWF Suomen lausunto luonnoksesta Valtioneuvoston asetukseksi kestävän metsätalouden rahoituksesta (8.4.)
 
 Julkaistu: 8.4.2015  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/q/a/25sqtlfbl3agdumpst7drbg/wwfn-kemera-lausunto-docx.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -851,7 +1172,6 @@ Annukka Valkeapää, metsäasiantuntija (annukka.valkeapaa@wwf.fi)
 
 Julkaistu: 2.4.2015  
 Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/y/m/ywq33rvcvrekkixfgc3jhbh/wwf-lausunto-ym-mhs-tpo.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -897,7 +1217,6 @@ Nordström, M., Högmander, J., Halkka, A., Keränen, S., Kunnasranta, M., Numme
 
 Julkaistu: 30.3.2015  
 Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/n/l/6/eogrwinbhtkahit6oaffrxh/wwf-lausunto-ym-suomenlahden-merikansallispuistot-150330.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -951,7 +1270,6 @@ Sanna Kuningas meriasiantuntija sanna.kuningas@wwf.fi
 
 Julkaistu: 18.3.2015  
 Aiheet: Liito-orava  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/o/w/c/kpaa32zawnkk7z3vynxgzuf/wwfn-lausunto-liito_oravaohjeeseen-180315.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1002,7 +1320,6 @@ Annukka Valkeapää, metsäasiantuntija (annukka.valkeapaa@wwf.fi)
 
 Julkaistu: 6.2.2015  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/k/x/j/f7zotebfkjl7kvuea34ycwd/wwfn-lausunto-metsaetilastoinnista-060215.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1031,7 +1348,6 @@ Annukka Valkeapää Metsäasiantuntija
 
 Julkaistu: 3.2.2015  
 Aiheet: Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/y/w/5wa6vhjfsnj5xrwdzjlsh6e/wwf-suomen-lausunto-koskien-kalataloushallinnon-uudelleen-organisointia.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1058,11 +1374,51 @@ Lisätietoja: Matti Ovaska, Suojeluasiantuntija, p. 040 7273149, matti.ovaska@ww
 
 ---
 
+### WWF Finland’s comments on NKF Bothnian Bay vendace trawl (12.1.2015)
+
+Julkaistu: 3.2.2015  
+Aiheet: Itämeri  
+Linkki: https://wwf.fi/app/uploads/r/q/k/ewqipnzeafa2xcodxlmx67b/wwf-finlands-comments-on-nkf-bothnian-bay-vendace-trawl.pdf
+
+WWF Finland Lintulahdenkatu 10, FI-00500 HELSINKI Tel: +358 9 7740 100 www.wwf.fi, www.panda.org
+
+January 12, 2015 Macarena García Silva
+
+BUREAU VERITAS CERTIFICATION Le Guillaumet 60 avenue du Général de Gaulle 92046 PARIS LA DEFENSE Cedex – FRANCE Re: WWF Finland’s comments on NKF Bothnian Bay vendace trawl PUBLIC COMMENT DRAFT REPORT Dear Ms. Garcia Silva, WWF Finland and the WWF International Smart Fishing Initiative appreciate the opportunity to submit comments on the Public Comment Draft Report (PCDR) for the NKF Bothnian Bay vendace trawl fishery to Bureau Veritas Certification. WWF is participating as an active stakeholder in the MSC assessment process for the NKF Bothnian Bay vendace trawl fishery and we wish to present detailed documentation on improvements that we believe are necessary for the fishery to fully meet the MSC requirements for a fully sustainable fishery. In the opinion of WWF, the PCDR has left important issues unaddressed or unresolved concerning retained catch of whitefish under MSC Principle 2 which we discuss in detail below. We have structured our comments in the format provided within the MSC Fisheries Assessment Methodology (FAM), directly addressing the Performance Indicator (PI) for each component of concern in accordance with the Scoring Guideposts (SG). Please feel free to contact us if you have any questions. Respectfully,
+
+Jari Luukkonen
+
+Matti Ovaska
+
+Dr. Annika Mackensen
+
+Conservation Director World Wide Fund for Nature, Finland
+
+Fisheries Officer World Wide Fund for Nature, Finland
+
+Fisheries Certification and Livelihoods Manager World Wide Fund for Nature, Smart Fishing Initiative
+
+Retained Species 2.1.1 Outcome Status PI: The fishery does not pose a risk of serious or irreversible harm to the retained species and does not hinder recovery of depleted retained species. The PCDR does not provide sufficiently detailed information on the risk to whitefish populations in relation to the NKF Bothnian Bay vendace trawl fishery. As noted by Peer Reviewer 2, the taxonomic classification used in the PCDR is unclear and inconsistent and needs to be clarified. Whitefish are categorized as a group comprised of multiple populations, forms or species with unclear taxonomy. Generally, whitefish in the Baltic Sea can be divided into anadromously migrating whitefish stocks and more local sea-spawning whitefish. Stated complexes include species and/or populations previously recorded under the scientific names Coregonus balticus, C. maraena, C. oxyrinchus (Baltic stocks, if C. oxyrinchus was not restricted to River Rhine), C. lavaretus and C. pallasii. The species and/or populations in this complex are distributed throughout the coastal waters of the HELCOM area, including adjacent rivers and streams.1 It is imperative that the status of the migratory whitefish (Coregonus lavaretus L. / C. maraena) stocks in the Finnish side of the Bothnian Bay are also taken into account in the assessment of the NKF Bothnian Bay vendace trawl fishery, since the trawling area under consideration is located in very close proximity to the Finnish border and Tornionjoki river, which serves as the main spawning area for indigenous migratory whitefish in Finland. Migratory whitefish are presently listed as endangered (EN) in Finland.2 They are furthermore listed endangered (EN) in the HELCOM Red List of Baltic Sea species in danger of becoming extinct.1The sea-spawning form of whitefish is listed vulnerable (VU) in Finland.2 Although the Finnish Game and Fisheries Research Institute (FGFRI) currently estimates that the sea-spawning whitefish stocks are strong in the Bothnian Bay3, the stocks in the southern parts of the Gulf of Bothnia currently face problems caused by increased sedimentation and occasional iceless winters.4 Based on the scoring guideposts for this PI, WWF does not believe that the partial strategy in place for the fishery can be expected to maintain whitefish stocks at a level that is highly likely to be within 1
+
+HELCOM (2013). Species Information Sheet, Coregonus maraena. HELCOM Red List Fish and Lamprey Species Expert Group 2013. Available at << http://helcom.fi/Red%20List%20Species%20Information%20Sheet/HELCOM%20Red%20List%20Coregonus%20mar aena.pdf >> 2 Urho, L., Pennanen, J. T. & Koljonen, M.-L. (2010). Kalat Fish, Pisces. In Rassi, P., Hyvärinen, E., Juslén, A. & Mannerkoski, I. (eds.). Suomen lajien uhanalaisuus – Punainen kirja 2010. Ministry of the Environment & Finnish Environment Institute, Helsinki. P. 336–343. 3 Finnish Game and Fisheries Research Institute (2014). Perämeren karisiikakannat ovat vahvoja, vaellussiian tila huolestuttava. Finnish Game and Fisheries Research Institute press release, last edited 12.11.2014. Available at << http://www.rktl.fi/uutiset/perameren_karisiikakannat_vahvoja.html >> 4 Hudd, R., Hasselborg, T., Huuskonen, H., Jokikokko, E. & Veneranta, L. (2013). Proportion of natural reproduction in the whitefish stocks of Finnish and Swedish coastal rivers and environmental requirements for spawning and larval habitats. Whitefish Workshop 26.- 27.11.2013. Available at << http://www.rktl.fi/www/uploads/pdf/whitefish_ws_2013_wg2_notes_edit1.pdf >>
+
+biologically based limits as required at the SG80 level. In the scoring comments section of the PCDR (p.
+62) for PI 2.1.1(a) it states that “the stock is likely to be approaching biological limits” and in the narrative section it states that whitefish may already be outside safe biological limits (p. 23). Thus, the first scoring guidepost (a) for PI 2.1.1 is only met at the SG60 level and should be rescored to no higher than 70 pending a more accurate information is available on the status of individual whitefish stocks in the Bothnian Bay that accounts for differences between sea-spawning and migratory whitefish populations. The third scoring issue for PI 2.1.1 requires that a partial strategy of demonstrably effective management measures be in place such that the fishery does not hinder recovery and rebuilding. Given the current high numbers of juvenile whitefish bycatch and the lack of stock specific information on the status of sea-spawning and migratory whitefish populations WWF does not consider that the measures in place can be considered a partial strategy that can be shown to be demonstrably effective. We strongly recommend that third scoring guidepost (c) should be rescored at no higher than 70. In summary, WWF strongly recommends that PI 2.1.1 be rescored at no higher than 70 and that a condition be set requiring careful monitoring of the status of whitefish catch in relation to population trends. It is crucial to understand the effects of vendace trawling on whitefish populations especially if the status of whitefish declines. In the case of such a scenario, fishing effort in vendace trawling must be adjusted using the collected catch data to meet the conservation needs of whitefish stocks.
+
+2.1.2 Management Strategy PI: There is a strategy in place for managing retained species that is designed to ensure the fishery does not pose a risk of serious or irreversible harm to retained species. Whitefish is an important species, both for recreational as well as commercial fishery in the Baltic Sea. In Finland the commercial whitefish catch has decreased since 1990, despite the fact that some 7–10 million fingerlings and 40–60 million larvae are stocked into the Gulf of Bothnia yearly. Additionally the data from Tornionjoki river catches reveal that both the amount and mean size of returning spawners have declined since 1980. River catches of migratory whitefish in river Tornionjoki have been reported exhaustively as a result of historical reasons and fishing rights. In 2009 migratory whitefish catches from Kukkolankoski fishing site was noted as the second worst during the reporting period which began in the 1940’s.5 In recent years the decline of mean size and total catch appear to have stabilized at low levels. Currently, there is not a strategy in place for managing bycatch that is designed to ensure the fishery does not pose a risk of serious or irreversible harm to whitefish populations. The existing management measures can at best be considered a partial strategy to manage retained catch as they are not designed
+
+Finnish Game and Fisheries Research Institute (2011). Tulostavoiteraportti maa- ja metsätalousministeriölle. Kalakantojen tila vuonna 2010 sekä ennuste vuosille 2011 ja 2012, Silakka, kilohaili, turska, lohi, siika, kuha ja ahven. Riista- ja kalatalouden tutkimuslaitos 29.6.2011. Available at << http://www.rktl.fi/www/uploads/pdf/Kala/tulostavoiteraportti_2011_kalakantojen_tila.pdf >>
+
+to consider this retained species component specifically and do not adequately consider stock differentiation among whitefish populations in a manner that will ensure the fishery does not pose a risk of serious or irreversible harm to retained species populations (see MSC Certification Requirements version 1.3 GCB 3.3).Therefore, we believe that the current management measures remain substantially insufficient to address bycatch of whitefish species and do not constitute a partial or full strategy. For these reasons we recommend a score for this PI of no more than 80 based on the scoring guideposts.
+
+2.1.3 Information / Monitoring PI: Information on the nature and extent of retained species is adequate to determine the risk posed by the fishery and the effectiveness of the strategy to manage retained species. WWF recommends that the scoring guideposts under PI 2.1.3 be carefully evaluated and rescored based on information presented regarding retained catch of whitefish. Under the first scoring guidepost (a), the fishery does not appear to meet SG100 guidepost as there is not information available on the consequences of whitefish catch for affected populations and should be rescored at 80. Under the second scoring guidepost the PCDR clearly establishes the fact that information is not sufficient to estimate the outcome status with respect to biologically based limits in regards to whitefish and as a result his SG should score no higher than 70. Finally, under the fourth scoring guidepost (d) it is unclear that the current monitoring scheme will detect increased risk to endangered whitefish populations. WWF recommends that PI 2.1.3 be rescored to less than 80 and that a condition be set that for this PI that highlights the need for further examination regarding the effects of vendace trawling on endangered whitefish populations. Monitoring the amount of by-caught whitefish should be carried out together with research regarding origin, age distribution and composition (migratory vs. sea-spawning) of whitefish by-catch. It is crucial to understand the effects of vendace trawling on whitefish populations especially if the status of whitefish were to decline. In the case of such a scenario, fishing effort in vendace trawling must be adjusted using the collected catch data to meet the conservation needs of whitefish stocks.
+
+---
+
 ### WWF Suomen lausunto Itämeren lohikannan monivuotisesta hoitosuunnitelmasta (4.2.2015)
 
 Julkaistu: 3.2.2015  
 Aiheet: Itämeri, Suomen uhanalaiset kalat  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/k/c/i/xshfkqfdqvebz4526zam3jf/wwf-suomen-lausunto-itaemeren-lohikannan-monivuotisesta-hoitosuunnitelmasta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1093,7 +1449,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 30.1.2015  
 Aiheet: Energiatehokkuus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/m/k/scvte7fhubl26u4z4z4gvyf/wwf-lausunto-tem.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1120,11 +1475,36 @@ Jere Lehtomaa Suojeluasiantuntija
 
 ---
 
+### WWF:n kirje ministereille: Aika sanoa ei kivihiilihankkeiden vientiluotoille (22.1.2015)
+
+Julkaistu: 22.1.2015  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/k/s/e/ojs4gt5bnxaj4ma3knp6ohb/wwf-aika-sanoa-ei-kivihiilihankkeiden-vientiluotoille-2015-01-22.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+22.1.2015 Arvoisat pääministeri Alexander Stubb, valtionvarainministeri Antti Rinne, elinkeinoministeri Jan Vapaavuori, ympäristöministeri Sanni Grahn-Laasonen ja kehitysministeri Sirpa Paatero, Hyväksyykö Suomi kivihiilihankkeiden tukemisen vientiluotoilla? On aika sanoa ei. OECD:n vientiluottoryhmä keskusteli jälleen marraskuussa 2014 ilmastonmuutoksen torjunnan kannalta tärkeästä tekijästä – hiili-intensiivisten hankkeiden vientiluotoista. Tavoitteena on saada aikaan sopimus OECD:n piirissä ennen Pariisin ilmastokokousta joulukuussa 2015. Kansallinen valmisteleva vientiluottotyöryhmä kokoontuu tänään muodostamaan Suomen kantaa huomisen perjantain (23.1.) EU:n neuvoston vientiluottoryhmän kokoukseen. Suomi on kansainvälisillä foorumeilla ilmaissut sitoumuksensa luopua hiili-intensiivisten hankkeiden rahoittamisesta Yhdysvaltojen ja muiden pohjoismaiden lailla1 sekä suunnitelmista luopua kivihiilen käytöstä vuoteen 2025 mennessä2. Nyt Suomi on kuitenkin tietojemme mukaan tukemassa EU-komission epävirallista esitystä, joka nykymuodossaan mahdollistaa kivihiilihankkeiden tukemisen edelleen vientiluottojen avulla. Tämä on räikeässä ristiriidassa esitettyjen sitoumusten ja tavoitteiden kanssa. Suomen kannan valmistelu on toistaiseksi ollut ministeriöiden (TEM, VM, YM, UM) ja Finnveran edustajista koostuvan valmistelevan vientiluottotyöryhmän vastuulla. Valmistelu tapahtuu työ- ja elinkeinoministeriön johdolla. WWF katsoo, että asianomaisten ministereiden on aika ohjata valmistelua siten, että Suomi sanoo selvästi ei ilmaston kannalta erittäin haitallisille kivihiilihankkeille. Suomen tulee esittää päästötasostandardia (Emission Performance Standard, EPS), jonka tasoksi tulee asettaa korkeintaan 550 g CO2/kWh. EPS-järjestelyn käyttöönotto olisi OECD:n vientiluottopolitiikan päivittämistä nykypäivään. Euroopan investointipankki (EIB) ja Yhdysvaltain vientiluottolaitos (US Export Credit Agency US Ex-Im) ovat ottaneet esitetyn tasoiset päästötasostandardit (550 g ja 500 g) käyttöön jo vuonna 2013.
+
+1 http://www.presidentti.fi/public/default.aspx?contentid=282968 2
+
+http://presidentti.fi/public/default.aspx?contentid=313087&nodeid=44810&contentlan=2 &culture=en-US
+
+© naturepl.com / Edwin Giesbers / WWF
+
+EU:n neuvoston vientiluottoryhmä kokoontuu huomenna perjantaina. Tietojemme mukaan komission eri yleisosastot eivät ole osoittaneet halukkuutta viedä OECD:n vientiluottojärjestelyjä koskevia periaatteita ilmastokriisin välttämisen edellyttämälle tasolle. Jäsenmaiden on nyt osoitettava johtajuutta. Toivon teidän, arvon ministerit osoittavan johtajuutta tässä asiassa! Se on myös Suomen edun mukaista. Suomen kohdalla vastuullisen linjausten tekemisen pitäisi olla erityisen helppoa, koska suomalaisilla yrityksillä ei ole merkittävissä määrin edellä mainittujen hiili-intensiivisten hankkeiden kaltaista vientitoimintaa. Tai ainakaan Finnvera ei ole tähän mennessä käytännössä myöntänyt vientiluottoja tai -takuita suomalaisten yritysten vastaavan tyyppisille vientihankkeille. Oheinen WWF:n analyysi3 osoittaa, kuinka riittävän alhainen EPS-taso on välttämätön osaratkaisu ilmastokriisin pysäyttämisessä. Ystävällisin terveisin,
+
+Liisa Rohweder pääsihteeri WWF Suomi p. 040 840 7461 Lisätiedot: Jussi Nikula ohjelmapäällikkö WWF Suomi p. 040 5959002 jussi.nikula@wwf.fi
+
+3 http://wwf.fi/mediabank/7003.pdf
+
+---
+
 ### WWF:n lausunto poikkeusluvalla sallittavasta suden metsästyksestä poronhoitoalueen ulkopuolella metsästysvuonna 2014—2015 (14.1.2015)
 
 Julkaistu: 14.1.2015  
 Aiheet: Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/i/j/4gnectzcc3ev5cu6gvocuse/wwf-lausunto-susikiintioeasetus-150114-valmis.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1151,7 +1531,6 @@ Petteri Tolvanen ohjelmapäällikkö
 
 Julkaistu: 14.1.2015  
 Aiheet: Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/i/4/l/3nrxcrvex5j25tnxqnj5bwg/wwf-lausunto-luonnoksesta-suden-hoitosuunnitelmaksi_14012014.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1264,7 +1643,6 @@ ohjelmapäällikkö
 
 Julkaistu: 12.1.2015  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/6/d/xowxucnavdkkovtlfjvpuib/wwf-lausunto-tem-saehkoen-tuotantotuki-2015-tammikuu.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1288,5 +1666,25 @@ käyttö nautti 70 milj. euroa verotukea. Talousarvioesitys arvioi verotuen kasv
 Jari Luukkonen Suojelujohtaja WWF Suomi
 
 lisätiedot: Jussi Nikula ohjelmapäällikkö WWF Suomi p. 040 5959002 jussi.nikula@wwf.fi
+
+---
+
+### Muistutus koskien Jakkuvärkin tuulivoimapuiston osayleiskaavaehdotusta (18.12.2014)
+
+Julkaistu: 9.1.2015  
+Aiheet: Suomi  
+Linkki: https://wwf.fi/app/uploads/a/v/w/w23fz7fbxrlazkw2r55p26g/jakkuvaerkki-muistutus-wwf-141218.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+Porin kaupunginhallitus Kaupunkisuunnittelu kaupunkisuunnittelu@pori.fi
+
+18.12.2014
+
+Muistutus koskien Jakkuvärkin tuulivoimapuiston osayleiskaavaehdotusta WWF Suomi muistuttaa, että Porin kaupungin Jakkuvärkin alueelle suunnitellun tuulivoimapuiston nähtävänä olevan osayleiskaavaehdotuksen käsittelyn edellytyksenä olevia tietoja uhanalaisen merikotkan esiintymisestä ei ole tällä hetkellä saatavissa. Tuulipuiston reunalla kaadettiin runsas vuosi sitten merikotkan pesäpuu, eli alueella on merikotkan reviiri. Syyskuussa 2014 laaditussa kaavaehdotuksen selostuksessa merikotka on ohitettu ylimalkaisella maininnalla, eikä marraskuussa 2013 tapahtuneesta merikotkan pesäpuun kaadosta mainita mitään. Kaadetun puun pesään syntyi kesällä 2013 kaksi poikasta, mutta tästä huolimatta ei aluetta pidetä kaavaehdotuksen mukaan merikotkalle erityisen tärkeänä alueena. Merikotkan pesäpuu on lain nojalla rauhoitettu ja sen kaataminen on rikos. Vaikka syyllistä ei ole saatu selville, WWF vaatii, että osayleiskaava laitetaan viideksi vuodeksi jäihin. Tänä aikana voitaisiin seurata asettuuko merikotka uudelleen pesimään kaava-alueelle tai sen lähistölle. Olisi täysin väärä signaali, jos Porin kaupunki päättäisi kaavaehdotuksen hyväksymisestä sellaisenaan. Näin tuulipuiston suunnittelijat käytännössä vapautettaisiin ottamasta huomioon alueella olevaa merikotkan reviiriä, jolta on laittomasti kaadettu pesäpuu. Samalla annettaisiin vaarallinen ennakkotapaus vastaavalle laittomalle toiminnalle muualla. Tuulivoima on hyvin tärkeä tulevaisuuden energiavaihtoehto. Sen rakentaminen ei kuitenkaan saa vaarantaa merkittäviä luonnonarvoja eikä aiheuttaa riskejä uhanalaisille lajeille.
+
+Jari Luukkonen suojelujohtaja WWF Suomi
 
 ---

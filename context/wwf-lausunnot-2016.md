@@ -1,9 +1,8 @@
 # WWF Suomi – Lausunnot 2016
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 37 (uusin 7.12.2016).
+Kohteita: 45 (uusin 7.12.2016).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 37 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -11,13 +10,19 @@ Huom: 37 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 7.12.2016 – WWF:n lausunto susikiintiöasetuksesta metsästysvuosille 2016–2018 (7.12.2016)
 
+**Marraskuu 2016**
+
+- 2.11.2016 – Järjestöjen yhteiset tavoitteet Marrakechin ilmastoneuvotteluihin (1.11.2016)
+
 **Lokakuu 2016**
 
 - 28.10.2016 – WWF:n lausunto Valtioneuvoston ruokapoliittisesta selonteosta eduskunnalle (28.10.2016)
 - 27.10.2016 – WWF:n lausunto Natura-verkoston täydentämisestä (26.10.2016)
+- 20.10.2016 – WWF:n ja Suomen luonnonsuojeluliiton yhteisvalitus Sankapalonsuon turvetuotantoalueesta (20.10.2016)
 - 13.10.2016 – WWF:n lausunto Valtioneuvoston kirjelmästä eduskunnalle Euroopan komission ehdotuksesta Euroopan parlamentin ja neuvoston asetukseksi (Maankäyttö, maankäytön muutos ja metsätalous, LULUCF) (14.10.2016)
 - 13.10.2016 – WWF Suomen kannanotto hallituksen esityksestä eduskunnalle Pariisin sopimuksen hyväksymisestä ja sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta (13.10.2016)
 - 5.10.2016 – WWF:n lausunto”Hallituksen esitys eduskunnalle laiksi päästökaupasta johtuvien epäsuorien kustannusten kompensoimisesta” (5.10.2016)
+- 3.10.2016 – WWF:n kommentti tuulivoimarakentamisen oppaan päivitysluonnoksesta (30.9.2016)
 - 3.10.2016 – WWF:n lausunto Puruveden Natura 2000 -alueen tietojen päivittämisestä (30.9.2016)
 
 **Syyskuu 2016**
@@ -39,6 +44,9 @@ Huom: 37 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 **Heinäkuu 2016**
 
 - 21.7.2016 – WWF:n lausunto hallin, itämerennorpan, saukon ja euroopanmajavan metsästyksestä (21.7.2016)
+- 18.7.2016 – Ympäristöjärjestöjen yhteinen kirje Junckerille päästökaupan ulkopuolisen sektorin taakanjakopäätöksestä (18.7.2016)
+- 14.7.2016 – Liisa Rohwederin (WWF Suomi) ja Geneviève Ponsin (WWF European Policy Office) kirje EU-komission varapuheenjohtajalle Jyrki Kataiselle: LULUCF-sektorin ei pidä antaa vesittää ei-päästökauppasektoria (13.7.2016)
+- 11.7.2016 – WWF:n kirje sekä elinkeinoministeri Rehnille että maatalous- ja ympäristöministeri Tiilikaiselle koskien Euroopan energiaunionille sopivaa hallintojärjestelmää (8.7.2016)
 
 **Kesäkuu 2016**
 
@@ -56,6 +64,7 @@ Huom: 37 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 **Huhtikuu 2016**
 
+- 18.4.2016 – WWF:n kirje ministeri Stubbille ilmastonmuutoksen aiheuttamista riskeistä rahoituslaitoksille (17.4.2016)
 - 8.4.2016 – WWF:n lausunto valtioneuvoston asetuksesta saimaannorpan suojelemiseksi tehdyistä kalastusrajoituksista (8.4.2016)
 
 **Maaliskuu 2016**
@@ -70,6 +79,7 @@ Huom: 37 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 26.2.2016 – WWF:n lausunto ilmastonmuutosta koskevan Pariisin sopimuksen allekirjoittamisesta (26.2.2016)
 - 23.2.2016 – WWF:n lausunto metsähallituslaista (5.2.2016)
+- 19.2.2016 – WWF:n kirje ministeri Tiilikaiselle EU:n ilmasto- ja energiapolitiikasta (11.2.2016)
 - 3.2.2016 – WWF:n vetoomus UPM:lle Ärjän hakkuiden lopettamiseksi (3.2.2016)
 - 1.2.2016 – WWF:n lausunto alusten painolastivesien käsittelyä koskevan kansainvälisen yleissopimuksen hyväksymisestä (8.12.2015)
 - 1.2.2016 – WWF:n lausunto merialuesuunnittelusta (27.1.2016)
@@ -82,7 +92,6 @@ Huom: 37 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 Julkaistu: 7.12.2016  
 Aiheet: Suomi, Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/m/3/j/uzrqtyjf3niu5xnxv2eltdf/wwf-lausunto-mmm-susi-kiintioeasetus-161207.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -121,13 +130,107 @@ Petteri Tolvanen ohjelmapäällikkö
 
 ---
 
+## Marraskuu 2016
+
+### Järjestöjen yhteiset tavoitteet Marrakechin ilmastoneuvotteluihin (1.11.2016)
+
+Julkaistu: 2.11.2016  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/t/t/4/64xwk5vdtjd7w5uaysy4ghd/jarjestojen-tavoitteet-marrakechin-ilmastoneuvotteluihin-2016.pdf
+
+KUVA: JULIEN B / FLICKR
+
+Vuosi Pariisista: Tarttuuko Suomi ilmastotoimiin? Järjestöjen tavoitteet Marrakechin ilmastoneuvotteluihin 2016
+
+Pariisin ilmastosopimus solmittiin alle vuosi sitten. Se astuu voimaan historiallisen nopeasti. Viesti ei voisi olla selvempi: maailma on valmis muutokseen. Nyt vaaditaan välittömiä toimia, muuten maailma pelastuu vain paperilla.
+
+Lisäksi on olennaista saada lento- ja laivaliikenne kunnianhimoisen ilmastopolitiikan piiriin mahdollisimman pian. Kansainvälisen siviili-ilmailujärjestön (ICAO) ehdotus lentoliikenteen päästöjen hillitsemiseksi on täysin riittämätön suhteessa 1,5 asteen tavoitteeseen3.
+
+Maiden lupaukset päästöjen leikkaamisesta ovat nykyisellään täysin riittämättömiä. Ilman nopeita toimia maapallon keskilämpötila uhkaa nousta keskimäärin kolme astetta1. Seuraukset olisivat hallitsemattomia.
+
+•
+
+•
+
+Suomen ympäristö-, nuoriso- ja kehitysjärjestöt vaativat, että Marrakechissa päätetään seuraavista asioista: •
+
+Käännetään globaalit päästöt välittömästi laskuun
+
+•
+
+Ryhdytään toimiin kaikkien rahavirtojen ohjaamiseksi vähähiilisen kehityksen mukaisiksi
+
+•
+
+•
+
+•
+
+Kaikkien maiden tulee laatia vuoteen 2050 ulottuva suunnitelma päästöjen vähentämisestä vuoden 2018 ilmastokokoukseen (COP24) mennessä. Kaikkien maiden tulee nostaa vuoden 2030 päästövähennystavoitteensa yhdenmukaiseksi 1,5 asteen tavoitteen kanssa. EU:n kohdalla tämä tarkoittaa vähintään 60 prosentin päästövähennystä vuoteen 2030 mennessä, päästökaupan päästövähennystavoitteen nostamista ja ylimääräisten päästöoikeuksien mitätöimistä välittömästi. Kansainvälistä asiantuntijayhteistyötä ilmastotoimien kirittämiseksi sekä Global Climate Action Agenda -toimintaohjelman hankkeiden laadun varmistamiseksi tulee lisätä. Kansainvälisen lento- ja laivaliikenteen on sitouduttava Pariisin ilmastosopimuksen tavoitteisiin ja oltava ilmastoneutraali vuosisadan puolessavälissä.
+
+Vauhditetaan vahinkojen ja menetysten käsittelyä
+2. Rahoitus kohdilleen ja läpinäkyväksi Ilmastokaaoksen torjuminen vaatii, että tuhansien miljardien dollarien rahavirrat käännetään ongelmista ratkaisuihin - aivan kuten Pariisin sopimuksen 2. artikla edellyttää. Pariisissa annettujen sitoumusten täyttäminen vaatisi Kansainvälisen energiajärjestön (IEA) arvion mukaan4 energiasektorilta 13 500 miljardin dollarin investoinnit pelkästään energiatehokkuuteen ja vähähiiliseen teknologiaan vuoteen 2030 mennessä.
+
+1. Tavoitteet 1,5 asteen mukaisiksi Energiamurroksen vauhdittaminen on ennakoivaa ilmastovastuun kantamista. Globaalit kasvihuonekaasupäästöt on saatava laskuun välittömästi, jotta Pariisin ilmastosopimuksen tavoitteisiin voidaan päästä. Nykytahdilla kulutamme noin viidessä vuodessa loppuun hiilibudjetin, joka tähtää siihen, että ilmasto ei lämpene enempää kuin 1,5 astetta2.
+
+Ilmastonmuutoksen hillinnän lisäksi teollisuusmaat ovat sitoutuneet tukemaan haavoittuvien maiden ilmastotoimia mobilisoimalla niille vuosittain vähintään 100 miljardia dollaria vuoteen 2020 mennessä5, jatkaen vähintään samalla tasolla vuoteen 2025 asti. Todellisten tarpeiden ja rahoituslupausten välillä ammottaa kuitenkin valtava kuilu6. Tilannetta ei paranna se, että lukuisat teollisuusmaat yrittävät paisutella rahavirtoja paperilla todellisuutta suuremmiksi.
+
+Marrakechissa on sovittava ilmastotoimista, joita maat tekevät välittömästi, jo ennen vuotta 2020. Euroopan unioni voi lisätä kunnianhimon tasoa esimerkiksi nostamalla päästökaupan päästövähennystavoitetta ja peruuttamalla ylimääräiset päästöoikeudet päästökauppakausien väliltä.
+
+3 1
+
+Arviot vaihtelevat välillä 2-5,2 astetta riippuen todennäköisyyksistä ja maiden ilmastotoimien ehdoista sekä kunnianhimosta vuoden 2030 jälkeen. http://www.wri.org/blog/2015/11/insider-why-are-indc-studiesreaching-different-temperature-estimates https://www.carbonbrief.org/analysis-only-five-years-left-before-onepoint-five-c-budget-is-blown
+
+4 5 6
+
+http://carbonmarketwatch.org/press-statement-global-aviation-climatemeasure-an-uncertain-first-step/ http://www.iea.org/media/news/WEO_INDC_Paper_Final_WEB.PDF (sivut 4-5) Pariisin päätös, kohdat 53 ja 114. http://unfccc.int/resource/docs/2015/cop21/eng/10a01.pdf Katso esimerkiksi YK:n ympäristöohjelman raportti sopeutumisrahoituksen tarpeesta ja nykytilasta http://web.unep.org/adaptationgapreport/sites/unep.org. adaptationgapreport/files/documents/agr2016.pdf
+
+ilmastonmuutoksen seurauksena jopa 250 miljoonaa ihmistä voi joutua tien päälle8.
+
+Marrakechissa on sovittava kansainvälisen ilmastorahoituksen tiekartasta ja rahoituksen tasoa on nostettava nopeasti jo ennen vuotta 2020. Samalla rahoituksen läpinäkyvyyttä ja rahoitukseksi laskettavien virtojen määritelmää on tarkennettava.
+
+Pariisin ilmastosopimuksessa vahinkojen ja menetysten korvaamista käsitellään Varsovan mekanismin (WIM) alla. Mekanismin raamit vahvistettiin Pariisin sopimuksessa, mutta uskottava päivitys tarvitaan nopeasti. Päivityksessä tulee käsitellä seuraavia asioita:
+
+Päästöhuutokauppatulojen korvamerkitseminen ilmastorahoitukseksi Suomessa ja EU-tasolla sekä rahoitusmarkkinaveron (Financial Transaction Tax) käyttöönotto osoittaisivat kehitysmaille, että EU pyrkii kantamaan oman osansa ilmastovastuusta. Myös lentokerosiinivero tai lento- ja laivaliikennepäästökaupan tulojen ohjaaminen ilmastotoimiin ovat hyviä uusia rahoitusmahdollisuuksia.
+
+• • •
+
+Rahoituksen osalta järjestöt vaativat, että: • • •
+
+• •
+
+•
+
+Ilmastorahoituksesta laaditaan konkreettinen, vuosiin 2020 ja 2025 ulottuva suunnitelma. Ilmastorahoitus on uutta ja lisäistä suhteessa kehitysyhteistyövaroihin. Julkinen rahoitus toimii ilmastorahoituksen tukirankana. Sitä hyödynnetään vipuvoimana yksityisen rahoituksen saamiselle vain hankkeissa, jotka eivät muuten toteutuisi. Lainoja ei lasketa ilmastorahoitukseksi. Vähintään 50 prosenttia rahoituksesta ohjataan ilmastonmuutoksen vaikutuksiin sopeutumiseen.
+
+• •
+
+YK:n ilmastosopimuksen 22. osapuolikokous (COP22) järjestetään Marrakechissa, Marokossa 7.–18.11.2016. Asialistalla ovat erityisesti ennätysajassa 4.11.2016 voimaan astuvan Pariisin sopimuksen toimeenpanosäännöt, eli miten ja mihin mennessä säännöt neuvotellaan valmiiksi. Erityishuomiota saavat myös välittömät, ennen vuotta 2020 tehtävät lisätoimet päästöjen leikkaamiseksi sekä ilmastorahoitus, joita puidaan erityisistunnoissa.
+
+3. Vahinkoihin ja menetyksiin sekä ilmasto pakolaisuuteen tartuttava Aina ilmastonmuutoksen aiheuttamaa tuhoa ei voi korvata. Vahingoilla ja menetyksillä tarkoitetaan tilanteita, joissa ilmastonmuutoksen hillintä ei riitä estämään haitallisia vaikutuksia eikä ympäristön muutoksiin ole enää mahdollista sopeutua. Kun nouseva merenpinta nielaisee kodin ja elinkeinon, on ihmisiä tuettava uuden elämän rakentamisessa.
+
+Juhlavuutta asialistaltaan melko tekniselle kokoukselle tuo Parisiin sopimuksen osapuolten ensimmäinen kokous (15.–18.11.2016), jonka anti jäänee pitkälti seremonialliseksi, sekä korkean tason osuus, jolloin kokouksen isäntämaa Marokko odottaa paikalle valtionpäämiehiä (15.–16.11.2016).
+
+Kyse on valtavan mittaluokan haasteesta, josta yksittäiset maat kärsivät suhteettoman paljon. Esimerkiksi Komorit arvioi7, että vahingot ja menetykset nousevat maan bruttokansantuotetta suuremmiksi vuoteen 2020 mennessä. Punaisen Ristin mukaan vuonna 2013 yli 22 miljoonaa ihmistä joutui pakenemaan kodeistaan ilmastoon liittyvistä syistä. Arvioiden mukaan vuonna 2050 7
+
+http://www4.unfccc.int/Submissions/INDC/Published%20Documents/ Comoros/1/INDC_Comores_Version_Francaise.pdf Sivu 6.
+
+Sovitaan Varsovan mekanismin riittävästä rahoituksesta. Laaditaan viisivuotiset strategiset toimintasuunnitelmat mekanismin kehittämiseksi. Arvioidaan mekanismin toimivuus viiden vuoden välein. Sovitaan lisätoimista ilmastopakolaisuuden ehkäisemiseksi ja laaditaan suositukset ilmastopakolaisuuden käsittelemiseen. Laaditaan ilmastopakolaisuudelle virallinen määritelmä ja status. Vahvistetaan ohjelmaa riskien hallinnan, vakuutusten ja varoitusmekanismien kehittämiseksi.
+
+Ilmastoneuvottelujen isäntämaa Marokko haluaa kokouksen keskittyvän erityisesti päästövähennysten käytännön toteutukseen, joten varsinaisten neuvottelujen ohessa ohjelmassa on runsaasti päästövähennysten käytännön toteutukseen pureutuvia, teemoittain järjestettyjä tapahtumia.
+
+http://www.ifrc.org/en/news-and-media/press-releases/general/cop21-thered-cross-red-crescent-urges-states-and-partners-to-implement-the-parisclimate-agreement-with-a-focus-on-the-people-most-exposed-at-risk-andvulnerable/
+
+Finland
+
+---
+
 ## Lokakuu 2016
 
 ### WWF:n lausunto Valtioneuvoston ruokapoliittisesta selonteosta eduskunnalle (28.10.2016)
 
 Julkaistu: 28.10.2016  
 Aiheet: Ruoka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/s/c/a/ofz5wvfglrei2nteymfvmhf/lausunto_ruokapolitiikka.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -190,7 +293,6 @@ Jussi Nikula, ohjelmapäällikkö (jussi.nikula@wwf.fi)
 
 Julkaistu: 27.10.2016  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/x/c/e3hqlhbgkjgg56oje3xiqce/wwf_lausunto_natura.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -230,11 +332,107 @@ Vanessa Ryan, meriasiantuntija (vanessa.ryan@wwf.fi)
 
 ---
 
+### WWF:n ja Suomen luonnonsuojeluliiton yhteisvalitus Sankapalonsuon turvetuotantoalueesta (20.10.2016)
+
+Julkaistu: 20.10.2016  
+Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Suomen metsät, Suomi  
+Linkki: https://wwf.fi/app/uploads/f/3/t/nnps4mjguzlv74xryqo6bmd/valitus-haoeen-sankapalonsuon-turveluvasta-003.pdf
+
+VAASAN HALLINTO-OIKEUDELLE vaasa.hao@oikeus.fi Asia
+
+Valitus Pohjois-Suomen aluehallintoviraston 20.9.2016 tekemästä päätöksestä Nro 125/2016/1, Dnro PSAVI/69/04.08/2013 (liite 1)
+
+Luvan hakija Tainikoski Oy Työmiehenkuja 10 95200 Simo
+
+Valittajat Prosessiosoite Suomen luonnonsuojeluliiton Lapin piiri ry Valtakatu 22 96200 Rovaniemi puh. 040 823 2443 sähköp. lappi@sll.fi Suomen luonnonsuojeluliitto ry Itälahdenkatu 22 b A 00210 HELSINKI puh. 040 671 9555 sähköp. pasi.kallio@sll.fi Maailman Luonnon Säätiö (WWF), Suomen rahasto Lintulahdenkatu 10 00500 Helsinki puh. 09 7740 100 sähköp. matti.ovaska@wwf.fi
+
+Selvitys valitusajasta Päätökseen liitetyn valitusosoituksen mukaan määräaika valituksen tekemiseen on 30 päivää päätöksen antopäivästä sitä määräaikaan lukematta. Valitusaika päättyy 20.10.2016 virka-aikana eli 16.15.
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+Vaatimukset Lupapäätös on kumottava ympäristönsuojelu-, vesienhoito- ja luonnonsuojelulain vastaisena.
+
+Perustelut Hankkeen sijaintipaikka on ongelmallinen Sankapalonsuo sijaitsee Simojoen keskiosan tuntumassa, lähellä Natura 2000-verkostoon kuuluvaa Simojoen pääuomaa. Lyhin etäisyys hankealueesta pääuomaan on noin 300 metriä. Kuivatusvedet johdettaisiin 108,2 hehtaarin alalta laskuojaa pitkin Hiiskuanojaan ja edelleen Simojokeen. Tuotantoalueen jätevedet virtaisivat laskuojassa noin 470 metriä ennen Hiiskuanojaa ja Hiiskuanojassa noin kilometrin matkan ennen laskua pääuomaan. Simojoen vesistön Natura 2000 -suojeluperusteena on Fennoskandian luonnontilaiset jokireitit -luontotyyppi ja kirjojokikorento. Simojoki on Tornionjoen ohella ainoa Perämereen laskeva joki, jossa on elinvoimainen alkuperäinen lohikanta. Lohen lisäksi vesistössä tavataan alkuperäisinä kalalajeina muun muassa taimenta (erittäin uhanlainen/äärimmäisen uhanlainen), vaellussiikaa (erittäin uhanalainen), muikkua ja harjusta. Jokisuulla on myös pyyntivahva nahkiaiskanta. Simojoki on ns. kalavesidirektiivin kohde.
+
+Vaikutukset veden laatuun on puutteellisesti arvioitu Hankkeen vesistöpäästöt on laskettu perinteiseen tapaan ominaiskuormituslukujen perusteella määräaikoina otetuista näytteistä, mikä tuottaa systemaattisen päästöjen aliarvion. Tutkimuksin on osoitettu, että suurin osa turpeennostoalueiden kuormituksesta tapahtuu lyhytaikaisten virtaamahuippujen aikana, jota määräaikainen velvoitetarkkailu ei pysty saamaan selville. Oleellista on, että suurimmat kiintoainemäärät lähtevät liikkeelle jo virtaaman nousuvaiheessa ja pitoisuus pienenee nopeasti virtaaman kääntyessä laskuun. Jos näytteenotto ei ajoitu juuri virtaaman nousuvaiheeseen, päästöpiikki jää havaitsematta ja vaikuttamatta kuormitustason arvioon, kuten tyypillisesti jääkin. Toinen ominaiskuormituslukujen luotettavuutta heikentävä tekijä on, että ympärivuotista tarkkailua suoritetaan vain muutamalla suolla, joten myös suokohtaiset päästöerot jäävät piiloon. Esimerkiksi vuonna 2013 läheisen Kuivajoen vesistöalueen neljästätoista turvesuosta vain kaksi oli tarkkailussa. Oheinen kuva (liite 2) on otettu 26.4.2013 Kuivajokeen laskevan Kuurtosuon pintavalutuskentän kokoojaojan vierestä. Poikkeuksellisen voimakkaan kevättulvan tuomiset olisi voinut koota pintavalutuskentältä vaikka lapiolla, mutta tuona vuonna suolta ei otettu yhtään näytettä. Oma lukunsa ovat vielä ne lietteet, joita vesimassat kuljettavat ympärysojiin ja metsäojiin ja niitä myöten suoraan vesistöön. Siitäkin oli myös Kuurtosuolta näyttöä.
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+Samanlaisia havaintoja on tehty kautta maan, mikä on johtanut voimakkaaseen kritiikkiin turvetuotannon vesiensuojelusta ja päästöjen mittaustavasta. Sen johdosta korkein hallinto-oikeus velvoitti Pyhännän Isoa Pajusuota koskevassa päätöksessään (1064/2015) toiminnanharjoittajaa ja Pohjois-Pohjanmaan ELY-keskusta täydentämään tarkkailusuunnitelmaa niin, että tarkkailulla saadaan luotettavasti selville todellinen vesistöön kohdistuva kuormitus tilanteissa, joissa virtaama on poikkeuksellisen suuri. Pohjois-Pohjanmaan ELY-keskus on tehnyt päätöksen tarkkailusuunnitelmasta (liite 3), mutta koska siitä on jätetty oikaisuvaatimuksia, se ei ole vielä lainvoimainen. Päätöksen sisällöstä voidaan kuitenkin todeta, että siinä on oikeansuuntaisia ajatuksia, joita kehittämällä ja täsmentämällä on mahdollista päästä nykyistä selvästi luotettavampaan päästömittaukseen. Sankapalonsuon kuormitusarvio ei ole riittävän luotettavalla pohjalla eikä siten oikeuta luvan myöntämiseen.
+
+Arvioinnin puutteellisuuden merkitys Pohjois-Suomen aluehallintoviraston (AVI) päätös on luonnonsuojelulain vastainen, sillä hankkeesta ei ole tehty lain 65 §:ssä tarkoitettua vaikutusten arviointia. Kyseinen lainkohta edellyttää hankkeen vaikutusten arviointia, jos hanke joko yksistään tai yhdessä muiden hankkeiden kanssa todennäköisesti merkittävästi heikentää Natura-alueen luonnonarvoja. Tämä velvoite koskee myös alueen ulkopuolella toteutettavia hankkeita, mikäli niiden vaikutukset ulottuvat kyseiselle Natura-alueelle. Hakija toteaa, että kun huomioidaan Simojoen valuma-alueella jo olemassa olevat kuormittajat sekä Sankapalonsuon turvetuotantohankkeen laajuus, hakijan arvion mukaan hankkeella ei ole merkittävää heikentävää vaikutusta luontodirektiivin liitteen I luontotyypin ”Fennoskandian luonnontilaiset jokireitit” luonnonarvoihin, eikä Natura-arviointia ole tarpeen tehdä. AVI on päätöksensä perusteluissa puolestaan tyytynyt vain toteamaan, että hanke ei todennäköisesti merkittävästi heikennä kyseisen Simojoen Natura-alueen luonnonarvoja, eikä erillistä Natura-arviota ole näin ollen tarpeellista tehdä. AVI ei kuitenkaan millään tavalla perustele tätä näkemystään, mikä on lain soveltamisen ja päätöksen lainmukaisuuden arvioinnin kannalta täysin riittämätöntä. Kuten esimerkiksi Ympäristöministeriön Natura-arviointia koskevissa ohjeissakin todetaan, merkittävien vaikutusten mahdollisuutta harkittaessa on syytä noudattaa varovaisuusperiaatetta ja arviointiin on ryhdyttävä, mikäli merkittävät heikentävät vaikutukset eivät ole objektiivisten seikkojen perusteella poissuljettuja. Tällöin on tärkeää perustella kirjallisesti dokumentoiden, miksi on päädytty siihen, ettei arviointi ole tarpeellista. (Vaikutusten arviointia koskevia ohjeita, Heikki Korpelainen, Ympäristöministeriö 1.4.2013). Tämä lähtökohta on vahvistettu myös Euroopan unionin tuomioistuimen oikeuskäytännössä, erityisesti asiassa C-127/02 (Waddenzee). Tältä osin AVI:n antama päätös on selkeästi puutteellinen, sillä päätöksessä ei ole perusteltu sitä, miksi arviointia ei ole ollut tarpeen tehdä. Riittävää ei ole vain todeta, ettei arviointitarvetta ole. Kuten hakija itsekin toteaa, alueella on jo ennestään muuta kuormitusta. Luvan myöntämisen perusteena ei voi käyttää sitä, että lisääntyvällä kuormituksella ei olisi enää
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+4 merkittävää vaikutusta, vaan ennemminkin tilanne on päinvastainen. Luonnonsuojelulain 65 § nimenomaisesti edellyttää yhteisvaikutusten arviointia, jolloin myös yksittäinen kuormituksen lisäys voi johtaa Natura-alueen merkittävään heikentymiseen. Katsomme että päätös on siten luonnonsuojelulain vastainen, sillä hankkeen osalta olisi tullut tehdä luonnonsuojelulain 65 §:n mukainen arviointi, jossa olisi otettu huomioon hankkeen ympäristövaikutukset yhdessä muiden, jo olemassa olevien kuormitusta aiheuttavien hankkeiden kanssa. Lisäksi asiassa pitää ottaa huomioon luontodirektiivin liitteen II ja IV (a) lajeihin kuuluva kirjojokikorento. Kirjojokikorento on yksi Simojoen Natura-alueen suojeluperusteista, minkä ohella sen lisääntymis- ja levähdyspaikkojen hävittäminen ja heikentäminen on luonnonsuojelulain 49.1 §:n perusteella kielletty. Säännökset edellyttävät kattavaa selvitystä siitä, miten kyseinen hanke vaikuttaa lajin olosuhteisiin. Kirjojokikorentoa on kuitenkin etsitty vain yhtenä iltapäivänä yhdeltä osalta aluetta sellaisena päivänä, jolloin ei havaittu muitakaan sudenkorentoja, mikä osoittaa selvityksen riittämättömyyden. Arvioinnin puutteilla on merkitystä myös vesipuitedirektiivin ja vesienhoitolain mukaisen vesienhoitosuunnitelman ja toimenpideohjelman tavoitteiden näkökulmasta, sillä hankkeella on haitallisia vaikutuksia vedenlaatuun ja kalastoon.
+
+Kalataloudelliset vaikutukset merkittävästi haitallisia Asiantuntijalausunnon Tainikoski Oy:n hakemuksesta on antanut Lapin ELY-keskus / Pohjois-Suomen kalatalouspalvelut. Kalatalousviranomaisen lausunnossa on tuotu esille Simojoen lohikannan vaikea kehitys ja hidas elpyminen. Joen jo pitkään seurattu smolttituotanto on päässyt vasta vajaaseen puoleen arvioidusta potentiaalista. Lohen merikalastuksen tiukentunut säätely on viime vuosina näkynyt kasvaneina nousulohien määränä erityisesti Pohjanlahteen laskevissa joissa. Simojoella uusi ennätys saavutettiin kesällä 2016, kun jokeen nousi Luonnonvarakeskuksen kaikuluotauksen perusteella yli 5.000 lohta. Kasvaneesta kutukannasta huolimatta Simojoella lohen poikastiheyksissä on ollut huomattavaa vuosittaista vaihtelua ilman selkeää syytä. Vuosina 2012 ja 2013 Simojokeen nousi kaikuluotausseurannan perusteella suunnilleen sama emokalamäärä, mutta kudusta syntyneiden poikasvuosiluokkien vahvuudet erosivat toisistaan selvästi (Jokikokko & Iivari 2014). Myös vuonna 2015 Simojoella havaittiin, että aiempiin vuosiin verrattuna noin kolmanneksen suurempi kutevien lohien määrä ei näkynyt poikastuotossa, vaan lohen kesänvanhoja poikasten tiheys puolittui edellisvuodesta (Luonnonvarakeskus 2015). Syytä Simojoen heikkoon ja vaihtelevaan poikastuotantoon on etsittävä joen olosuhteista. Tässä tapauksessa erityisen merkittäviä ovat ne laatutekijät, joilla voi olla kielteisiä vaikutuksia lohikalojen poikastuotantoon. Kutualueisiin kohdistuneiden suorien perkausvaikutusten lisäksi kutualueiden määrään ja laatuun on Simojoella vaikuttanut laajat metsäojitukset sekä turvetuotanto. Valuma-alueen maankäyttö on äärevöittänyt joen virtaamia ja lisännyt kiintoaineen, humuksen, raudan, alumiinin, typen ja fosforin huuhtoutumista, minkä seurauksena jokiuoman pohja on liettynyt ja virtausolot ovat
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+5 muuttuneet. Lohikalojen kutupaikan valintaa sekä kutusoraikoissa talvehtivien mätimunien elinympäristövaatimuksia kuvataan kirjallisuuteen perustuen laajasti Riista- ja kalataloudentutkimuslaitoksen julkaisussa Elämää soraikon ulkopuolella ja sisällä – lohen ja taimenen kutupaikan valinta sekä mädin elinympäristövaatimukset (Louhi & MäkiPetäys 2003). Selvityksen mukaan lohikalojen mätimunien ja poikasten selviytymisen ja kehityksen kannalta keskeistä on kutusoraikon läpäisevyys ja happipitoisuus, jotka korreloivat keskenään positiivisesti. Kiintoaineen sedimentoituminen pienentää soraikon sisäistä happipitoisuutta soravälien tukkeutumisen sekä orgaanisen aineksen hajoamisen seurauksena. Sedimentaationopeus ja –syvyys riippuvat virtausolojen ja aineksen määrän lisäksi aineksen laadusta: mitä hienojakoisempaa aines on, sitä syvemmälle ja sitä enemmän ainesta sedimentoituu pohjalle. Kalatalousviranomaisen lausunnossa mainitaan Kiiminkijoella ja sen sivujoella, Nuorittajoella tehtyjen tutkimusten tulokset, joissa turvetuotannon kuormituksen on todettu aiheuttavan lohen ja meritaimenen mädin ja poikasten alentunutta säilyvyyttä sekä poikasten heikentynyttä kasvua. Tutkimuksella tarkoitettaneen Suomen ympäristö 34 julkaisua vuodelta 1996: Turvetuotannon vaikutukset koskikaloihin ja niiden elinympäristöön (Laine ym. 1996). Tutkimuksen johtopäätöksissä todetaan muun muassa:  Kesänvanhojen lohien säilyvyys heikkeni kuormituksen kasvun myötä.  Lohikalojen poikasten kasvu heikkeni. Syyksi epäiltiin ravinnon kokojakaumaan tai saatavuuteen liittyviä tekijöitä, mihin viittasivat erot kalojen mahojen täyteisyydessä ja eräiden suurikokoisten pohjaeläinryhmien osuudessa kalojen ravinnossa.  Suurikokoisiksi kasvavien vesiperhossukujen toukkien määrät vähenivät yksivuotiaiden lohikalojen poikasten ravinnossa.  Taimenen mädin säilyvyys heikkeni. Vaikka ero oli tilastollisesti merkittävä vain yhdellä havaintokerralla, se oli kaikilla kerroilla samansuuntainen. Orgaanisen kiintoaineen määrä kosken pohjalla arvioitiin haudontakauden aikaista vedenlaatua merkittävämmäksi mädin ja poikasten säilyvyyteen vaikuttavaksi tekijäksi. Luonnosta kerätyn aineiston lisäksi kiintoaineen vaikutusta lohikalojen selviytymiseen on tutkittu Suomessa myös laboratorio-olosuhteissa (Louhi ym. 2011). Laboratorio-olosuhteissa tehdyssä tutkimuksessa havaittiin poikasten selviytymisen olevan riippuvainen hienon orgaanisen kiintoaineen (<0,074 mm) määrästä. Hienon orgaanisen kiintoaineen havaittiin vähentävän poikasten selviytymistä merkitsevästi, vaikka sitä oli kokonaiskiintoainekertymässä suhteessa hyvin pieni määrä (1,5 %). Vastaavasti Julien & Bergeron (2006) mukaan hieno kiintoaine (<0,063 mm) voi olla poikasten selviytymisen kannalta kriittinen tekijä jo 0,4% osuutena. Turvetuotannon näkökulmasta tämä on erittäin hälyttävä tulos, sillä hienojakoisen orgaanisen kiintoaineen pysäyttäminen on nykyisillä vedenkäsittelymenetelmillä erittäin vaikeaa ja epävarmaa. Louhen ym. (2011) tutkimuksessa havaittiin, että suoran kuolevuuden lisäksi kiintoainekuormitus vaikuttaa myös poikasten kelpoisuuteen. Tulosten mukaan kiintoainekuormitukselle altistuneilla poikasilla on keskimäärin suurempi ruskuaispussi kuin ilman kuormitusta kehittyneillä poikasilla. Suuri ruskuaispussi kertoo viivästyneestä
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+6 kehityksestä, jolloin poikaset ovat sorasta noustessaan heikompia uimareita ja helppoa saalista pedoille. Lisäksi pedon läsnä ollessa kontrolliryhmän poikaset viivyttivät sorasta nousun aloitusta, kun taas kiintoainekuormitukselle altistetuilla poikasilla vastaavaa käyttäytymistä ei havaittu. Näin ollen sedimentoituva kiintoaine ja hapen puute vaikuttavat niin poikasten selviytymiseen, fyysisiin ominaisuuksiin kuin sorasta nousun ajoittumiseen. Eli hapen puute soraikon sisällä myöhästyttää poikasten kehitystä, jolloin ne altistuvat sorasta noustessaan helpommin saalistukselle tai voivat ajautua epäedullisille elinalueille. Tätä tulosta tukevat myös monet aikaisemmat aihepiiriä käsittelevät tutkimukset (Witzel & MacCrimmon 1983; Kondolf 2000; Tappel & Bjornn 1983; Olsson & Näslund 1985; Roussel 2007). Louhen ym. (2011) laboratoriotutkimuksessa kiintoainekuormitus mitoitettiin vastaamaan ojitetun suomalaisen valuma-alueen kiintoainehuuhtoumaa, joten tulokset ovat hyvin sovellettavissa, kun arvioidaan voimakkaiden maanmuokkausmenetelmien, kuten turvetuotannon, vaikutuksia lohikalojen elinkiertoon. Toisaalta aikaisemmat suomalaiset tutkimukset (Jutila ym. 1995; Vuori ym. 1995; Laine ym. 2001) antavat viitteitä siitä, että kiintoaineen negatiiviset vaikutukset voivat luonnossa olla jopa huomattavasti Louhen ym. (2011) tutkimuksen tuloksia voimakkaammat. Esimerkiksi Laine ym. (2001) havaitsivat, että turvetuotannon vaikutuspiirissä olevassa jokivesistössä taimenen mädistä kuoriutui poikasiksi ainoastaan 0,2-9,1 %. Jutila ym. (1995) taas havaitsivat Lapväärtin-Isojoen vesistössä kiintoainekuormituksen aiheuttamien habitaattimuutosten olevan merkittävin taimenkantojen tiheyttä selittävä tekijä heti jokiuomien perkauksen jälkeen. Simojoella kiintoaineen vaikutusta lohikalojen heikkoon tai vaihtelevaan lisääntymismenestykseen ei ole toistaiseksi tutkittu. Luonnonvarakeskus on käynnistänyt vuonna 2015 Simojoen elinympäristömallinnus -hankkeen, jossa kunnostetaan lohen lisääntymis- ja poikasalueita sekä hankitaan numeerista tietoa. Lisäksi hankkeessa kartoitetaan Simojoen sivujokia ja arvioidaan valuma-alueelta tulevaa kuormitusta. Kesällä 2016 Simojoen kutualueita kunnostettiin lisäämällä kutusoraa keskeisille lisääntymisalueille ja toiminnan on tarkoitus jatkua myös kesällä 2017. Turvetuotannon voimakkaasti kuormittamalla Simojoella aihepiiristä tehtyjen tutkimusten osoittamat vaikutukset selittävät kuitenkin pitkälle Simojoen lohen lisääntymisvaikeudet. Näin ollen lisäkuormitus ei ole missään tapauksessa hyväksyttävää. Päinvastoin, Simojoella lohi-, taimen- ja vaellussiikakantojen elvyttäminen vaatii jo nykyisellään entistä tehokkaampia menetelmiä, joilla kiintoainekuormitusta ja virtaamien äärevöitymistä voidaan ehkäistä. Simojoen lohi-, taimen- ja vaellussiikakantojen suojelu edellyttää, että uusia turpeenottoalueita ei avata.
+
+Simojoen lohikannan tila vaikuttaa ammattikalastuksen ja kalastusmatkailun toimintaedellytyksiin Simojoen lohikannan elvyttäminen vaikuttaa merkittävästi kaupallisen kalastuksen toimintamahdollisuuksiin. Lohella on rannikkokalastuksen tulonmuodostuksessa
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+7 merkittävin rooli juuri Perämeren alueella. Lohi kuuluu EU:n yhteisen kalastuspolitiikan (YKP) kautta kiintiöillä säädeltäviin lajeihin. EU:n yhteistä kalastuspolitiikkaa koskevan perusasetuksen 1380/2013 tavoitteiden mukaisesti kalastusmahdollisuudet (kalastuskiintiöt) tulee asettaa niin, että kalakantojen hyödyntäminen kestävän enimmäistuoton mukaisesti saavutettaisiin mahdollisimman pian ja viimeistään vuoteen 2020 mennessä kaikkien kalakantojen osalta. Lohen kalastusmahdollisuuksien asettaminen perustuu kansainvälisen merentutkimusneuvoston (ICES) neuvonantoon, jossa huomioidaan Itämeren eri lohikantojen mahdollisuudet saavuttaa kestävää enimmäistuottoa vastaava taso vaelluspoikastuotannolla mitattuna. Lohen kalastuskiintiöt ovat siis suoraan riippuvaisia eri lohijokien vaelluspoikastuotannosta. Simojoki on toistaiseksi selvästi alle tavoitetason. Suomen lohija meritaimenstrategian (Valtioneuvoston periaatepäätös 2014) mukaisesti Simojoen smolttituotannolle asetetaan 80 % minimitavoite ja laaditaan toimenpideohjelma Simojoen lohikannan elvyttämiseksi. Näin ollen Simojen lohikannan elpyminen on perusedellytys lohen kalastukselle Simojoen edustan merialueella sekä Simojoessa. Lisäksi tieteellisessä neuvonannossaan ICES on toistuvasti korostanut, että heikkojen lohikantojen elvyttäminen vaatii kalastuksen säätelyn lisäksi myös entistä enemmän toimenpiteitä jokiympäristössä. Lohen ohella Simojoen valuma-alueella tapahtuva turvetuotanto vaikuttaa potentiaalisesti myös erittäin uhanalaiseen vaellussiikaan sekä erityisesti äärimmäisen uhanalaiseen meritaimeneen. Siika on saaliin arvossa mitattuna Suomen rannikkokalastuksen tärkein saalislaji ja Simojoki on Tornionjoen ohella merkittävin vaellussiian lisääntymisjoki Suomessa. Taimenkantojen tilasta Simojoen vesistössä ei ole selkeää kuvaa, mutta vesipuitedirektiiviin seurantadatan perusteella taimenesta on Simojoella lähinnä yksittäisiä havaintoja. Tämä indikoi Simojoen taimenkantojen olevan todella kriittisessä tilassa. Meritaimenen heikosta tilanteesta kertoo myös se, että luonnonvarainen meritaimen rauhoitettiin uudella kalastusasetuksella (2016) kaikelta kalastukselta koko merialueella vuodesta 2019 alkaen. Ammattikalastuksen ohella Simojoen kalakantojen ja jokiympäristön tilan parantaminen vaikuttaa olennaisesti matkailuelinkeinon kehittämismahdollisuuksiin. Liiallisesta merikalastuksesta johtuen Simojoen nousulohimäärät ovat olleet pitkään vaatimattomia, mikä on luonnollisesti vaikuttanut myös kalastusmatkailun suosioon. Kasvaneet lohimäärät ovat kuitenkin lisänneet kalastusmatkailijoiden kiinnostusta Simojokea kohtaan ja Simojoen kalastusmatkailun kehittämiseksi on suunnitteilla useita hankkeita. Simojoki on hyvästä sijainnistaan johtuen erittäin potentiaalinen kohde kalastusmatkailun kehittämiseen, joten vaelluskalakantojen elvyttämisen epäonnistuminen voi vaarantaa merkittävästi tai jopa estää kalastusmatkailun kehittämisen Simojoella. Simojoen kalastusmatkailun potentiaalista antaa viitteitä se, että Simojoen kanssa hyvin verrannollisella Ruotsin Byske-joella kalastusmatkailun arvo on noussut viimeisen kymmenen vuoden aikana 5,4 miljoonasta Ruotsin kruunusta 12,6 miljoonaan kruunuun (Melin 2015). Vaeltavien ja uhanalaisten kalakantojen elvyttäminen on myös pääministeri Juha Sipilän
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+8 hallitusohjelman kärkihanke. Hallitusohjelman mukaisesti vahvistuneet kalakannat parantavat kestävän matkailun edellytyksiä, edistävät vaelluskalojen lisääntymisedellytyksiä, luonnon monimuotoisuutta sekä Itämeren hyvän ekologisen tilan saavuttamista. Näin ollen turvetuotannon aiheuttamat riskit Simojoen vaelluskalakantojen elvyttämiselle ovat myös hallitusohjelman tavoitteiden kanssa ristiriidassa. Näistä kalataloussyistä hankkeessa on kyse erityisten luonnonolosuhteiden huonontumisen lisäksi myös yleiseltä kannalta tärkeän muun käyttömahdollisuuden vaarantumista toiminnan vaikutusalueella (YSL 42.2 § kohta 4).
+
+Uudelle nostoalueelle ei todellista tarvetta Hakija perustelee uuden turvesuon kuivattamista sillä, että uusia soita tarvitaan tyhjiin kaivettujen tilalle. Peruste on heikko, sillä turpeen käyttö on muutaman viime vuoden kuluessa lähes puolittunut. Lähitulevaisuudessa turpeesta kasvihuonekaasujen kaikkein suuripäästöisimpänä polttoaineena täytyy kokonaan luopua, mikäli tavoite hiilineutraalista yhteiskunnasta otetaan vakavasti.
+
+Yhteenveto Edellä sanotun perusteella Suomen luonnonsuojeluliiton Lapin piiri ry, Suomen Luonnonsuojeluliitto ry ja WWF Suomi – kuten Lapin ELY-keskus/Pohjois-Suomen kalatalouspalvelut aikaisemmassa lausunnossaan – pitävät Sankapalonsuon turpeenottohanketta ympäristönsuojelulain 42 §:n 4 kohdan vastaisena ja vaativat ympäristöluvan kumoamista. KHO on aiemmissa ratkaisuissaan linjannut, että merkittävältä osin ojittamattoman suon kaivuusta väistämättä syntyvien lisäpäästöjen vaikutus on riski alkuperäisen taimenkannan lisääntymisen estymiseen. Tämä olisi merkittävää ympäristön pilaamista ja siten YSL:n 42 §:n vastaista (KHO:612:2016). Koska Sankapalonsuon kuivatusvedet väistämättä toiminnasta syntyvine lisäpäästöineen lasketaan vesistöön, jossa esiintyy paitsi alkuperäistä taimenta ja myös yksi Suomen viimeisistä alkuperäisistä lohikannoista, ei vesistöpäästöjen lisääntymisen tai pH-muutosten aiheuttamien riskien vuoksi lupaa mitenkään voida myöntää. Vedenlaatuun ja kalastoon liittyvät ongelmat johtavat myös vesienhoitolain 28 §:n ja luonnonsuojelulain Natura-säädösten ja kirjojokikorennon osalta myös 49 §:n vastaisuuteen.
+
+Varaamme itsellemme oikeuden täydentää lausuntoamme myös jatkossa. Rovaniemellä ja Helsingissä 19.10.2016 VAKUUDEKSI
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+9 Suomen luonnonsuojeluliiton Lapin piiri ry
+
+Seppo Aikio puheenjohtaja
+
+Tarja Pasma toiminnanjohtaja
+
+Suomen luonnonsuojeluliitto ry
+
+Risto Sulkava puheenjohtaja
+
+Päivi Lundvall toiminnanjohtaja
+
+WWF Suomi
+
+Jari Luukkonen suojelujohtaja
+
+Matti Ovaska suojeluasiantuntija
+
+LIITTEET
+1. Pohjois-Suomen aluehallintoviraston päätös 20.9.2016 Nro 125/2016/1, PSAVI/69/04.08/2013
+2. Kuva Kuurtosuosta tulva-aikana
+3. Pohjois-Pohjanmaan ELY-keskuksen päätös 17.5.2016 POPELY/2541/2015
+
+Dnro
+
+LÄHTEET Jokikokko, E. & Iivari, H. 2014. Simojoen lohikannan seurantatulokset 2009–2014. RKTL:n työraportteja 31/2014. Julien, H.P. & Bergeron, N.E. 2006. Effect of fine sediment infiltration during the incubation period on Atlantic salmon (Salmo salar) embryo survival. Hydrobiologia 563: 61–71. Jutila, E., Ahvonen, A., Laamanen, M. & Kiuru, M. 1995. Metsätalouden toimenpiteiden vaikutukset virtaavien vesien kaloihin ja kalatalouteen. Teoksessa Saukkonen, S. ja Kenttämies, K. (toim.) 1995. Metsätalouden vesistövaikutukset ja niiden torjunta. Suomen ympäristö 2: 281–296. Kondolf, G.M. 2000: Assessing salmonid spawning gravel quality. Transactions of the American Fisheries Society 129: 262-281. Laine, A., Heikkinen, K. & Sutela, T. 2001. Incubation success of brown trout (Salmo trutta) eggs in boreal humic rivers affected by peatland drainage. Arch Hydro-biol 150: 289-305.
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+10 Laine, A., Sutela, T., Heikkinen, K., Karvonen, K., Huhta, A., Muotka, T. & Lappalainen, A. 1996. Turvetuotannon vaikutukset koskikaloihin ja niiden elinympäristöön. Suomen ympäristö 34. 135 s. Louhi, P., Ovaska, M., Mäki-Petäys, A., Erkinaro, J. & Muotka, T. 2011. Does fine sediment constrain salmonid alevin development and survival? Canadian Journal of Fisheries and Aquatic Sciences 68(10): 1819-1826. Louhi, P. & Mäki-Petäys, A. 2003. Elämää soraikon ulkopuolella ja sisällä – lohen ja taimenen kutupaikan valinta sekä mädin elinympäristövaatimukset. Kalatutkimuksia 191. Riista- ja kalatalouden tutkimuslaitos. Helsinki, 26 s. Luonnonvarakeskus. 2015. Lohen poikasmäärät kasvavat edelleen Tornionjoella. Viitattu 11.10.2016. Saatavilla: << https://www.luke.fi/uutiset/lohen-poikasmaarat-kasvavat-edelleen-tornionjoella/ >> Melin, D. 2015. Sustainable development of recreational fishing and fishing tourism in Sweden. Kungl. Skogs- och Lantbruksakademien: Salmon and their management – new perspectives under changed conditions. Saatavilla <<http://www.ksla.se/wp-content/uploads/2015/07/Daniel-Melin.pdf>> Olsson, T.I. & Näslund, I. 1985. Effects of mire drainage and peat extraction on benthic invertebrates and fish. International peat society symposium, Sweden, No. 17: 147-152. Roussel, J.-M. 2007. Carry-over effects in brown trout (Salmo trutta): hypoxia on embryos impairs predator avoidance by alevins in experimental channels. Canadian Journal of Fisheries and Aquatic Sciences 64(5): 786–792. Tappel, P.D. & Bjornn, T.C. 1983. A new method of relating size of spawning gravel to salmonid embryo survival. North American Journal of Fisheries Management 3: 123-135. Vuori, K.-M., Joensuu, I. & Latvala, J. 1995. Metsäojitusten vaikutukset veden laatuun, pohjaeläimistöön ja taimenen ravintoon Isojoen vesistössä. Teoksessa Saukkonen, S. ja Kenttämies, K. (toim.) 1995. Metsätalouden vesistövaikutukset ja niiden torjunta. Suomen ympäristö 2: 265-279. Witzel, L.D. & MacCrimmon, H.R. 1983. Embryo survival and alevin emergence of brook charr, Salvelinus fontinalis, and brown trout, Salmo trutta, relative to redd gravel composition. Canadian Journal of Zoology 61: 1783-1792.
+
+Valtakatu 22, 96200 Rovaniemi tel. +35840 823 2443, lappi@sll.fi www.sll.fi/lappi | FB: sll.lapin.piiri | Twitter: SLL Lapin piiri | Skype: Suomen luonnonsuojeluliiton Lapin piiri ry
+
+---
+
 ### WWF:n lausunto Valtioneuvoston kirjelmästä eduskunnalle Euroopan komission ehdotuksesta Euroopan parlamentin ja neuvoston asetukseksi (Maankäyttö, maankäytön muutos ja metsätalous, LULUCF) (14.10.2016)
 
 Julkaistu: 13.10.2016  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/i/p/nddzu6ff2ner2hhmxtj7cyb/wwf-lulucf-lausunto-ympv-2016-10-14pdf.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -293,7 +491,6 @@ Esimerkki mahdollisesta tilanteesta, jossa hiilinielun vertailutason asettamises
 
 Julkaistu: 13.10.2016  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/7/6/djc6p65hnfnpjttkuefic7d/wwf-lausunto-pariisin-sopimus-1.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -316,7 +513,6 @@ Jari Luukkonen Suojelujohtaja Lisätietoja: Ilmastoasiantuntija Kaarina Kolle (k
 
 Julkaistu: 5.10.2016  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/s/6/da6j5ffavbnid7b7ktsvmcg/ympaeristoevaliokuntalausunto_paeaestoekauppakompensaatio_5_10_2016_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -403,11 +599,29 @@ Bundesministerium für Wirtschaft und Energie (BMWi): Haushalt 2017. http://www.
 
 ---
 
+### WWF:n kommentti tuulivoimarakentamisen oppaan päivitysluonnoksesta (30.9.2016)
+
+Julkaistu: 3.10.2016  
+Aiheet: Ilmastonmuutos, Suomi  
+Linkki: https://wwf.fi/app/uploads/x/c/y/ssz7w5rhnllcjfywa5w3l6a/wwf-kommentti-tuulivoimaopas-luonnokseen-30-9-2016.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 www.wwf.fi www.panda.org
+
+kirjaamo@ym.fi Viite: Kommenttipyyntönne 30.8.2016 Asia: WWF Suomen kommentti tuulivoimarakentamisen oppaan päivitysluonnoksesta Dnro YM2/501/2016 Tuulivoimarakentamisen oppaan päivitysluonnoksessa käsitellään tuulivoimarakentamisen linnustovaikutuksia ja niiden ennalta ehkäisyä kattavasti. Häiriö- ja törmäysalttiiden suurten petolintujen kohdalla opas kuitenkin kaipaa tarkennuksia. WWF on laatinut ohjeen merikotkan huomioimiseksi tuulivoimaloita suunniteltaessa (https://wwf.fi/mediabank/7087.pdf). Ohjeen linjauksia voidaan merikotkan lisäksi soveltaa myös muiden suurten petolintujen pesimäalueiden huomioinnissa. Ohjeessa todetaan tuulivoimarakentamiseen soveltumattomista alueista seuraavaa: Suunnittelussa tuulivoiman rakentamiselta pois suljettavia alueita ovat:
+• Merikotkan pesäpaikat ympäristöineen 2 km:n säteellä, mukaan lukien vaihtopesät.
+• Merikotkan pesien lähistöllä, noin 10 km:n säteellä, olevat lintujärvet, matalat merenlahdet, lintuluodot ja allikkoiset suot sekä lentoreitit näiden ja pesien välillä
+• Merikotkan potentiaaliset säännölliset kaartelualueet, joissa on voimakkaita nousevia ilmavirtauksia Perustelut: Pesänrakennuksen, pesinnän ja lentopoikasten ruokinnan aikana merikotka oleskelee enimmäkseen pesän lähistöllä. Satelliittilähettimellä varustettujen merikotkien liikkeitä seurattaessa on todettu, että pesästä lähdön jälkeen poikasten liikkuminen keskittyy noin 2 km:n säteelle pesästä useiden kuukausien ajan. Tällöin nuoret linnut ovat erityisen alttiita törmäyksille. WWF esittää edellä mainittujen tarkennusten huomioon ottamista oppaan valmistelussa.
+
+Jari Luukkonen suojelujohtaja WWF Suomi
+
+---
+
 ### WWF:n lausunto Puruveden Natura 2000 -alueen tietojen päivittämisestä (30.9.2016)
 
 Julkaistu: 3.10.2016  
 Aiheet: Saimaannorppa, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/a/c/6suo7zrbg3hninh6bgaxdfd/wwf-saimaannorppa-puruvesi-natura-lausunto-esaely-syyskuu-2016.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -436,7 +650,6 @@ Petteri Tolvanen ohjelmapäällikkö, suomalainen luonto
 
 Julkaistu: 29.9.2016  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/v/i/7/smualqfaujeuvjcxuwymjmf/lausunto_marpol_wwf.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -466,7 +679,6 @@ Vanessa Ryan Meriasiantuntija
 
 Julkaistu: 29.9.2016  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/u/d/3/spyzbefaknguoevdqkzen6c/talousvaliokuntalausunto_esr_27_9_wwf_kolle.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -519,7 +731,6 @@ Kaarina Kolle Ilmastoasiantuntija
 
 Julkaistu: 29.9.2016  
 Aiheet: Ilves, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/r/w/w/ze5pyavhavdyr5bonltcuye/wwf-lausunto-ilves-mmm-160928.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -546,7 +757,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 21.9.2016  
 Aiheet: Itämeri, Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/p/b/c/tqrfxoffmjg2xpnou4y2r3d/ymv_230916_e82_2016vp_kalastuskiintiot_wwflausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -581,7 +791,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 15.9.2016  
 Aiheet: Itämeri, Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/n/n/y/5ayuaara2xcjsppmd3hqt4c/mmv_150916_he103_2016_wwf_lausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -614,7 +823,6 @@ Lisätietoja: Matti Ovaska, Suojeluasiantuntija, p. 040 7273149, matti.ovaska@ww
 
 Julkaistu: 13.9.2016  
 Aiheet: Itämeri, Liikakalastus, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/o/i/r/tycew7jbq5eftrwz5jpusac/wwf_lausunto_sinisen-biotalouden-kehittaemissuunnitelma.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -657,7 +865,6 @@ Matti Ovaska, suojeluasiantuntija (matti.ovaska@wwf.fi)
 
 Julkaistu: 12.9.2016  
 Aiheet: Itämeri, Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/i/f/ail5755eyvgnqk5sx7r377e/wwf_lausunto_taimenenalamitta_29082016.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -686,7 +893,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 12.9.2016  
 Aiheet: Itämeri, Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/i/r/d6jdl3vhxni5spazdqmjmha/tac2017_wwflausunto_05092016.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -721,7 +927,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 5.9.2016  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/l/t/e/viftrnzgbxie7ixdvcvf5ba/lausunto-uhanalaisten-lajien-suojeluohjelma.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -776,7 +981,6 @@ Petteri Tolvanen Ohjelmapäällikkö
 
 Julkaistu: 25.8.2016  
 Aiheet: Luonnon köyhtyminen, Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/3/6/grftwvnccrhiwd2nmn5c5zf/tenosopimus_wwflausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -801,7 +1005,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 21.7.2016  
 Aiheet: Itämerennorppa, Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/f/2/o/mrwu4avdlnoojjhiqrrncbb/wwf-lausunto-hylkeet-majava-saukko-mmm-160721.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -850,13 +1053,187 @@ Petteri Tolvanen ohjelmapäällikkö, WWF Suomi
 
 ---
 
+### Ympäristöjärjestöjen yhteinen kirje Junckerille päästökaupan ulkopuolisen sektorin taakanjakopäätöksestä (18.7.2016)
+
+Julkaistu: 18.7.2016  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/t/b/o/cwi7x7zeh3pr7zcwghwwbda/starting-point-and-lulucf_juncker.pdf
+
+Re: LULUCF and Starting Point in the non-ETS sectors
+
+18th July 2016
+
+Dear President Juncker, This week you and your colleagues will make a final decision on a flagship climate instrument that tackles emissions from transport, building, agriculture and waste. Covering 60 per cent of the EU’s emissions, getting this instrument right is crucial to keep temperature rises well below 2 °C, and striving for 1.5°C. This is the first major test of the EU’s resolve to tackle climate change since the Paris Agreement was issued in December, and is therefore of international significance. In order to really pass that test, the level of ambition in this instrument should be substantially raised from the current -30% target to well beyond -45% emission reductions by 2030. While we are waiting for the EU Member States to agree on such an increase of the target, we understand that there are two issues in the proposal that are being discussed within the College: the starting point and inclusion of land use and forestry. Starting Point: The starting point for the new instrument should be set on the basis of a trajectory from actual 2016-2018 emissions. Since most Member States are expected to overachieve their 2020 ESD targets, starting at this level would avoid an additional 850 million tons of CO2 in the atmosphere.1 To ensure fairness, the starting point for those countries that will not meet their targets should be based on their 2021 ESD target. We believe this is a simple approach, which is an important attribute in a climate world full of jargon and accounting rules that alienate society. LULUCF: Carbon removals from forests and land use should be promoted in addition to (and not replacing) emission reductions in the existing ESD sectors. In this way, forests and land will be crucial in helping the EU go ‘below zero’ as most IPCC scenarios show is needed. It is crucial that forests are not used to delay action. Of particular concern are the accounting rules for forest management, which are notoriously complex and are already leading to hundreds of millions of windfall credits in the current period.2 Including these credits into the EU’s new instrument would leave the EU wide open to criticism and risks overshadowing the EU’s package as a whole. 1
+
+Calculating the 2021 – 2030 non-ETS carbon budget using the 2016-2018 average (default option) as the starting point leads to 22 491 Mt CO2-e. Using as the starting point the more realistic 2016-2018 linear trajectory capped by the 2020 target if the latter is lower leads to a reduced ( -850 Mt CO2-e) carbon budget of 21 641 MT CO2-e. Source: http://www.caneurope.org/docman/position-papers-and-research/eu-ets-2/2927-can-europe-briefing-nocheating-from-the-start-2030-climate-targets-for-eu-member-states/file 2 http://www.euractiv.com/section/sustainable-dev/news/forestry-carbon-credit-loophole-could-be-used-togame-climate-commitments/
+
+We urge you to use your influence to ensure that the instrument is not watered down in the final hours before the Commission issues its proposal. Yours sincerely, Saskia Ozinga, Campaigns coordinator, Fern Jos Dings, Executive Director, Transport and Environment Jeremy Wates, Secretary General, European Environmental Bureau Wendel Trio, Director, Climate Action Network Europe Geneviève Pons, Director, WWF European Policy Office Anja Leetz, Executive Director, Health Care Without Harm Europe Eduardo Cuoco, Director, IFOAM EU Natalia Alonso, Deputy Director of Advocacy & Campaigns, Oxfam Leo Stranius, Executive Director, Finnish Association for Nature Conservation Angelo Caserta, Regional Director, Birdlife Europe Femke De Jong, EU policy Director, Carbon Market Watch
+
+---
+
+### Liisa Rohwederin (WWF Suomi) ja Geneviève Ponsin (WWF European Policy Office) kirje EU-komission varapuheenjohtajalle Jyrki Kataiselle: LULUCF-sektorin ei pidä antaa vesittää ei-päästökauppasektoria (13.7.2016)
+
+Julkaistu: 14.7.2016  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/l/g/r/kzi3f4recvcfpbec67gkjre/esd_lulucf_katainen_13-7-2016_final.pdf
+
+WWF Suomi Lintulahdenkatu 10, FI-00500 Helsinki Finland.
+
+WWF European Policy Office 168 avenue de Tervurenlaan Box 20 1150 Brussels Belgium Tel: +32 2 743 88 00 Direct: +32 2 761 04 24 Fax: +32 2 743 88 19 gpons@wwf.eu www.wwf.eu EU Transparency Register Nr: 1414929419-24 VAT: BE 0460057241
+
+13.7.2016 LULUCF-sektorin ei pidä antaa vesittää ei-päästökauppasektoria
+
+Hyvä varapuheenjohtaja Katainen, Olemme ymmärtäneet, että harkitsette parhaillaan komission pian julkaisemaa kesäpakettia (arvioitu tulevan ulos 20. heinäkuuta). Paketti tulee sisältämään Suomen kansallisen jyvityksen niin sanotun taakanjaon alla (Effort Sharing Decision) ja LULUCF-sektorin roolin. Aihe on ollut Suomelle jo pitkään tärkeä metsiemme ja metsäteollisuutemme vuoksi. Metsät ovat kuitenkin myös hiilinieluja ja siksi niiden merkitys ilmastonmuutoksen hillinnässä on suuri. Onkin siis tärkeää varmistaa EU-tasolla, että niin Suomessa kuin muuallakin Euroopassa lainsäädäntömme valmistellaan tavalla, joka varmistaa sen, että nieluja ei käytetä porsaanreikänä ja että sektori pidetään erillään taakanjaosta. Siksi WWF korostaa seuraavia asioita, jotka tulee huomioida konsultaatiokierroksen aikana: Puupohjaisen bioenergian vaikutus hiilidioksipäästöihin -
+
+Toisin kuin alalla toimivat teollisuudenalat väittävät, vertaisarvioitujen tieteellisten tutkimusten mukaan puupohjainen bioenergia ei ole hiilineutraalia. Puupohjaisen bioenergian käyttö saattaa sen sijaan aiheuttaa hiilidioksidipäästöjä merkittävästi, mikäli ulotamme tarkastelujakson vuoteen 2050 asti1. Kun suhteutetaan päästöt tuotettuun energiamäärään, puupohjainen bioenergia tuottaa yhtä paljon tai jopa enemmän hiilidioksidipäästöjä kuin kivihiili.
+
+-
+
+Vuoteen 2050 ulottuvalla tarkastelujaksolla metsähakkuut vähentävät metsien hiilinieluja ja samalla puun energiakäyttö nostaa ilmakehän hiilidioksidipitoisuutta.
+
+“Joustomekanismit” LULUCF-sektorin ja ei-päästökauppasektorin (ESD) välillä -
+
+On totta, että Suomen (ja EU:n) metsät kasvavat takaisin satoja, ellei jopa tuhansia, vuosia jatkuneen metsäkadon jälkeen. Tämä onkin välttämätöntä, mikäli haluamme saavuttaa Pariisin sopimukseen kirjatut tavoitteet. Suotuisa kehitys ei kuitenkaan tarkoita, että voimme unohtaa teollisuuden, liikenteen ja maatalouden päästöjen vähentämisen. Molemmat kehityskulut – niin metsien kasvattaminen kuin ei-päästökauppasektoreiden dekarbonisaatio
+- ovat keskeisiä päästötavoitteiden saavuttamisessa.
+
+-
+
+Suomen hallitus on linjannut, että Suomen metsien hakkuita tullaan olennaisesti lisäämään tulevina vuosina osana biotaloussuunnitelmia. Tämä tulee vähentämään suomalaisen metsän
+
+1 Metsien hyödyntämisen ilmastovaikutukset ja hiilinielujen kehittyminen, 2015. Ilmastopaneeli.
+
+http://www.ilmastopaneeli.fi/uploads/selvitykset_lausunnot/Metsien%20hy%C3%B6dynt%C3%A4misen%20ilmastovaikutukset%20ja%20h iilinielujen%20kehittyminen.pdf
+
+nieluarvoa samalla2, kun sitä päinvastoin tulisi lisätä. Jo nykyisellä hakkuutasolla suomalaisen metsäluonnon monimuotoisuus on vähenemässä eli hakkuilla on kielteisiä vaikutuksia myös perinteisen luonnonsuojelun kannalta. -
+
+Kompensointi LULUCF-sektorin nielujen avulla hidastaa muiden sektoreiden vähähiilistä kehitystä. Toimet on aloittava sen sijaan heti.
+
+-
+
+Mahdollinen LULUCF-sektorin kompensaatio-oikeus loisi järjestelmään huolestuttavan porsaanreiän. Kasvavat metsävarat mahdollistaisivat jopa 94 miljoonan auton lisäämisen jäsenmaiden teille, 40 miljoonan asunnon energiatehokkuustoimenpiteiden lykkäämisen sekä kierrätyksen laiminlyömisen pakkausmuovien osalta miljoonien tonnien edestä ilman sanktioita.
+
+LULUCF-sektorin säännöt -
+
+Mitä tulee LULUCF-sääntöihin, jäsenmaiden itsemääräämisoikeutta ei rajoiteta niiden puitteissa. Mikäli maat haluavat lisätä hakkuitaan, LULUCF-säännöt eivät sitä estä. LULUCFsektorin säännöt koskevat ainoastaan hiilivarastojen muutosten oikeanlaista kirjanpitoa.
+
+-
+
+LULUCF-kirjanpidon tulisi heijastaa hiilivarastojen muutosta reaalimaailmassa, eikä teoreettisia jäsenmaiden tulevaisuuden suunnitelmia. Tämänkaltainen lähestymistapa tuo mukanaan riskin, että suuri määrä negatiivisia päästöjä “taiotaan” matkan varrella tyhjästä.
+
+-
+
+EU näyttää päätöksillään esimerkkiä muulle maailmalle. Mikäli emme osoita vahvaa sitoutumista Pariisin sopimuksen tavoitteisiin, on riski, että myös muu maailma seuraa malliamme. Samalla myös UNFCCC:n tavoitteet tiukoista LULUCF-säännöistä vaarantuvat. Meidän tulisi luoda järjestelmä, josta EU-kansalaiset voivat olla ylpeitä. Tämä edellyttää, että porsaanreiät on tukittava.
+
+Kannustamme teitä käyttämään vaikutusvaltaanne, jotta konsultaatiokierroksella oleva lakipakettia ei vesitettäisi.
+
+Ystävällisin terveisin,
+
+Liisa Rohweder Pääsihteeri WWF Suomi
+
+2 LULUCF: what would a good proposal look like? 2016. Fern.
+
+http://www.fern.org/sites/fern.org/files/briefingnote%20lulucf_FINAL21April.pdf
+
+Geneviève Pons Director WWF European Policy Office.
+
+Courtesy translation in English
+
+LULUCF should not be used to dilute non-ETS sectors Dear Vice-President Katainen, We understand that you are currently considering the ’summer package’, which is soon to be published by the Commission (expected 20 July). The package will include Finland's national ’fair share’ under what is known as the ’burden-sharing’ approach (the Effort Sharing Decision, ESD) and will cover the role of the LULUCF sector. This has been an important issue for Finland for a long time, due to our forests and forest industries. However forests are also carbon ’sinks’ that play a key role in mitigating climate change. It is therefore important to ensure, at EU level, that both in Finland and elsewhere in Europe, legislation prevents sinks being used as a loophole, and ensures that the sector is considered separately from the burden-sharing approach. For these reasons, WWF believes that the following issues must be taken into account during discussions: Impact of wood-based bioenergy on carbon dioxide emissions -
+
+Contrary to industry claims, peer-reviewed scientific studies have shown that wood-based bioenergy is not carbon neutral. Indeed, over a 2050 timescale, the use of wood-based bioenergy can result in significant carbon dioxide emissions3. And in terms of emissions per unit energy, wood-based bio-energy can result in as much or even more carbon dioxide than coal.
+
+-
+
+Over a 2050 timescale, logging reduces forest carbon sinks and the use of wood-based bioenergy increases levels of carbon dioxide in the atmosphere.
+
+"Flexibility mechanisms" between the LULUCF sector and non-ETS sectors (ESD) -
+
+It is true that in Finland (and in the EU in general) forests are growing back, after hundreds, if not thousands of years of deforestation. This is vital if we are to achieve the goals enshrined in the Paris agreement. But this desirable trend does not mean that we can forget about the reduction of industrial, transport and agricultural emissions. Both things - the increase in forests and the decarbonisation of non-ETS sectors - are essential to achieving emissions targets.
+
+-
+
+The Finnish Government foresees that logging activity in Finnish forests will increase substantially in the coming years, as part of its bioeconomy plans. This will reduce the value of the sink effect of Finnish forests when in fact what we need to do is increase it. Even under current logging levels, Finnish forest biodiversity is declining, and wood harvests have a negative impact on traditional nature conservation.
+
+3 Metsien hyödyntämisen ilmastovaikutukset ja hiilinielujen kehittyminen, 2015. Ilmastopaneeli.
+
+http://www.ilmastopaneeli.fi/uploads/selvitykset_lausunnot/Metsien%20hy%C3%B6dynt%C3%A4misen%20ilmastovaikutukset%20ja%20h iilinielujen%20kehittyminen.pdf
+
+-
+
+Exploiting’flexibility’ from the LULUCF sector (and its ’sink’ effect) will delay decarbonisation in other sectors, when in fact action needs to start now.
+
+-
+
+The potential for ’flexibility’ from the LULUCF sector would create a worrying loophole. Afforestation could be used to offset up to 94 million more cars on EU roads, or leave 40 million homes uninsulated, and would be equivalent to not recycling 1.6 billion tonnes of plastic packaging waste.
+
+LULUCF rules -
+
+With regard to LULUCF rules, the aim of the framework is not to restrict the sovereignty of Member States. If countries want to increase harvesting levels in forests, LULUCF rules won’t prevent them doing so. LULUCF rules are simply about the proper and accurate accounting of changes in carbon stocks.
+
+-
+
+LULUCF accounting should reflect the change in carbon stocks in the real world, rather than Member State’s theoretical plans for the future. That kind of approach would bring with it the risk of large amounts of negative emissions being "conjured up" from nothing.
+
+-
+
+The world looks to the EU to set an example. If we do not show a strong commitment to the objectives of the Paris agreement, there is a risk that the rest of the world will follow our model. There would also be a threat to the objective of achieving strict LULUCF rules in the UNFCCC. We should instead create a system that EU citizens can be proud of. This requires that the loopholes be closed.
+
+We urge you to use your influence to ensure that the package of legislation isn’t watered down during the consultation process.
+
+---
+
+### WWF:n kirje sekä elinkeinoministeri Rehnille että maatalous- ja ympäristöministeri Tiilikaiselle koskien Euroopan energiaunionille sopivaa hallintojärjestelmää (8.7.2016)
+
+Julkaistu: 11.7.2016  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/5/n/4/qdp2fxvde7lndz3bt23fkha/kirje_tiilikainen_rehn.pdf
+
+WWF Suomi Lintulahdenkatu 10, FI-00500 HELSINKI
+
+8.7.2016 Euroopan energiaunionille sopiva hallintojärjestelmä Hyvä elinkeinoministeri Rehn,
+12. heinäkuuta järjestetään EU-ministerien kokous, jonka yksi käsiteltävä aihepiiri on tulevan energiaunionin hallintojärjestelmä. WWF haluaa painottaa järjestelmän merkittävyyttä, jonka kohdalla EU:n suuntaviivojen määrittelyssä teillä on avainrooli. Me uskomme, että energiaunionin toimiva hallintojärjestelmä on välttämättömyys, mikäli haluamme vastata ilmastonmuutoksen asettamiin haasteisiin. Oikeanlainen hallintojärjestelmä tulee tuomaan hyötyjä niin kansalaisille kuin koko maapallolle vuosikymmeniksi. Näkemyksemme mukaan järjestelmän perustavanlaatuisia ominaisuuksia tulisivat olla läpinäkyvyys, laillisuus, tilivelvollisuus, tehokkuus ja johdonmukaisuus. Energiaunionille hyvin suunniteltu hallintojärjestelmä on keskeinen, jotta se voi saada hyväksynnän EU-kansalaisilta, edistää yhteistyötä ja solidaarisuutta jäsenvaltioiden välillä sekä tarjota poliittisen ympäristön vakautta, joka on välttämätöntä vihreille investoinneille. WWF:n mielestä uuden hallintojärjestelmän tulisi:
+1. Antaa sijoittajille luottamusta energiamurrokseen. Sijoitusympäristön selkeyden ja varmuuden takaamiseksi energiaunionin hallintojärjestelmän tulisi olla laillisesti sitova ja pitää sisällään raportointivaatimuksia. Jäsenvaltiot tarvitsevat joustavuutta toteuttaessaan kansallisia energia- ja ilmastosuunnitelmiaan, mutta silti niiden tulisi täyttää vähimmäisstandardit. Huomioitavia prosesseja ja sisältölähtökohtia ovat muun muassa suunnitelmien yksityiskohtien taso, sidosryhmien osallistaminen sekä informaation johdonmukaisuus ja vertailtavuus. Sijoittajien luottamus energiamurrokseen tulee olemaan alhaisempi, jos ainoastaan osa jäsenmaista tuottaa uskottavia ja yksityiskohtaisia suunnitelmia. Epäluottamus tulee lisäämään pääomakustannuksia ja nostamaan välttämättömän energiamurroksen kokonaishintaa EU:ssa.
+2. Sisältää mekanismin kunnianhimon kasvattamiseksi ajan myötä. Uuden hallintojärjestelmän, Pariisin ilmastosopimusta mukaillen, tulisi pitää sisällään 5 vuoden välein toteutettava arvio kansallisista suunnitelmista. Kasvavan kunnianhimon periaatteen mukaisesti päästövähennystavoitteiden tulisi nousta jokaisen uuden kansallisen suunnitelman myötä. Hallintojärjestelmän tulisi myös rohkaista jäsenvaltioita lisäämään päästövähennystavoitteitaan ilman, että hitaammin edistyvät jäsenmaat jarruttavat nopeammin etenevien kunnianhimoa.
+3. Varmistaa johdonmukaisuus pitkän aikavälin tavoitteiden kanssa. Vaikka kansallisten suunnitelmien aikaskaala ulottuu ainostaan vuoteen 2030, jäsenvaltioiden tulisi varmistaa, että suunnitelmat ovat linjassa Pariisin sopimuksen sitoumusten kanssa, joiden puitteissa globaali lämpötilannousu tulee rajoittaa vähintään 2 °C
+
+sekä pyrkiä pysymään 1.5 °C:n piirissä. Vuoden 2050 näkökulman lisääminen kansallisiin energia- ja ilmastosuunnitelmiin varmistaisi pitkän aikavälin tavoitteiden huomioimisen. Tämä edistäisi myös muita suunnittelu- ja raportointivelvoitteita, esimerkiksi kansainvälisten prosessien EU-jäsenmailta vaatimia 2050-strategioita. Pitkän aikavälin suunnitelmat estäisivät jäsenmaita myös haaskaamasta varojaan kohteisiin, jotka saattavat muuttua hukkainvestoinneiksi. Samalla myös energiajärjestelmien murroksen viivästymisiltä vältytään.
+4. Varmistaa, että energiatehokkuus ja uusiutuvan energian tavoitteet saavutetaan. WWF haluaa korostaa, että uusiutuvan energian ja energiatehokkuuden lisäämiseksi tehokkain keino on kansalliset laillisesti sitovat tavoitteet. Laillinen sitovuus on tehokkain keino taata vakaa sijoitusympäristö. Mikäli kansallisten tavoitteiden laillista sitovuutta ei sisällytetä vuoden 2030 tavoitteita koskevaan hallintojärjestelmään muun oleellisen lainsäädännön tulee varmistaa, että tavoitteet saavutetaan – tai ylitetään. Lisäksi on varmistettava, että energiatehokkuusinvestoinnit ja uusiutuva energia eivät kohtaa epäreilua markkinaympäristöä: saastuttajan tulee maksaa fossiilisten polttoaineiden negatiivisten ulkoiskustannusten todellinen hinta ja/tai jäsenmailla tulee olla oikeus kansallisiin vihreän teknologian tukimekanismeihin. Jäsenvaltiota on myös tuettava tavoitteiden saavuttamisessa. Käytännössä tämä tarkoittaisi esimerkiksi rahastojen luomista, jotka antaisivat suoraa tukea energia- ja ilmastotavoitteidensa kanssa tuskaileville jäsenmaille tavoitteiden saavuttamiseksi. Minkä tahansa hallinnollisen muodon energiaunioni tulee saamaan, toivomme, että edellä mainitut näkökulmat löytävät paikkansa siinä. Kannustamme teitä käyttämään vaikutusvaltaanne, jotta eurooppalaiset saavat energiaunionin, josta voimme olla ylpeitä. Ystävällisin terveisin
+
+Liisa Rohweder pääsihteeri WWF Suomi
+
+Lisätietoja: Kaarina Kolle ilmastoasiantuntija WWF Suomi
+
+kaarina.kolle@wwf.fi
+
+[Standard footer text]
+
+WWF Suomi Lintulahdenkatu 10, FI-00500 HELSINKI
+
+8.7.2016 Euroopan energiaunionille sopiva hallintojärjestelmä Hyvä maatalous- ja ympäristöministeri Tiilikainen,
+12. heinäkuuta järjestetään EU-ministerien kokous, jonka yksi käsiteltävä aihepiiri on tulevan energiaunionin hallintojärjestelmä. WWF haluaa painottaa järjestelmän merkittävyyttä, jonka kohdalla EU:n suuntaviivojen määrittelyssä teillä on avainrooli. Me uskomme, että energiaunionin toimiva hallintojärjestelmä on välttämättömyys, mikäli haluamme vastata ilmastonmuutoksen asettamiin haasteisiin. Oikeanlainen hallintojärjestelmä tulee tuomaan hyötyjä niin kansalaisille kuin koko maapallolle vuosikymmeniksi. Näkemyksemme mukaan järjestelmän perustavanlaatuisia ominaisuuksia tulisivat olla läpinäkyvyys, laillisuus, tilivelvollisuus, tehokkuus ja johdonmukaisuus. Energiaunionille hyvin suunniteltu hallintojärjestelmä on keskeinen, jotta se voi saada hyväksynnän EU-kansalaisilta, edistää yhteistyötä ja solidaarisuutta jäsenvaltioiden välillä sekä tarjota poliittisen ympäristön vakautta, joka on välttämätöntä vihreille investoinneille. WWF:n mielestä uuden hallintojärjestelmän tulisi:
+1. Antaa sijoittajille luottamusta energiamurrokseen. Sijoitusympäristön selkeyden ja varmuuden takaamiseksi energiaunionin hallintojärjestelmän tulisi olla laillisesti sitova ja pitää sisällään raportointivaatimuksia. Jäsenvaltiot tarvitsevat joustavuutta toteuttaessaan kansallisia energia- ja ilmastosuunnitelmiaan, mutta silti niiden tulisi täyttää vähimmäisstandardit. Huomioitavia prosesseja ja sisältölähtökohtia ovat muun muassa suunnitelmien yksityiskohtien taso, sidosryhmien osallistaminen sekä informaation johdonmukaisuus ja vertailtavuus. Sijoittajien luottamus energiamurrokseen tulee olemaan alhaisempi, jos ainoastaan osa jäsenmaista tuottaa uskottavia ja yksityiskohtaisia suunnitelmia. Epäluottamus tulee lisäämään pääomakustannuksia ja nostamaan välttämättömän energiamurroksen kokonaishintaa EU:ssa.
+2. Sisältää mekanismin kunnianhimon kasvattamiseksi ajan myötä. Uuden hallintojärjestelmän, Pariisin ilmastosopimusta mukaillen, tulisi pitää sisällään 5 vuoden välein toteutettava arvio kansallisista suunnitelmista. Kasvavan kunnianhimon periaatteen mukaisesti päästövähennystavoitteiden tulisi nousta jokaisen uuden kansallisen suunnitelman myötä. Hallintojärjestelmän tulisi myös rohkaista jäsenvaltioita lisäämään päästövähennystavoitteitaan ilman, että hitaammin edistyvät jäsenmaat jarruttavat nopeammin etenevien kunnianhimoa.
+3. Varmistaa johdonmukaisuus pitkän aikavälin tavoitteiden kanssa. Vaikka kansallisten suunnitelmien aikaskaala ulottuu ainostaan vuoteen 2030, jäsenvaltioiden tulisi varmistaa, että suunnitelmat ovat linjassa Pariisin sopimuksen sitoumusten kanssa, joiden puitteissa globaali lämpötilannousu tulee rajoittaa vähintään 2 °C
+
+sekä pyrkiä pysymään 1.5 °C:n piirissä. Vuoden 2050 näkökulman lisääminen kansallisiin energia- ja ilmastosuunnitelmiin varmistaisi pitkän aikavälin tavoitteiden huomioimisen. Tämä edistäisi myös muita suunnittelu- ja raportointivelvoitteita, esimerkiksi kansainvälisten prosessien EU-jäsenmailta vaatimia 2050-strategioita. Pitkän aikavälin suunnitelmat estäisivät jäsenmaita myös haaskaamasta varojaan kohteisiin, jotka saattavat muuttua hukkainvestoinneiksi. Samalla myös energiajärjestelmien murroksen viivästymisiltä vältytään.
+4. Varmistaa, että energiatehokkuus ja uusiutuvan energian tavoitteet saavutetaan. WWF haluaa korostaa, että uusiutuvan energian ja energiatehokkuuden lisäämiseksi tehokkain keino on kansalliset laillisesti sitovat tavoitteet. Laillinen sitovuus on tehokkain keino taata vakaa sijoitusympäristö. Mikäli kansallisten tavoitteiden laillista sitovuutta ei sisällytetä vuoden 2030 tavoitteita koskevaan hallintojärjestelmään muun oleellisen lainsäädännön tulee varmistaa, että tavoitteet saavutetaan – tai ylitetään. Lisäksi on varmistettava, että energiatehokkuusinvestoinnit ja uusiutuva energia eivät kohtaa epäreilua markkinaympäristöä: saastuttajan tulee maksaa fossiilisten polttoaineiden negatiivisten ulkoiskustannusten todellinen hinta ja/tai jäsenmailla tulee olla oikeus kansallisiin vihreän teknologian tukimekanismeihin. Jäsenvaltiota on myös tuettava tavoitteiden saavuttamisessa. Käytännössä tämä tarkoittaisi esimerkiksi rahastojen luomista, jotka antaisivat suoraa tukea energia- ja ilmastotavoitteidensa kanssa tuskaileville jäsenmaille tavoitteiden saavuttamiseksi. Minkä tahansa hallinnollisen muodon energiaunioni tulee saamaan, toivomme, että edellä mainitut näkökulmat löytävät paikkansa siinä. Kannustamme teitä käyttämään vaikutusvaltaanne, jotta eurooppalaiset saavat energiaunionin, josta voimme olla ylpeitä. Ystävällisin terveisin
+
+Liisa Rohweder pääsihteeri WWF Suomi
+
+Lisätietoja: Kaarina Kolle ilmastoasiantuntija WWF Suomi
+
+kaarina.kolle@wwf.fi
+
+[Standard footer text]
+
+---
+
 ## Kesäkuu 2016
 
 ### WWF:n lausunto kalastuskiintiöistä (7.6.2016)
 
 Julkaistu: 16.6.2016  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/z/e/hsujr7zcahn4ccakgarysed/mmv_070616_wwf_kiintiot.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -891,7 +1268,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 15.6.2016  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/6/7/bkhxzs5cahpahiu63qezoeh/wwf-lausunto-metsaehanhi-merihanhi-mmm-160615.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -916,7 +1292,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 30.5.2016  
 Aiheet: Öljyntorjuntajoukot  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/i/o/d/z7oyenbgobk274ucm5a32eb/wwf_lausunto_oljyntorjunta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -943,7 +1318,6 @@ Vanessa Ryan, meriasiantuntija (vanessa.ryan@wwf.fi)
 
 Julkaistu: 26.5.2016  
 Aiheet: Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/y/p/hrn3qc5asbngqka2nt7ewtg/koskirauha-on-saeilytettaevae.pdf
 
 Koskirauha on säilytettävä Ympäristöjärjestöt vaativat vapaiden virtojen pysyvää ja uskottavaa suojelua. Elinkeinoelämän keskusliiton ehdotus koskiensuojelulain avaamisesta Kollajan tekoaltaan rakentamisen mahdollistamiseksi perustuu vanhentuneeseen käsitykseen siitä, että uusiutuva energia tarvitsisi Suomessa tällä hetkellä lisää säätövoimaa. Toisaalta EK osoittaa myös ymmärtämättömyyttä siitä, miten tärkeää virtavesien suojelu on suomalaiselle luonnolle, virkistykselle ja matkailulle. Koskiensuojelulaki on Suomen vesiluonnon perusturva eikä siihen tule kajota. Lailla suojeltu vesiluonto on uhanalaista. Esimerkiksi valjastamisella nyt uhatun Iijoen alueella on lähes 30 jokihelmisimpukkakantaa, omat alkuperäiset vaelluskalakantansa sekä runsaasti muita arvokkaita lajeja. Iijoki on myös yksi maamme suosituimmista kalastuskohteista ja kansallisen kalatiestrategian kärkikohde. Iijoki ja samoin suojeltu Ounasjoki edustavat erittäin uhanalaista luontotyyppiä ja ovat muiden vapaana virtaavien jokien tapaan suomalaisten virkistyksen ja kalastuksen suosikkikohteita. Käytännössä kaikki maamme käytettävissä oleva vesivoima on jo rakennettu. Kalojen vaellusyhteyksien ja kutusoraikkojen palauttaminen on nykypäivää. Uusiutuvan energian lisääminen tai ilmastonmuutoksen torjunta eivät tarvitse uusien koskien valjastamista. Kollajan tekoaltaan perään haikailun on loputtava ja paikalliset ihmiset ja luonto jätettävä rauhaan. Jos koskiensuojelulakia lähdettäisiin avaamaan Kollajan tekoallashankkeen takia, yhtiöt voisivat vaatia tasapuolisuuden vuoksi muidenkin suojeltujen koskien rakentamista. Näin yhden hankkeen myötä Suomi olisi vaarassa suistua takaisin koskisotien aikaan. Kollajalla on laaja paikallinen ja valtakunnallinen vastustus. Valtio on maksanut Pohjolan Voima Oy:lle Iijoen suojelusta ja Kollajan rakentamatta jättämisestä kymmenien miljoonien eurojen korvaukset. Silti yhtiö ajaa altaan rakentamista vuodesta toiseen, ja nyt EK on lähtenyt tähän mukaan. Hanke ei kuitenkaan ole yhteiskunnallisesti merkittävä. Rakentaminen toisi vain parin promillen lisän Suomen energiantuotantoon. Lisäksi Kollajan alueen maaperä on turvepitoista, minkä vuoksi altaasta tulisi turpeen mädättämö ja metaanin uusi merkittävä päästölähde. Kollajan allashanke on kuollut ja kuopattu. Sitä ei pidä millään tavoin edistää eikä tarvetta lisäselvityksille ole. Koskiensuojelulain avaaminen ei mahdollistaisi Kollajan tai muiden vesivoimahankkeiden toteutumista, sillä kyseessä on laajempaa ympäristöoikeudellista tarkastelua vaativa kysymys, johon liittyvät Suomea velvoittavat EU-direktiivit. Suomea sitoo muun muassa tavoite virtavesien hyvästä ekologisesta tilasta vuoteen 2020 mennessä. Tähän on vielä matkaa.
@@ -956,7 +1330,6 @@ Koskiensuojelulaki on säädetty tulevien sukupolvien oikeuksien vuoksi. WWF:n a
 
 Julkaistu: 16.5.2016  
 Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/x/x/6/56w4zh5h57oclz6gxahxgqh/wwf__merialuesuunnittelu_ympaeristoevaliokunta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -985,7 +1358,6 @@ Vanessa Ryan, meriasiantuntija (vanessa.ryan@wwf.fi)
 
 Julkaistu: 13.5.2016  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/g/t/m/bmbypqfhz5jvxom65ng6tcc/wwf_lausunto_ym.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1018,7 +1390,6 @@ a) Rakennuksen ulkoseinän lämmönläpäisykerroin on enintään 0,12 W/(m2 K);
 
 Julkaistu: 11.5.2016  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/e/m/zy26rvjhahgfe5dvqxkvsjg/lausunto_ykp_laki_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1053,7 +1424,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 11.5.2016  
 Aiheet: Liikakalastus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/a/i/b6t2zgjhrpl77246aom445a/mmv_030516_e29_2016_tekniset_saeaedoekset_wwf_lausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1082,11 +1452,55 @@ Lisätietoja: Matti Ovaska, Suojeluasiantuntija, p. 040 7273149, matti.ovaska@ww
 
 ## Huhtikuu 2016
 
+### WWF:n kirje ministeri Stubbille ilmastonmuutoksen aiheuttamista riskeistä rahoituslaitoksille (17.4.2016)
+
+Julkaistu: 18.4.2016  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/2/z/a/behlxfbh3fg64srcwbfp6re/stubb_ecofin_13-4-2016.pdf
+
+WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+17.4.2016
+
+Epävirallinen ECOFIN-ministerikokous ilmastonmuutoksen aiheuttamista riskeistä rahoituslaitoksille Hyvä valtiovarainministeri Alexander Stubb, WWF:llä on merkittäviä odotuksia koskien talous- ja rahoitusasioiden neuvoston tulevaan mielipiteiden vaihtoa 22.4., jonka aiheena ovat ilmastonmuutoksen aiheuttamat riskit rahoituslaitoksille. Neljä kuukautta Pariisin sopimuksen solmimisesta on nyt kulunut, ja edessämme on tärkeä mahdollisuus aloittaa EU-tason keskustelu siitä, kuinka rahoituslaitosten ilmastoriskit huomioidaan ja kuinka saada vihreät investoinnit liikkeelle. Aihe nousee keskusteluun juuri oikeaan aikaan, sillä globaalien rahoitusvirtojen välitön ohjaaminen uusiin uomiin on avainasemassa maailmanlaajuisen energiamurroksen saavuttamisessa. WWF:n pitkän aikavälin tavoite on varmistaa, että sijoitusportfoliot ovat yhteneviä 1,5 asteen tavoitteen kanssa, joka on nyt myös suoraan mainittu Pariisin sopimuksessa. Ei enää riitä, että sijoittaja toimii vastuullisesti vain kilpailijoihinsa verrattuna, vaan kaiken sijoitustoiminnan tulee olla linjassa Pariisin sopimuksen tavoitteiden kanssa. Tämä on ainoa tapa uudistaa energiasektori perinpohjaisesti seuraavan 15 vuoden aikana. Fossiilisiin energiamuotoihin ei ole enää mahdollista investoida, jotta emme lukkiudu saastuttavaan teknologiaan, jonka alasajo saattaa olla hyvin kallista tai mahdotonta myöhemmässä vaiheessa. Kansainvälisen energiajärjestön (IEA) mukaan ennen Pariisin ilmastokokousta ilmoitettujen osapuolten panosten täysi toimeenpano vaatii 13 500 miljardin dollarin investoinnit energiatehokkuuteen ja vähähiiliseen teknologiaan vuosina 2015–2030. Tämän kehityskulun on arvioitu johtavan 2,7 asteen lämpötilan nousuun. Pariisin sopimuksen 1.5/2 asteen tavoitteet vaativat tätäkin summaa paljon suuremman ponnistuksen. Onkin ilmiselvää, että Euroopassa on ryhdyttävä toimiin nopeasti, jotta rahavirtamme saataisiin valjastettua ennätysaikataululla toteuttamaan Pariisissa yhdessä sovittuja tavoitteita. Viimeisen kuuden kuukauden aikana on otettu tärkeitä askeleita luoden painetta muutokselle:
+• Tutkimukset osoittavat, että ilmastoriskit ovat jo nyt todellinen riski finanssilaitoksille ja trendi vahvistuu myös tulevaisuudessa. The London School of Economics on laskenut, että tämä saattaa tarkoittaa 24 biljoonan euron menetyksiä maailmanlaajuisille sijoitusomaisuuksille [1]. Energiamurroksella on ollut jo nyt merkittäviä taloudellisia vaikutuksia mm. suurille eurooppalaisille energiayrityksille. Eurooppalaisen regulaation vahvistamisella on jo kiire, ja uusien tutkimusten mukaan markkinat saattavat reagoida hyvinkin nopeasti ja tehdä fossiilisijoituksista ennustettua nopeammin arvottomia [2].
+• Yksimielisyys siitä, että mitä nopeammin sijoittajia uhkaavat ilmastoriskit otetaan huomioon, sitä alhaisemmat kustannukset tulevat olemaan. The European Systemic Risk Board erottaa toisistaan niin sanotut “pehmeän laskun” (aikaiset toimet päästöjen leikkaamiseksi) ja ”kovan laskeutumisen” (myöhäiset toimet, joiden kustannus sijoittajille suuri) [3]. Myöhäiset toimet eivät tuo tullessaan hyötyjä kenellekään. Sen sijaan Mercer, joka on yksi maailman johtavista sijoitusalan konsulttiyrityksistä, on osoittanut, ettei 2 asteen skenaario ole pitkän aikavälin tuotosta kiinnostuneen sijoittajan kannalta välttämättä negatiivinen ja suojaa paremmin ilmastoriskeiltä [4].
+• Sijoittajat ovat jo ottaneet askelia hiiliriskien huomioonottamiseksi. Osoitus tästä on esimerkiksi The Principles for Responsible Investmentin (PRI) alullepanema Montreal Pledge [5], jonka puitteissa WWF haastoi suomalaisia sijoittajia laskemaan salkkujensa hiilijalanjäljen. Suomessa [1]
+
+London School of Economics (2016), ‘Climate Value at Risk’ of global financial assets The University of Cambridge Institute for Sustainability (2015). Unhedgeable risk: How climate change sentiment impacts investment http://www.cisl.cam.ac.uk/publications/publication-pdfs/unhedgeable-risk.pdf [3] European Systemic Risk Board (2016), Reports of the Advisory Scientific Committee No 6/February 2016: Too late, too sudden: Transition to a low-carbon economy and systemic risk, [4] Mercer (2015), Investing in a Time of Climate Change [5] http://montrealpledge.org/ [2]
+
+•
+
+•
+
+•
+
+haasteeseen tarttuivat Nordea, Ilmarinen, Osuuspankki, Elo, Handelsbanken, Kirkon eläkerahasto sekä SEB-pankki. Myös LähiTapiola, Varma ja Danske Bank ilmoittivat samantyyppisistä aloitteista. Tämä jättää silti ulkopuolelle olennaisen osan suomalaisesta sijoituskentästä, joka on näin ollen vaarallisen haavoittuvainen hiiliriskille. Lisäksi Global Investor Statement on Climate Change (400 sijoitustahoa, joiden yhteenlaskettu varallisuus on 25 biljoonaa Yhdysvaltain dollaria. Suomessa toimivista sijoittajista Nordea Asset Management ja SEB allekirjoittajina) [6] sekä Portfolio Decarbonization Coalition [7] (johon kuuluu suomalaisista sijoittajista Mandatum Life) ovat esimerkkejä sijoittajien halukkuudesta puhdistaa omat portfolionsa. Nämä edelläkävijäsijoittajat tarvitsevat poliittiset raamit yhtenevyyden sekä tasaväkisen kohtelun takaamiseksi; Viimeisen kuuden kuukauden aikana ennennäkemätön määrä finanssialan johtohenkilöitä ja keskuspankkeja on alleviivannut ilmastonmuutoksen tuomia riskejä – mukaan lukien Suomen Pankin pääjohtajan Erkki Liikasen lausunnon 22. maaliskuuta 2016 [8]. Kansainvälisellä tasolla on käynnistetty kaksi tärkeää prosessia, joiden tarkoituksena on tarjota suosituksia vuoden 2016 loppuun mennessä: The Financial Stability Board (FSB) Task Force on Climate-related Financial Disclosures sekä G20-maiden Green Finance Study Group. EU-tasolla ei sen sijaan ole vielä edetty.
+
+Tukeaksemme aikaisia toimia ja välttääksemme markkinoiden hajautumisen, WWF uskoo poliittisten toimien ja EU-tason sääntelytoimien olevan välttämättömiä. Suosittelemme seuraavia toimenpiteitä: • •
+
+• •
+
+Kaikki pääomamarkkinoihin liittyvän sääntelyn täytyy olla linjassa Pariisissa sovitun 1.5/2 asteen tavoitteen kanssa. Parempi läpinäkyvyys. Sekä yritysten että sijoittajien tulisikin kartoittaa toimiensa hiilijalanjäljet ja varmistaa toimenpiteet, jotta ilmastoriskien tunnistaminen, arvioiminen ja hallitseminen on mahdollista. Sijoittajien kiristyvä valvonta, joihin voidaan lukea ilmastonmuutoksen vaikutusten stressitestit. Vihreän sijoittamisen kiihdyttäminen etenkin infrastruktuurikohteisiin. Tämän tukena tulisi olla esimerkiksi vihreiden velkakirjojen valtavirtaistaminen.
+
+Talous- ja rahoitusasioiden neuvoston tulisi vaatia Euroopan komissiota laittamaan alulle useita sidosryhmiä osallistava prosessi, jolla rakentaa FSB Task Forcen, G20-maiden Green Finance Study Groupin sekä olennaisten kansallisten aloitteiden työn pohjalta, jotta EU-poliittiset ja sääntelevät toimenpiteet voitaisiin muodostaa sekä panna toimeen. Capital Markets Unionin puolivälitarkastelu vuonna 2017 on selkeä mahdollisuus tämänkaltaisen suositusten toimeenpanemiseksi. WWF tarjoaa näiden toteuttamiseksi konkreettisia suosituksia lähitulevaisuudessa. Ystävällisin terveisin,
+
+Liisa Rohweder pääsihteeri WWF Suomi
+
+[6]
+
+Lisätietoja: ilmastoasiantuntija Kaarina Kolle p. 050 591 3072 kaarina.kolle@wwf.fi
+
+http://investorsonclimatechange.org/ http://unepfi.org/pdc/ [8] Ilmastonmuutoksella kytköksiä myös rahoitusvakauteen (22.3.2016). http://www.suomenpankki.fi/fi/suomen_pankki/ajankohtaista/tiedotteet/Pages/tiedote06_2016.aspx [7]
+
+---
+
 ### WWF:n lausunto valtioneuvoston asetuksesta saimaannorpan suojelemiseksi tehdyistä kalastusrajoituksista (8.4.2016)
 
 Julkaistu: 8.4.2016  
 Aiheet: Saimaannorppa, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/v/h/rltdsbnbcpfdos3iwonwo6b/wwf-saimaannorppalausunto-160408-valmis.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1118,7 +1532,6 @@ Petteri Tolvanen ohjelmapäällikkö, suomalainen luonto
 
 Julkaistu: 23.3.2016  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/k/s/cx6rxafglzddec7o5gaxrnf/wwf-asiantuntijalausunto-mh_laki-ymv-helmikuu-2016.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1149,7 +1562,6 @@ Annukka Valkeapää, metsäasiantuntija (annukka.valkeapaa@wwf.fi)
 
 Julkaistu: 22.3.2016  
 Aiheet: Suomi, Ylikulutus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/u/p/ibnltcnbqtbjfwg3rjsow2h/wwf-suomen-kanta-turkistuotantoon-suomessa.pdf
 
 22.3.2016
@@ -1166,7 +1578,6 @@ Lisätietoja: Liisa Rohweder, pääsihteeri, 040 840 7461 Jari Luukkonen, suojel
 
 Julkaistu: 21.3.2016  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/m/x/6xfawtbhrfhakzpuga4awpd/2016-03-18_metso_vetoomus_jaerjestoet.pdf
 
 JÄRJESTÖJEN VETOOMUS
@@ -1261,7 +1672,6 @@ Pääsihteeri Liisa Rohweder
 
 Julkaistu: 16.3.2016  
 Aiheet: Liikakalastus, Suomen uhanalaiset kalat  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/j/n/7/a6n7kbjhz7jeuuerru3kcqd/wwf_lausunto_emkr_innovaatio_ohjelmat.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1296,7 +1706,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 3.3.2016  
 Aiheet: Ilmastonmuutos, Liikakalastus, Luonnon köyhtyminen, Metsäkato, Salametsästys  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/f/m/a/rzmagdzf7hbc5w3fahbzynb/ymparistovaliokunta_wwf-kepo-lausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1365,7 +1774,6 @@ WWF Living Forest Report: Chapter 1 Forests for a Living Planet2011 http://asset
 
 Julkaistu: 26.2.2016  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/k/c/3/hvf5dcjfu7gcr2fht6az4gb/lausunto_pariisin-sopimus_26_2_16_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1416,7 +1824,6 @@ Kaarina Kolle Ilmastoasiantuntija
 
 Julkaistu: 23.2.2016  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/i/z/xb2vbnbedhnh3p3l7ancj7h/wwf-asiantuntijalausunto-mh_laki-mmv-helmikuu-2016.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1445,11 +1852,54 @@ Annukka Valkeapää, metsäasiantuntija (annukka.valkeapaa@wwf.fi)
 
 ---
 
+### WWF:n kirje ministeri Tiilikaiselle EU:n ilmasto- ja energiapolitiikasta (11.2.2016)
+
+Julkaistu: 19.2.2016  
+Aiheet: Energiatehokkuus, Ilmastonmuutos, Suomi  
+Linkki: https://wwf.fi/app/uploads/i/l/g/brsxo5jdsjnmwzhpfuqvwlg/eun_ilmasto-ja_energiapolitiikka_kirje_ministeri_tiilikaiselle_11022016.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+11.2.2016 Hyvä ministeri Tiilikainen, viime vuosi oli yksi ilmastopolitiikan tärkeimmistä vuosista, ja olemme kiitollisia siitä työstä, jota olet asian eteen tehnyt Pariisin ilmastokokouksessa. Kuten tiedät, saimme sovittua tavoitteen pitkän aikavälin päästötavoitteesta sekä maininnan lämpötilannousun rajoittamiseksi 1,5 asteeseen. Uudella sopimuksella on purevuutta kuitenkin vain, mikäli maiden päästölupauksia vahvistetaan jatkuvasti, UNEPin laskemaa gigatonnien päästökuilua kurotaan umpeen, rahoituspohjaa energiamurroksen vauhdittamiseksi vahvistetaan ja kaikista heikoimmassa asemassa olevia suojellaan. Pariisin henki on tärkeää hyödyntää nyt, kun tahtotila ratkaista ilmastonmuutos on edelleen vahva ja signaali maailmalle energiamuutoksen vääjäämättömyydestä on lähetetty. On siis aika rakentaa perustukset 100 % uusiutuvalle energialle Euroopassa ja Suomessa, ja hitsata 2030-paketin kriittiset osat yhteen Pariisin jälkimainingeissa. Pariisin ilmastosopimus on käänteentekevä ainoastaan, jos olemme itse valmiita käänteeseen. Siksi on ensiarvoisen tärkeää varmistaa, että EU:n ilmasto- ja energiapolitiikka vastaa Pariisissa saavutettua tavoitetasoa. Tämä vaatii ennen kaikkea seuraavia asioita: -
+
+-
+
+-
+
+-
+
+-
+
+1,5 asteen lämpötilatavoitteen selkeää tunnustamista. Suomen on ajettava voimakkaasti lisäisiä ilmastotoimia, ja tämä tarkoittaa myös EU:n ilmasto- ja energiapolitiikan päivittämistä. Tämän pitäisi sisältää 2050-ilmasto-ja energiatiekartan muuttamisen viimeisimmän tieteen mukaisiksi, jotta voimme saavuttaa 1,5 asteen tavoitteen. Välittömänä toimenpiteenä Eurooppa-neuvoston tulisi hyväksyä siirtyminen 95 %:n kasvihuonekaasuvähennystavoitteeseen vuoden 1990 tasosta vuoteen 2050 mennessä. Päivittää mallinnukset, jotka on luotu vuoteen 2030 tähtääville politiikantoimille ja instrumenteille. Päivityksessä tulee ottaa huomioon tarve kartoittaa sellaiset skenaariot, joilla EU voi ylittää 40 %:n tavoitteen päästövähennysleikkauksille. Esimerkiksi 40% tavoite energiatehokkuudelle tulisi olla osa mallinnuksia. Myös Euroopan parlamentti on vaatinut tätä. Lisätä sekä energiatehokkuuden että uusiutuvan energian tavoitteita, jotka ovat nykyisellään 27 %. Suomi on jo ylittänyt uusiutuvan energian tavoitteensa vuodelle 2020 reippaasti etuajassa ja hallituksen 50 %:n tavoitteen vuoteen 2030 mennessä. Siksi Suomen tulisi olla äänekäs tavoitetason noston suhteen kaikkialla Euroopassa. Jäsenmaille tulisi antaa mahdollisuus poistaa pysyvästi ylimääräisiä päästöoikeuksia päästökauppajärjestelmästä. Aloittaa valmistelut, jotta tulevat lakiesitykset voisivat sisältää vaihtoehtoja välittömille parannuksille ja jotta vuonna 2018 EU:n päästövähennyslupaukset (INDC) voidaan tiukentaa osana UNFCCCprosessia. Etenkin kehitysmaissa ilmastotoimet ovat lähteneet liikkeelle vauhdilla. EU:lla ei ole varaa jäädä jälkeen, kun seuraava elintärkeä mahdollisuus kiristykseen tulee. Suositella toimia, joilla rahavirrat saataisiin valjastettua vähähiiliseen talouteen siirtymiseksi. Hallituksen tulee kartoittaa mahdollisuudet tukea vihreitä
+
+sijoituksia Suomessa, esimerkiksi ns. green bondien avulla. Tämän lisäksi suomalaisia institutionaalisia sijoittajia on rohkaistava ottamaan sijoitustensa hiiliriskit tosissaan mahdollisimman nopealla aikataululla, esimerkiksi lakisääteisellä hiilijalanjäljen mittaamisella, ja siirtämään varojansa pois fossiilisijoituksista. Pariisin sopimus vaikuttaa hiilen hinnoitteluun Euroopassa ja globaalisti. Siksi on huomioitava seuraavat asiat : -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Päästökaupan uudistus tulee korjata yhteneväksi 1,5 asteen lämpötilatavoitteen kanssa. Jotta näin voitaisiin tehdä, direktiivissä määritelty lineaarista vähennyskerrointa täytyy tiukentaa EU-komission ehdotusta kunnianhimoisemmaksi. ETS:n päästöoikeuksien ylijäämää voidaan hyödyntää mahdollisuutena päästövähennyksille ennen vuotta 2020. Ne ylimääräiset päästöoikeudet, jotka on siirretty markkinavakausvarantoon (MSR), tulisi poistaa markkinoilta pysyvästi. Hiilivuotoa ehkäisevien toimenpiteiden tulisi tunnustaa nykyiset ja tulevat ilmastotoimenpiteet muissa maissa, mukaan lukien teolliset kilpailijat kuten Kiina, jossa koko maan kattava päästökauppa aloittaa toimintansa vuonna 2017. ETSjärjestelmiä on jo yhteensä 17 maassa, neljällä mantereella ja ne kattavat 40 % maailmanlaajuisesta BKT:stai. Uudet tutkimukset osoittavat, että maailmassa on jo yhteensä 804 ilmastolakisäädöstä tai poliittista instrumenttia – tuplasti verrattuna Kööpenhaminan ilmastokokouksen aikaanii. Ei voida enää väittää, että Eurooppa olisi yksin ilmastotoimiensa kanssa – varsinkaan vuoteen 2030 mennessä. Ilmaiset päästöoikeudet tulee kohdentaa tarkasti niitä aidosti tarvitseville teollisuudenaloille sekä vähentää jaettavien ilmaisten päästöoikeuksien kokonaismäärää. Päästöoikeuksien huutokauppaamisen tulisi lisääntyä ja siitä saatavat voitot tulee käyttää lisätoimiin ilmastonmuutoksen pysäyttämiseksi joko Euroopassa tai osana kansainvälisiä ilmastoponnisteluja. WWF:n suositus on jakaa tulot puoliksi: 50 % kansainväliseen ilmastotyöhön ja 50 % kotimaan päästövähennyksiin – ei teollisuuden kompensoimiseen kuten hallitus on linjannut. Osana päästökaupan uudistamista Pariisissa sovitut 5 vuoden tarkastelujaksot tulee ottaa mukaan myös päästökaupan uuteen arkkitehtuuriin.
+
+Ystävällisin terveisin,
+
+Liisa Rohweder pääsihteeri WWF Suomi p. 040 840 7461 Lisätiedot: Kaarina Kolle ilmastoasiantuntija WWF Suomi p. 050 591 3072 kaarina.kolle@wwf.fi i ICAP. Emissions Trading at a Glance (lokakuu, 2015). https://icapcarbonaction.com/en/?option=com_attach&task=download&id=289 ii
+
+Grantham Research Institute on Climate Change and the Environment. 2015 Global Climate Legislation Study. http://www.lse.ac.uk/GranthamInstitute/legislation/
+
+---
+
 ### WWF:n vetoomus UPM:lle Ärjän hakkuiden lopettamiseksi (3.2.2016)
 
 Julkaistu: 3.2.2016  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/n/w/c/4qnfrqbbdzg2s2jeo6tbgca/wwf-vetoaa-aerjaen-saeilyttaemisen-puolesta_ab_av_kr.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -1466,7 +1916,6 @@ Annukka Valkeapää Metsäasiantuntija, VTT WWF Suomi p. 050 3055086
 
 Julkaistu: 1.2.2016  
 Aiheet: Vieraslajit  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/t/o/4/nzfnok5cupjpnzzr3andqpd/painolastivesiyleissopimus_lausunto_wwf.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1489,7 +1938,6 @@ Vanessa Ryan Meriasiantuntija
 
 Julkaistu: 1.2.2016  
 Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/p/o/5/smy2hkzg3fe5jjib2asw5ya/wwf_lausunto_merialuesuunnittelu.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI

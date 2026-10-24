@@ -8,13 +8,13 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 **2023**
 
-- 13.10.2023 – Juhani Koskinen testamenttasi luonnolle:”Jokaisella on jokin asia, jonka haluaa säilyvän maailmassa”
+- 13.10.2023 – Juhani Koskinen testamenttasi luonnolle: “Jokaisella on jokin asia, jonka haluaa säilyvän maailmassa”
 - 14.3.2023 – Lahjakummi toivoo tyttärelleen puhdasta luontoa
 
 **2022**
 
 - 23.11.2022 – Lumi-kummi toivoo valkoista talvea
-- 8.6.2022 – ”Konkreettisia tekoja sen sijaan, että vain vastustettaisiin asioita” – kummi kertoo, miksi on lahjoittanut WWF:lle 24 vuoden ajan
+- 8.6.2022 – “Konkreettisia tekoja sen sijaan, että vain vastustettaisiin asioita” – kummi kertoo, miksi on lahjoittanut WWF:lle 24 vuoden ajan
 
 **2021**
 
@@ -37,7 +37,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 ## 2023
 
-### Juhani Koskinen testamenttasi luonnolle:”Jokaisella on jokin asia, jonka haluaa säilyvän maailmassa”
+### Juhani Koskinen testamenttasi luonnolle: “Jokaisella on jokin asia, jonka haluaa säilyvän maailmassa”
 
 Julkaistu: 13.10.2023  
 Aiheet: Tukijan tarina, Lahjoittaminen  
@@ -132,7 +132,7 @@ Vuonna 2018 luonnon ja erityisesti metsän merkitys sai uuden ulottuvuuden, kun 
 
 ---
 
-### ”Konkreettisia tekoja sen sijaan, että vain vastustettaisiin asioita” – kummi kertoo, miksi on lahjoittanut WWF:lle 24 vuoden ajan
+### “Konkreettisia tekoja sen sijaan, että vain vastustettaisiin asioita” – kummi kertoo, miksi on lahjoittanut WWF:lle 24 vuoden ajan
 
 Julkaistu: 8.6.2022  
 Aiheet: Suomi, Lahjoittaminen, Tukijan tarina, WWF-lehti  

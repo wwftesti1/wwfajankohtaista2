@@ -1,9 +1,9 @@
 # WWF Suomi – Uutiset 2023
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Uutiset). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 176 (uusin 27.12.2023).
+Kohteita: 172 (uusin 27.12.2023).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 81 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 3 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -42,9 +42,8 @@ Huom: 81 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 10.11.2023 – WWF:n Vuoden luontokirja -kilpailun tämän vuoden finalistit ovat nyt selvillä
 - 10.11.2023 – Ennallistamisasetus askeleen lähempänä toteutumista – sopu synnytti porsaanreikiä
 - 8.11.2023 – WWF:n suosittu live tekee paluun – kansallispuiston kupeesta tehtävään suoraan lähetykseen odotetaan uhanalaisia lintuja
-- 8.11.2023 – EU:n ennallistamisasetuksesta odotetaan sopua torstaina –”Panokset ovat erittäin korkealla”
+- 8.11.2023 – EU:n ennallistamisasetuksesta odotetaan sopua torstaina – “Panokset ovat erittäin korkealla”
 - 7.11.2023 – Ilmastonmuutokseen sopeutumisen rahoituksesta huutava pula – vaarantaa ekosysteemien ja ihmisten hyvinvoinnin
-- 2.11.2023 – WWF, Stora Enso ja Tornator paransivat metsäpurojen monimuotoisuutta liki 90 vapaaehtoisen voimin vuonna 2023
 - 2.11.2023 – WWF, Stora Enso ja Tornator paransivat metsäpurojen monimuotoisuutta liki 90 vapaaehtoisen voimin vuonna 2023
 
 **Lokakuu 2023**
@@ -64,7 +63,7 @@ Huom: 81 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 29.9.2023 – WWF:n uutta livelähetystä tähdittävät kalat – Katsojat pääsevät todistamaan luonnon ennallistamisen hedelmiä
 - 28.9.2023 – WWF:n Kalaopas päivittyi – merkittävä muutos silakan suosituksiin
 - 20.9.2023 – Jo kahdeksas saimaannorppa kuoli kalanpyydykseen –”Tänä vuonna ollaan päätymässä surullisiin lukemiin”
-- 19.9.2023 – WWF: Hallituksen budjettiesitys riittämätön –”Luonnosta säästäminen on huonoa taloudenhoitoa”
+- 19.9.2023 – WWF: Hallituksen budjettiesitys riittämätön – “Luonnosta säästäminen on huonoa taloudenhoitoa”
 - 19.9.2023 – Riistakameroista paljastui jymy-yllätys: Naalinpentuja löytyi Pohjois-Lapista lisää
 - 18.9.2023 – Itämeren kalakannat ovat kriisissä –”Kalastusta on leikattava merkittävästi”
 - 18.9.2023 – Bhutanissa elää nyt 134 lumileopardia – kanta on kasvanut merkittävästi seitsemässä vuodessa
@@ -73,7 +72,6 @@ Huom: 81 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 14.9.2023 – Denning of the critically endangered Arctic fox successful for the second consecutive year: at least 16 Arctic fox cubs were born in Finland in the summer
 - 13.9.2023 – YK:n raportti kertoo viivyttelystä ilmastotoimissa – vaarana Pariisin sopimuksen tavoitteiden romuttuminen
 - 13.9.2023 – Vesien suojelu alkaa kuivalta maalta – avohakkuut kiihdyttävät metsien ravinnepäästöjä
-- 12.9.2023 – WWF, Stora Enso ja Tornator tekevät yhteistyötä vesiensuojelun puolesta – tavoitteena kannustaa metsänomistajat mukaan vähentämään metsätalousalueiden vesistökuormaa
 - 12.9.2023 – WWF, Stora Enso ja Tornator tekevät yhteistyötä vesiensuojelun puolesta – tavoitteena kannustaa metsänomistajat mukaan vähentämään metsätalousalueiden vesistökuormaa
 - 11.9.2023 – Äärimmäisen uhanalaisen naalin pesintä onnistui toista vuotta peräkkäin: Suomessa syntyi kesällä ainakin 16 naalinpentua
 - 7.9.2023 – WWF ja maanomistajat yhteistyössä paremman vesienhallinnan puolesta – Länsi-Uudellemaalle kaksi uutta kosteikkoa
@@ -87,19 +85,17 @@ Huom: 81 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 28.8.2023 – Metsäpalot roihuavat edelleen Euroopassa – munkkikorppikotkien pesäpuut jäivät tulen alle Kreikassa
 - 28.8.2023 – Luonnolta leikkaaminen on lyhytnäköistä politiikkaa
 - 24.8.2023 – Kosteikkoja, meriajokkaita ja roskatalkoita: WWF:n ennallistamis- ja vesiensuojelutyö Länsi-Uudenmaan rannikolla sai jatkoa
-- 23.8.2023 – Äärimmäisen uhanalaisella kiljuhanhella ennätyksellinen pesimätulos –”todella mahtava uutinen”
+- 23.8.2023 – Äärimmäisen uhanalaisella kiljuhanhella ennätyksellinen pesimätulos – “todella mahtava uutinen”
 - 17.8.2023 – Uhanalaisten saruskurkien määrä onnistuttiin tuplaamaan Nepalissa
 - 10.8.2023 – Valtamerien pintalämpötila ennätyskorkealla –”Ihmiskunnan on vastattava merien hätähuutoon”
 - 8.8.2023 – Myrskyvaroitus? – Sään ääri-ilmiöt näyttävät ilmastonmuutoksen voiman
 - 4.8.2023 – WWF: Itämerennorpan metsästyskiintiö ei voi olla Suomessa 375 vaan korkeintaan 100 yksilöä
 - 3.8.2023 – 320 ilveksen henki vaarassa, jos ministeriön esitys menee läpi
 - 2.8.2023 – Maailman ylikulutuspäivä on tänään – Suomen osuus ylikulutuksesta huomattavasti keskiarvoa suurempi
-- 1.8.2023 – Maailman ylikulutuspäivä on keskiviikkona 2.8.
 
 **Heinäkuu 2023**
 
 - 29.7.2023 – Tiikerien määrä saatiin kasvuun Bhutanissa – tutkimustyössä käytettyihin riistakameroihin tallentui kirjava joukko kissapetoja
-- 26.7.2023 – WWF ja Länsi-Uudenmaan maanomistajat etsivät ratkaisuja tulvaongelmiin ja rehevöitymiseen – Inkooseen toteutetaan laaja vesienhallintakokonaisuus
 - 25.7.2023 – Maapallo kärvistelee ilmastokriisin vaikutusten alla –”Toivon, että ihmiset viimeinkin havahtuisivat”
 - 17.7.2023 – Jo viides norppa löytyi verkkoon hukkuneena Saimaalta – kuutin löytänyt mökkeilijä:”Ihan hirveä kuolema”
 - 12.7.2023 – Ennallistamisasetus selviytyi EU-parlamentin äänestyksestä: “Luonnon kannalta positiivinen tulos”
@@ -123,13 +119,13 @@ Huom: 81 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 13.6.2023 – Laiduntavat lampaat ja lehmät ovat luonnonhoitajia vailla vertaa – sitä juhlitaan luonnonlaidunpäivänä
 - 12.6.2023 – Kiivasta keskustelua herättäneen EU:n ennallistamisasetuksen kohtalonhetket käsillä – asetuksesta äänestetään tällä viikolla
 - 9.6.2023 – WWF: Hylkeiden hoitosuunnitelma kääntymässä hylkeenmetsästyksen tehostamisohjelmaksi
-- 8.6.2023 – WWF:n Panda-palkinto myönnettiin kolmelle sisävesihankkeelle —”Palkinto on meille kuin piste i:n päälle”
+- 8.6.2023 – WWF:n Panda-palkinto myönnettiin kolmelle sisävesihankkeelle — “Palkinto on meille kuin piste i:n päälle”
 - 8.6.2023 – Kivet lensivät kaaressa, kun Palosenjoella parannettiin virtavesilajien elinolosuhteita Metsäpurojen puolesta -talkoissa
 - 7.6.2023 – Ensimmäiset saimaannorpat siirretty – Amalia ja Tuukka kalastelevat nyt uusilla vesillä
 - 5.6.2023 – YK:n ilmastokokous Bonnissa alkoi – WWF vaatii vahvaa tukea fossiilisten polttoaineiden lopettamiselle
 - 5.6.2023 – Uponnut vene aiheutti öljyonnettomuuden Sipoossa – WWF mukana siivoamassa öljyä rannoilta
 - 5.6.2023 – Hyviä uutisia Pariisista: Suuri enemmistö YK:n muoviroskaneuvotteluihin osallistuneista valtioista haluaa sitovia sääntöjä muovisaastumisen lopettamiseksi
-- 2.6.2023 – Saimaalla syntyi ennätykselliset sata kuuttia:”Täyden kympin tulos”
+- 2.6.2023 – Saimaalla syntyi ennätykselliset sata kuuttia: “Täyden kympin tulos”
 - 2.6.2023 – Näin edistämme kestävää kahvintuotantoa yhdessä kahviyritys Slow’n kanssa
 - 1.6.2023 – Nyt kannattaa katsoa: Kaikki lapinpöllön poikaset kuoriutuneet WWF:n Luontolivessä
 
@@ -146,10 +142,10 @@ Huom: 81 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 10.5.2023 – Äärimmäisen uhanalaisia kiljuhanhia jälleen Suomessa – linnuilla edessään kriittisen tärkeä pesintäkesä
 - 9.5.2023 – WWF avasi Norppaliven –”Tiedossa jälleen meditatiivista pysähtyneisyyttä”
 - 3.5.2023 – WWF:n öljyntorjuntajoukot suojaavat herkkää järviluontoa Saimaalla –”öljy voi vaikuttaa myös saimaannorppaan”
-- 3.5.2023 – WWF aloitti suoran lähetyksen lapinpöllön pesältä –”Poikaset varsinaisia menninkäisiä”
+- 3.5.2023 – WWF aloitti suoran lähetyksen lapinpöllön pesältä – “Poikaset varsinaisia menninkäisiä”
 - 3.5.2023 – Vinkkejä luonnonystävän kesätapahtumiin
 - 2.5.2023 – Hallitusneuvottelut alkoivat Säätytalolla – nämä kolme asiaa neuvottelijoiden tulee muistaa
-- 1.5.2023 – 12 hengen joukko aloittaa tiistaina rantojen siivoamisen Joutsenossa –”Urakasta ei tule helppoa”
+- 1.5.2023 – 12 hengen joukko aloittaa tiistaina rantojen siivoamisen Joutsenossa – “Urakasta ei tule helppoa”
 
 **Huhtikuu 2023**
 
@@ -188,7 +184,7 @@ Huom: 81 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 7.3.2023 – Sukupuuttoon kuolleeksi luultu laululintu löytyi Madagaskarin metsistä 24 vuoden tauon jälkeen
 - 6.3.2023 – Marttiini x WWF -juhlapuukko on suunniteltu luonnonystävälle
 - 3.3.2023 – WWF ja Posti kolmivuotiseen yhteistyöhön luonnon monimuotoisuuden hyväksi
-- 2.3.2023 – Hallituksen saatava aikaan päätös biodiversiteettistrategiasta –”Luontokadon pysäyttämisessä ei ole aikaa odottaa seuraavaa hallitusta”
+- 2.3.2023 – Hallituksen saatava aikaan päätös biodiversiteettistrategiasta – “Luontokadon pysäyttämisessä ei ole aikaa odottaa seuraavaa hallitusta”
 - 1.3.2023 – Ympäristöjärjestöjen kysely: Valtaosa puolueista ei ole sitoutunut riittäviin toimiin luontokadon pysäyttämiseksi
 
 **Helmikuu 2023**
@@ -307,7 +303,6 @@ Tänä vuonna lapinpöllöt (Strix nebulosa) ihastuttivat myös WWF:n Luontolive
 Julkaistu: 21.12.2023  
 Aiheet: Suomi, Ennallistaminen, Luontolive, Saimaannorppa  
 Kirjoittaja: Kaisa Malin  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/12/etsitko-tekemista-joulunpyhiin-nappaa-wwflaisten-katselu-kuuntelu-ja-lukuvinkit-joulun-vapaapaiviin/
 
 **Kun joulurauha on julistettu, lahjapaketit avattu ja vatsa on täynnä joulupöydän herkkuja, on aika rentoutua mieluisan tekemisen äärelle. Kokosimme listan, joka tarjoaa kiinnostavaa katseltavaa, kuunneltavaa ja luettavaa joulunpyhiin sekä välipäivien ajanvietteeksi.**
@@ -405,7 +400,6 @@ HIFK-konserniin kuuluvat myös Red Events sekä Red Events Restaurants -yritykse
 
 Julkaistu: 15.12.2023  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/12/huomattavia-onnistumisia-ja-huolestuttavia-epaselvyyksia-mista-dubain-ilmastokokouksessa-oikeastaan-paatettiin/
 
 **Dubain ilmastokokous tullaan muistamaan etenkin kahdesta asiasta: päätöksestä siirtyä pois fossiilisista polttoaineista sekä maailman maiden ilmastorahoituslupauksista. Päätöksiin jäi kuitenkin suuriakin porsaanreikiä, ja monet kriittisen tärkeät neuvottelut jumiutuivat lähtökuoppiinsa.**
@@ -991,7 +985,6 @@ Brasilia, jonka alueella suurin osa Amazonista sijaitsee, sai alkuvuodesta uuden
 Julkaistu: 8.12.2023  
 Aiheet: Ilmastonmuutos, Bolivia, Itä-Afrikka, Nepal  
 Kirjoittaja: Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/12/liittolaisemme-luonto-nain-metsat-joet-ja-kosteikot-auttavat-sopeutumaan-ilmastonmuutokseen/
 
 **Terveet elinympäristöt auttavat kaikkia niissä eläviä lajeja, myös ihmistä, selviytymään ilmastonmuutoksessa. Tällaisia ovat luontopohjaiset ratkaisut, joita WWF edistää ympäri maailmaa.**
@@ -1136,7 +1129,6 @@ Metsähallitus on jo siirtänyt pois hakkuista yli 800 000 hehtaaria metsiä. Li
 Julkaistu: 1.12.2023  
 Aiheet: Suomi, Onnistumistarina, Perinneympäristöt  
 Kirjoittaja: Kaisa Malin  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/12/wwfn-vuoden-luontokirja-valittu-mika-honkalinnan-teos-suo-siella-kuljettaa-lukijan-suomalaisten-soiden-hurmaavaan-maailmaan/
 
 **Mika Honkalinna kertoo teoksessaan taidokkain kuvin ja sanoin luonnontilaisista soista, jotka ovat osa villeintä ja alkuperäisintä luontoamme. WWF:n Vuoden luontokirja -voittajan valitsi tänä vuonna toimittaja ja kirjailija Aino Huilaja.**
@@ -1371,7 +1363,6 @@ Uutista tarkennettu 27.11.2023 klo 12:50. Lintusaarekkeet toteutti ja niiden muo
 Julkaistu: 23.11.2023  
 Aiheet: Ilmastonmuutos, Bolivia, Metsäkato, Metsäpalot, Sademetsät  
 Kirjoittaja: Kaisa Malin  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/11/amazonilla-rikottiin-synkka-ennatys-lokakuussa-riehui-yli-22-000-metsapaloa/
 
 **Äärimmäinen kuivuus vauhdittaa Amazonin metsäpaloja. Vaikka metsäkato on hidastunut, metsäpalot ovat jokavuotinen ilmiö ja ne kertovat Amazonin sademetsän heikosta tilasta.**
@@ -1471,7 +1462,6 @@ Tolvanen sanoo, että WWF tekee edelleenkin töitä strategian tavoitetason nost
 
 Julkaistu: 21.11.2023  
 Aiheet: Ilmastonmuutos, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/11/suomalaisyritykset-kannustavat-vahapaastoisen-teraksen-valmistukseen-wwfn-kampanja-nostaa-esiin-terasteollisuuden-roolin-ilmastonmuutoksen-hillinnassa/
 
 **Cargotec, Enersense ja YIT ovat mukana WWF:n kampanjassa, joka antaa vahvan viestin teräksen tuottajille: terästeollisuuden siirtyminen vähäpäästöiseen tuotantoon on keskeistä ilmastokriisin hillitsemiseksi.**
@@ -1504,7 +1494,6 @@ WWF Suomen Ready for Green Steel -nimeä kantava kampanja näkyy muun muassa muk
 
 Julkaistu: 21.11.2023  
 Aiheet: Uncategorized @fi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/11/mika-global-stocktake-pariisin-ilmastosopimuksen-tilannekatsaus-on-taman-vuoden-ilmastokokouksen-tarkeimpia-teemoja/
 
 **Marraskuun lopulla Dubaissa alkavassa YK:n ilmastokokouksessa asialistalla on ensi kertaa maailmanlaajuinen tilannekatsaus eli Global Stocktake. Mikä se on ja mitä merkitystä sillä on ilmastokriisin hillitsemisen ja siihen sopeutumisen kannalta?**
@@ -1541,7 +1530,6 @@ Global Stocktake -katsausta koskeviin neuvotteluihin, kuten kaikkiin muihinkin C
 
 Julkaistu: 16.11.2023  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/11/suomalaiset-jarjestot-ykn-ilmastokokouksesta-maailman-maiden-on-sitouduttava-kaikkien-fossiilisten-polttoaineiden-kayton-lopettamiseen/
 
 **Marraskuun lopussa alkavassa YK:n ilmastokokouksessa arvioidaan ensimmäistä kertaa sitä, miten Pariisin ilmastosopimuksen toimeenpanossa on onnistuttu, ja sovitaan tarvittavista lisätoimista. Suomalaiset ympäristö-, kehitys- ja ihmisoikeusjärjestöt vaativat, että kaikkien maiden, myös Suomen, on kiihdytettävä toimia 1,5 asteen kuumenemisrajan alapuolella pysymiseksi ja lopetettava fossiilisten polttoaineiden käyttö.**
@@ -1604,7 +1592,6 @@ Camilla Sederholm, verksamhetsledare, Natur och Miljö, tel. 0452700313, [email 
 
 Julkaistu: 16.11.2023  
 Aiheet: Ylikulutus, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/11/black-week-on-ylikuluttavan-yhteiskunnan-jaavuoren-huippu/
 
 **Black Friday -alennuspäivästä koko viikon ja peräti kuukauden mittaiseksi paisunut tarjoustulva on oiva esimerkki kuluttamiseen kannustavasta yhteiskunnasta. Hyvä elämä on mahdollista myös ilman ylikulutusta.**
@@ -1745,7 +1732,6 @@ Juttua korjattu. Alun perin tekstissä kerrottiin parlamentin täysistunnon olev
 Julkaistu: 8.11.2023  
 Aiheet: Luontolive, Onnistumistarina  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/11/wwfn-suosittu-live-tekee-paluun-kansallispuiston-kupeesta-tehtavaan-suoraan-lahetykseen-odotetaan-uhanalaisia-lintuja/
 
 **WWF:n Luontoliven lähetyksessä seurataan lintuja Kuusamossa sijaitsevalla talviruokintapaikalla. Lähetyksessä nähdään vanhoissa metsissä viihtyviä lajeja, esimerkiksi kuukkeleita, tiaisia ja tikkoja.**
@@ -1772,7 +1758,7 @@ WWF on toteuttanut talvilintukameran yhdessä Kuusamo Nature Photographyn kanssa
 
 ---
 
-### EU:n ennallistamisasetuksesta odotetaan sopua torstaina –”Panokset ovat erittäin korkealla”
+### EU:n ennallistamisasetuksesta odotetaan sopua torstaina – “Panokset ovat erittäin korkealla”
 
 Julkaistu: 8.11.2023  
 Aiheet: Suomi  
@@ -1796,7 +1782,6 @@ Ennallistamisasetus on osa EU:n biodiversiteettistrategiaa, jonka tavoite on pys
 Julkaistu: 7.11.2023  
 Aiheet: Ilmastonmuutos  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/11/ilmastonmuutokseen-sopeutumisen-rahoituksesta-huutava-pula-vaarantaa-ekosysteemien-ja-ihmisten-hyvinvoinnin/
 
 **Alirahoitettu ja puutteellisesti valmisteltu. Näillä sanoilla YK:n ympäristöohjelma kuvaili ilmastonmuutokseen sopeutumisen rahoitusta viime viikolla julkaisemassaan Adaptation Gap -raportissa. Rahoitusta tulisi kasvattaa vähintään kymmenkertaiseksi suhteessa nykytasoon.**
@@ -1842,7 +1827,6 @@ Yksi tehokkaista keinoista vahvistaa yhteisöjen ja alueiden kykyä torjua ilmas
 Julkaistu: 2.11.2023  
 Aiheet: Talkoot, Ennallistaminen, Kentällä, Virtavedet, Yritykset  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/11/wwf-stora-enso-ja-tornator-paransivat-metsapurojen-monimuotoisuutta-liki-90-vapaaehtoisen-voimin-vuonna-2023/
 
 **WWF, Stora Enso ja Tornator rakensivat vuoden 2023 aikana 30 kutupaikkaa uhanalaiselle taimenelle ja ennallistivat satoja metrejä virtavesielinympäristöä. Kaakkois-Suomessa, Pohjois-Savossa ja Pohjois-Karjalassa järjestettyihin talkoisiin osallistui liki 90 vapaaehtoista.**
@@ -1874,55 +1858,6 @@ Metsäluonnon monimuotoisuudesta huolehtiminen on osa Stora Enson ja Tornatorin 
 Kolmen organisaation Metsäpurojen puolesta -yhteistyö alkoi toukokuussa 2022 ja jatkuu vuoden 2024 loppuun. Viime vuonna WWF:n, Stora Enson ja Tornatorin työntekijät rakensivat 12 kutusoraikkoa uhanalaiselle taimenelle, kunnostivat virtavesiuomia 400 metrin matkalta ja urakoivat yhden tierummun esteettömäksi. Yhteistyön tavoitteena on vahvistaa suomalaisen luonnon monimuotoisuutta ennallistamalla pääasiassa metsässä sijaitsevia pienvesiä.
 
 Vapaana virtaavista vesistä ovat riippuvaisia muun muassa vaelluskalat, vesihyönteiset, vesisammaleet, jokiravut ja simpukat. Virtavesien paremmasta tilasta hyötyvät myös virtavesiä reunustavat metsälajit eliöstöineen.
-
----
-
-### WWF, Stora Enso ja Tornator paransivat metsäpurojen monimuotoisuutta liki 90 vapaaehtoisen voimin vuonna 2023
-
-Julkaistu: 2.11.2023  
-Aiheet: Talkoot, Ennallistaminen, Kentällä, Virtavedet  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2023/11/wwf-stora-enso-ja-tornator-paransivat-metsapurojen-monimuotoisuutta-liki-90-vapaaehtoisen-voimin-vuonna-2023-2/
-
-**WWF, Stora Enso ja Tornator rakensivat vuoden 2023 aikana 30 kutupaikkaa uhanalaiselle taimenelle ja ennallistivat satoja metrejä virtavesielinympäristöä. Kaakkois-Suomessa, Pohjois-Savossa ja Pohjois-Karjalassa järjestettyihin talkoisiin osallistui liki 90 vapaaehtoista.**
-
-Stora Enso, Tornator ja WWF järjestivät tänä vuonna talkootapahtumia neljällä eri paikkakunnalla: Kuopion Palosenjoella, Miehikkälän Vaalimaanjoella, Varkauden Ämmäkoskella sekä Juuan Vepsänjoella.
-
-”Kunnostuksissa keskityttiin paikallisesti tärkeiden virtavesielinympäristöjen ennallistamiseen, kuten kutusoraikkojen rakentamiseen ja vaelluskaloille haitallisten vaellusesteiden poistamiseen. Yhteistyön tuloksena saatiin ennallistettua kuivuneita virtavesiuomia taas soliseviksi puroiksi. Niihin tehtiin uusia elinympäristöjä virtavesissä viihtyville lajeille, kuten erittäin uhanalaiselle taimenelle ja jokiravulle”, WWF:n suojeluasiantuntija Manu Vihtonen sanoo.
-
-Metsäpurot ovat ainutlaatuinen ja tärkeä elinympäristö virtavesilajeille, mikä korostuu erityisesti ilmaston lämmetessä ja kesän hellepiikkien yleistyessä. Esimerkiksi uhanalaiset vaelluskalat viihtyvät viileämmissä vesissä.
-
-“Kunnostuksissa talkoolaiset pääsivät konkreettisesti näkemään ja kokemaan, kuinka metsäpuroja varjostava puusto vaikuttaa ilman ja veden lämpötilaan. Kuumilla kesähelteillä varjoisat alueet tarjoavat virtavesien eliöstölle viileämmän pienilmaston ja ympäristön”, Vihtonen toteaa.
-
-#### Metsäpurojen puolesta -yhteistyö on osa Stora Enson ja Tornatorin monimuotoisuusohjelmia
-
-Myös WWF:n yritysyhteistyön johtaja Annemi Usva-Vänttinen on tyytyväinen Stora Enson ja Tornatorin kanssa tehtyyn yhteistyöhön virtavesien tilan parantamiseksi. Metsäpurojen puolesta -yritysyhteistyö on osa WWF:n laajempaa ja pitkäjänteistä työtä, jonka tavoitteena on vuoteen 2030 mennessä saavuttaa virtavesien hyvä ekologinen tila Suomessa.
-
-Yhteistyössä kumppanit kartoittavat Tornatorin omistamilta alueilta ennallistamiseen soveltuvia kohteita. Stora Enson ja Tornatorin henkilökuntaa osallistuu käytännön talkootyöhön yhdessä WWF:n asiantuntijoiden kanssa.
-
-“On tärkeää, että voimme työskennellä yhdessä kahden suuren suomalaisen metsäyhtiön kanssa virtavesien monimuotoisuuden parantamiseksi. Yhteistyössä meillä on enemmän mahdollisuuksia luoda ympäristöömme positiivisia muutoksia”, Usva-Vänttinen kiittelee.
-
-Metsäluonnon monimuotoisuudesta huolehtiminen on osa Stora Enson ja Tornatorin jokapäiväistä toimintaa, ja yhteistyö WWF:n kanssa sisältyy Stora Ens on ja Tornatorin monimuotoisuusohjelmiin. *
-
-”Yhteistyö hankekumppanien kanssa on sujunut erinomaisesti. Virtavesikunnostukset ovat tehneet Tornatorin monimuotoisuusohjelmasta vaikuttavamman yhdessä sen muiden tavoitteiden, kuten soiden ennallistamisen ja metsätalouden vesiensuojelutoimenpiteiden kanssa”, sanoo Tornatorin ympäristöpäällikkö Heikki Myöhänen.
-
-”On ollut antoisaa päästä tekemään yhdessä konkreettista hyvää metsäluonnon eteen. Talkookohteet ovat sopineet mainiosti omalle henkilöstöllemme, joista suurella osalla myös vapaa-ajan harrastukset liittyvät luonnossa liikkumiseen. Talkoot ovat myös vahvistaneet yhteishenkeä. Yhteistyön kautta olemme saaneet paljon tietoa metsäpuroista eri lajien elinympäristönä, mitä hyödynnämme jatkossa myös keskusteluissa metsänomistajien kanssa”, kiteyttää yritysvastuujohtaja Pekka Kallio-Mannila Stora Enson Suomen puunhankinnasta.
-
-#### Metsäpurojen puolesta -yhteistyö
-
-Kolmen organisaation Metsäpurojen puolesta -yhteistyö alkoi toukokuussa 2022 ja jatkuu vuoden 2024 loppuun. Viime vuonna WWF:n, Stora Enson ja Tornatorin työntekijät rakensivat 12 kutusoraikkoa uhanalaiselle taimenelle, kunnostivat virtavesiuomia 400 metrin matkalta ja urakoivat yhden tierummun esteettömäksi. Yhteistyön tavoitteena on vahvistaa suomalaisen luonnon monimuotoisuutta ennallistamalla pääasiassa metsässä sijaitsevia pienvesiä.
-
-Vapaana virtaavista vesistä ovat riippuvaisia muun muassa vaelluskalat, vesihyönteiset, vesisammaleet, jokiravut ja simpukat. Virtavesien paremmasta tilasta hyötyvät myös virtavesiä reunustavat metsälajit eliöstöineen.
-
-Lisätietoja:
-
-Annemi Usva-Vänttinen Johtaja, yritysyhteistyö, WWF Suomi [email protected] 050 5642756
-
-Pekka Kallio-Mannila Yritysvastuujohtaja, Stora Enso Metsä [email protected] +358 407 540 243
-
-Heikki Myöhänen Ympäristöpäällikkö, Tornator Oyj [email protected] 050 441 2253
-
-* Lue lisää Tornatorin monimuotoisuusohjelmasta sekä Stora Enson monimuotoisuusohjelmasta.
 
 ---
 
@@ -2001,7 +1936,6 @@ WWF tukee jokidelfiinijulistuksen tavoitteiden toteutumista yhdessä muiden jär
 
 Julkaistu: 24.10.2023  
 Aiheet: Metsäkato, Sademetsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/10/wwfn-raportti-maailman-metsakato-etenee-haitallisiin-tukiin-kaytetaan-sata-kertaa-enemman-rahaa-kuin-metsien-suojeluun/
 
 **Maailman valtiot ovat luvanneet pysäyttää metsäkadon ja metsien pirstoutumisen vuoteen 2030 mennessä, mutta nykytoimilla tavoitteeseen ei olla pääsemässä, tuoreet raportit osoittavat. Metsäkadon vaikutukset luonnolle, ilmastolle sekä ihmisille ovat katastrofaaliset.**
@@ -2055,7 +1989,6 @@ Glasgow’n metsäjulistuksen tavoitteiden saavuttamista tarkastelevan Forest De
 Julkaistu: 24.10.2023  
 Aiheet: Ilmastonmuutos, Yritykset  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/10/kuuleeko-yk-yritykset-vaativat-valtioita-sopimaan-fossiilisista-polttoaineista-luopumisesta/
 
 **Yli 130 kansainvälistä yritystä vaatii YK:n ilmastokokoukseen osallistuvien maiden päättäjiä sopimaan fossiilisista polttoaineista luopumisesta ja kasvihuonekaasupäästöjen puolittamisesta kuluvan vuosikymmenen loppuun mennessä.**
@@ -2206,7 +2139,6 @@ Stora Enson yritysvastuujohtaja Pekka Kallio-Mannilan mukaan FSC-sertifioitua pu
 Julkaistu: 13.10.2023  
 Aiheet: Yritykset, Ennallistaminen, Ilmastonmuutos, Itämeri, Lahjoittaminen  
 Kirjoittaja: Sara Salo  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/10/wwfn-ohjelmajohtaja-nyt-jos-koskaan-tarvitsemme-yrityksia-luonnon-tueksi/
 
 **WWF:n joulukeräykseen lahjoitetuilla varoilla hillitään ilmastonmuutosta ja korjataan luonnolle aiheut uneita haittoja. Yritykset ovat tärkeässä roolissa näiden t avoitteiden saavuttamisessa, k annustaa WWF Suomen ohjelma johtaja Petteri Tolvanen.**
@@ -2244,7 +2176,6 @@ Petteri on nähnyt dramaattisen muutoksen Suomen luonnossa ja talvissa jo oman e
 Julkaistu: 3.10.2023  
 Aiheet: Suomi, Ennallistaminen, Itämeri  
 Kirjoittaja: Heidi Volotinen Noora Jussila  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/10/kaivoimme-muinaisen-jarven-paikalle-15-kilometria-pitkan-uoman-nain-se-auttaa-vahentamaan-inkoonjoen-tulvia-ja-ehkaisemaan-itameren-ravinnekuormitusta-2/
 
 **WWF on kesän ja syksyn aikana kaivanut Länsi-Uudellemaalle Inkoonjoen varrelle toistaiseksi suurimman toteuttamansa kaksitasouoman. Maanomistajien kanssa läheisessä yhteistyössä suunnitellun ja toteutetun uoman on tarkoitus vähentää alueen peltojen tulvimista. Alueelle pääsee tutustumaan 9.10.2023 klo 17-18.**
@@ -2335,7 +2266,6 @@ Luontoliven teknisestä toteutuksesta vastaavat Live Eye, Pukki Visuals ja WWF.
 Julkaistu: 28.9.2023  
 Aiheet: Suomi, Ilmastonmuutos, Itämeri, Liikakalastus, Meret  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/09/wwfn-kalaopas-paivittyi-merkittava-muutos-silakan-suosituksiin/
 
 **Itämeren silakkakantojen huolestuttava taantuminen johti siihen, että aikaisemmin suositeltua Pohjanlahden silakkaa tulisi nyt käyttää harkiten, ja Itämeren pääaltaalta troolattua silakkaa vältettävä kokonaan. Muutos on merkittävä, sillä silakka on suomalaisen kalastuselinkeinon ylivoimaisesti tärkein laji.**
@@ -2383,7 +2313,7 @@ Tehokkain tapa suojella saimaannorppaa on jättää kaikki verkot kuivalle maall
 
 ---
 
-### WWF: Hallituksen budjettiesitys riittämätön –”Luonnosta säästäminen on huonoa taloudenhoitoa”
+### WWF: Hallituksen budjettiesitys riittämätön – “Luonnosta säästäminen on huonoa taloudenhoitoa”
 
 Julkaistu: 19.9.2023  
 Aiheet: Suomi  
@@ -2434,7 +2364,6 @@ Lisää naalista tietosivullamme: Naali
 Julkaistu: 18.9.2023  
 Aiheet: Suomi, Ilmastonmuutos, Itämeri, Liikakalastus, Lohi, Luonnon köyhtyminen, Meret  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/09/itameren-kalakannat-ovat-kriisissa-kalastusta-on-leikattava-merkittavasti/
 
 **Itämeren silakkakantojen taantuminen on huolestuttava merkki Itämeren ekosysteemissä ja ravintoverkoissa tapahtuneista muutoksista, sekä osoitus tarpeesta ottaa Itämeressä tapahtuvat muutokset paremmin huomioon kalastuskiintiöistä päätettäessä. Myös Itämeren lohelle kulunut vuosi on ollut katastrofaalinen, millä saattaa olla vaikutusta kalastukseen ensi vuonna.**
@@ -2472,7 +2401,6 @@ WWF:n mukaan lohen kalastus ensi vuonna tulisi aloittaa vasta sitten, kun on saa
 Julkaistu: 18.9.2023  
 Aiheet: Lumileopardi, Bhutan  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/09/bhutanissa-elaa-nyt-134-lumileopardia-kanta-on-kasvanut-merkittavasti-seitsemassa-vuodessa/
 
 **Bhutanin lumileopardikanta on tuoreen arvion mukaan kasvanut vuodesta 2016 lähes 40 prosenttia. Arka ja uhanalainen kissaeläin elää kahdentoista valtion alueella Etelä- ja Keski-Aasiassa.**
@@ -2633,7 +2561,6 @@ WWF: Programme Director Petteri Tolvanen, [email protected], tel +358 (0)400 168
 
 Julkaistu: 13.9.2023  
 Aiheet: Uncategorized @fi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/09/ykn-raportti-kertoo-viivyttelysta-ilmastotoimissa-vaarana-pariisin-sopimuksen-tavoitteiden-romuttuminen/
 
 **YK:n ilmastosopimuksen sihteeristön viime viikolla julkaisema raportti antaa karun kuvan maailman maiden onnistumisesta ilmastotoimien toteuttamisessa. Tulos on synkkä, mutta ei toivoton.**
@@ -2761,7 +2688,6 @@ Tutustu WWF:n julkaisuun: Metsänhoitoa ilman avohakkuita – 9 syytä siirtyä 
 Julkaistu: 12.9.2023  
 Aiheet: Suomi, Suomen metsät, Virtavedet  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/09/wwf-stora-enso-ja-tornator-tekevat-yhteistyota-vesiensuojelun-puolesta-tavoitteena-kannustaa-metsanomistajat-mukaan-vahentamaan-metsatalousalueiden-vesistokuormaa/
 
 **Stora Enso, Tornator ja WWF tekevät yhteistyötä Metsälähde-hankkeen puitteissa. Tornatorin vesiensuojelukohteilta kerätään metsänomistajille vinkkejä ja kuvamateriaalia suojavyöhykkeiden tärkeydestä ja jatkuvan metsänkasvatuksen vaihtoehdoista.**
@@ -2785,41 +2711,6 @@ Vastuu vesien hyvästä tilasta ja uusien oppien viemisestä käytäntöön on k
 Metsälähde-yhteistyö on osa WWF:n laajempaa ja pitkäjänteistä vesistöjen tilan parantamiseen tähtäävää työtä, jonka tavoitteena on vuoteen 2030 mennessä saavuttaa pien- ja virtavesien hyvä ekologinen tila Suomessa.
 
 Metsälähde-hankkeen rahoittaa Vesiensuojelun tehostamisohjelma.
-
----
-
-### WWF, Stora Enso ja Tornator tekevät yhteistyötä vesiensuojelun puolesta – tavoitteena kannustaa metsänomistajat mukaan vähentämään metsätalousalueiden vesistökuormaa
-
-Julkaistu: 12.9.2023  
-Aiheet: Suomi, Suomen metsät, Virtavedet  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2023/09/stora-enso-tornator-ja-wwf-tekevat-yhteistyota-vesiensuojelun-puolesta-tavoitteena-kannustaa-metsanomistajat-mukaan-vahentamaan-metsatalousalueiden-vesistokuormaa/
-
-**Stora Enso, Tornator ja WWF tekevät yhteistyötä Metsälähde-hankkeen puitteissa. Tornatorin vesiensuojelukohteilta kerätään metsänomistajille vinkkejä ja kuvamateriaalia suojavyöhykkeiden tärkeydestä ja jatkuvan metsänkasvatuksen vaihtoehdoista.**
-
-WWF:n vetämässä Metsälähde-hankkeessa halutaan innostaa metsänomistajia harkitsemaan vesiensuojelun parantamisen mahdollisuuksia omissa metsissään. Hankkeessa tehdään yhteistyötä Stora Enson ja Tornatorin kanssa. Yhteistyön taustalla on viime vuosina tehdyt havainnot siitä, että metsätalousalueilta vesistöihin päätyvän kuormituksen määrä on luultua suurempaa. Metsätalousalueella tehdyt toimet, kuten turvemaiden kunnostusojitus ja vesielinympäristöjen muokkaaminen uomia suoristamalla ja perkaamalla ovat lisänneet vesistöihin päätyvää kuormitusta.
-
-Metsätaloudesta aiheutuva vesistökuormitus ei aina jää metsään, vaan sen vaikutus näkyy useissa vesistöissä aina Itämeressä asti. Ravinnekuormitus aiheuttaa mökkirantojen umpeenkasvua, kiintoainekuormitus liettää vaelluskalojen kutualueita ja vesien tummuminen heikentää uposkasvien ja pohjakalojen elinolosuhteita. Metsätalouden vesistökuormitus kannattaa pitää kurissa ja pienvedet hyvässä kunnossa, sillä ne tarjoavat elinympäristöjä monille eliöille. Suomen uhanalaisista lajeista noin 6 prosenttia elää pienvesissä. Tähän joukkoon kuuluu esimerkiksi selkärangattomia eliöitä, sammalia sekä erittäin uhanalainen jokihelmisimpukka eli raakku.
-
-Stora Enson, Tornatorin ja WWF:n yhteisenä tavoitteena on kannustaa metsänomistajia mukaan näyttämällä hyviä esimerkkejä ja onnistumisia metsätalouden vesiensuojelusta. Tornator on toteuttanut omilla maillaan vesiensuojeluratkaisuja, kuten jatkuvaa kasvatusta turvemailla, vaihtelevan levyisiä suojavyöhykkeitä sekä purokunnostuksia. Esimerkkeinä toimivilta kohteilta tuotetaan kuva- ja videomateriaalia, joiden avulla voidaan näyttää konkreettisesti vesiensuojelun vaihtoehtojen monipuolisuus sekä pienillä toimilla saadut positiiviset vaikutukset ympäristöön.
-
-”Jos haluamme parantaa vesiemme tilaa ja suojella vesistöistä riippuvaista lajistoa, vesiensuojelua täytyy kehittää kaikilla maankäyttösektoreilla ja kaikkien toimijoiden keskuudessa. Yhdessä pystymme tavoittamaan suuremman joukon ihmisiä ja kommunikoimaan heille miksi tämä on tärkeää. Puhtaat vedet ovat lopulta meidän kaikkien etu”, WWF:n suojeluasiantuntija Meri Ensiö toteaa.
-
-#### Onnistuneista ympäristöteoista kannustusta myös yksityisille maanomistajille
-
-Vastuu vesien hyvästä tilasta ja uusien oppien viemisestä käytäntöön on kaikilla metsäsektorin toimijoilla. Suomen suurin yksityinen metsänomistaja Tornator sekä uusiutuvien materiaalien yhtiö Stora Enso ovat mukana edistämässä ympäristötyötä. Yhtiöt näkevät vesiensuojelun kehittämisen tärkeänä osana ekologisesti kestävää metsätaloutta, ja se halutaan myös huomioida yhä paremmin yritysten arjessa.
-
-”Tornatorin metsissä vesiensuojelu otti aimo harppauksen eteenpäin jo vuosikymmen sitten, kun otimme käyttöön FSC:n mukaiset suojavyöhykkeet. Vuonna 2021 aloitimme monimuotoisuusohjelmassa laajamittaisen soiden ennallistamisen ja nyt metsäpuro- ja metsälähdeyhteistyöt WWF:n kanssa vauhdittavat Tornatorin vesiensuojelutyötä entisestään”, toteaa Tornatorin ympäristöpäällikkö Heikki Myöhänen.
-
-”Vesiensuojelu on keskeinen osa vastuullista puunkorjuuta. Se on samalla tärkeä osa Stora Enson monimuotoisuusohjelman käytännön toimenpiteitä. Koulutamme henkilöstöämme, yrittäjiä ja kuljettajia säännöllisesti vesiensuojelun kysymyksiin. Seuraamme vesiensuojelun onnistumista, kuten vesistöjen suojavyöhykkeiden leveyksiä, osana luonnonhoidon laadun seurantaa. Metsänomistajien neuvonta on niin ikään oleellinen osa arjen vesiensuojelutyötä”, sanoo kehityspäällikkö Ringa Tuikka Stora Enson Suomen puunhankinnasta.
-
-Metsälähde-yhteistyö on osa WWF:n laajempaa ja pitkäjänteistä vesistöjen tilan parantamiseen tähtäävää työtä, jonka tavoitteena on vuoteen 2030 mennessä saavuttaa pien- ja virtavesien hyvä ekologinen tila Suomessa.
-
-Metsälähde-hankkeen rahoittaa Vesiensuojelun tehostamisohjelma.
-
-Lisätietoja:
-
-Mai Suominen Johtava metsäasiantuntija, WWF Suomi [email protected] 050 322 4363
 
 ---
 
@@ -2914,7 +2805,6 @@ Kiviaineksen vesienhallintakohteiden toteuttamiseen lahjoitti Rudus Oy.
 Julkaistu: 5.9.2023  
 Aiheet: Bolivia, Metsäkato, Valaat ja delfiinit  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/09/jokidelfiinin-koti-ihmiskunnan-hiilivarasto-ja-valtava-vesipumppu-tiesitko-tata-amazonin-sademetsasta/
 
 **Tänään vietettävän Amazonin sademetsien päivän kunniaksi keräsimme viisi faktaa, joiden vuoksi Amazonin suojeleminen on tärkeää.**
@@ -3028,7 +2918,6 @@ Metsäluonnon monimuotoisuudesta huolehtiminen on tärkeä osa Stora Enson ja To
 Julkaistu: 31.8.2023  
 Aiheet: Itämeri, Ennallistaminen, Luonnon köyhtyminen, Suomi, Virtavedet  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/08/itameren-tulevaisuus-ratkaistaan-maalta-kasin-tata-mahdollisuutta-olisi-saali-jattaa-kayttamatta/
 
 **Itämeri kamppailee monien haasteiden kanssa. Lumoavan kaunis rannikko kärsii heikosta vedenlaadusta, ja rehevöityminen yksipuolistaa meriluontoa. Itämeren suojelu ja ennallistaminen ovat elintärkeitä sen tulevaisuuden turvaamiseksi.**
@@ -3103,7 +2992,6 @@ Luontokato ja ilmastonmuutos vaarantavat luonnon lisäksi myös ihmisten hyvinvo
 
 Julkaistu: 28.8.2023  
 Aiheet: Metsäpalot, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/08/metsapalot-roihuavat-edelleen-euroopassa-munkkikorppikotkien-pesapuut-jaivat-tulen-alle-kreikassa/
 
 **Kuuman ja kuivan kesän kiihdyttämät metsäpalot piinaavat yhä Eurooppaa. Kreikassa tuli pyyhkäisi viime viikolla yli Dadian metsäalueen, joka on yksi Euroopan merkittävimmistä suojelualueista ja tärkeä pesimispaikka harvinaisille petolinnuille. Tuhoisat maastopalot yleistyvät ilmastonmuutoksen myötä.**
@@ -3139,7 +3027,6 @@ Koillis-Kreikassa lähellä Turkin rajaa sijaitseva Dadia-Lefkimi-Souflin kansal
 Julkaistu: 28.8.2023  
 Aiheet: Suomi, Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Noora Jussila  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/08/luonnolta-leikkaaminen-on-lyhytnakoista-politiikkaa/
 
 **Valtiovarainministeriön budjettiehdotus osoittaa, ettei hallitus ole tosissaan luontokadon pysäyttämisen tai ilmastokriisin torjumisen kanssa.”Budjettiehdotus uhkaa vesittää sen pienenkin hyvän, mitä hallitusohjelmassa luonnon kannalta oli.”**
@@ -3215,7 +3102,7 @@ RANKKU 2-hankkeesta 70 % rahoitetaan Vesiensuojelun tehostamisohjelmasta. Hankke
 
 ---
 
-### Äärimmäisen uhanalaisella kiljuhanhella ennätyksellinen pesimätulos –”todella mahtava uutinen”
+### Äärimmäisen uhanalaisella kiljuhanhella ennätyksellinen pesimätulos – “todella mahtava uutinen”
 
 Julkaistu: 23.8.2023  
 Aiheet: Kiljuhanhi, Arktinen, Ilmastonmuutos, Onnistumistarina, Suomi  
@@ -3283,7 +3170,6 @@ WWF Suomi tukee WWF Nepalin toimintaa ulkoministeriön ja WWF-kummien tuella.
 Julkaistu: 10.8.2023  
 Aiheet: Meret, Ilmastonmuutos, Itämeri, Luonnon köyhtyminen, Valaat ja delfiinit  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/08/valtamerien-pintalampotila-ennatyskorkealla-ihmiskunnan-on-vastattava-merien-hatahuutoon/
 
 **Heinäkuu oli maapallon mittaushistorian kuumin kuukausi, ja viime viikolla mittaushistoriassa tehtiin jälleen uusi lämpöennätys, kun valtamerten merenpinnan päivittäinen keskilämpötila nousi 20,96 asteeseen. Lämpeneminen heikentää merien kykyä sitoa hiiltä, ja sen vaikutukset kalastukseen vaarantavat miljoonien ihmisten ravinnonsaannin.**
@@ -3476,55 +3362,6 @@ Global Footprint Network laskee maailman ylikulutuspäivät joka vuosi uudestaan
 
 ---
 
-### Maailman ylikulutuspäivä on keskiviikkona 2.8.
-
-Julkaistu: 1.8.2023  
-Aiheet: Ylikulutus, Ilmastonmuutos, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2023/08/maailman-ylikulutuspaiva-on-keskiviikkona-2-8/
-
-**Luonnonvarojen ylikulutus kiihdyttää ilmastokriisiä ja luontokatoa, ja voi johtaa myös konflikteihin. Maapallon ihmiset ovat kuluttaneet seitsemässä kuukaudessa ne luonnonvarat, joiden tulisi riittää koko vuodeksi.**
-
-Maailman ylikulutuspäivä merkitsee ajankohtaa, jolloin ihmisten kulutus ylittää laskennallisesti maapallon vuotuisen kyvyn tuottaa uusiutuvia luonnonvaroja.
-
-”Nykyisellä tasolla ihmisten kuluttamien luonnonvarojen tuottamiseen tarvittaisiin 1,7 maapalloa. Suurimman osan maapallon luonnonvaroista kuluttavat korkeamman tulotason maissa elävät ihmiset, kuten me suomalaiset”, sanoo WWF:n suojelun neuvonantaja Jussi Nikula.
-
-Ylikulutus on yksi keskeisimmistä syistä ilmastokriisin ja luontokadon taustalla. Niiden kautta se lisää esimerkiksi sään ääri-ilmiöitä, jotka vaarantavat globaalia ruokaturvaa.
-
-”Ylikulutusta jatkamalla teemme tietoisen valinnan heikentää edellytyksiä tulevaisuuden hyvinvoinnille Suomessa ja koko maailmassa”, Nikula toteaa.
-
-#### Suomella suuri vastuu
-
-Suomen osuus globaalista ylikulutuksesta on huomattavasti maailmanlaajuista keskiarvoa suurempi. Suomalaisten asukasta kohden laskettu kulutus ylittää maapallon rajat noin nelinkertaisesti. Kulutuksemme kiihdyttää ilmastonmuutosta ja aiheuttaa luontokatoa paitsi Suomessa myös ympäri maailman, ja siksi Suomella on vastuu paitsi globaalin ylikulutuksen vähentämisestä, myös kulutuksestamme aiheutuvien vahinkojen korvaamisesta.
-
-”Kuluttamalla luonnonvaroja kestämättömällä tavalla kasvatamme ekologista velkaa, joka johtaa tulevaisuudessa yhä suurempiin kustannuksiin”, Nikula sanoo.
-
-Luonto- ja ilmastokriisien kiihdyttämisen kautta ylikulutus johtaa myös konflikteihin. YK:n ympäristöohjelman (UNEP) arvion mukaan vähintään 40 prosenttia sisällissodista vuosina 1950–2010 oli yhteydessä luonnonvarojen hyväksikäyttöön. Samaan aikaan Orpon hallitus leikkaa sekä ihmisiä että luontoa hyödyttävästä kehitysyhteistyöstä.
-
-”Hallituksen kehitysyhteistyöhön kohdistuvat leikkaukset ovat räikeässä ristiriidassa sosiaalisen ja globaalin oikeudenmukaisuuden periaatteiden kanssa”, Nikula toteaa.
-
-#### Hallituksen tehostettava taloudellista ohjausta
-
-Tämän vuoden ylikulutuspäivä on ensimmäinen sitten viime joulukuun Montrealin luontokokouksen, jossa maailman valtiot sitoutuivat pysäyttämään luontokadon ja vahvistamaan luonnon tilaa vuoteen 2030 mennessä. Myös Suomi on allekirjoittanut nämä tavoitteet, jotka velvoittavat valtioita vähentämään luonnonvarojen ylikulutusta oikeudenmukaisella tavalla. Suomen kohdalla tämä tarkoittaa luonnonvarojen kulutuksen vähentämistä nykyisestä vuoteen 2030 mennessä. Tehokkaita keinoja kansallisesti olisivat esimerkiksi maa-aineisvero, tuki kasvipohjaisille elintarvikkeille sekä hakkuu- ja maankäyttömaksut.
-
-”Hallituksen ohjelmassa ylikulutusta hillitsevät taloudelliset ohjauskeinot loistavat lähinnä poissaolollaan. Hallitusohjelma ennemminkin tukee ylikulutuksen jatkamista lupaamalla, ettei esimerkiksi metsien käyttöä rajoiteta ja polttoaineiden hintoja kompensoidaan”, Nikula toteaa.
-
-Globaalin oikeudenmukaisuuden ohella ylikulutusta hillitsevät toimet on kohdennettava oikeudenmukaisesti myös kotimaassa.
-
-”Valtaosasta luonnonvarojen kulutusta vastaavat korkean tulotason kotitaloudet, joilla on parhaat edellytykset muokata toimintaansa vähemmän kuluttavaan suuntaan ja kantaa ylikulutuksen kustannuksia. Samalla on pidettävä huoli matalamman tulotason kotitalouksien toimeentulosta.”
-
-Global Footprint Network laskee maailman ylikulutuspäivät joka vuosi uudestaan tuoreimpien tietojen perusteella. Kansalliset ylikulutuspäivät Global Footprint Network laskee vain YK:n tilastotietojen perusteella ilman täydennettyjä tietoja, joten maailman ylikulutuspäivä ja kansalliset ylikulutuspäivät eivät ole suoraan vertailukelpoisia. Viime vuosien keskenään vertailukelpoiset maailman ylikulutuspäivät ovat 1.8.2018, 3.8.2019, 16.8.2020, 3.8.2021 ja 1.8.2022. Vuoden 2020 muita myöhäisempi ylikulutuspäivä johtuu pandemian aiheuttamasta luonnonvarojen kulutuksen väliaikaisesta vähentymisestä.
-
-Lisätiedot ja haastattelupyynnöt:
-
-Jussi Nikula, suojelun neuvonantaja, WWF Suomi, p. 040 595 9002, [email protected]
-
-Totti Toiskallio, viestinnän asiantuntija, WWF Suomi, p. 044 723 5424, [email protected]
-
-wwf.fi/uhat/ylikulutus
-
----
-
 ## Heinäkuu 2023
 
 ### Tiikerien määrä saatiin kasvuun Bhutanissa – tutkimustyössä käytettyihin riistakameroihin tallentui kirjava joukko kissapetoja
@@ -3532,7 +3369,6 @@ wwf.fi/uhat/ylikulutus
 Julkaistu: 29.7.2023  
 Aiheet: Tiikeri, Bhutan, Onnistumistarina  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/07/tiikerien-maara-saatiin-kasvuun-bhutanissa-tutkimustyossa-kaytettyihin-riistakameroihin-tallentui-kirjava-joukko-kissapetoja/
 
 **Tänään vietettävän kansainvälis en tiikeripäivä n kruunaavat iloiset uutiset Bhutanista: V illien tiikereiden määrä on kasvanut maassa yli neljänneksellä sitten edellisen kanta-arvion.**
@@ -3571,57 +3407,11 @@ Koko maailmassa on silti edelleen vain noin 4500 villinä elävää tiikeriä (a
 
 ---
 
-### WWF ja Länsi-Uudenmaan maanomistajat etsivät ratkaisuja tulvaongelmiin ja rehevöitymiseen – Inkooseen toteutetaan laaja vesienhallintakokonaisuus
-
-Julkaistu: 26.7.2023  
-Aiheet: Suomi, Ennallistaminen  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2023/07/wwf-ja-lansi-uudenmaan-maanomistajat-etsivat-ratkaisuja-tulvaongelmiin-ja-rehevoitymiseen-inkooseen-toteutetaan-laaja-vesienhallintakokonaisuus/
-
-**WWF ja Länsi-Uudenmaan maanomistajat etsivät yhdessä ratkaisuja parempaan vesienhallintaan luonnonmukaisin keinoin. Vesienhallinnan ratkaisuilla pyritään vähentämään yleistyneitä tulvaongelmia ja rehevöitymistä, sekä turvaamaan luonnon monimuotoisuutta. WWF on toteuttanut vesiensuojelutyötä Länsi-Uudellamaalla jo viiden vuoden ajan, ja merkittävä työ jatkuu myös lähivuosina.**
-
-Erilaisilla vesienhallinnan ratkaisuilla, kuten tulvatasanteiden, kaksitasouomien ja kosteikkojen rakentamisella sekä soiden ennallistamisella voidaan hillitä vesistöjen ja meren rehevöitymistä. Luonnonmukaiset vesienhallintaratkaisut lisäävät alueen vedenpidätyskykyä, ja mutkittelevien ojien ja uomien rakentaminen hidastaa veden liikkumista, jolloin virtaamahuiput tasaantuvat ja tulviminen vähenee.
-
-WWF:n suojeluasiantuntija Meri Ensiön mukaan tehokkainta vesiensuojelu on silloin, kun voidaan suunnitella ja toteuttaa suurempia kokonaisuuksia yhteistyössä useiden maanomistajien kanssa.
-
-Ensiö nostaa hyväksi esimerkiksi laajasta, maanomistajien kanssa yhteistyössä suunnitellusta ja toteutetusta kokonaisuudesta, Inkoossa toteutetun Långbroån alueen vesienhallintakokonaisuuden.
-
-Långbroå on peltoalueiden läpi virtaava avouoma, jonka vesi laskee Inkoonjokeen ja myöhemmin Suomenlahteen. Långbroånin valuma-alue on kaikkiaan 287 hehtaaria, josta noin kaksi kolmasosaa on metsää ja loput pääosin peltoa.
-
-“Usein kuulee puhuttavan maatalouden ja metsätalouden vesistökuormituksesta eri yhteyksissä ja erillisinä kokonaisuuksina. Todellisuudessa kuitenkin sekä metsistä että pelloilta valuvat ravinteet aiheuttavat yhtä lailla rehevöitymistä ja päätyvät lopulta samaan loppusijoituspaikkaan, eli Itämereen.”
-
-”Längbroanin kokonaisuuden suunnittelu lähti liikkeelle uoman alaosien vaikeasta tulvatilanteesta. Vesienhallintatoimenpiteillä halutaan parantaa valumavesien laatua sekä vähentää tulvimisongelmia”, Ensiö kertoo.
-
-Tulvaongelmien taltuttamiseksi Långbroånin uoman alaosaan kaivetaan tulvatasanne, sekä rakennetaan kuusi pohjakynnystä, joiden tarkoituksena on tasata veden virtausnopeutta ja luoda maisemaan monimuotoisuutta. Metsän ja pellon rajaan rakennetaan lisäksi kaksiosainen kosteikko, jonka avulla valumavesistä pidätetään kiintoainesta ja ravinteita.
-
-”Eri rakenteet täydentävät toisiaan ja muodostavat yhdessä upean kokonaisuuden maisemaan. Osa työstä on jo tehty, mutta urakka viimeistellään alkusyksystä peltotöiden jälkeen”, Ensiö lisää.
-
-Långbroån kohteen toimenpiteet ovat erinomaisia esimerkkejä luonnonmukaisesta vesienhallinnasta. Luonnonmukaisilla ratkaisuilla alueilla voidaan edistää vesistöjen hyvää ekologista tilaa, parantaa veden laatua ja tukea monimuotoisuutta. Sen lisäksi vesienhallintaratkaisuilla voidaan myös ylläpitää tarvittavaa peruskuivatusta eli varmistaa ettei vesi seiso pellolla ja heikennä viljelyedellytyksiä.
-
-”Aikoinaan on raivattu paljon luontaisia vettä pidättäviä kohteita, kuten soita ja lampia, pois peltojen tieltä. Luonnonmukaisilla ratkaisuilla voidaan paikata näitä kadonneita ympäristöjä ja tasoittaa virtaamia.”
-
-#### Ympäristötyö etenee vauhdilla – kesän kohteina myös Norrbybäcken ja Myllykylä
-
-Langbroånin kokonaisuus on WWF:n tämän kesän isoin ponnistus, mutta sen lisäksi kesän aikana on rakennettu ja rakennetaan muitakin vesiensuojelukohteita Siuntionjoen valuma-alueelle.
-
-Norrbybäcken on Siuntionjoen Kirkkojoen haarassa sijaitseva sivu-uoma, jonka valuma-alue on noin 670 hehtaaria. WWF rakensi uoman varrelle vuonna 2021 kaksi pientä vesienhallintaa edistävää kohdetta, ja nyt työ saa jatkoa. Norrbybäckenin alaosaan rakennetaan noin 600 metriä pitkä kaksitasouoma.
-
-Siuntion Myllykylässä puolestaan rakennetaan kahdesta altaasta koostuva pieni kosteikko paikkaan, jossa sulamisvedet ja kovat sateet ovat aiheuttaneet huomattavaa eroosiota uomassa. Pahimmillaan vesi valuu alaspäin suoraan pellon läpi, keräten mukaansa ravinteita ja kiintoainesta. Kosteikolla ja kiveämisellä halutaan ensisijaisesti vakiinnuttaa uoma ja estää eroosio tulevaisuudessa, sekä pidättää vesiä kosteikossa, jotta vältytään pellon tulvimiselta.
-
-Lisätiedot ja kuvapyynnöt:
-
-Meri Ensiö, suojeluasiantuntija, WWF Suomi 050 3021568, [email protected]
-
-Metsälähde-hankkeen ja VALUTA2-hankkeen rahoittaa WWF Suomi ja ympäristöministeriö osana vesiensuojelun tehostamisohjelmaa. Hankkeissa tehdään yhteistyötä maa- ja metsäalueiden omistajien, sekä muiden sidosryhmien kanssa. Kiviaineksen vesienhallintakohteiden toteuttamiseen lahjoitti Rudus Oy.
-
----
-
 ### Maapallo kärvistelee ilmastokriisin vaikutusten alla –”Toivon, että ihmiset viimeinkin havahtuisivat”
 
 Julkaistu: 25.7.2023  
 Aiheet: Ilmastonmuutos  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/07/maapallo-karvistelee-ilmastokriisin-vaikutusten-alla-toivon-etta-ihmiset-viimeinkin-havahtuisivat/
 
 **Kesäkuu oli maapallon mittaushistorian kuumin kuukausi, ja sään ääri-ilmiöt kurittavat ihmisiä ja luontoa ympäri maailman. Ilmastonmuutoksen hillitseminen tarkoittaa kasvihuonekaasupäästöjen runsasta vähentämistä. K uinka paljon vastuuta voi sälyttää yksilölle?**
@@ -3739,7 +3529,6 @@ Lue lisää: EU:n ennallistamisasetuksen ABC – tämä kannattaa tietää Euroo
 Julkaistu: 4.7.2023  
 Aiheet: Itämeri, Suomi  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/07/sinileva-piinaa-taas-itamerta-wwfn-asiantuntijat-kertovat-miten-rehevoitymista-voidaan-hillita/
 
 **Aurinko paahtaa, mutta uimaan ei voi mennä: meri- ja sisävesialueilla on havaittu huomattavan paljon ihmisille ja eläimille haitallista sinilevää. Lämpimien sääolosuhteiden vuoksi sinilevähavaintoja on tehty enemmän kuin tyypillisesti tähän aikaan kesästä. Sinilevän määrän lisääntymiseen vaikuttavat muun muassa vesien rehevöityminen ja ilmastonmuutos.**
@@ -3798,7 +3587,6 @@ WWF on rakentanut viiden vuoden aikana noin 25 vesienhallintakohdetta Länsi-Uud
 Julkaistu: 30.6.2023  
 Aiheet: Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/uusia-jasenia-wwfn-hallintoneuvostoon/
 
 **WWF Suomen hallintoneuvostoon on valittu kuusi uutta jäsentä. Leif Schulman, Seppo Knuuttila, Anders Carlberg, Mikko Mönkkönen, Senni Alho ja Kimmo Saarinen aloittavat hallintoneuvostossa uuden toimintavuoden alkaessa heinäkuun alussa.**
@@ -3899,7 +3687,6 @@ WWF on vaatinut verkkokalastuskiellon ulottamista heinäkuun loppuun ja kaiken t
 Julkaistu: 30.6.2023  
 Aiheet: Virtavedet, Ennallistaminen, Lohi, Suomen uhanalaiset kalat, Suomi  
 Kirjoittaja: Heidi Volotinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/historiallisen-hyvia-uutisia-uhanalaisille-vaelluskaloille-palokin-kosket-ennallistetaan/
 
 **Hallitusohjelmassa tehtiin historiallisen hyvät kirjaukset virtavesiluonnon suojelemisesta ja ennallistamisesta. Heinävedellä sijaitsevien Palokin koskien vapauttaminen tulee olemaan Suomen sisävesien merkittävin padonpurku – uhanalaisille vaelluskaloille vapautuu jopa 1500 kilometriä vapaana virtaavaa vesireittiä.**
@@ -3951,7 +3738,6 @@ Vuonna 2019 julkaistun hallitustenvälisen IPBES-luontopaneelin raportin mukaan 
 Julkaistu: 29.6.2023  
 Aiheet: Metsäkato, Sademetsät, Suomen metsät  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/eun-metsakatoasetus-astuu-voimaan-tanaan-jatkossa-muun-muassa-euroopassa-myytavan-kahvin-naudanlihan-ja-puutavaran-tulee-olla-metsakatovapaata/
 
 **Asetus kieltää metsäkatoa aiheuttavien tuotteiden myynnin EU:ssa. Tästä päivästä lähtien eurooppalaisilla yrityksillä on koosta riippuen 18 tai 24 kuukautta aikaa kitkeä metsäkato pois tuotantoketjuistaan. Suomen ja muiden jäsenmaiden tulee samalla aloittaa valmistelut lain toimeenpanoa varten.**
@@ -3992,7 +3778,6 @@ Lisäksi tuemme tuottajamaissa ympäri maailmaa paikallisyhteisöjä sekä pienv
 
 Julkaistu: 28.6.2023  
 Aiheet: Suomi, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/mahdottomalta-nayttava-solmu-wwf-analysoi-hallitusohjelman-ilmastopolitiikkaa/
 
 **Tuoreen hallituksen ilmastopoliittiset linjaukset ovat ongelmallisia, eikä hallitusohjelmasta löydy riittäviä ratkaisuja ilmastokriisin vaikuttavaan hillintään. Muun muassa liikennepolttoaineiden hintaohjauksen puuttuminen hallituksen työkalupakista on käsittämätöntä.**
@@ -4036,7 +3821,6 @@ Keskeinen teema hallitusohjelman ilmastopolitiikassa on uudelleennimetyn puhtaan
 Julkaistu: 27.6.2023  
 Aiheet: Luontolive, Metsäkato, Suomi  
 Kirjoittaja: Juho Talja  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/wwfn-luontoliven-lapinpollokamera-kerasi-jattiyleison-mita-poikasille-tapahtuu-seuraavaksi/
 
 **WWF:n Luontoliven lapinpöllökamerassa päästiin seuraamaan pöllönpesän tapahtumia parin kuukauden ajan. Metsien hakkuut uhkaavat myös lapinpöllöjen pesäpaikkoja.**
@@ -4168,7 +3952,6 @@ Vehmaanniemen talkoot olivat osa WWF:n perinnemaisemahelmet hanketta, joka saa r
 Julkaistu: 20.6.2023  
 Aiheet: Suomi, Ilmastonmuutos, Metsäkato  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/mita-hallitusohjelma-tarkoittaa-metsiemme-nakokulmasta-wwfn-asiantuntijat-vastaavat/
 
 **Suomalainen metsä ei voi hyvin, sillä hakkuut ovat ajaneet luonnon ahdinkoon. Tuleva hallitus ei kuitenkaan aio rajoittaa hakkuita. Vaarana on, että luontokato kiihtyy ja Suomen hiilinielut kutistuvat entisestään.**
@@ -4222,7 +4005,6 @@ Vanhojen metsien lisäksi tarvitaan muutakin suojelua: Suomi on sitoutunut nouda
 Julkaistu: 16.6.2023  
 Aiheet: Suomi, Suomen metsät, Virtavedet  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/hallitusohjelma-ei-riita-luontokadon-ja-ilmastokriisin-pysayttamiseen-mukana-kuitenkin-hyvia-kirjauksia/
 
 **Vanhojen metsien suojeleminen ja Heinävedellä sijaitsevien Palokin koskien vapauttaminen ovat tärkeitä lupauksia tulevalta hallitukselta. Tänään esitelty hallitusohjelma ei kuitenkaan riitä luontokadon pysäyttämiseen ja ilmastokriisin hillitsemiseen.**
@@ -4311,7 +4093,6 @@ Kun EPP:n esitystä ennallistamisasetuksen hylkäämisestä ei hyväksytty, vali
 Julkaistu: 15.6.2023  
 Aiheet: Luontolive, Suomi  
 Kirjoittaja: Juho Talja  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/luontoliven-kameroiden-pesilla-kannibalistisia-kaanteita-kaikki-ravinto-on-kaytettava-hyvaksi/
 
 **WWF:n Luontoliven lapinpöllökamera pesälle syntyi kaikkiaan neljä poikasta, joista kaksi menehtyi todennäköisesti ravinnon puutteeseen. Katsojien havaintojen perusteella vaikuttaa siltä, että pöllöemo syötti kuolleet poikaset jäljelle jääneille poikasille. Sääksikamerassa emo puolestaan söi yhden kuoriutumattoman munan.**
@@ -4382,7 +4163,6 @@ Luonnonlaidunpäivän verkkosivulta löytyy lisätietoja sekä päivittyvä kart
 Julkaistu: 12.6.2023  
 Aiheet: Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/kiivasta-keskustelua-herattaneen-eun-ennallistamisasetuksen-kohtalonhetket-kasilla-asetuksesta-aanestetaan-talla-viikolla/
 
 **Euroopan parlamentin ympäristövaliokunta äänestää EU:n ennallistamisasetuksesta torstaina 15. kesäkuuta. Äänestyksestä odotetaan tiukkaa. WWF vetoaa ennallistamisasetuksen puolesta.**
@@ -4444,7 +4224,7 @@ WWF Suomen lausunto Itämeren hyljekantojen hoitosuunnitelmaluonnoksesta
 
 ---
 
-### WWF:n Panda-palkinto myönnettiin kolmelle sisävesihankkeelle —”Palkinto on meille kuin piste i:n päälle”
+### WWF:n Panda-palkinto myönnettiin kolmelle sisävesihankkeelle — “Palkinto on meille kuin piste i:n päälle”
 
 Julkaistu: 8.6.2023  
 Aiheet: Suomi, Virtavedet  
@@ -4481,7 +4261,6 @@ WWF Suomi on jakanut Panda-palkintoa vuodesta 1999 lähtien. Panda-palkinto on y
 
 Julkaistu: 8.6.2023  
 Aiheet: Virtavedet, Suomen uhanalaiset kalat, Talkoot, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/kivet-lensivat-kaaressa-kun-palosenjoella-parannettiin-virtavesilajien-elinolosuhteita-metsapurojen-puolesta-talkoissa/
 
 **WWF:n asiantuntijat ja Stora Enson ja Tornatorin henkilökunnasta koostunut talkoojoukko rakensi kaksipäiväisissä talkoissa uhanalaiselle taimenelle kutusoraikkoja ja pienpoikasalueita Kuopion Palosenjoella. Talkoot järjestettiin osana Metsäpurojen puolesta -yhteistyötä.**
@@ -4561,7 +4340,6 @@ Saimaannorppien siirrot ovat osa Yhteinen saimaannorppamme LIFE -hanketta. Siirr
 Julkaistu: 5.6.2023  
 Aiheet: Ilmastonmuutos  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/06/ykn-ilmastokokous-bonnissa-alkoi-wwf-vaatii-vahvaa-tukea-fossiilisten-polttoaineiden-lopettamiselle/
 
 **Saksan Bonniin kokoontuneiden neuvottelijoiden on annettava vahva tuki fossiilisten käytön lopettamiselle, jotta siitä voidaan päättää Dubain ilmastokokouksessa vuoden lopulla.**
@@ -4654,7 +4432,7 @@ Seuraavat muoviroskaneuvottelut järjestetään marraskuussa Keniassa. Kansainv�
 
 ---
 
-### Saimaalla syntyi ennätykselliset sata kuuttia:”Täyden kympin tulos”
+### Saimaalla syntyi ennätykselliset sata kuuttia: “Täyden kympin tulos”
 
 Julkaistu: 2.6.2023  
 Aiheet: Saimaannorppa, Ilmastonmuutos, Suomi  
@@ -4857,7 +4635,6 @@ Parhaillaan Pariisissa käytävät neuvottelut ovat toiset kaikkiaan viisistä n
 Julkaistu: 25.5.2023  
 Aiheet: Virtavedet, Luonnon köyhtyminen, Suomen uhanalaiset kalat  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/05/sipoonjoen-brobolen-patoalue-kunnostetaan-esteettomaksi-virtavedeksi/
 
 **Uudellamaalla, Sipoonjoessa Brobölen padon kohdalla sijaitsevan koskialueen kunnostaminen on käynnistymässä touko-kesäkuun vaihteessa. Uhanalaisille vaelluskaloille kulkureittejä vapauttavan kunnostusurakan on tarkoitus valmistua vuoden 2023 syyskuun loppuun mennessä.**
@@ -4883,7 +4660,6 @@ Rakennusurakassa tehtävillä toimenpiteillä vähennetään myös padon yläpuo
 Julkaistu: 24.5.2023  
 Aiheet: Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/05/metsatoiden-aanet-kantautuvat-lapinpollon-pesalle-wwfn-luontolivessa-ovatko-vastikaan-kuoriutuneet-poikaset-vaarassa/
 
 **WWF:n Luontolivessä seurataan lapinpöllön pesintää, ja ensimmäiset poikaset ovat jo kuoriutuneet. Monia katsojia on kuitenkin huolestuttanut lähetykseen kantautuva metsätöiden ääni. Lähetyksessä seurattavilla pöllöillä ei ole hätää, mutta yleisesti ottaen hakkuut uhkaavat metsäluontoa Suomessa.**
@@ -5017,7 +4793,6 @@ Täältä voit lukea lisää vapaaehtoisista öljyntorjuntajoukoista ja kaikki t
 Julkaistu: 15.5.2023  
 Aiheet: Merten muoviroska  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/05/seuraavat-ykn-muoviroskasopimusneuvottelut-lahestyvat-wwf-vaatii-haitallisimpien-ja-tarpeettomien-muovituotteiden-kuten-kertakayttoaterimien-ja-astioiden-seka-kosmetiikan-mikromuo/
 
 **WWF:n julkaisemat uudet raportit listaavat planeettaa todennäköisimmin saastuttavat muovituotteet ja osoittavat, että näiden maailmanlaajuinen kielto, käytön asteittainen lopettaminen ja tehokkaammat hallintatoimet ovat täysin toteutettavissa.**
@@ -5070,7 +4845,6 @@ WWF edellyttää, että viime vuonna pidettyjen ensimmäisten YK:n hallitustenv�
 
 Julkaistu: 12.5.2023  
 Aiheet: Virtavedet, Onnistumistarina, Suomen uhanalaiset kalat  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/05/wwfn-vauhtia-vaellukseen-hanke-vapautti-uhanalaisille-vaelluskaloille-ja-muille-virtavesilajeille-yli-570-kilometria-esteettomia-reitteja/
 
 **Viime vuoden lopussa päättyneen hankkeen aikana poistettiin ja ohitettiin ympäri Suomea onnistuneesti lukuisia patoja ja muita esteitä, jotka estävät vaelluskalojen liikkumisen kutupaikoille. Kaikki Suomessa tavattavat vaelluskalalajit ovat uhanalaisia ja suurin syy uhanalaisuuteen ovat erilaiset vaellusesteet.**
@@ -5114,7 +4888,6 @@ Vauhtia vaellukseen -hanketta rahoitti Euroopan meri- ja kalatalousrahasto (EMKR
 Julkaistu: 10.5.2023  
 Aiheet: Arktinen, Ilmastonmuutos, Kiljuhanhi, Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/05/aarimmaisen-uhanalaisia-kiljuhanhia-jalleen-suomessa-linnuilla-edessaan-kriittisen-tarkea-pesintakesa/
 
 **WWF:n kiljuhanhityöryhmä on havainnut viimeisen viikon aikana Suomessa 62 äärimmäisen uhanalaista kiljuhanhea. Kiljuhanhet pysähtyvät joka kevät Pohjois-Pohjanmaan Siikajoella matkalla Norjassa sijaitseville pesimäalueilleen. Kiljuhanhilla on takanaan useampi huono pesintävuosi, minkä vuoksi tämänvuotinen pesintämenestys on hyvin tärkeä kiljuhanhikannan selviytymisen kannalta.**
@@ -5213,12 +4986,11 @@ WWF:n öljyntorjuntajoukoissa on mukana jo yli 10 000 suomalaista. Öljyntorjunt
 
 ---
 
-### WWF aloitti suoran lähetyksen lapinpöllön pesältä –”Poikaset varsinaisia menninkäisiä”
+### WWF aloitti suoran lähetyksen lapinpöllön pesältä – “Poikaset varsinaisia menninkäisiä”
 
 Julkaistu: 3.5.2023  
 Aiheet: Luontolive, Suomen metsät, Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/05/wwf-aloitti-suoran-lahetyksen-lapinpollon-pesalta-poikaset-varsinaisia-menninkaisia/
 
 **WWF:n tänään avaamassa livelähetyksessä kuvataan lapinpöllön pesintää. WWF:n Luontolivessä seurataan poikasten varttumista juhannukseen asti.**
@@ -5252,7 +5024,6 @@ WWF:n Luontoliven teknisestä toteutuksesta vastaavat Live Eye Oy ja Pukki Visua
 Julkaistu: 3.5.2023  
 Aiheet: Lahjoittaminen, Öljyntorjuntajoukot, Talkoot, Yritykset  
 Kirjoittaja: Emmi Karhiaho  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/05/vinkkeja-luonnonystavan-kesatapahtumiin/
 
 **Tänä kesänä WWF on mukana monenlaisissa tapahtumissa. Kokosimme vinkit kiinnostaviin kesätapahtumiin, joissa voit auttaa luontoa, oppia uutta sen suojelusta sekä juhlistaa monimuotoista luontoamme.**
@@ -5342,12 +5113,11 @@ Tuoreena Nato-maana Suomen tulee profiloitua valtiona, joka edistää luonnon mo
 
 ---
 
-### 12 hengen joukko aloittaa tiistaina rantojen siivoamisen Joutsenossa –”Urakasta ei tule helppoa”
+### 12 hengen joukko aloittaa tiistaina rantojen siivoamisen Joutsenossa – “Urakasta ei tule helppoa”
 
 Julkaistu: 1.5.2023  
 Aiheet: Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/05/12-hengen-joukko-aloittaa-tiistaina-rantojen-siivoamisen-joutsenossa-urakasta-ei-tule-helppoa/
 
 **WWF aloittaa tiistaina rantojen siivoamisen öljystä Joutsenon Kolarinlahdella. Urakkaan osallistuu 12 öljyntorjuntajoukkojen jäsentä.**
@@ -5385,7 +5155,6 @@ Voit seurata torjuntatöiden edistymistä WWF:n sosiaalisen median kanavissa.
 Julkaistu: 30.4.2023  
 Aiheet: Suomi, Öljyntorjuntajoukot  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/04/wwf-lahtee-auttamaan-joutsenon-oljyonnettomuuden-torjunnassa/
 
 **Joutsenon Kolarinlahdella on yritetty kerätä Saimaaseen päätynyttä öljyä jo kahden viikon ajan. Etelä-Karjalan pelastuslaitos on kutsunut nyt myös WWF:n öljyntorjuntajoukot auttamaan rantojen siivoamisessa.**
@@ -5425,7 +5194,6 @@ Ensimmäinen isompi öljyonnettomuus öljyntorjuntajoukkojen historian aikana ta
 Julkaistu: 27.4.2023  
 Aiheet: Öljyntorjuntajoukot, Itämeri, Suomi  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/04/wwfn-vapaaehtoiset-oljyntorjuntajoukot-tayttavat-20-vuotta-muutokset-oljynkuljetusliikenteessa-lisaavat-nyt-onnettomuuden-riskia-itamerella/
 
 **Öljyntorjuntajoukkojen 20-vuotisen historian aikana suurelta öljyonnettomuudelta on onneksi v ältytty, mutta vapaaehtoiset ovat olleet mukana pienempien onnettomuuksien jälkien siivoamisessa. Viimeisen vuoden aikana Itämeren öljykuljetusliikenteessä on tapahtunut muutoksia, jotka voivat lisä tä onnettomuusriskiä.**
@@ -5528,7 +5296,6 @@ Metsähallitus vastaa saimaannorpan kannanseurannasta ja organisoi pesälaskenna
 Julkaistu: 26.4.2023  
 Aiheet: Merten muoviroska, Itämeri  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/04/aurauslumien-kasittelyyn-taytyy-saada-kestavampia-ratkaisuja-helsingissa-kipattu-itamereen-yli-18-000-kiloa-roskaa-lumen-mukana/
 
 **Helsingin kaupungin mereen kaatamat aurauslumet herättävät joka talvi runsaasti kritiikkiä, sillä lumen mukana mereen päätyy paljon muovia ja muuta roskaa. Ongelmaan ollaan kehittämässä ratkaisuja, joista yksi on jokaisen omissa käsissä.**
@@ -5628,7 +5395,6 @@ Liite: Lue Luonnonmetsä-työryhmän raportti täältä (https://wwf.fi/app/uplo
 Julkaistu: 21.4.2023  
 Aiheet: Yritykset, Itämeri, Lahjoittaminen  
 Kirjoittaja: Emmi Karhiaho  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/04/musiikkifestivaali-crusell-viikko-unelmoi-paremmasta-huomisesta-yhteistyossa-wwfn-kanssa/
 
 **Puupuhaltimet ja luontoaiheinen musiikki soivat Uudenkaupungin historiallisessa miljöössä heinäkuussa. Jokaisesta Crusell-viikolle ostetusta festivaalilipusta lahjoitetaan euro WWF:n Itämeren suojelutyölle.**
@@ -5951,7 +5717,6 @@ Liite: Laumanvartijakoirien käyttöopas, tiivistelmä (https://wwf.fi/app/uploa
 Julkaistu: 12.4.2023  
 Aiheet: Virtavedet, Luonnon köyhtyminen, Suomen uhanalaiset kalat  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/04/tulevan-hallituksen-on-tartuttava-kiireesti-vesilain-paivitykseen-vanha-laki-merkittava-syy-suomen-vaelluskalakantojen-uhanalaistumisen-taustalla/
 
 **Vesilain päivitys elvyttäisi uhanalaisia vaelluskalakantoja mahdollistamalla esimerkiksi kalatievaatimusten lisäämisen satojen vesivoimaloiden lupiin. Muun muassa WWF:n esittämä lakimuutos olisi omiaan vauhdittamaan patojen purkuja energiantuotannon kannalta merkityksettömissä voimaloissa.**
@@ -5992,7 +5757,6 @@ Koska vesilain päivitysprosessi venyi Sanna Marinin hallituksen toimintakauden 
 
 Julkaistu: 6.4.2023  
 Aiheet: Earth Hour, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/04/wwfn-earth-houriin-osallistui-13-miljoonaa-suomalaista-ja-luonnolle-annettiin-ennatysmaara-lupauksia/
 
 **Maailman suurin ympäristötapahtuma Earth Hour näytti lauantaina 25.3. jälleen yhteisen valomerkin luonnon ja ilmaston puolesta ja in nosti ihmisiä ympäri maailmaa toimimaan ympäristön hyväksi.**
@@ -6079,7 +5843,6 @@ Jos sinulla ei ole nyt mahdollista pitkäjänteiseen tukemiseen, voit tukea luon
 Julkaistu: 5.4.2023  
 Aiheet: Luontolive, Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/04/miljoonia-katselukertoja-viime-vuonna-kerannyt-saaksikamera-tekee-paluun-wwfn-luontoliveen/
 
 **WWF:n suosittu suora lähetys sääksen pesältä on alkanut. WWF toteuttaa livelähetyksen jo seitsemännen kerran. Viime vuonna sääksikamera keräsi yhteensä lähes 2,9 miljoonaa katselukertaa.**
@@ -6112,7 +5875,6 @@ WWF avaa kuluvan kevään aikana myös perinteisen Norppaliven sekä toisen norp
 
 Julkaistu: 31.3.2023  
 Aiheet: Yritykset, Ruoka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/03/wwfn-ja-fazerin-yhteistyo-jatkuu-kestavan-ruuantuotannon-edistamiseksi/
 
 **Fazer on sitoutunut kestävän ruuantuotannon edistämiseen ja jatkaa monivuotista yhteistyötään WWF Suomen kanssa. Yhteistyön tavoitteena on etsiä keinoja ja huomioida entistä laajemmin Fazerin toiminnan vaikutukset luonnon monimuotoisuuden edistämiseen. Fazerin yksi painopiste on kasvipohjaisen tuotevalikoiman lisääminen.**
@@ -6197,7 +5959,6 @@ Jokainen meistä voi toimia ylikulutuksen lopettamiseksi tekemällä kestäviä 
 Julkaistu: 29.3.2023  
 Aiheet: Suomi  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/03/wwfn-kyselytutkimus-yli-kaksi-kolmasosaa-suomalaisista-huolissaan-ilmastonmuutoksesta-ja-luontokadosta-liki-puolella-huoli-vaikuttaa-aanestyspaatokseen/
 
 **Luontokato huolettaa yhtä isoa osaa suomalaisista kuin ilmastonmuutos, selviää WWF:n Kantar Publicilla teettämästä kyselytutkimuksesta.**
@@ -6239,7 +6000,6 @@ Maaliskuun puolivälissä toteutettuun kyselyyn vastasi 1042 ihmistä. Kyselytut
 Julkaistu: 28.3.2023  
 Aiheet: Metsäkato, Sademetsät, Ylikulutus, Yritykset  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/03/tuore-selvitys-paasiaissuklaista-voi-paljastua-ikava-yllatys-suomalaisille-tutut-suklaabrandit-eivat-tee-riittavasti-metsakadon-ja-lapsityovoiman-lopettamiseksi/
 
 **Tuoreesta vertailusta ilmenee, että vain 11 prosenttia suklaa-alan toimijoista tietää täysin, missä niiden käyttämä kaakao on viljelty. Vastuullisuuslupauksista huolimatta yritykset eivät voi olla varmoja, onko tuotannossa tuhottu metsää tai loukattu ihmisoikeuksia. Arvioitujen yritysten brändeihin lukeutuvat muun muassa tutut Fazerin sininen, Kinder, Twix ja Toffifee.**
@@ -6486,7 +6246,6 @@ Päivitetty: 14.3.2023
 
 Julkaistu: 20.3.2023  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/03/ipccn-tuore-raportti-painottaa-ilmastotoimien-kiireellisyytta-tulevalla-hallituksella-vastuu-pitkalle-tulevaisuuteen/
 
 **Hallitustenvälisen ilmastopaneelin IPCC:n tuore raportti vahvistaa nykyisten päästövähennysten ja sitoumusten riittämättömyyden ja tähdentää välittömien toimien merkitystä ilmastonmuutoksen torjumisessa.**
@@ -6591,7 +6350,6 @@ Tutustu täältä muihin vaali-aiheisiin uutisiimme.
 Julkaistu: 16.3.2023  
 Aiheet: Earth Hour, Ilmastonmuutos, Luonnon köyhtyminen, Suomi, Ylikulutus  
 Kirjoittaja: Helmi Lehtonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/03/luonto-ei-pyyda-meilta-mitaan-muuta-kuin-etta-pitaisimme-siita-huolta-elina-gustafsson-ja-muut-earth-hour-lahettilaat-tekivat-lupauksen-luonnolle/
 
 **Somevaikuttaja Julia Ahonen, ex-nyrkkeilijä Elina Gustafsson ja toimittaja-tietokirjailija Julia Thurén ryhtyivät WWF:n Earth Hour -lähettiläiksi, koska luonto on heille tärkeä osa elämää. He haluavat muistuttaa ihmisiä siitä, että valinnoillamme on vaikutusta.**
@@ -6637,7 +6395,6 @@ Earth Hourista voimme kaikki saada voimaa. Yksilönä voi joskus tuntua siltä, 
 Julkaistu: 10.3.2023  
 Aiheet: Suomi, Ilmastonmuutos, Luonnon köyhtyminen, Metsäkato  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/03/luontomarssi-jarjestetaan-18-3-tule-mukaan-osoittamaan-tukesi-luonnolle/
 
 **Seuraavan hallituksen täytyy pysäyttää luontokato ja siirtyä ilmastotavoitteista ilmastotekoihin. WWF on mukana järjestämässä Luontomarssia, jossa päättäjiä vaaditaan huomioimaan luonto ja ilmasto kaikessa päätöksenteossaan.**
@@ -6892,7 +6649,7 @@ WWF:n ja Postin yhteistyössä korostuvat keskinäinen asiantuntijayhteistyö ja
 
 ---
 
-### Hallituksen saatava aikaan päätös biodiversiteettistrategiasta –”Luontokadon pysäyttämisessä ei ole aikaa odottaa seuraavaa hallitusta”
+### Hallituksen saatava aikaan päätös biodiversiteettistrategiasta – “Luontokadon pysäyttämisessä ei ole aikaa odottaa seuraavaa hallitusta”
 
 Julkaistu: 2.3.2023  
 Aiheet: Suomi, Luonnon köyhtyminen  
@@ -6950,7 +6707,6 @@ Kaipaatko lisää tietoa eduskuntavaaleista? Tutustu WWF:n vaalisivuun.
 Julkaistu: 24.2.2023  
 Aiheet: Bolivia, Ilmastonmuutos, Kilpikonna, Luonnon köyhtyminen, Metsäkato, Sademetsät  
 Kirjoittaja: Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/02/terveisia-amazonilta-wwf-bolivian-asiantuntija-suojelee-lapsuudenmaisemiaan-maailman-suurimman-sademetsan-laidalla/
 
 **”Amazonin suojelemisessa on kyse meidän kaikkien selviytymisestä”, sanoo Marcela Áñez, joka koordinoi WWF:n työtä ainutlaatuisen jokiluonnon suojelemiseksi Bolivian Amazonilla.**
@@ -7044,7 +6800,6 @@ Lue lisää: Kurkista kanssamme Bolivian Amazonille: näin WWF turvaa ainutlaatu
 Julkaistu: 23.2.2023  
 Aiheet: Meret, Ilmastonmuutos, Liikakalastus, Luonnon köyhtyminen, Merten muoviroska, Valaat ja delfiinit  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/02/maailmanlaajuinen-valtamerisopimus-olisi-ratkaiseva-askel-merien-30-prosentin-suojelutavoitteen-saavuttamiseksi/
 
 **Sopimus olisi avainasemassa monien lajien kotina toimivan aavan meren suojelussa. Tällä hetkellä aava meri eli kaksi kolmasosaa maailman merialueista ei kuulu kansainvälisen lainsäädännön piiriin.**
@@ -7088,7 +6843,6 @@ WWF kehottaa osapuolia kunnianhimoon sopimuksen viiden avainelementin viimeistel
 Julkaistu: 17.2.2023  
 Aiheet: Yritykset  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/02/raportti-suomalaisyritykset-tiedostavat-luontokadon-uhkaavan-liiketoimintaansa-toimet-luonnon-koyhtymisen-pysayttamiseksi-ovat-viela-riittamattomia/
 
 **Merkittävä osa suomalaisyrityksistä tiedostaa, että luontokato on vakava uhka yhteiskunnalle ja yritysten liiketoiminnalle, selviää WWF Suomen ja Bain & Companyn tänään julkaisemasta raportista. Samalla raportti osoittaa, että yritysten ymmärrys aiheesta ja toimet luonnon köyhtymisen pysäyttämiseksi ovat vielä riittämättömiä. Yritysten on muokattava toimintaansa harkitusti mutta nopeasti tehdäkseen osansa luontokadon pysäyttämiseksi ja saadakseen etua markkinoilla.**
@@ -7135,7 +6889,6 @@ Päivitetty: 14.3.2023
 
 Julkaistu: 16.2.2023  
 Aiheet: Suomi, Ilmastonmuutos, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/02/suureen-ymparistotenttiin-osallistuneet-kannattivat-luonnolle-tarkeaa-30-prosentin-suojelutavoitetta-nyt-on-ryhdyttava-hommiin/
 
 **WWF:n, Sitran, EK:n ja Helsingin Sanomien vaalitentissä puolueiden puheenjohtajat kannattivat niin hiilineutraaliustavoitteessa pysymistä kuin kansainvälisten suojelutavoitteiden toimeenpanoa. Seuraavalla hallituskaudella luontotoimille on turvattava myös riittävä rahoitus, muistuttaa WWF.**
@@ -7242,7 +6995,6 @@ Myös keinopesät auttavat norpan pesintää. Tänä vuonna Saimaan eri alueille
 Julkaistu: 15.2.2023  
 Aiheet: Virtavedet, Luonnon köyhtyminen, Suomen uhanalaiset kalat  
 Kirjoittaja: Heidi Volotinen Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/02/palokin-koskien-ennallistaminen-olisi-suomen-merkittavin-padonpurku-wwf-esittaa-erilliskirjausta-hallitusohjelmaan/
 
 **Palokin alueen ennallistaminen olisi tärkein yksittäinen toimenpide Suomen sisävesien uhanalaisten lohikalakantojen elvyttämiseksi.**
@@ -7396,7 +7148,6 @@ Saimaannorppakanta on ollut viime vuosina hitaassa kasvussa, mutta alalaji on si
 Julkaistu: 6.2.2023  
 Aiheet: Saimaannorppa, Kentällä  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/02/saimaannorpille-apukinoksia-kolanneita-wwfn-asiantuntijoita-odotti-karu-naky-tama-on-raikeaa-norppien-hairintaa/
 
 **Moottorikelkka oli tuhonnut kinoksen, jo nka suojiin saimaannorppa oli jo yrittänyt tehdä pesää. WWF:n Ismo Marttisen mukaan paikalta otettujen kuvien pitäisi olla varoittava esimerkki Saimaalla liikkuville.**
@@ -7463,7 +7214,6 @@ Apukinosten kolaus on osa Metsähallituksen Luontopalveluiden johtamaa Yhteinen 
 Julkaistu: 3.2.2023  
 Aiheet: Ilmastonmuutos  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/02/vuosi-2022-oli-yksi-mittaushistorian-lampimimmista-ilmakehassa-enemman-hiilidioksidia-kuin-miljooniin-vuosiin/
 
 **Viime vuonna sään ääri-ilmiöt ympäri maailman nousivat otsikoihin tiuhaan tahtiin: lämpöennätykset, tulvat, metsäpalot, ja esimerkiksi ennätyksellinen kuivuus Euroopassa piirsivät ikävän totuudenmukaista kuvaa ilmastonmuutoksen vaikutuksista.**
@@ -7523,7 +7273,6 @@ Muokattu: Valtion omistamia metsiä korjattu muotoon valtion omistamia maita.
 
 Julkaistu: 1.2.2023  
 Aiheet: Ruoka, Ilmastonmuutos, Luonnon köyhtyminen, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/02/suomalaiset-nakevat-kasvipohjaisessa-ruoassa-uusia-vientimahdollisuuksia-lahes-30-elintarvikealan-toimijan-verkosto-vaatii-seuraavalta-hallitukselta-panostuksia-kasvipohjaiseen-ruokaan/
 
 **Suomalaiset kasvipohjaiset elintarvikkeet voivat nousta merkittäviksi vientituotteiksi sekä työllistäjäksi vauhdilla kasvavilla markkinoilla.**
@@ -7571,7 +7320,6 @@ Tulosten luottamusväli on kokonaistuloksen osalta +- 3,1 %-yksikköä.
 Julkaistu: 31.1.2023  
 Aiheet: Tiikeri, Nepal, Onnistumistarina, Salametsästys  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/01/kuusi-luonnonsuojelun-kohokohtaa-tiikerin-vuodelta/
 
 **Erittäin uhanalaisen tiikerin suojelussa otettiin merkittäviä edistysaskeleita kuluneena tiikerin vuonna. Työ kissapedon tulevaisuuden turvaamiseksi jatkuu toiveikkaissa tunnelmissa.**
@@ -7652,7 +7400,6 @@ Paikallisten ihmisten ja WWF Mongolian nopea toiminta pelasti kalat. Suojelutoim
 Julkaistu: 19.1.2023  
 Aiheet: Itämeri, Ilmastonmuutos  
 Kirjoittaja: Lea Pakkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/01/runsaat-talvisateet-tietavat-itameren-lisaantyvaa-rehevoitymista-tulevaisuudessa-ratkaisu-piilee-ojituksen-korjaamisessa-luonnonmukaisemmaksi-%e2%80%af%e2%80%af/
 
 **Ilmastonmuutoksen hillitseminen ja siihen sopeutuminen ovat avainasemassa tulvista aiheutuvien haittojen ehkäisemiseksi.**
@@ -7778,7 +7525,6 @@ Naalien määrä on kasvanut pohjolassa koko 2000-luvun. Vuosituhannen vaihteess
 
 Julkaistu: 5.1.2023  
 Aiheet: Valaat ja delfiinit, Arktinen, Ilmastonmuutos, Meret  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/01/satelliittiseurannan-avulla-selvitetaan-miten-lampeneva-ilmasto-vaikuttaa-valaisiin-kurkista-gronlanninvalaiden-vaellusreitille/
 
 **WWF:n projektissa seurataan valaiden liikkeitä satelliittilähettimien avulla. Satelliittiseurannan avulla saadaan uutta tietoa valaiden muuttoreiteistä ja käytöksestä, mikä on hyödyksi suojelutyössä. Tämä artikkeli on ensimmäinen osa sarjaa, jossa esittelemme seurannan tuloksia. Tässä osassa kurkistamme grönlanninvalaiden liikkeisiin kesän ja syksyn aikana.**
@@ -7864,7 +7610,6 @@ Päivitetty 18.1.2023
 
 Julkaistu: 4.1.2023  
 Aiheet: Ilmastonmuutos, Arktinen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/01/saamelainen-ilmastoneuvosto-luo-pohjaa-oikeudenmukaisemmalle-ilmastopolitiikalle/
 
 **Keväällä Suomeen perustettava saamelainen ilmastoneuvosto tuo alkuperäiskansan näkökulmat osaksi ilmastopoliittista päätöksentekoa. Oikein toteutettuna neuvostolla on mahdollisuus toimia oikeudenmukaisen ilmastopolitiikan suunnannäyttäjänä myös kansainvälisellä tasolla.**
@@ -7900,7 +7645,6 @@ Teksti: Edda Sundström
 Julkaistu: 2.1.2023  
 Aiheet: Suomi, Itämeri, Onnistumistarina  
 Kirjoittaja: Heidi Volotinen Viivi Kaasonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2023/01/wwfn-ja-lansi-uudenmaan-maanomistajien-tyo-vesistojen-suojelemiseksi-sai-jatkoa-uudessa-hankkeessa-alueelle-toteutetaan-noin-10-erilaista-vesienhallinnan-kokonaisuutta/
 
 **WWF ja Länsi-Uudenmaan maanomistajat ovat tehneet yhteistyötä vesien suojelemiseksi pian viiden vuoden ajan. Tänä aikana vesiensuojelukohteita, kuten kosteikkoja, on rakennettu yhteensä 21 Inkoon-, Ingarskilan- ja Siuntionjokien valuma-alueille. Merkittävä työ sai jatkoa uudessa VALUTA 2 -hankkeessa.**

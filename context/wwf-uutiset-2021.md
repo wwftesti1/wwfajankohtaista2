@@ -1,9 +1,9 @@
 # WWF Suomi – Uutiset 2021
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Uutiset). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 129 (uusin 22.12.2021).
+Kohteita: 128 (uusin 22.12.2021).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 53 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -53,7 +53,6 @@ Huom: 53 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 **Syyskuu 2021**
 
 - 30.9.2021 – WWF:n selvitys: Yritysten käyttämä palmuöljy aiheuttaa edelleen sademetsien tuhoa
-- 27.9.2021 – Uhanalaisten lajien metsästys ei ole enää kestävää
 - 24.9.2021 – Mikä ilmastolaki? Nämä viisi asiaa kannattaa tietää lain uudistamisesta
 - 21.9.2021 – Kootut vinkit metsävaikuttajaksi ryhtymiseen
 - 20.9.2021 – Tuusulan”metsäleidien” aktiivisuus sai kuntapäättäjien päät kääntymään: Rakkaan lähimetsän hakkuut peruttiin
@@ -77,7 +76,7 @@ Huom: 53 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 13.8.2021 – WWF rakentaa Inkooseen kosteikon poistamaan ravinteita ja parantamaan vesienhallintaa
 - 13.8.2021 – Uusi IPCC-raportti sai varoituskellot soimaan entistä lujempaa – näitä ilmastotoimia WWF vaatii päättäjiltä lähitulevaisuudessa
 - 11.8.2021 – Uusi tierumpu parantaa uhanalaisten taimenten elinoloja Tuusulan Krapuojassa
-- 10.8.2021 – Jopa 300-vuotiasta puustoa hakataan valtion metsissä:”Luonnonmetsät on suojeltava ja hakkuut lopetettava välittömästi”
+- 10.8.2021 – Jopa 300-vuotiasta puustoa hakataan valtion metsissä: “Luonnonmetsät on suojeltava ja hakkuut lopetettava välittömästi”
 - 3.8.2021 – Vapaaehtoiset kunnostavat parhaillaan Hangon perinnemaisemaa ja uhanalaisten lajien elinympäristöjä
 
 **Heinäkuu 2021**
@@ -138,7 +137,7 @@ Huom: 53 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 12.4.2021 – ”Kuu kiurusta kesään” – vai onko sittenkään? Näin ilmastonmuutos vaikuttaa lintujen kevätmuuttoon
 - 8.4.2021 – Jopa 1,4 miljoonaa suomalaista osallistui WWF:n Earth Houriin – valot sammuivat lukuisista maamerkeistä Suomessa ja maailmalla
 - 6.4.2021 – Miksi yritysten kannattaa tukea luonnon monimuotoisuutta juuri nyt? Näin siitä hyötyvät sekä liiketoiminta että ympäristö
-- 1.4.2021 – ”Lupaan pitää luonnon päätöksissäni ja tekemisissäni aina mukana” – Yli 2 500 suomalaista teki lupauksen planeetalle, nyt pallo päättäjillä
+- 1.4.2021 – “Lupaan pitää luonnon päätöksissäni ja tekemisissäni aina mukana” – Yli 2 500 suomalaista teki lupauksen planeetalle, nyt pallo päättäjillä
 
 **Maaliskuu 2021**
 
@@ -162,7 +161,7 @@ Huom: 53 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 **Tammikuu 2021**
 
-- 28.1.2021 – Tältä näyttää ilmastokestävä rakennuskanta nyt ja lähitulevaisuudessa –”Energiatehokkuuden parantaminen pienentää kustannuksia ja parantaa asumisviihtyvyyttä”
+- 28.1.2021 – Tältä näyttää ilmastokestävä rakennuskanta nyt ja lähitulevaisuudessa – “Energiatehokkuuden parantaminen pienentää kustannuksia ja parantaa asumisviihtyvyyttä”
 - 27.1.2021 – Vuosi 2021 on luonnon ja ilmaston supervuosi – listasimme viisi syytä, miksi näin on
 - 26.1.2021 – Yksi aikakausi päättyi – vesivoimala väistyi Vuokalankoskella taimenen tieltä
 - 21.1.2021 – Uusi esitys Saimaan kalastusrajoituksista ei turvaa norppakannan kasvua riittävästi
@@ -214,7 +213,6 @@ Järjestöjen yhteisen kantelun perustelut
 Julkaistu: 22.12.2021  
 Aiheet: Suomi, Ahma, Ilmastonmuutos  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/12/mursujen-kokoontuminen-hain-hammasrivisto-ja-rennosti-kollottava-ahma-poimimme-10-hienoa-luontokuvaa-vuodelta-2021/
 
 **WWF:n arkisto täydentyy joka vuosi kuvilla työstämme ympäri maailmaa. Valikoimme vuodelta 2021 kymmenen vaikuttavaa otosta, jotka muistuttavat monimuotoisen luonnon arvosta.**
@@ -278,7 +276,6 @@ Lumileopardi on uhanalainen laji, ja WWF:n tavoitteena on nostaa lumileopardien 
 Julkaistu: 22.12.2021  
 Aiheet: Suomi, Ilmastonmuutos, Luonnon köyhtyminen, Meret, Suomen metsät  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/12/mita-luonnonsuojelun-ammattilaiset-lukevat-ja-katsovat-kerasimme-suosituksia-joulun-valipaiville/
 
 **Joululomalla on usein aikaa lukea yöpöydälle kasaantuneita kirjoja, uppoutua dokumenttielokuvien maailmaan tai lähteä ulos reippailemaan. Lue tästä, mitkä teokset ovat tehneet vaikutuksen WWF:n työntekijöihin!**
@@ -417,7 +414,6 @@ Ahma on Suomen suurin näätäeläin ja se on luokiteltu Suomessa erittäin uhan
 Julkaistu: 15.12.2021  
 Aiheet: Metsäkato, Ilmastonmuutos, Luonnon köyhtyminen, Sademetsät, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/12/wwfn-raportti-suomalainen-kulutus-uhkaa-trooppisia-metsia/
 
 **Sademetsien ja muiden tropiikin luonnonympäristöjen kato on vakava ongelma, joka uhkaa luonnon monimuotoisuutta ja kiihdyttää ilmastonmuutosta. Suomalaisella kulutuksella on oma osansa trooppisessa metsäkadossa.**
@@ -468,7 +464,6 @@ Liite: Lue koko Valinnoillamme on väliä -raportti! (https://wwf.fi/app/uploads
 Julkaistu: 15.12.2021  
 Aiheet: Metsäkato, Ilmastonmuutos, Luonnon köyhtyminen, Sademetsät, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/12/nelja-keinoa-joilla-yritys-voi-torjua-trooppista-metsakatoa/
 
 **Suomessa saa edelleen myydä tuotteita, joiden tuotanto on voinut aiheuttaa sademetsien tuhoa. Moni suomalainen yritys tekee jo paljon trooppisten metsien puolesta, mutta parannettavaa riittää. Kokosimme yritysten tueksi neljä vinkkiä metsäkadon kitkemiseen.**
@@ -518,7 +513,6 @@ Liite: Lisää suosituksia ja tietoa WWF:n Valinnoillamme on väliä -raportissa
 Julkaistu: 15.12.2021  
 Aiheet: Metsäkato, Luonnon köyhtyminen, Sademetsät, Ylikulutus  
 Kirjoittaja: Roosa Kajander  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/12/nailla-arjen-valinnoilla-torjut-metsakatoa/
 
 **Suomessa kuluttaja saattaa tietämättään ostaa kaupasta tuotteita, joiden tuotanto on voinut aiheuttaa metsäkatoa. Keräsimme vinkit, joiden avulla jokainen voi tehdä osansa metsäkadon torjumiseksi.**
@@ -570,7 +564,6 @@ Muita vastuullisuussertifiointeja ovat muun muassa RSPO-sertifiointi palmuöljyl
 Julkaistu: 10.12.2021  
 Aiheet: Sademetsät, Metsäkato  
 Kirjoittaja: Roosa Kajander  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/12/tule-mukaan-torjumaan-metsakatoa-vetoa-paattajiin-vahvan-eu-lainsaadannon-puolesta/
 
 **Metsien ja muiden elinympäristöjen tuhoaminen on luontokatoa karuimmillaan. Trooppista metsäkatoa ehkäisemään on parhaillaan valmisteilla merkittävä EU-laki, joka kieltäisi metsäkatoa aiheuttaneiden tuotteiden tuonnin EU:n alueelle. Kerromme, miten kuka tahansa voi vaikuttaa lain valmisteluun.**
@@ -710,7 +703,6 @@ Virtaankosken voimalaitoksen lunastukseen ja Virtaankosken ennallistamishankkeen
 
 Julkaistu: 29.11.2021  
 Aiheet: Suomi, Suomen metsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/11/wwfn-vuoden-luontokirjassa-kuvataan-isan-ja-pojan-seikkailuja-suomen-kansallispuistoissa/
 
 **WWF:n Vuoden luontokirjaksi on valittu Tomi Kontion teos Kansallispuistojen kutsu. Oikeustieteiden tohtori ja WWF:n hallituksen pitkäaikainen jäsen Heidi Andersson valitsi voittajateoksen. Kirjan on julkaissut Avain.**
@@ -750,7 +742,6 @@ WWF on palkinnut Vuoden luontokirjan vuodesta 1978. Kilpailu järjestettiin tän
 Julkaistu: 18.11.2021  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Bernt Nordman  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/11/analyysi-glasgown-ilmastokokouksesta-jai-kateen-karvaita-pettymyksia-kasa-lupauksia-ja-oikeita-edistysaskeleita/
 
 **WWF:n ilmastovastaava Bernt Nordman osallistui Glasgow’n ilmastokokoukseen osana WWF-verkoston asiantuntijatiimiä. Vaikka Nordmanin mukaan lopputulos on pettymys, myös hyvää kehitystä tapahtui.**
@@ -816,7 +807,6 @@ Pariisin sopimuksen toimeenpanosta neuvotteleminen jatkuu jo ensi vuonna seuraav
 Julkaistu: 17.11.2021  
 Aiheet: Sademetsät, Ilmastonmuutos, Luonnon köyhtyminen, Metsäkato, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/11/eun-aiheuttamaa-metsakatoa-ehkaisevaan-lakiin-uhkaa-jaada-porsaanreikia-suomen-on-ajettava-vahvempaa-lakia/
 
 **EU-komissio esitteli luonnoksen metsäkatoa ehkäiseväksi laiksi. Lainsäädännöllä on suuri merkitys, sillä EU:ssa kulutettujen hyödykkeiden tuotanto on yksi suurimmista trooppisen metsäkadon aiheuttajista maailmassa.**
@@ -1297,7 +1287,6 @@ Jotta Itämeren hyvä tila saavutettaisiin vuoteen 2030 mennessä, toimintaohjel
 
 Julkaistu: 15.10.2021  
 Aiheet: Luonnon köyhtyminen, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/10/oikea-suunta-loytyi-seuraavaksi-kaytannon-asiat-kuntoon-nain-ykn-luontoneuvottelut-jatkuvat/
 
 **Maailman johtajat aloittivat neuvottelut luonnon köyhtymisen pysäyttämiseksi tällä viikolla Kiinassa ja etäyhteyksien välityksellä. Kokouksessa julkistettiin tärkeä linjanveto, mutta seuraavaksi puheiden on muututtava käytännön suunnitelmiksi, mittareiksi ja teoiksi.**
@@ -1464,7 +1453,6 @@ WWF vaatii EU:lta, että se kieltää lailla metsien ja muiden ekosysteemienkato
 Julkaistu: 7.10.2021  
 Aiheet: Itämeri  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/10/wwf-rakennuttaa-kaksi-kosteikkoa-hankoon-uusi-hanke-vahentaa-itameren-rannikkovesien-rehevoitymista/
 
 **WWF on aloittanut kahden kosteikon rakennuttamisen Hangon Täktomissa. Suoraan mereen laskevan uoman yhteyteen rakennettavat kosteikot pidättävät pelloilta ja metsästä tulevaa ravinne- ja kiintoainekuormaa. Kosteikot toteutetaan osana WWF:n johtamaa RANKKU-hanketta.**
@@ -1533,7 +1521,6 @@ Kalakamera toteutetaan osana Vauhtia vaellukseen -hanketta. Lähes puolen miljoo
 
 Julkaistu: 1.10.2021  
 Aiheet: Metsäkato, Luonnon köyhtyminen, Ylikulutus, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/10/wwfn-palmuoljypisteytys-osoittaa-etta-yrityksilla-on-viela-tehtavaa-%e2%80%92-mika-vastuulliseen-palmuoljyyn-siirtymisessa-on-haasteellista/
 
 **Vastuullisuuden edistäminen palmuöljytuotannon alkulähteillä voi olla vaikeaa yrityksille, jotka toimivat hankintaketjun loppupäässä. Ostamalla sertifioitua ja jäljitettävää palmuöljyä yritykset voivat tukea ympäristön kannalta ja sosiaalisesti kestävää palmuöljyn tuotantoa.**
@@ -1600,7 +1587,6 @@ Yritykset voivat olla mukana edistämässä ja tukemassa EU:ssa paraikaa valmist
 
 Julkaistu: 1.10.2021  
 Aiheet: Suomi, Kiljuhanhi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/10/kiljuhanhet-paasivat-jatkamaan-syysmuuttoaan-turvallisesti-wwf-ja-suomen-riistakeskus-kiittavat-metsastystahoja-vastuullisuudesta/
 
 **Liminganlahdella Oulun seudulla lepäili syyskuun lopulla ainakin kahdeksan syysmuuttomatkalla ollutta äärimmäisen uhanalaista kiljuhanhea. Yhteistyö alueen metsästysseurojen kanssa sujui hyvin.**
@@ -1636,7 +1622,6 @@ Oulun seutu oli aikanaan hyvin tärkeä kiljuhanhien syysmuuton aikainen levähd
 Julkaistu: 30.9.2021  
 Aiheet: Sademetsät, Metsäkato  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/09/wwfn-selvitys-yritysten-kayttama-palmuoljy-aiheuttaa-edelleen-sademetsien-tuhoa/
 
 **Kestämättömän palmuöljytuotannon suurin haitta on metsäkato. WWF:n arvioinnin tulos on selkeä merkki siitä, että yritysten vapaaehtoisten toimien lisäksi EU:ssa tarvitaan tiukka laki ehkäisemään metsäkatoa.**
@@ -1676,45 +1661,6 @@ Tekoja ja läpinäkyvyyttä todella kaivataan, sillä tällä hetkellä suomalai
 - Noin 20 prosenttia palmuöljystä on tuotettu vastuullisuusperiaatteiden mukaisesti RSPO-sertifioinnin alla. Tuotannossa ei aiheuteta metsäkatoa, suojataan maaperää ja vesistöjä, rajoitetaan kemikaalien käyttöä sekä tuetaan ihmisoikeuksien toteutumista.
 
 Liite: Mitä yritykset voivat tehdä? Lue vinkit! (https://wwf.fi/uutiset/2021/10/wwfn-palmuoljypisteytys-osoittaa-etta-yrityksilla-on-viela-tehtavaa-%e2%80%92-mika-vastuulliseen-palmuoljyyn-siirtymisessa-on-haasteellista/)
-
----
-
-### Uhanalaisten lajien metsästys ei ole enää kestävää
-
-Julkaistu: 27.9.2021  
-Aiheet: Suomi, Luonnon köyhtyminen, Suomen metsät  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2021/09/uhanalaisten-lajien-metsastys-ei-ole-enaa-kestavaa/
-
-**WWF Suomen pääsihteeri Liisa Rohwederin, BirdLife Suomen toiminnanjohtaja Aki Arkiomaan sekä uhalaisten riistalajien metsästyksen kieltämiseen tähtäävän kansalaisaloitteen vastuuhenkilöiden Iikka Kiven ja Petri Lampilan mielipidekirjoitus julkaistiin Maaseudun tulevaisuudessa 27.9.2021.**
-
-Aleksi Lehikoinen ja Toni Laaksonen esittivät kirjoituksessaan (MT 20.9.), että uhanalaisarviointia ei ole mielekästä käyttää metsästyssääntelyn pohjana, koska arviointikriteerit ovat jäykät ja arviointi tehdään harvoin. Olemme samaa mieltä, että riistalajien arviointi voitaisiin halutessa tehdä useammin kuin nykyään.
-
-Kirjoitus liittyy eduskunnan käsittelyyn etenevään kansalaisaloitteeseen, jossa esitetään metsästyslain 37 § lisättäväksi kohta, joka velvoittaisi kieltämään uhanalaisen riistalajin metsästyksen. Suomessa saa rajoituksetta metsästää vesilintulajeja, jotka on jopa kolmesti peräkkäin arvioitu uhanalaiseksi, joten nykyinen järjestelmä ei toimi. Tämän muuttamiseen kansalaisaloite tähtää.
-
-Kansalaisaloitteen luonteeseen kuuluu, että sen avulla nostetaan eduskunnan käsittelyyn laajaa huolta herättävä asia ja esitykseen voi tulla muutoksia käsittelyn aikana. Aloitteen perusajatuksen säilyttävä muutos voisi olla, että vaikka uhanalaiset riistalajit lähtökohtaisesti rauhoitettaisiin, perustellut poikkeukset voitaisiin sallia.
-
-Esimerkiksi tällä hetkellä uhanalaisen pyyn metsästys voitaisiin sallia alueellisesti, jos tutkimus osoittaa metsästyksen kestäväksi. Uhanalaisuuden ohella metsästyksen kestävyyttä pitää arvioida myös metsästyslain muiden rauhoittamista koskevien normien perusteella.
-
-Kyseisen pykälän alkuosa ei muuttuisi: se mahdollistaa uhanalaisuusluokituksesta riippumatta rauhoittamaan riistaeläinlajin määräajaksi tai toistaiseksi, jos riistaeläimen kannan säilymisen turvaaminen sitä edellyttää. Laki on ollut voimassa vuosikymmeniä, mutta tätä mahdollisuutta on käytetty hyvin harvoin. Lakia on sen vuoksi syytä täsmentää.
-
-Nopeasti taantuvilla lajeilla tarvitaan kaikkia keinoja suunnan kääntämiseksi: niin elinympäristöjen parantamista, vieraspetojen vähentämistä, kansainvälistä yhteistyötä kuin metsästyskuolleisuuden rajoittamista.
-
-Kansalaisaloitteen saama laaja kannatus ja keskustelu uhanalaisten vesilintujen metsästämisestä kertovat, että hallinnon tulee reagoida lajien taantumiseen aiempaa herkemmin.
-
-#### Iikka Kivi
-
-#### Petri Lampila
-
-kansalaisaloitteen vastuuhenkilöt
-
-#### Aki Arkiomaa
-
-toiminnanjohtaja, BirdLife Suomi
-
-#### Liisa Rohweder
-
-pääsihteeri, WWF Suomi
 
 ---
 
@@ -1851,7 +1797,6 @@ Jos olet metsänomistaja, tutustu myös WWF:n Metsänhoito-oppaaseen. Se auttaa 
 Julkaistu: 20.9.2021  
 Aiheet: Suomen metsät, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/09/tuusulan-metsaleidien-aktiivisuus-sai-kuntapaattajien-paat-kaantymaan-rakkaan-lahimetsan-hakkuut-peruttiin/
 
 **Kun tuusulalainen neljän naisen porukka sai kuulla lähimetsänsä hakattavan, alkoi määrätietoinen toiminta kunnan omistaman Tuomalan metsäalueen puolesta. Kunta oli jo myynyt puut, kun”metsäleidit” saivat aktiivisuudellaan kunnan kelkan kääntymään.**
@@ -1897,7 +1842,6 @@ Päätös keskeytyksestä oli juhlan paikka. Termoskannujen sijaan metsään ote
 Julkaistu: 20.9.2021  
 Aiheet: Suomen metsät, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/09/metsavaikuttajien-inspiroivat-tarinat-ilman-kansalaisten-aktiivista-toimintaa-namakin-metsat-voisivat-olla-tuhon-omia/
 
 **Kirjailija Anni Kytömäki löysi nuorena metsän, johon hän juurtui. Siitä alkoi 18 vuoden taistelu Mikkolankorven suojelun puolesta, joka päättyi suojelupäätökseen. Tuusulassa”metsäleidit” taas saivat päättäjien päät kääntymään kansalaistoiminnan ansiosta.**
@@ -1985,7 +1929,6 @@ Lahjoituksella tuet pitkäjänteistä metsiensuojelutyötämme. Tavoitteenamme o
 Julkaistu: 20.9.2021  
 Aiheet: Suomen metsät, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/09/anni-kytomaki-ajoi-lempimetsansa-suojelua-18-vuotta-mukaan-mahtui-taisteluarpia-ja-hammastyttava-loppukaanne/
 
 **Finlandia-palkittu kirjailija Anni Kytömäki löysi nuorena metsän, johon hän juurtui ja josta tuli hänen tukipilarinsa. Siitä alkoi 18 vuoden taistelu Mikkolankorven suojelun puolesta, joka päättyi taisteluarvista huolimatta suojelupäätökseen.**
@@ -2031,7 +1974,6 @@ Retkelle Mikkolankorpeen? Luonnonperintösäätiön omistama osuus Mikkolankorve
 Julkaistu: 17.9.2021  
 Aiheet: Kiljuhanhi, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/09/aarimmaisen-uhanalaisia-kiljuhanhia-lepailee-nyt-liminganlahdella-yhdenkin-yksilon-menetys-olisi-suuri-takaisku/
 
 **Liminganlahden Virkkulassa on havaittu tähän mennessä ainakin kahdeksan äärimmäisen uhanalaista kiljuhanhea. WWF ja Suomen riistakeskus vetoavat Liminganlahden alueella vesilintuja metsästäviä noudattamaan aivan erityistä varovaisuutta sillä aikaa, kun kiljuhanhet ovat paikalla. Metsästys tulisi lopettaa hyvissä ajoin ennen pimeää, sillä hämärässä lajintunnistus vaikeutuu.**
@@ -2063,7 +2005,6 @@ Alueen metsästystoimijoille on myös perustettu viestintäryhmä, jonka tarkoit
 Julkaistu: 16.9.2021  
 Aiheet: Lohi, Itämeri, Liikakalastus, Suomen uhanalaiset kalat  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/09/lohen-avomerikalastus-halutaan-lopettaa-wwf-tukee-kansainvalisen-merentutkimusneuvoston-historiallista-ehdotusta/
 
 **Kansainvälinen merentutkimusneuvosto ICES on julkaissut tieteellisen neuvonannon Itämeren lohenkalastuksesta. Neuvosto suosittelee lohen avomerikalastuksen kieltämistä kokonaan ensi vuodeksi, jotta heikkoja lohikantoja voidaan suojella. Tieteellinen neuvonanto toimii pohjana Itämeren kalastuskiintiöistä ensi kuussa käytäville neuvotteluille.**
@@ -2176,7 +2117,6 @@ Ilmastopäätösten lisäksi WWF vaati budjettiriihestä päätöksiä, jotka ed
 Julkaistu: 6.9.2021  
 Aiheet: Suomen metsät, Luonnon köyhtyminen, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/09/wwf-vetoaa-ministereihin-budjettiriihessa-on-panostettava-luontokadon-pysayttamiseen/
 
 **Budjettipäätösten on autettava vaalimaan luonnon monimuotoisuutta niin Suomessa kuin globaalisti. Suojelun rahoitusta on lisättävä merkittävästi esimerkiksi vähentämällä ympäristölle haitallisia tukia. Luontokadon pysäyttäminen on investointi tulevaisuuteen.**
@@ -2274,7 +2214,6 @@ kesko.fi/kalapolut wwf.fi/virtavesitalkoot/
 Julkaistu: 23.8.2021  
 Aiheet: Itämeri, Öljyntorjuntajoukot, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/08/wwfn-oljyntorjuntajoukot-osallistuvat-kansainvaliseen-suurharjoitukseen-katastrofiin-varautuminen-vaatii-jatkuvaa-valmiutta-ja-osaamisen-kehittamista/
 
 **Öljyonnettomuuden uhka vilkkaasti liikennöidyllä Itämerellä on valitettavan todellinen. Jos katastrofi kohtaa, WWF:n öljyntorjuntajoukot toimivat viranomaisten apuna. Suuressa, kansainvälisessä Balex Delta 2021 -öljyntorjuntaharjoituksessa Kotkassa WWF:n vapaaehtoiset hankkivat arvokasta kokemusta muun muassa rantojen puhdistuksesta.**
@@ -2302,7 +2241,6 @@ WWF:n öljyntorjuntajoukot osallistuvat harjoitukseen Kymenlaakson pelastuslaito
 Julkaistu: 20.8.2021  
 Aiheet: Metsäpalot, Ilmastonmuutos, Luonnon köyhtyminen, Metsäkato, Sademetsät  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/08/metsapalot-uhkaavat-uhanalaisia-lajeja-ympari-maailmaa/
 
 **Tänä kesänä metsät ovat roihunneet muun muassa Turkissa, Kanadassa, Kreikassa ja Venäjällä. Suuria metsäpaloja voi vielä tänä kesänä ja syksynä esiintyä muun muassa sademetsissä, kuten Etelä-Amerikassa Amazonilla. Metsäpalojen seuraukset ovat kohtalokkaita luonnon monimuotoisuudelle ja lukuisille lajeille.**
@@ -2352,7 +2290,6 @@ Säännölliset tukijat mahdollistavat pitkäjänteisen ympäristönsuojelutyöm
 Julkaistu: 17.8.2021  
 Aiheet: Perinneympäristöt, Luonnon köyhtyminen, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/08/talkooleirilaiset-kunnostavat-aspskarin-laidunsaaren-perinneymparistoa-saaristomerella/
 
 **Saaristomeren itäosissa sijaitsevan Äspskärin laidunsaaren perinneympäristössä on parhaillaan käynnissä WWF:n järjestämä viikon pituinen talkooleiri. Talkoilla raivataan puustoa ja vapautetaan arvokkaan perinneympäristön kasvit sekä hyönteiset entistä valoisampiin oloihin.**
@@ -2408,7 +2345,6 @@ VALUTA-hanke rahoitetaan Vesiensuojelun tehostamisohjelmasta. WWF:n omarahoituso
 Julkaistu: 13.8.2021  
 Aiheet: Ilmastonmuutos  
 Kirjoittaja: Silja Honkavuori Roosa Kajander  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/08/uusi-ipcc-raportti-sai-varoituskellot-soimaan-entista-lujempaa-naita-ilmastotoimia-wwf-vaatii-paattajilta-lahitulevaisuudessa/
 
 **Ihmisen toiminta on muuttanut ilmastoa pysyvästi ja vaikutukset pahenevat, ellei päästöjä vähennetä välittömästi. 1,5 asteen lämpenemisen taso ylitetään todennäköisesti jo 2030-luvun alussa, mutta jokaisen asteen kymmenyksen puolesta kannattaa taistella.**
@@ -2507,7 +2443,7 @@ Ensimmäisten vuosien kohteilta on saatu lupaavia tuloksia: uhanalainen taimen k
 
 ---
 
-### Jopa 300-vuotiasta puustoa hakataan valtion metsissä:”Luonnonmetsät on suojeltava ja hakkuut lopetettava välittömästi”
+### Jopa 300-vuotiasta puustoa hakataan valtion metsissä: “Luonnonmetsät on suojeltava ja hakkuut lopetettava välittömästi”
 
 Julkaistu: 10.8.2021  
 Aiheet: Suomen metsät, Luonnon köyhtyminen, Suomi  
@@ -2729,7 +2665,6 @@ WWF tukee Kongon tasavallan hallituksen suojelutyötä Ntokou-Pikoundan kansalli
 Julkaistu: 15.7.2021  
 Aiheet: Perinneympäristöt, Suomi, Susi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/07/laamat-lampaiden-vartijoina-laumanvartijaelaimista-apua-lammastilojen-suurpetotorjuntaan/
 
 **WWF Suomi selvittää uudessa hankkeessaan, miten laumanvartijaeläimet voisivat torjua susivahinkoja lammastiloilla. Yhtenä esimerkkieläimenä on laama, jonka käytöstä laumanvartijana on positiivisia kokemuksia Suomen ulkopuolella.**
@@ -2759,7 +2694,6 @@ WWF koordinoi hankkeen toimenpiteiden toteutusta ja vastaa hankehallinnosta. Han
 Julkaistu: 14.7.2021  
 Aiheet: Suomi, Energiatehokkuus, Luonnon köyhtyminen, Ruoka, Vieraslajit  
 Kirjoittaja: Roosa Kajander  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/07/nain-mokkeilet-ilmasto-ja-luontoystavallisesti-poimi-vinkit-kestavaan-kesamokkeilyyn/
 
 **Luonto ja ilmasto kiittävät, kun niiden puolesta muistetaan tehdä tekoja kesälomallakin. Kokosimme viisi vinkkiä ympäristöystävällisempään mökkeilyyn.**
@@ -2838,7 +2772,6 @@ Tällä hetkellä WWF:n Luontolivessä voi edelleen uppoutua järvimaisemiin sä
 
 Julkaistu: 9.7.2021  
 Aiheet: Itämeri, Itämerennorppa, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/07/itamerennorpalle-esitetty-metsastyskiintio-on-aivan-liian-suuri-suomi-ja-ruotsi-ovat-vauhdittamassa-lajin-uhanalaistumista/
 
 **Maa- ja metsätalousministeriön esittämä itämerennorpan metsästyskiintiö on WWF:n mielestä aivan liian suuri Perämeren norppakannan kokoon ja ilmastonmuutoksen norpalle tuomaan nopeasti kasvavaan uhkaan nähden. WWF vaatii, että Suomen ja Ruotsin tulee viipymättä aloittaa valmistelu Pohjanlahden norppakannan yhteiseksi hoitosuunnitelmaksi**
@@ -2878,7 +2811,6 @@ Linkki WWF:n lausuntoon MMM:n metsästyskiintiöesityksestä.
 Julkaistu: 6.7.2021  
 Aiheet: Perinneympäristöt, Suomi, Talkoot  
 Kirjoittaja: Maria Rautio-Runeberg Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/07/nain-uhanalaisia-perinneymparistoja-kunnostetaan-talkoovoimin-katanpaan-linnakesaaressa/
 
 **Selkämerellä sijaitsevassa Katanpään linnakesaaressa on käynnissä WWF:n talkooleiri. Talkoissa raivataan katajaa ja pienpuustoa kallioniemien laidunalueilta ja lintuluodoilta sekä poltetaan raivaustähteitä. Leiri kuuluu Rannikko-LIFE -hankkeeseen.**
@@ -2979,7 +2911,6 @@ Liite: Lue lisää tunnuksesta (https://www.partio.fi/nyt/kestavasti-partiossa/)
 Julkaistu: 24.6.2021  
 Aiheet: Vieraslajit, Luonnon köyhtyminen, Suomi, Virtavedet  
 Kirjoittaja: Roosa Kajander  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/06/harmaata-hyytelolimaa-ja-itseaan-kloonaava-kala-tunnistatko-mokkirantojen-haitalliset-vieraat/
 
 **Suomen sisävesiin on aivan viime vuosina levinnyt uusia vieraslajeja, kuten keltalammikki ja hyytelösammaleläin. Vieraslajit voivat jo nykyisellään syrjäyttää alkuperäistä lajistoa tietyissä ympäristöissä, ja niiden vaikutuksen voidaan olettaa voimistuvan vesistöissä.**
@@ -3033,7 +2964,6 @@ Hopearuutana on vallannut Euroopassa jopa kokonaisia järviä, ja se saattaa oll
 Julkaistu: 22.6.2021  
 Aiheet: Itämeri, Luonnon köyhtyminen, Perinneympäristöt, Suomi  
 Kirjoittaja: Anne Brax Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/06/vuoden-ymparistoystavallisin-viljelija-palkittiin-kangasalla/
 
 **WWF:n järjestämän Itämeren ympäristöystävällisin viljelijä -kilpailun kansallisen osuuden voitti tänä vuonna Sauli Brander Liskon tilalta Kangasalta. Liskon luomukasvinviljelytilalla on toimittu vuosia edistyksellisellä tavalla ja huolehdittu monin tavoin, että tilan valumavedet eivät päädy rehevöittämään lähivesiä eivätkä Itämerta.**
@@ -3107,7 +3037,6 @@ Maailman valtamerissä elää yli 1200 erilaista haita ja rauskua. Ne ovat ravin
 Julkaistu: 21.6.2021  
 Aiheet: Virtavedet, Luonnon köyhtyminen, Suomi, Talkoot  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/06/peukalojokea-kunnostettiin-k-kalapolut-talkoilla-uhanalaisille-vaelluskaloille/
 
 **Puumalan Peukalojoen virtavesitalkoot avasivat WWF:n ja K-ryhmän K-kalapolut-hankkeen kesän talkookauden. Vuoden lopussa päättyvässä hankkeessa on avattu 25 estettä ja kunnostettu uhanalaisille vaelluskaloille yli 30 virtavesikohdetta. Ensimmäisten vuosien kohteilta on saatu lupaavia tuloksia: uhanalainen taimen kutee ja lisääntyy kalojen aiemmin saavuttamattomissa olleissa vesissä.**
@@ -3145,7 +3074,6 @@ www.kesko.fi/kalapolut wwf.fi/vapaaehtoistyo/virtavesitalkoot/
 Julkaistu: 15.6.2021  
 Aiheet: Suomi  
 Kirjoittaja: Maria Rautio-Runeberg Roosa Kajander  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/06/wwf-sai-yli-1200-kommenttia-saaksikameran-jatkosta-ei-pida-sulkea-silmia-oikeilta-luonnon-tapahtumilta/
 
 **WWF kysyi viime viikolla Luontoliven sääksikameran katsojien mielipidettä, pitäisikö lähetyksen jatkua. Lähetyksen jatkamista alettiin pohtia, kun sääksien pesintä tänä vuonna epäonnistui.**
@@ -3482,7 +3410,6 @@ WWF:n Luontoliven sääksikamera on toteutettu yhteistyössä Pyyvilän osakasku
 
 Julkaistu: 27.5.2021  
 Aiheet: Luontolive, Saimaannorppa, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/05/norppalive-paattyi-rantakiven-tapahtumat-kiinnostivat-jalleen-miljoonayleisoa/
 
 **WWF:n Norppalive keräsi reilun kolmen viikon aikana lähes 1,2 miljoonaa katselukertaa, ja saimaannorpat viettivät pitkiä aikoja kameran edessä. Livekameran sijainti kuitenkin paljastui paikallisesti, ja tämän johdosta WWF harkitsee ensi keväänä kameran sijoittamista uuteen paikkaan.**
@@ -3587,7 +3514,6 @@ Rupiliskokameran löydät osoitteesta wwf.fi/luontolive/rupilisko
 Julkaistu: 20.5.2021  
 Aiheet: Saimaannorppa, Luontolive, Suomi  
 Kirjoittaja: Roosa Kajander  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/05/kuhina-kay-norppaliven-kivilla-mutta-miten-norpat-erottaa-toisistaan/
 
 **Kulunut kevät on ollut WWF:n Norppalivessä erityisen tapahtumarikas. Saimaan rantakivillä on nähty Norppaliven aikaisempien tuotantokausien päätähti Pullervo ja ensimmäiseltä vuodelta tuttu Siiri. Kuviin on uiskennellut myös uusia tuttavuuksia.**
@@ -3672,7 +3598,6 @@ Lajista lisää täältä.
 Julkaistu: 12.5.2021  
 Aiheet: Luontolive, Merikotka, Suomi  
 Kirjoittaja: Roosa Kajander  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/05/wwfn-uusi-lintusaarikamera-seuraa-nayttavien-merilintujen-elamaa-urbaanissa-ymparistossa/
 
 **Alle kymmenen kilometrin päässä Helsingin päärautatieasemasta sijaitsee ainutlaatuinen luontokohde, Lopin lintusaari. Saarella pesivien harmaahaikaran, merimetson ja monen muun suuren merilinnun elämää voi seurata nyt suorassa lähetyksessä WWF:n Luontolivessä. WWF asensi kameran Helsingin Vanhankaupunginlahdelle yhdessä Elisan ja Helsingin kaupungin kanssa.**
@@ -3744,7 +3669,6 @@ Jos ilmastonmuutoksen myötä lumi ei sada ollenkaan tai lumi sulaa pesän pää
 Julkaistu: 11.5.2021  
 Aiheet: Suomi, Suomen metsät  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/05/wwf-ja-metsahallitus-jarjestivat-sipoonkorven-kansallispuistossa-kevatsiivouksen-170-laitonta-tulipaikkaa-purettiin-talkoovoimin/
 
 **Sipoonkorven kansallispuistossa järjestettiin laittomien tulipaikkojen purkutalkoot lauantaina 8. toukokuuta. WWF:n ja Metsähallituksen järjestämiin talkoihin osallistui 16 ennalta valittua talkooryhmää. Laittomia tulipaikkoja purettiin yhteensä noin 170 kappaletta. Laittomat tulipaikat kuluttavat luontoa ja siksi niistä on tärkeää päästä eroon.**
@@ -3780,7 +3704,6 @@ WWF on järjestänyt Suomessa vapaaehtoistoimintaa ja talkoita jo vuodesta 1977.
 Julkaistu: 5.5.2021  
 Aiheet: Suomi, Saimaannorppa  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/05/wwfn-lumoava-norppalive-on-taalla-taas-ensimmaista-kertaa-mukana-myos-aanet/
 
 **WWF avasi tänään keskiviikkona 5. toukokuuta rakastetun Norppaliven. Suorassa lähetyksessä voidaan seurata saimaannorppien elämää, kun ne nousevat toukokuussa Saimaan rantakiville vaihtamaan karvansa.**
@@ -3978,7 +3901,6 @@ Kansainvälinen ilmastopolitiikka huipentuu tänä vuonna marraskuussa järjeste
 Julkaistu: 27.4.2021  
 Aiheet: Suomi, Ahma  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/04/nelja-ahmaa-metsastettiin-poikkeusluvin-tana-vuonna-kahden-tapon-laillisuudesta-valitettiin-hallinto-oikeuteen/
 
 **Maa- ja metsätalousministeriö salli tänäkin talvena uhanalaisten ahmojen metsästyksen. Poikkeusluvilla ammuttiin neljä ahmaa kahdeksan yksilön kiintiöstä. Suomen luonnonsuojeluliitto valitti WWF:n avustamana Pohjois-Suomen hallinto-oikeuteen kahdesta poikkeusluvasta, sillä ne perustuivat puutteellisiin Natura-arviointeihin.**
@@ -4113,7 +4035,6 @@ WWF vaatiikin nyt hallitukselta selkärankaa tehdä nopeasti vastuullinen päät
 Julkaistu: 16.4.2021  
 Aiheet: Luontolive, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/04/saaksikameran-tahtipari-on-parhaillaan-pesarakennuspuuhissa-myos-vieras-saaksi-piipahti-pesalla/
 
 **Aiemmilta sääksikameran vuosilta tutulle pesälle Saimaan rannalle saatiin odotettuja kesäasukkaita viime viikonloppuna. Pesä- ja pariuskollisena lajina tunnetut sääkset selvisivät pitkästä muuttomatkastaan Länsi-Afrikasta ja asettuivat tuttuun pesäänsä.**
@@ -4270,7 +4191,6 @@ Ilmastonmuutos tuo muutoksia myös pesimäalueisiin. Esimerkiksi varpuslinnut ru
 Julkaistu: 8.4.2021  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/04/jopa-14-miljoonaa-suomalaista-osallistui-wwfn-earth-houriin-valot-sammuivat-lukuisista-maamerkeista-suomessa-ja-maailmalla/
 
 **Earth Hour -perinne jatkui jälleen tänä vuonna lukuisissa suomalaiskodeissa, selviää Kantar TNS:n tekemästä kyselystä. Maailmanlaajuisesti Earth Hour rikkoi ennätyksiä.**
@@ -4332,12 +4252,11 @@ Suojelemalla tiettyä lajia, kuten tiikeriä, suojelemme samalla sen koko elinym
 
 ---
 
-### ”Lupaan pitää luonnon päätöksissäni ja tekemisissäni aina mukana” – Yli 2 500 suomalaista teki lupauksen planeetalle, nyt pallo päättäjillä
+### “Lupaan pitää luonnon päätöksissäni ja tekemisissäni aina mukana” – Yli 2 500 suomalaista teki lupauksen planeetalle, nyt pallo päättäjillä
 
 Julkaistu: 1.4.2021  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/04/lupaan-pitaa-luonnon-paatoksissani-ja-tekemisissani-aina-mukana-yli-2-500-suomalaista-teki-lupauksen-planeetalle-nyt-pallo-paattajilla/
 
 **Earth Hour -lupaukset näyttävät, että suomalaiset lähestulkoon vauvasta vaariin ovat valmiita tekoihin, jotka auttavat ympäristöä. Toimitimme lupaukset ympäristö- ja ilmastoministeri Krista Mikkoselle, sillä päättäjien tulee nyt taata edellytykset sille, että kestävät arjen valinnat ovat helposti kaikkien saatavilla.**
@@ -4391,7 +4310,6 @@ Täältä pääset lukemaan yhteenvedon, jonka lähetimme Mikkoselle!
 Julkaistu: 31.3.2021  
 Aiheet: Suomi, Luonnon köyhtyminen, Luontolive  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/03/kestosuosikit-tekevat-paluun-wwfn-luontolivessa-saaksia-odotellaan-pesalle-hetkena-mina-hyvansa-kyyt-luikertelevat-jo-kevatauringossa/
 
 **WWF:n Luontolivessä seurataan nyt käärmeiden luikertelua ja odotellaan sääksien saapumista pesälle. Viime vuosina niin sääksi- kuin kyykamerakin ovat lukeutuneet Luontoliven suosituimpiin lähetyksiin.**
@@ -4451,7 +4369,6 @@ Katso kyykameraa.
 Julkaistu: 28.3.2021  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/03/valot-sammuivat-ympari-maailmaa-earth-hour-rikkoi-ennatyksia-osallistujamaarassa-ja-sosiaalisessa-mediassa/
 
 **Maailmanlaajuista ympäristötapahtumaa, WWF:n Earth Houria vietettiin lauantaina 27. maaliskuuta ennätyksellisesti 192 maassa ja maantieteellisellä alueella. Sosiaalisessa mediassa tapahtuma sai aikaan enemmän liikehdintää kuin koskaan aiemmin. Suomessa valot sammuivat kaikissa suurissa kaupungeissa.**
@@ -4480,7 +4397,6 @@ WWF Suomi keräsi Earth Hourin kunniaksi lupauksia planeetalle. Lupauksia jätet
 
 Julkaistu: 27.3.2021  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/03/earth-hour-on-taalla-nain-tapahtumaa-vietetaan-suomessa-ja-maailmalla/
 
 **Maailmanlaajuista ympäristötapahtumaa WWF:n Earth Houria vietetään tänä vuonna turvallisesti kotona, verkossa tai näyttämällä valomerkki ilmaston ja luonnon puolesta. Suomessa Earth Hour kutsuu sammuttamaan valot ja tekemään lupauksen planeetalle.**
@@ -4513,7 +4429,6 @@ WWF:n Earth Hour sai alkunsa Australian Sydneyssä vuonna 2007, jolloin siihen o
 
 Julkaistu: 19.3.2021  
 Aiheet: Suomen metsät, Luonnon köyhtyminen, Metsäkato, Suomi, Valkoselkätikka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/03/hannu-siitonen-on-vienyt-lintujen-talviruokintapaikalle-100-kiloa-siemenia-wwwn-suosittu-talvilintukamera-sulkeutuu/
 
 **Livekamera lintujen talviruokintapaikalta suljetaan tämän talvikauden osalta perjantaina 19.3. kello 16. Vanha, suojeltu metsä tarjoili parastaan ja lähetyksessä on voitu ihailla luonnon monimuotoisuutta. Lähetyksessä on nähty muun muassa kanahaukka, viirupöllö, valkoselkätikkoja, korppeja, pähkinänakkeleita sekä hömötiaisia.**
@@ -4561,7 +4476,6 @@ Talvilintukamera on osa WWF:n laajempaa Luontolive-palvelua, jossa seurataan suo
 Julkaistu: 4.3.2021  
 Aiheet: Suomi, Naali  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/03/naalien-kotiinpaluu-ei-tunnu-enaa-vain-kaukaiselta-unelmalta-wwf-ja-metsahallitus-ovat-laittaneet-naalityossa-isomman-vaihteen-silmaan/
 
 **Helmikuussa 2021 ohjelmajohtaja Petteri Tolvanen matkusti Kilpisjärvelle osallistumaan WWF:n naalityöryhmän työskentelyyn henkeäsalpaavan kauniisiin tunturimaisemiin.**
@@ -4658,7 +4572,6 @@ Tiikereillä on monia mahdollisia syitä hakeutua korkeammalle vuoristoon. Esime
 Julkaistu: 27.2.2021  
 Aiheet: Arktinen, Jääkarhu  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/02/erling-madsen-heraa-joka-arkipaiva-ennen-muuta-ittoqqortoormiitia-jotta-seka-ihmiset-etta-jaakarhut-olisivat-turvassa/
 
 **Yksi maailman syrjäisimmistä asutuksista sijaitsee Grönlannin Ittoqqortoormiitin kylässä. Merijään huvetessa ilmastonmuutoksen vuoksi jääkarhut ovat jatkuvasti tutumpi näky kylässä ja sen lähistöllä.**
@@ -4697,7 +4610,6 @@ Lue lisää mitä kaikkea WWF tekee jääkarhujen suojelun eteen.
 
 Julkaistu: 25.2.2021  
 Aiheet: Itämeri, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/02/itameren-rehevoityminen-kuriin-kilpailulla-jaossa-10-000-euroa-ja-itameren-ymparistoystavallisimman-viljelijan-titteli-2/
 
 **WWF etsii jälleen Suomen Itämeri-ystävällisintä maatilaa osana kansainvälistä viljelijäkilpailua. Kilpailun tarkoituksena on saada Itämeren ravinnekuormaa pienentävät viljelymenetelmät yleistymään ja antaa tunnustusta edelläkävijöinä toimiville viljelijöille. Rehevöityminen on Itämeren suurin uhka ja näkyy esimerkiksi lisääntyneinä sinileväkukintoina.**
@@ -4876,7 +4788,6 @@ Liite: Lue järjestöjen ohjenuorat! (https://wwf.fi/app/uploads/c/h/d/d9iajwt13
 
 Julkaistu: 16.2.2021  
 Aiheet: Suomi, Saimaannorppa  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/02/saimaannorpan-suojelijat-julistivat-pesarauhan-alkaneeksi-mukana-muun-muassa-krista-mikkonen/
 
 **Joukko saimaannorpan suojeluun osallistuvia ja sen suojelun tärkeäksi kokevia henkilöitä on julistanut saimaannorpan pesärauhan alkaneeksi Saimaan rannoilla 16. helmikuuta 2021. Pesärauhan julistus on ympäristöjärjestö WWF:n vuonna 1993 aloittama perinne. Apukinoksia saimaannorpan pesintää varten kolattiin tänä vuonna 71 kappaletta.**
@@ -4961,7 +4872,6 @@ Eläkää ja lisääntykää rauhassa.
 
 Julkaistu: 12.2.2021  
 Aiheet: Suomi, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/02/iloisia-uutisia-kaksi-ymparistolle-ja-monimuotoisuudelle-tarkeaa-kansalaisaloitetta-etenee-eduskunnan-kasittelyyn/
 
 **Sekä uhanalaisten lajien metsästyksen kieltämistä ajava että turpeen energiakäyttöä vastustava kansalaisaloite ovat ylittäneet tarvittavan 50 000 allekirjoituksen rajan. Aloitteet siis etenevät eduskunnan käsittelyyn.**
@@ -5063,7 +4973,7 @@ Ahma on haaskansyöjä. Niinpä sen tulevaisuus on varsinkin poronhoitoalueen et
 
 ## Tammikuu 2021
 
-### Tältä näyttää ilmastokestävä rakennuskanta nyt ja lähitulevaisuudessa –”Energiatehokkuuden parantaminen pienentää kustannuksia ja parantaa asumisviihtyvyyttä”
+### Tältä näyttää ilmastokestävä rakennuskanta nyt ja lähitulevaisuudessa – “Energiatehokkuuden parantaminen pienentää kustannuksia ja parantaa asumisviihtyvyyttä”
 
 Julkaistu: 28.1.2021  
 Aiheet: Energiatehokkuus, Ilmastonmuutos, Yritykset  
@@ -5143,7 +5053,6 @@ Teemu Lehtinen on toimitusjohtaja rakennetun ympäristön kestävää digitalisa
 Julkaistu: 27.1.2021  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Ylikulutus  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2021/01/vuosi-2021-on-luonnon-ja-ilmaston-supervuosi-listasimme-viisi-syyta-miksi-nain-on/
 
 **Tutkimustiedon viesti on selvä: voimme vielä hillitä ilmastonmuutosta ja luonnon köyhtymistä, mutta toimiin on tartuttava nyt. Tänä vuonna ihmiskunnalla on edessään monta mahdollisuutta kääntää tilanne.**

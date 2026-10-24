@@ -1,9 +1,9 @@
 # WWF Suomi – Uutiset 2020
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Uutiset). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 141 (uusin 30.12.2020).
+Kohteita: 140 (uusin 30.12.2020).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -43,7 +43,7 @@ Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 21.10.2020 – Haamupyydykset kylvävät merissä kuolemaa
 - 15.10.2020 – Yhteistyö kantaa hedelmää – Uhanalainen taimen kutee ja lisääntyy talkoilla kunnostetuissa kohteissa
 - 12.10.2020 – Äärimmäisen uhanalaisen malakantiikerin pennut tallentuivat kuviin Malesiassa
-- 9.10.2020 – Raportti: Ravitsemussuosituksiin tarvitaan lisää kunnianhimoa ympäristön suojelemiseksi –”Suomalaiset suositukset ovat liian väljät”
+- 9.10.2020 – Raportti: Ravitsemussuosituksiin tarvitaan lisää kunnianhimoa ympäristön suojelemiseksi – “Suomalaiset suositukset ovat liian väljät”
 - 8.10.2020 – Ilvesten tappolupien määrään kaavaillaan nousua ontuvilla perusteilla
 - 6.10.2020 – WWF:n Luontolivessä nähtiin harvinaisempi vierailija – jalohaikaran puuhat tallentuivat videolle
 - 5.10.2020 – Uusi Luontolive-kanava kurkistaa Suomen ainoiden luonnonvaraisten järvilohien kutupuuhiin
@@ -71,10 +71,10 @@ Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 27.8.2020 – WWF:n raportti varoittaa: Tämän vuoden metsäpaloista ennustetaan jopa viime vuotta pahempia
 - 21.8.2020 – Lauantaina vietetään maailman ylikulutuspäivää – koronakriisi siirsi päivää yli kolmella viikolla
 - 20.8.2020 – Näin turpeen energiakäytöstä luopuminen auttaisi luontoa ja ilmastoa
-- 14.8.2020 – Öljyvuoto aiheuttanut Mauritiukselle luonnonkatastrofin –”Kaoottista”, kuvailee öljyntorjunnassa auttava suomalainen Sari
+- 14.8.2020 – Öljyvuoto aiheuttanut Mauritiukselle luonnonkatastrofin – “Kaoottista”, kuvailee öljyntorjunnassa auttava suomalainen Sari
 - 10.8.2020 – Luontoliven sääksikamera suljettiin – huippusuositun kameran suunnitellaan jatkuvan ensi vuonna
 - 7.8.2020 – Luontoliven sääkset hyvästellään pian – mitä linnut tekevät, kun kamera on suljettu?
-- 6.8.2020 – WWF vastustaa Atlantin sinievätonnikalan MSC-sertifiointia –”Ennenaikaista”
+- 6.8.2020 – WWF vastustaa Atlantin sinievätonnikalan MSC-sertifiointia – “Ennenaikaista”
 - 5.8.2020 – Luontoliven kamerassa todistettiin erikoista tilannetta – sääksiperheen seuraan tupsahti yllättäen vieras poikanen
 - 3.8.2020 – Kalasaalis voi näyttää erilaiselta tulevaisuudessa ‒ ilmastonmuutos hyödyttää särkikaloja, kylmän veden kalat kärsivät
 
@@ -114,7 +114,6 @@ Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 12.5.2020 – Uhanalaisille vaelluskaloille avattu jo 600 kilometriä elintilaa
 - 11.5.2020 – Köllöttelykö leppoisaa? Vielä mitä, sillä saimaannorpat tekevät WWF:n Norppalivessä kovaa työtä
 - 9.5.2020 – Lintujen pesimäkausi on käynnistynyt, ja nyt tehtävät hakkuut uhkaavat poikasten selviytymistä – WWF vaatii muutosta luonnonsuojelulakiin
-- 8.5.2020 – Näkökulma: Luonto ei odota, ja siksi kestävää talouselvytystä tarvitaan
 - 5.5.2020 – Vieraskasvit uhkaavat luontoa – näillä ohjeilla pääset alkuun niiden torjumisessa
 - 1.5.2020 – Norppalive on nyt auki –”Tiedossa on jälleen huippuviihdettä, jossa ei tapahdu juuri mitään”
 
@@ -193,7 +192,6 @@ Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 Julkaistu: 30.12.2020  
 Aiheet: Eläin, Ahma, Ilmastonmuutos, Ilves, Luonnon köyhtyminen, Meret, Sademetsät, Suomen metsät, Suomi, Tiikeri  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/12/poimimme-10-pysayttavaa-luontokuvaa-vuodelta-2020-kuvissa-seikkailee-iberianilveksia-hyppyhamahakki-ja-kotimaisia-petoelaimia/
 
 **WWF:n arkisto täydentyy joka vuosi kuvilla työstämme ympäri maailmaa. Valikoimme vuodelta 2020 kymmenen vaikuttavaa otosta, jotka muistuttavat monimuotoisen luonnon arvosta.**
@@ -304,7 +302,6 @@ Aiemmin tänä vuonna aloitimme yhteistyön Fiskars Groupin kanssa Suomen luonno
 Julkaistu: 16.12.2020  
 Aiheet: Saimaannorppa  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/12/tuore-kysely-ylivoimainen-enemmisto-suomalaisista-kannattaa-kaikkien-kalaverkkojen-kieltoa-saimaannorpan-kuuttien-suojelemiseksi/
 
 **Tuoreen kyselyn mukaan 74 prosenttia suomalaista on sitä mieltä, että kuuttien suojaksi määritellyn kevään ja alkukesän verkkokalastuskiellon tulee koskea kaikkia kalaverkkoja, myös muikkuverkkoja. Saimaan alueen asukkaista tätä mieltä on 66 prosenttia. Kyselytutkimuksen toteutti WWF:n toimeksiannosta TNS Kantar Oy.**
@@ -367,7 +364,6 @@ O’Gormanin mukaan pyrkimys kaksinkertaistaa koalojen määrä vuoteen 2050 men
 
 Julkaistu: 10.12.2020  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/12/wwfn-vuoden-luontokirja-palkinnon-voitti-maalauspaivakirja-suomen-luonnosta/
 
 **Helsingin yliopiston rehtori Jari Niemelä valitsi WWF:n Vuoden luontokirjaksi Kuulin allien laulavan -teoksen. Kirjan on kirjoittanut ja kuvittanut Minna Pyykkö ja julkaissut Docendo.**
@@ -547,7 +543,6 @@ Tutustu vuoden 2019 onnistumisiin.
 Julkaistu: 7.12.2020  
 Aiheet: Suomen metsät, Metsäkato, Suomi  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/12/tuore-raportti-osoittaa-lukuisia-luontohelmia-hakkuu-uhan-alla-valtion-talousmetsissa/
 
 **Suomen valtion omistamissa talousmetsissä on runsaasti luonnoltaan arvokkaita kohteita, joita ei ole suojeltu. Suojelemattomuuden syynä on poliittisen tahdon puute ja se, ettei talousmetsien luontoarvoja ole kartoitettu systemaattisesti. Nyt vapaaehtoisten kartoittajien tarkka raportti esittelee 55 tällaista metsäkohdetta ympäri Suomea.**
@@ -635,7 +630,6 @@ Luonnonsuojelu ja ihmisoikeudet ovat kestävän kehityksen ytimessä. Muutaman v
 Julkaistu: 18.11.2020  
 Aiheet: Suomi, Luonnon köyhtyminen, Saimaannorppa  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/11/tuore-kysely-osoittaa-selkea-enemmisto-tehostaisi-kalastusrajoituksia-saimaannorpan-suojelemiseksi/
 
 **WWF:n teettämän kyselytutkimuksen perusteella selkeä enemmistö niin kaikista suomalaisista kuin myös Saimaan alueen asukkaista kannattaa keväisen verkkokalastuskiellon jatkamista heinäkuun loppuun asti. Saimaannorpan suojelemiseksi säädettäviä kalastusrajoituksia käsitellään parhaillaan maa- ja metsätalousministeriön asettamassa työryhmässä.**
@@ -774,7 +768,6 @@ Voit seurata lintujen talviruokintaa suorassa lähetyksessä WWF:n Luontolivess�
 Julkaistu: 12.11.2020  
 Aiheet: Luontolive, Luonnon köyhtyminen, Metsäkato, Suomen metsät, Suomi, Valkoselkätikka  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/11/nayteikkuna-lintujen-talviruokintapaikalle-avautui-wwfn-suorassa-lahetyksessa-nyt-myos-aanet/
 
 **WWF:n Luontoliven uusimmassa lähetyksessä katsoja pääsee seuraamaan lintujen talviruokintaa vanhassa, suojellussa metsässä. Vangitsevassa livekuvassa voi vilahtaa tutumpien tinttien lisäksi uhanalaisia töyhtö- ja hömötiaisia ja hyvällä onnella jopa valkoselkätikka. Tällä kertaa kokemusta siivittää yleisön pyynnöstä myös ääni.**
@@ -816,7 +809,6 @@ WWF on toteuttanut talvilintukameran yhdessä luontokuvaaja Hannu Siitosen kanss
 Julkaistu: 6.11.2020  
 Aiheet: Suomi, Ahma, Luonnon köyhtyminen  
 Kirjoittaja: Maria Rautio-Runeberg  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/11/ministerio-uhmaa-oikeuden-paatosta-uudella-esityksellaan-ahman-tappoluvista/
 
 **Maa- ja metsätalousministeriö esittää kahdeksan ahman metsästyskiintiötä Suomessa saimaannorppaakin harvinaisemmalle ahmalle. WWF:n tulkinnan mukaan esitys on Korkeimman hallinto-oikeuden päätöksen vastainen, sillä ministeriö ei edellytä selvityksiä Natura 2000 -luonnonsuojelualueille myönnettävistä tappoluvista. WWF vastustaa lähtökohtaisesti kaikkia ahmojen poikkeuslupia, kunnes kanta on selkeästi elpymässä.**
@@ -1322,7 +1314,7 @@ Malesiassa ja Thaimaassa elävien malakantiikerien määrä on viimeisten vuosik
 
 ---
 
-### Raportti: Ravitsemussuosituksiin tarvitaan lisää kunnianhimoa ympäristön suojelemiseksi –”Suomalaiset suositukset ovat liian väljät”
+### Raportti: Ravitsemussuosituksiin tarvitaan lisää kunnianhimoa ympäristön suojelemiseksi – “Suomalaiset suositukset ovat liian väljät”
 
 Julkaistu: 9.10.2020  
 Aiheet: Ruoka, Ilmastonmuutos, Luonnon köyhtyminen, Metsäkato  
@@ -1400,7 +1392,6 @@ Poronhoitoalueen osalta ministeriö ehdottaa, että suurinta sallittua saalismä
 
 Julkaistu: 6.10.2020  
 Aiheet: Luontolive, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/10/wwfn-luontolivessa-nahtiin-harvinaisempi-vierailija-jalohaikaran-puuhat-tallentuivat-videolle/
 
 **Kirkkonummella sijaitsevalle kosteikolle asennettu livekamera tallensi hieman poikkeuksellisemman näyn, kun paikalle liiteli vitivalkoinen jalohaikara.**
@@ -1558,7 +1549,6 @@ Jos haluat saada ensimmäisenä tiedon Luontoliven uutisista, tilaa WWF:n uutisk
 
 Julkaistu: 30.9.2020  
 Aiheet: Tiikeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/09/tuore-raportti-paljastaa-uhanalaisten-tiikerien-ja-niiden-osien-kauppaa-kaydaan-myos-eun-alueella/
 
 **Uhanalaisten tiikerien kauppaa käydään myös EU:n alueella, paljastaa uusi WWF:n ja TRAFFICin raportti. Tiikereillä ja niiden osilla käytävän kaupan mahdollistavat puutteellinen lainsäädäntö ja riittämätön valvonta.**
@@ -1684,7 +1674,6 @@ Itämeren valtiot kuuluvat maailman vauraimpiin ja teknisesti kehittyneimpiin.�
 
 Julkaistu: 26.9.2020  
 Aiheet: Luontolive, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/09/wwfn-uusi-livekamera-seuraa-lintukosteikon-syksya-hyvalla-onnella-kuvaan-voi-osua-harvinaisempikin-siivekas/
 
 **WWF:n Luontoliven uudessa kamerassa seurataan lintujen elämää Kirkkonummella sijaitsevalla kosteikolla. Suorassa lähetyksessä voi nähdä tutun sinisorsan ja laulujoutsenen lisäksi hyvällä onnella myös harvinaisemman siivekkään kuten jalohaikaran.**
@@ -1871,7 +1860,6 @@ Juttua editoitu 18.9.2020 Rondeau’n Nepalissa viettämän ajan osalta. Hän vi
 
 Julkaistu: 15.9.2020  
 Aiheet: Luontolive, Jokihelmisimpukka, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/09/suora-lahetys-pohjois-lapin-tunturipurosta-kerasi-135-000-katselukertaa/
 
 **WWF:n Luontoliven suora lähetys seurasi erittäin uhanalaisten raakkujen eli jokihelmisimpukoiden elämää lähes kolmen kuukauden ajan. Lähetystä katsottiin 135 000 kertaa, ja keskimääräinen katseluaika oli noin viisi minuuttia.**
@@ -2057,7 +2045,6 @@ Talkoot olivat osa WWF:n ja K-ryhmän vuonna 2017 alkanutta K-Kalapolut-yhteisty
 
 Julkaistu: 3.9.2020  
 Aiheet: Meret, Merten muoviroska, Uhka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/09/rikollisuus-rehottaa-muovijatebisneksessa-wwf-vaatii-sopimusta-joka-lopettaa-muovin-paatymisen-meriin/
 
 **Muovijätteen valtava määrä maailmalla on mahdollistanut rikollisen toiminnan muovijätteen kauppareiteillä. Sekä jätteen laiton kuljetus että käsittely ovat lisääntyneet, kertoo kansainvälisen rikospoliisijärjestö Interpolin tuore raportti. Toiminta on uhka ympäristölle.**
@@ -2206,7 +2193,7 @@ Tärkeää on myös, ettei turpeen energiakäytöstä siirrytä polttamaan puuta
 
 ---
 
-### Öljyvuoto aiheuttanut Mauritiukselle luonnonkatastrofin –”Kaoottista”, kuvailee öljyntorjunnassa auttava suomalainen Sari
+### Öljyvuoto aiheuttanut Mauritiukselle luonnonkatastrofin – “Kaoottista”, kuvailee öljyntorjunnassa auttava suomalainen Sari
 
 Julkaistu: 14.8.2020  
 Aiheet: Öljyntorjuntajoukot, Meret  
@@ -2325,7 +2312,7 @@ Tekstissä on käytetty lähteenä myös seuraavaa teosta: Pertti Saurola – Ju
 
 ---
 
-### WWF vastustaa Atlantin sinievätonnikalan MSC-sertifiointia –”Ennenaikaista”
+### WWF vastustaa Atlantin sinievätonnikalan MSC-sertifiointia – “Ennenaikaista”
 
 Julkaistu: 6.8.2020  
 Aiheet: Liikakalastus, Meret, Ruoka  
@@ -2977,7 +2964,6 @@ Norppalive on osa WWF:n laajempaa Luontolive-sivustoa, jossa seurataan suoria l�
 Julkaistu: 2.6.2020  
 Aiheet: Yritykset  
 Kirjoittaja: Emmi Karhiaho  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/06/nain-tyoskentelemme-yhdessa-suomalaisten-yritysten-kanssa-katso-saavutukset-vuoden-ajalta/
 
 **Kokosimme viisi saavutusta, jotka kertovat työstämme yhdessä yrityskumppaneidemme kanssa. Viime tilikaudella työskentelimme muun muassa metsätalouden kestävyyden lisäämiseksi, ilmastonmuutoksen hillitsemiseksi ja vaelluskalojen suojelemiseksi.**
@@ -3554,54 +3540,11 @@ Erityisen tärkeää pesimäaikaisten hakkuiden rajoittaminen on linnustoltaan r
 
 ---
 
-### Näkökulma: Luonto ei odota, ja siksi kestävää talouselvytystä tarvitaan
-
-Julkaistu: 8.5.2020  
-Aiheet: Pandemiat, Ilmastonmuutos, Luonnon köyhtyminen, Näkökulma, Suomi  
-Kirjoittaja: Liisa Rohweder  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2020/05/nakokulma-luonto-ei-odota-ja-siksi-kestavaa-talouselvytysta-tarvitaan/
-
-**Luonnon monimuotoisuus on huomioitava koronakriisin elvytystoimissa, kirjoittaa WWF:n pääsihteeri Liisa Rohweder.**
-
-Koronavirus on koetellut maailmaa mittavin seurauksin. Kun raivaamme tietä ulos koronakriisistä, meidän pitää ehdottomasti huomioida myös ekologinen ulottuvuus.
-
-Yhteiskuntajärjestelmämme perustaa uhkaa akuutti kriisi, jonka taustalla on luonnonvarojen ylikulutus ja luonnon köyhtyminen. Ellei kestävyyskriteereitä nosteta kaiken sopeutumisen ytimeen, tämä kierre jatkuu. Se on katkaistava, sillä yhteiskuntia ravistelevia uhkia, kuten tulvia, metsäpaloja ja eläimistä ihmisiin tarttuvia tautiepidemioita, nousee jatkuvasti.
-
-#### Luonnon monimuotoisuuden häviäminen on todellisuutta myös Suomessa
-
-Luonnon köyhtyminen tuo helposti mieleen sademetsien hakkuut, Australiassa jyllänneet metsäpalot ja saastuneet meret. Luonnon kirjo hupenee kuitenkin myös Suomessa.
-
-Uhanalaisten lajien määrä on Suomessa kasvanut. Joka yhdeksäs laji ja lähes puolet luontotyypeistä on arvioitu Suomessa uhanalaisiksi. Eniten uhanalaisia lajeja on metsissä ja perinneympäristöissä. Joukossa on monia tuttuja lajeja, kuten hömötiainen, naali, huuhkaja ja saimaannorppa. Olemme ylpeitä kotimaisesta kalasta, mutta myös kalojen uhanalaisuus on alati pahentunut.
-
-Uhanalaistuminen johtuu useimmin metsätaloudesta, ojituksesta, pellonraivauksesta, rakentamisesta ja vesien rehevöitymisestä. Kalojen kohdalla uhanalaisuuden pääsyy on valtava määrä kutuvaelluksen estäviä patoja. Samasta syystä ovat kadonneet myös vapaana virtaavat kosket. Eikä ilmastonmuutoksen vaikutuksia pidä unohtaa.
-
-Lajien ja elinympäristöjen hupeneminen vaikuttaa yhteiskuntamme kantokykyyn ja resilienssiin. Kun luonnon monimuotoisuus heikkenee, lajien ja ekosysteemien on yhä vaikeampaa sopeutua säiden ääri-ilmiöihin ja ilmaston muuttumiseen. Hakatut metsät ja kuivatetut suot muuttuvat hiilivarastoista hiilen lähteiksi. Rehevöityminen ja saastuminen voivat pilata puhtaan juoma- ja uimaveden.
-
-#### Kestävät elvytystoimet vievät kohti uutta normaalia
-
-Elämme hetkessä, jossa voimme muuttaa suunnan. Lukuisten kansainvälisten instituutioiden, kuten YK:n, Maailmanpankin ja Euroopan komission mukaan koronapandemian jälkeinen elvytys on tehtävä taloudellisesti, sosiaalisesti ja ekologisesti kestävästi.
-
-Samaa mieltä on myös tiede. Tiedeyhteenvedoissa todetaan, että kestävän kehityksen tavoitteet on mahdollista saavuttaa vain purkamalla luonnonvarojen ylikulutus. WWF on mukana kehittämässä ratkaisuja elvytykseen ministeri Krista Mikkosen asettamassa kestävän elvytyksen työryhmässä. Olemme tehneet ehdotuksia kestävään elvytykseen myös EU:lle.
-
-Kestävät elvytystoimet eivät ratkaise kaikkia ongelmia, mutta ne auttavat rakentamaan tien ulos niin koronakriisistä kuin ekologisesta kriisistä. Siksi meidän on asetettava päätöspäivämäärä fossiilisten polttoaineiden käytölle ja investoitava yhä enemmän puhtaaseen energiaan. Meidän pitää luopua ympäristölle ja ilmastolle haitallisista tuista ja satsata luonnonsuojeluun ja heikentyneiden elinympäristöjen ennallistamiseen. Nyt meidän on mahdollista myös edistää rakennusten energiatehokkuutta sekä kestävää liikennettä ja ruokajärjestelmää.
-
-Nämä toimet voivat olla systeemisen muutoksen alku, kun uusi normaali rakennetaan kestävälle pohjalle. Systeeminen muutos on valtava tavoite, joka on samaan aikaan välttämätön, mutta mahdollinen. Yhteiskuntamme kestävyyden määrittää se, pystymmekö luopumaan ylikulutuksesta ajoissa ja tekemään sen sosiaalisesti oikeudenmukaisesti.
-
-Keskeistä on toimien ripeys ja riittävyys. Ekologisella jälleenrakennuksella on kiire. Luonto ei odota eikä neuvottele. Siksi nyt on varmistettava välittömästi, että kaikkiin elvytystoimiin liitetään kestävyyskriteerit: elvytystoimet eivät saa heikentää luonnon monimuotoisuutta, pahentaa ympäristön ja ilmaston tilaa tai tukea luonnonvarojen kestämätöntä käyttöä.
-
-Luonnon monimuotoisuuden eteen tehtävillä toimilla emme voi hävitä. Luonnon hyvinvointi kasvaa, työllisyysvaikutukset ovat myönteisiä ja uusiutuvien luonnonvarojen kyky uusiutua kohenee. Tie kohti uutta normaalia on auki.
-
-Lisätietoja: Liisa Rohweder, Pääsihteeri
-
----
-
 ### Vieraskasvit uhkaavat luontoa – näillä ohjeilla pääset alkuun niiden torjumisessa
 
 Julkaistu: 5.5.2020  
 Aiheet: Vieraslajit  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/05/vieraslajit-uhkaavat-luontoa-nailla-ohjeilla-paaset-alkuun-niiden-torjumisessa/
 
 **Vieraslajit ovat eläin-, kasvi- ja sienilajeja, jotka ovat siirtyneet luontaisilta esiintymisalueiltaan uusille alueille ihmisen toiminnan seurauksena. Tässä artikkelissa neuvomme, kuinka voit auttaa luontoa torjumalla haitallisia vieraskasveja, kuten kurtturuusua ja jättipalsamia.**
@@ -4667,7 +4610,6 @@ Vastuullisuuden ja taloudellisen tuoton välinen ristiriita on hyvin yleinen vas
 
 Julkaistu: 28.2.2020  
 Aiheet: Itämeri, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2020/02/itameren-rehevoityminen-kuriin-kilpailulla-jaossa-10-000-euroa-ja-itameren-ymparistoystavallisimman-viljelijan-titteli/
 
 **WWF etsii jälleen Suomen Itämeri-ystävällisintä maatilaa osana kansainvälistä viljelijäkilpailua. Kilpailun tarkoituksena on saada Itämeren ravinnekuormaa pienentävät viljelymenetelmät yleistymään ja antaa tunnustusta edelläkävijöinä toimiville viljelijöille. Rehevöityminen on Itämeren suurin uhka ja näkyy esimerkiksi lisääntyneinä sinileväkukintoina.**

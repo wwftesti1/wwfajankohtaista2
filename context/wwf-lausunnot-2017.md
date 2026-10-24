@@ -1,9 +1,8 @@
 # WWF Suomi – Lausunnot 2017
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 22 (uusin 15.12.2017).
+Kohteita: 30 (uusin 15.12.2017).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 22 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -11,10 +10,13 @@ Huom: 22 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 15.12.2017 – WWF:n lausunto öljy- ja aluskemikaalivahinkojen torjunnan järjestämisestä (15.12.2017)
 - 15.12.2017 – WWF:n lausunto luonnoksesta ahma-asetukseksi (15.12.2017)
+- 12.12.2017 – WWF Suomen pääsihteeri Liisa Rohwederin puhe pääministerin tulevaisuustyöpajassa (8.12.2017)
 
 **Marraskuu 2017**
 
+- 29.11.2017 – Järjestöjen kirje Kemijoki Oy:n hallitukselle (28.11.2017)
 - 17.11.2017 – WWF Suomen lausunto metsätietolaista (16.11.2017)
+- 8.11.2017 – WWF Suomen pääsihteeri Liisa Rohwederin puheenvuoro Luonnonvarakeskuksen seminaarissa (9.11.2017)
 
 **Syyskuu 2017**
 
@@ -36,9 +38,12 @@ Huom: 22 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 12.6.2017 – WWF Suomen lausunto eduskunnan valiokunnille Itämeren lohen monivuotisesta hoitosuunnitelmasta (31.5.2017)
 - 12.6.2017 – WWF Suomen lausunto eduskunnan valiokunnille kalastuskiintiösuosituksista vuodelle 2018 (7.6.2017)
 - 8.6.2017 – WWF Suomen lausunto Nord Stream 2 -kaasuputken ympäristövaikutusten arviointiselostuksesta ja koko hanketta koskevasta arviointiraportista (31.5.2017)
+- 7.6.2017 – WWF Suomen pääsihteeri Liisa Rohwederin puhe YK:n merikonferenssissa (5.–9.6.2017)
+- 7.6.2017 – Järjestöjen kirje ministeri Tiilikaiselle EU:n taakanjako- ja LULUCF-asetuksista (7.6.2017)
 
 **Toukokuu 2017**
 
+- 24.5.2017 – WWF Suomen pääsihteeri Liisa Rohwederin puhe Arktisen neuvoston puheenjohtajuuskauden avajaisissa (18.5.2017)
 - 12.5.2017 – WWF:n kannanotto Arktisen neuvoston ministerikokouksessa annettuun julkilausumaan (12.5.2017)
 - 4.5.2017 – WWF Suomen lausunto Kylmäluoman retkeilyalueen hoito- ja käyttösuunnitelmasta (27.4.2017)
 
@@ -57,7 +62,12 @@ Huom: 22 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 28.2.2017 – WWF:n lausunto luonnoksista valtioneuvoston asetuksiksi lohenkalastuksen rajoituksista (28.2.2017)
 - 27.2.2017 – WWF:n lausunto kansallisesta energia- ja ilmastostrategiasta vuoteen 2030 (23.2.2017)
+- 7.2.2017 – WWF Suomen pääsihteeri Liisa Rohwederin puheenvuoro Suomen IUCN-komitean Paras luontoteko 2015-2016 -kilpailun voittajan palkitsemistilaisuudessa 7.2. 2017: Niin sudet kuin ahmatkin kaipaavat suojelua (7.2.2017)
 - 1.2.2017 – WWF:n lausunto ahmakiintiöasetuksesta metsästysvuodelle 2016–2017 (1.2.2017)
+
+**Tammikuu 2017**
+
+- 9.1.2017 – WWF:n kommentti metsähanhen metsästyksen säätelystä AEWA-sopimuksen puitteissa (7.12.2016)
 
 ---
 
@@ -67,7 +77,6 @@ Huom: 22 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 Julkaistu: 15.12.2017  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/6/o/2toqqjncj3nubb4dfc4z7fg/wwf-suomi-lausunto-15-12-2017-oeljyntorjunta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -94,7 +103,6 @@ Teemu Niinimäki suojeluasiantuntija WWF Suomi
 
 Julkaistu: 15.12.2017  
 Aiheet: Ahma, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/h/4/q7dtzk5dlpibj4pqayizjwc/wwf-lausunto-mmm-ahma-171215.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -145,13 +153,70 @@ Petteri Tolvanen ohjelmapäällikkö
 
 ---
 
+### WWF Suomen pääsihteeri Liisa Rohwederin puhe pääministerin tulevaisuustyöpajassa (8.12.2017)
+
+Julkaistu: 12.12.2017  
+Aiheet: Suomi  
+Linkki: https://wwf.fi/app/uploads/k/y/k/5mj57gvhthnkhr6ag3aqaoh/tulevaisuuspaperi_liisa_rohweder_wwf.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 info@wwf.fi www.wwf.fi, www.panda.org
+
+Pääministerin tulevaisuustyöpaja 8.12.2017
+
+Tulevaisuuden keskeisiä kysymyksiä Suomelle Liisa Rohweder Pääsihteeri WWF Suomi
+
+Kestävä kehitys ja Agenda 2030 ovat Suomen ja maailman keskeisin haaste sekä mahdollisuus. Sen toteutuminen edellyttää paradigmamuutosta. Kyse on arvovalinnoista. Ekologiseen kestävyyteen liittyvät tavoitteet ja niiden toteutuminen ovat ihmiskunnan kohtalon kysymyksiä. Jos ne eivät toteudu, ei muillekaan kestävän kehityksen tavoitteille ole toteutumisen edellytyksiä. Vaikka ilman ekologista kestävyyttä ei ole elämisen mahdollisuuksia, ei kestävää kehitystä voida kuitenkaan saavuttaa ilman, että samanaikaisesti toteutetaan myös sosiaalisesti ja taloudellisesti kestävää kehitystä. Lisäksi valtion budjetti tulisi rakentaa kestävän kehityksen tavoitteiden raameihin. Kaikki alla olevat kysymykset liittyvät kestävän kehityksen tavoitteisiin ja niiden toteuttamiseen. Luonnon monimuotoisuuden heikkeneminen Luonnon monimuotoisuuden heikkeneminen ja siihen sisältyvät riskit sekä ratkaisut ovat jääneet ilmastonmuutoksen jalkoihin. Asiaa kuvaa alla oleva Stockholm Recilience -instituutin arvio niistä ihmisten toimista, joissa riskirajat on ylitetty.
+
+Nordea OKO Sampo Ålandsbanken
+
+157230-11189 578007-130581 800017-284004 660100-1152370
+
+Y-tunnus
+
+0215186-5
+
+Suomi on sitoutunut toteuttamaan Nagoyan biodiversiteettisopimuksen, jonka mukaan luonnon monimuotoisuuden heikkeneminen pitäisi saada pysäytettyä vuoteen 2020 mennessä. Suomen metsäluontotyypeistä 2/3 on uhanalaisia joko niiden laadun tai määrän muutoksen perusteella, ja tämä vastaa pinta-alaltaan miltei puolta Suomen metsäpinta-alasta. Uhanalaisia metsälajeja on suuri määrä – yli 800 – ja uhanalaisuuden kynnyksellä miltei toiset 800 lajia. Yli sata metsälajia on jo hävinnyt. Suurimman osan uhanalaistumisen syynä on metsätalous: metsien hoito ja uudistaminen. Luonnonmetsistä riippuvaisten lajien sukupuuttovelka on 900 lajia eli ne häviävät jo tapahtuneiden muutosten seurauksena, ellei niiden elinympäristöjen tilanne nopeasti ja laajoilla pinta-aloilla parane.
+
+Kolmasosa uhanalaisista lajeista on vanhan metsän lajeja. Vanhojen metsien määrä on huvennut olemattomiin. Vanhojen metsien määrä väheni puoleen 1900-luvun jälkipuoliskolla ja väheneminen on yhä jatkunut 2000-luvulla. Puuta metsissämme on ennätysmäärä. Se ei siis kuitenkaan valitettavasti tarkoita sitä, että metsäluontomme olisi elinvoimaista ja olisimme matkalla kohti Nagoyan sopimusvelvoitteiden täyttämistä. Ennätyssuuri puuston kasvu on saatu aikaan sellaisilla tehostamistoimilla, että metsälajisto, luontotyypit ja vesistöt ovat kärsineet voimakkaasti. Suomalainen biotalouspolitiikka ei ole monimuotoisuuden näkökulmasta kestävää. Suomen on sitouduttava toimenpiteisiin, joiden avulla metsäluonnon monimuotoisuuden heikkeneminen saadaan pysäytettyä. Se on mahdollista. Mitä Suomi voi tehdä? Suojelun osalta Suomen tulee ripeästi edetä kohti Nagoyan sopimuksen mukaista 17 prosentin suojeluastetta. Metso-ohjelman rahoitus tulee nostaa 100 miljoonaan euroon vuodessa, ja siitä on tehtävä pysyvä suojeluohjelma. Metsätalouden harjoittamisessa tulee siirtyä jatkuvapeitteiseen metsänhoitoon – se olisi hyvä ratkaisu monimuotoisuudelle, ilmastolle, monikäytölle ja kannattavuudelle. Kaikki runkokokoinen lahopuu tulee jättää metsään kaikissa metsänhoidon vaiheissa. Kantojen nostamisesta tulee luopua ja energiapuun korjuussa tulee noudattaa muutenkin malttia, jotta se ei aiheuta ongelmia metsäekosysteemissä. Lisäksi metsän kansantaloudellinen arvo tulee nähdä muunakin kuin yhä kasvavana hakkuupotentiaalina. Muutamia esimerkkejä: Luontomatkailu on maakunnissa tärkeä ja voimakkaasti kasvava elinkeino. Kun Hossaan perustettiin kansallispuisto, niin alueen kävijämäärä kaksinkertaistui. Kansallispuistojen kävijämäärät ovat jatkuvassa kasvussa: viime vuonna 2,3 miljoonaa käyntiä, jotka jättivät aluetalouteen peräti 141 miljoonaa euroa. Luonnon ja luontoliikunnan kansanterveydelliset hyödyt ovat kiistattomat, mutta pahasti alinoteerattu maankäytön ja metsäpolitiikan suunnittelussa. Monet autoimmuunisairaudet olisivat ehkäistävissä, ja tällä hetkellä niistä aiheutuu yhteiskunnalle miljardien eurojen vuosikustannukset. Tarvitaan riittävästi houkuttelevia ja yhtenäisiä luontokohteita retkeilyä ja virkistyskäyttöä varten. Ilmastonmuutoksen torjunta Edessä oleva muutos on valtava. Maailmassa 80 prosenttia energiasta tulee fossiilisista polttoaineista (hiili, öljy, kaasu), joiden käytöstä syntyy hiilidioksidia. Vain 10 prosenttia energiasta ei sisällä hiiltä. Noin puolessa vuosisadassa ”likaisen” ja ”puhtaan” energian osuudet tulisi vaihtaa toisiinsa. Tämä energiavallankumous on yksi kestävän kehityksen ydinkysymyksiä, sillä energia vaikuttaa keskeisesti kaikkeen ihmisen toimintaan, ja se ulottuu jokaisen arkipäivään.
+
+Tämän vuosisadan lopulla ongelmat tulevat kuitenkin olemaan huomattavia. Jos kaikki fossiiliset luonnonvarat poltettaisiin, ilmakehän hiilidioksidipitoisuus nousisi viisinkertaiseksi nykyisestä (tasolle 2000 ppm), pysyisi sellaisena tuhansia vuosia, ja kohonneena kymmeniä tuhansia vuosia. Tämä johtaisi kahdeksan astetta lämpimämpään planeettaan, arktisella alueella lähes 20 asteen lämmönnousuun. Suomi on allekirjoittanut Pariisin ilmastosopimuksen ja siten sitoutunut toimimaan niin, että ilmaston lämpeneminen saadaan pidettyä alle 1,5 asteessa ja ilmastonmuutoksen tuhoisimmat vaikutukset estettyä. Vuosi 2020 on merkittävä, sillä mikäli ilmastonmuutos halutaan pitää sovitusti alle kahdessa asteessa, täytyy päästöjen kääntyä rajuun laskuun ennen sitä. Valtioiden nykyiset, liian pienet päästövähennyslupaukset johtavat arviolta vähintään kolmen asteen nousuun. Siksi valtioiden on välittömästi ilmaistava aikeensa vahvistaa omia ilmastotoimiaan. Vuonna 2067 maailman pitäisi olla käytännössä päästötön Pariisin ilmastosopimuksen mukaan. Mutta ajoituksella on väliä ja siksi etunoja on tärkeä. Olemme nyt erittäin lähellä yhdessä sovitun maksimaalisen lämpötilannousun rajaa. YK:n ympäristöjärjestö UNEP arvioi, että Pariisin sopimuksessa sovittu 1,5 asteen rajapyykki ylitetään jo kolmen vuoden päästä, ja rikkaiden valtioiden tulisi irtaantua kivihiilestä täysin vuoteen 2030 mennessä. Yhtään uutta fossiiliseen energiaan pohjaavaa laitosta ei saisi enää nykyisen hiilibudjetin puitteissa rakentaa, ja nykyisetkin täytyy poistaa käytöstä etuajassa. Mikäli emme onnistu kääntämään päästöjä laskuun etunojassa – vuoteen 2020 mennessä – niin joudumme tilanteeseen, jossa meillä ei ole enää pehmeää laskua, vaan päästöjen pitäisi yhtäkkiä loppua kuin seinään ylitettyämme hiilibudjetin. Ajoitus on siis kriittinen osa tätä tarinaa. Suomen nykyinen biotalouspolitiikka ei kuitenkaan tue ilmastotavoitteita. Tiede on asiassa selkeä: hallituksen tavoittelemat lisähakkuut ovat ilmaston kannalta kriittisiä. Esimerkiksi Ilmastopaneelin, Euroopan tiedeakatemian ja laajan tutkijajoukon julkilausuman mukaan:
+1) Lisähakkuut pienentävät hiilinieluja useiksi vuosikymmeniksi verrattuna nykyhakkuisiin. Sama Ilmastopaneelin sanoin: ”Hakkuiden ja puunkorjuun lisääminen pienentää Suomen metsien hiilinielua ja metsien hiilivarastoa vähintään vuosikymmeniksi eteenpäin verrattuna tilanteeseen, jossa niitä ei lisätä.”
+2) Bioenergia ei ole hiilineutraalia. Metsäbioenergia on vasta pitkällä aikavälillä vähän parempi kuin fossiiliset vaihtoehdot, eli ei suinkaan hiilineutraali ratkaisu. Bioenergian on ajateltu olevan energiankäytössä hiilineutraalia, koska oletetaan, että bioenergian korjuun ilmastovaikutukset huomioitaisiin LULUCF-sektorilla. Nyt EU:n LULUCF-päätöstilanne
+
+vaikuttaa siltä, että lisähakkuiden ilmastovaikutuksia ei oteta käytännössä huomioon, jolloin oletus bioenergian hiilineutraaliuudesta tulee kyseenalaiseksi. Mitä Suomi voi tehdä? Kääntää biotalouspolitiikan kestävälle raiteelle. Käyttää bioenergiaa hyvin rajallisesti sellaisilla sektoreilla, jota eivät voi toistaiseksi dekarbonisoitua, eli lähinnä lento- ja laivaliikenteessä. Muita ratkaisuja: liikenteen sähköistys ja siirtäminen raiteille, tuuli, aurinko, geoterminen, lämpöpumput, kysyntäjoustot ja erittäin runsas, varsinkin rakennusten, energiatehokkuuden lisäämistä. Suomen luonnonvarojen tuottavuuden heikon tason nostaminen ja biotalouden kääntäminen kestäväksi biotaloudeksi Pellervon taloustutkimus arvioi helmikuussa, että puun käytön tuottavuus on vaarassa laskea. Puubiotalouden piti olla vähemmästä enemmän, mutta se uhkaakin olla enemmästä vähemmän. Suomen itsenäisyyden juhlarahaston Sitran asiantuntijat kirjoittavat marraskuun lopussa julkaistussa muistiossaan, että metsäsektorin strategiseksi tavoitteeksi pitää yhä enemmän ottaa Suomen metsäperäisten tuotteiden ja palveluiden kokonaisarvon eikä puumäärän käytön maksimointi. Suomen talouden luonnonvarojen tuottavuus on puolet eurooppalaisesta keskiarvosta Eurostatin mukaan. Kun kilo luonnonvaroja tuottaa Suomen talouteen euron, Saksassa se tuottaa reilut kaksi euroa. Ero on vain kasvanut 2010-luvulla, jolloin EU:n keskimääräinen luonnonvaratuottavuus on kasvanut lähes viisi kertaa nopeammin kuin Suomen. Perinteisen sektorin muutos ei tapahdu hetkessä. Lupaukset biotalouden innovaatioista joskus tulevaisuudessa eivät saa kuitenkaan olla peruste bulkkituotannon laajentamiselle. Kymmeniä tai satoja metsälajeja on kuolemassa sukupuuttoon nykymenolla. Mitä Suomi voi tehdä? Ratkaisun avaimet luonnonvarojen tuottavuuden nostamiseksi ovat tiedossa: poliittisen ohjauksen, metsäsektorin yritysten ja muiden toimijoiden on luotava tulevaisuus, jossa sektorin kannattavuus syntyy uusien ja arvokkaiden ratkaisujen lisäarvosta sekä puukaupan oikeudenmukaisista hinnoista ilman jatkuvia lisähakkuita. Se on haaste, johon on pystyttävä vastaamaan. Vastuun kantaminen kehitysyhteistyössä Suomalaiset kuluttavat vuosittain kolminkertaisesti maapallon luonnonvarat. Kaikki ylikulutuksen vaikutukset eivät kuitenkaan näy Suomessa, sillä esimerkiksi monet käyttämämme tuotteet tai niiden raaka-aineet tulevat muualta. Kestämättömästä luonnonvarojen käytöstä syntyneen velan maksavat länsimaiden sijaan kehitysmaat, joihin Suomi on osittain ulkoistanut oman ylikulutuksensa seuraukset.
+
+Suomen on kannettava vastuunsa monimuotoisuuden heikkenemisestä Suomessa ja maissa joista Suomi tuo paljon tai joissa suomalaisilla yrityksillä on hankintoja ja investointeja. Luonnon monimuotoisuus on heikentynyt viimeisten 40 vuoden aikana kehitysmaissa. Mitä Suomi voi tehdä? Keskeisenä ratkaisuna on kehitysyhteistyömäärärahojen nostaminen sille kuuluvalle tasolle. Kehitysyhteistyöllä voimme vaikuttaa siihen, että elinkeinot ja oikeudet luonnonvaroihin säilyvät paikallisilla, ja luomme kestäviä kehitysratkaisuja näissä maissa. Lisäksi varmistamme, että meille kaikille tärkeitä luonnonvaroja hyödynnetään kestävällä tavalla. Lisääntyvät pakolaismäärät Ilmastonmuutoksen ja turvallisuuden yhteys ymmärretään. Aavikoituminen, kuivuuskaudet, tulvat, poikkeavien sääolojen ja hirmumyrskyjen lisääntyminen ja elinoloja heikentävät muutokset synnyttävät ilmastopakolaisia ja ylipäätään lisäävät painetta hallitsemattomiin muuttoliikkeisiin, sillä ne kiristävät kilpailua luonnonvaroista ja pääsystä puhtaan veden lähteille. On varauduttava siihen, että muuttoliikkeet jatkuvat ja jopa lisääntyvät ilmastonmuutoksen myötä. Hallitsemattomat muuttoliikkeet ja pakolaisuus aiheuttavat jännitteitä sekä valtioiden sisällä että niiden välillä. Jännitteitä ei kuitenkaan ratkaista rajoja sulkemalla ja ihmisten liikkuvuutta rajoittamalla. Se loukkaa ihmisoikeuksia ja aiheuttaa taloudellisia menetyksiä – ja lisää jännitteitä. Suomen tulisi varautua jo nyt lisääntyviin pakolaismääriin. Mitä Suomi voi tehdä? Pakolaiskriisien juurisyynä on ilmastonmuutos ja luonnon monimuotoisuuden heikkeneminen. Kehitysyhteistyö on vahva väline vaikuttaa siellä missä ongelmat syntyvät ja luoda oikeidenmukainen perusta luonnonvarojen kestävälle käytölle. Näin ollen ilmastonmuutokseen sopeutuminen ja ilmastonmuutoksen torjuminen pitäisi entistä voimakkaammin huomioida Suomen kehitysrahoituksessa kaikkien rahoitusinstrumenttien osalta. Puhdasta vettä kaikille Ilman puhdasta vettä ei mikään inhimillinen elämä ole mahdollista. Öljyn aseman geopolitiikan tekijänä on viemässä puhdas vesi, josta on tulossa yhä kallisarvoisempi neste. Maailmanlaajuisesti ongelmana on veden vähyys, sen kestämätön käyttö, epäoikeudenmukainen hallinta, veden heikko laatu ja huono vesihuolto. Maapallolla on makeaa vettä, viljelykelpoista maata ja ravinteita rajallisesti. Ruoantuotantojärjestelmät nielevät valtavat määrät vettä, tuottavat kasvihuonekaasupäästöjä sekä rehevöittäviä päästöjä vesistöihin. Vesiekosysteemit ovat kaikista ekosysteemityypeistä haavoittuvimpia, ja metsää raivataan yli 300 neliökilometriä maatalouden tieltä päivittäin. Samaan aikaan sadat miljoonat ihmiset kärsivät nälkää ja janoa. Väestönkasvu, ilmastonmuutos ja
+
+kaupungistuminen sekä ruokavalioiden ja elintapojen muutos kasvattavat painetta veden ja ruoan riittävyydelle entisestään. Yli 70 prosenttia maapallon pinta-alasta on veden peitossa. Vain kolme prosenttia kaikesta maailman vedestä on makeaa vettä, ja suurin osa siitä on varastoituneena jäätikköihin. Näin ollen vain alle prosentti makeasta vedestä on ihmiselle käyttökelpoisessa ja saatavilla olevassa muodossa pohjavetenä, sadevetenä, järvissä ja joissa. Ihmiskunnan vedenkäytöstä 75–95 prosenttia kuluu maataloudessa ja varsinkin ruoantuotannossa. Tämä vastaa jopa 40 prosenttia kestävästi saatavilla olevista vesivaroista. Kotitalouksien käyttämä vesi on keskimäärin vain kaksi prosenttia ja teollisuuden käyttämä neljä prosenttia ihmiskunnan vedenkulutuksesta. Syömämme ruoka liittyy siis vahvasti siihen, miten maailman vesivarat riittävät. Makeaa vettä riittäisi maailmassa kaikille, ellei se olisi jakautunut epätasaisesti niin maantieteellisesti kuin taloudellisesti, poliittisesti ja sosiaalisesti. Vaikka Suomessa nautimme vesivarojen yltäkylläisyydestä, veden niukkuus vaikuttaa 40–60 prosenttiin maailman väestöstä. Vaikka vesi on ihmisoikeus ja julkinen hyödyke, valtiot ympäri maailmaa kamppailevat sen kestävän käytön ja hallinnan kanssa. Maailman talousfoorumin globaalien riskien arvioinneissa vesiongelmien vaikutukset talouteen ja yhteiskuntaan ovat olleet kärkikolmikossa vuodesta 2012. Vesihuollon haasteet ovat valtavia: 663 miljoonalla ihmisellä ei ole turvallista ja edullista juomavettä, eikä 2,4 miljardilla ihmisellä riittävää sanitaatiota. Yli 80 prosenttia maailman jätevesistä lasketaan edelleen puhdistamattomana jokiin, järviin ja meriin, mikä aiheuttaa haittaa niin luonnolle kuin ihmisten terveydelle. Mitä Suomi voi tehdä? Suomi voi olla osa ratkaisua mm. kehitysyhteistyön avulla kehittämällä globaalia vesivarojen hallintaa viemällä käyttöön liittyvää teknologiaa sekä edistämällä kiertotaloutta. Kehitysmaissa metsäpeitteen suojeleminen ja ylläpito ovat ensiarvoisen tärkeitä vesivarojen turvaamiseksi esimerkiksi Himalajan alueella. Suomalaisilla yrityksillä on merkittävä rooli kestävien liiketoimintamallien ja puhtaiden teknologioiden tarjoajina. Lisäksi yritysten tulisi kiinnittää enemmän huomiota veden käyttöön globaaleissa hankinta- ja arvoketjuissaan. Kuluttajan tulisi kiinnittää huomiota kauppakassinsa sisältöön, sillä lähes puolet kulutuksestamme on riippuvaista ulkomaisista vesivaroista, ja vesijalanjälkemme tuntuu myös alueilla, joilla kärsitään veden kestävään ja oikeudenmukaiseen käyttöön sekä hallintaan liittyvistä ongelmista. Suosimalla kasvispainotteista ja kotimaista kausiruokaa kuluttaja pystyy parantamaan vesijalanjälkensä kestävyyttä sekä torjumaan ilmastonmuutosta. Ruokaa kaikille Maailman väkiluku jatkaa kasvuaan kohti 10 miljardin rajapyykkiä. Samalla ruokailutottumukset muuttuvat. Eläinperäisten tuotteiden kulutus kasvaa. Niiden tuottamiseen kuluu enemmän
+
+luonnonvaroja verrattuna kasvispainotteiseen ruokavalioon. Näihin muutoksiin vastaamiseksi maapallon ruoantuotantoa olisi lisättävä vuoteen 2050 mennessä jopa 50–100 prosenttia. Ruoantuotannon käytössä on yli 40 prosenttia planeettamme maapinta-alasta. Se nielee leijonanosan uusiutuvista ja kestävästi saatavilla olevista vesivaroista, ja aiheuttaa noin neljäsosan globaaleista kasvihuonepäästöistä. Uusia hedelmällisiä viljelysmaita on saatavilla enää lähinnä sademetsää raivaamalla, mikä taas ei ole ympäristön kannalta kestävää. Toinen paljon käytetty tapa lisätä ruoantuotantoa on kastelun lisääminen. Siinäkin on ongelmansa, sillä vesivarat ovat jo monin paikoin niukkoja eikä niiden käyttöä voi enää lisätä. Arvioiden mukaan lähes 800 miljoonaa ihmistä kärsii aliravitsemuksesta. Suurin osa nälkää näkevistä asuu yhä kehittyvissä maissa, joissa keskimäärin kymmenes väestöstä on aliravittuja. Samaan aikaan yliravitsemus ja liikalihavuus ovat levinneet vauhdilla ympäri maailmaa, ja ruokaa kulutetaan keskimäärin kaikkialla maailmassa tuntuvasti yli YK:n elintarvike- ja maatalousjärjestö FAO:n ravintosuositusten. Suomessa ruokaturva toteutuu tällä hetkellä hyvin. Suomi ei kuitenkaan ole immuuni globaaleille haasteille: kotimainen maatalous on hyvin riippuvainen ulkomaisista lannoitteista, polttoaineista, kemikaaleista, rehuvalkuaisista ja työkoneista. Lisäksi noin 40 prosenttia Suomessa kulutetusta ruoasta tuotetaan ulkomailla. Suomessa kulutuetun ulkomaisen ruoan kautta vaikutamme tuotantoalueiden vesivaroihin ja maankäyttöön – myös alueilla, joissa kärsitään vesipulasta ja ruoantuotannon ongelmista. Mitä Suomi voi tehdä? Suomi voi olla osa ratkaisua mm. kehitysyhteistyön avulla. Suomen on oltava mukana tukemassa kehitysmaiden ruoantuotannon kehittämistä kestävällä tavalla. Samalla on huolehdittava, että suomalaisten yritysten käyttämät raaka-aineet on tuotettu kehitysmaissa kestävällä tavalla. Ensisijaisesti on huolehdittava kehitysmaiden ja kriisialueiden ruokaturvasta sekä muuttuvan ilmaston aiheuttamista haasteista kehitysmaiden ruoantuotannossa. Maanviljelystapoja kehittämällä tuottajien on mahdollista vähentää hävikkiä sadonkorjuun ja varastoinnin aikana. Arvioiden mukaan ruokaa pystytään tuottamaan jopa puolet enemmän lisäämättä veden käyttöä tai peltopinta-alaa, jos puolitamme ruokahävikin ja korvaamme puolet eläinperäisestä proteiinin saannista kasviperäisellä. Suomessa tavoitteeksi pitäisi ottaa ympäristön kannalta kestävän maatalouden ja ruokakulttuurin edistäminen sekä ruokahävikin poistaminen. Suomessa ruoantuotantojärjestelmää on kehitettävä kohti hiilineutraaliutta sekä takaamaan entistä paremmin ekosysteemien hyvä tila. Samaan aikaan on varauduttava ilmastonmuutokseen, erityisesti
+
+äärimmäisiin sääoloihin kuten kuivuuteen ja tulviin, samoin mahdollisiin uusiin tulokaslajeihin ja tuholaisiin. Järvikaloja, kuten särkikaloja, olisi mahdollista hyödyntää entistä enemmän; ne ovat kestävää lähiruokaa. Kaupungistuminen Kaupungeissa asuu jo puolet maailman väestöstä. Niissä syntyy 75 prosenttia bruttokansantuotteesta, samoin päästöistä. Vuonna 2050 jo kaksi kolmesta maailman ihmisestä on kaupunkilainen. Urbaanit kulutuskäytännöt ovat siis kasvava ongelma, jos ne kiihdyttävät luonnonvarojen kulutusta ja ilmastonmuutosta. Mutta ne voivat olla ratkaisun avain, mikäli kestävän kehityksen kriteerit ohjaavat poliittisia päätöksiä, yritysten toimintaa ja asukkaiden valintoja. Kaupunkien kasvu ei ole milloinkaan ollut yhtä kiivasta kuin nyt. Nopeimmin kaupungistuvat vähiten kehittyneet maat ja nousevat talousmahdit, joissa ei ole pitkää suurkaupunkiperinnettä. Asumisen ja liikkumisen ratkaisut koskevat kaupungin infrastruktuuria. Miten järjestetään vesihuolto ja vedenpuhdistus? Mistä saadaan puhdasta energiaa lämmitykseen, jäähdytykseen ja sähkölaitteisiin? Mikä asetetaan etusijalle liikennesuunnittelussa? Miten yksityisautoilu, tavarankuljetukset, julkinen liikenne, jalankulku ja pyöräily sovitetaan yhteen? Mitä Suomi voi tehdä? Kestävän kaupungistumisen edistämisessä on Suomelle mahdollisuus tuottamalla ratkaisuja kestävään kaupunkiasumiseen. Yksi esimerkki on puurakentamisosaamisen kehittäminen ja sen vientipotentiaali. Edellytyksenä on kuitenkin ratkaisujen pilotointi ensin omassa maassamme. Arktinen alue Arktinen alue lämpenee nopeammin kuin muut alueet. Uhkana on, että öljyn ja kaasun lisäksi alueen muitakin luonnonvaroja (mineraalit, kalakannat) hyödynnetään kestämättömästi. Se mitä tapahtuu arktisella alueella vaikuttaa muuhun maailmaan. Toisaalta se, mitä tapahtuu arktisen alueen ulkopuolella vaikuttaa arktiseen alueeseen. Arktinen neuvosto on kahdeksan arktisen maan muodostama hallitustenvälinen foorumi, jonka tavoitteena on edistää kestävää kehitystä ja ympäristönsuojelua arktisella alueella. Neuvosto pyrkii yhteisymmärryksessä laatimaan suosituksia ja ohjeita arktisen alueen hyväksi Arktisen neuvoston antamat ympäristönsuojeluun liittyvät suositukset ovat pääasiassa hyviä. Ongelma on, etteivät neuvoston jäsenvaltiot pane suosituksia toimeen tarpeeksi hyvin. Neuvostossa sovitut ilmastonmuutokseen ja öljyonnettomuuksiin liittyvät ohjeet eivät ole tarpeeksi kunnianhimoisia siihen nähden, miten valtava uhka ne molemmat ovat arktiselle alueelle. Eli ympäristönsuojelussa neuvoston kunnianhimon taso ei ole tarpeeksi korkea.
+
+Mitä Suomi voi tehdä? Suomen tulisi Arktisen neuvoston puheenjohtajana kehittää neuvoston toimintatapoja siten, että jatkossa voidaan varmistaa suositusten päätyminen paperilta käytäntöön. Arktisen neuvoston puheenjohtajana Suomi voi olla itseään suurempi ja näyttää globaalia esimerkkiä mikäli Suomen puheenjohtajuuskaudella saadaan aikaan Arktiselle neuvostolle pitkän aikavälin strategia sekä edistetään Arktisen neuvoston tavoitteiden toimeenpanon mitattavuutta. Itämeri Suurimmat vesiensuojelun haasteet ovat hajakuormituksen hallinnassa. Jokien Itämereen kuljettamat ravinnemäärät ovat pysyneet 1970-luvulta nykypäivään melko samanlaisina. Jokien korkeaa ravinnetasoa ylläpitää etenkin maatalouden aiheuttama kuormitus. Maatalouden osalta myönteistä on, että peltojen ravinneylijäämä on pienentynyt 1990-lukuun verrattuna. Luontaiset vesien virtaaman vaihtelut vaikuttavat merkittävästi ravinteiden huuhtoutumiseen. Ilmastonmuutoksen aiheuttamat sateisuuden ja maan routaisuuden muutokset uhkaavat lisätä huuhtoutumista. Ilmastonmuutokseen sopeutumiseksi on kiinnitettävä huomiota eri toimijoiden ja elinkeinojen alue- ja paikallistason vesiensuojeluun. Itämeri kärsii yhä rehevöitymisestä, jota ylläpitää myös merenpohjaan vuosisatojen aikana kertyneet ravinteet. Erityisesti Saaristomeren ja Suomenlahden tila on huolestuttava. Vaikka öljypäästöt Itämereen ovat vähentyneet, öljy- ja kemikaalikuljetusten vilkastuminen kasvattaa merkittävän ympäristövahingon riskiä. Mikroskooppiset muoviroskat ovat nousseet esiin uutena ympäristöuhkana. Mitä Suomi voi tehdä? Vesistöjen hyvän tilan saavuttaminen ja säilyttäminen vaativat edelleen lisätoimia, kuten päästöjen vähentämistä ja paikoitellen myös vesistöjen kunnostusta. Suomen merenhoitosuunnitelman toimenpideohjelman toteuttaminen on hyvä aloituskohta. Suunnitelma on vuoteen 2021 eli sille tarvitaan myös konkreettinen jatko.
+
+---
+
 ## Marraskuu 2017
+
+### Järjestöjen kirje Kemijoki Oy:n hallitukselle (28.11.2017)
+
+Julkaistu: 29.11.2017  
+Aiheet: Luonnon köyhtyminen, Suomen uhanalaiset kalat, Suomi, Virtavedet  
+Linkki: https://wwf.fi/app/uploads/i/b/4/eplhmsvgipjowbifruxkjng/jaerjestoejen-vetoomus-vapaan-kemijoen-puolesta.pdf
+
+Hyvä Kemijoki Oy:n hallituksen jäsen, Korkein hallinto-oikeus on mahdollistanut päätöksellään vesivoimalaitoksen rakentamisen Kemijoen Sierilään. Sierilä, Kemijoen viimeinen luonnontilainen osuus, on elintärkeä alueen luonnolle, lukuisille yrityksille ja paikallisille asukkaille. Energiataloudelle uuden voimalaitoksen merkitys olisi sen sijaan vähäinen. Päätös voimalaitoksen rakentamisesta on nyt käsissänne. Niinpä pyydämme Teitä ystävällisesti lukemaan kirjeemme ja punnitsemaan vaihtoehtoja vielä kertaalleen ennen kuin teette ratkaisunne tässä uhanalaisen luonnon ja paikallisten ihmisten kannalta ratkaisevan tärkeässä kysymyksessä. Korkein hallinto-oikeus sovelsi toukokuisessa päätöksessään vanhaa vesilakia ja päätyi tulkintaan, jonka mukaan hankkeen hyödyt ylittävät siitä aiheutuvat yleisiin ja yksityisiin etuihin kohdistuvat haitat. Oikeuden tulkintaan liittyy kuitenkin ongelmia: Hankkeen ympäristövaikutusten arviointi (YVA) on toteutettu 20 vuotta sitten, jolloin YVA-lain soveltamista vasta harjoiteltiin Suomessa. Hankkeen ympäristövaikutusten arviointi onkin nykykriteerien mukaan vaatimattomasti toteutettu eikä siinä ole huomioitu merkittäviä luonnonsuojelullisia arvoja, jotka nyt ovat tiedossa. Hankkeelta puuttuu edelleen luonnonsuojelulain mukaisia lupia. Lisäksi sosiaaliset ja eettiset esteet Kemijoen viimeisen vapaana virtaavan osuuden tuhoamiselle ovat kiistattomat. Kemijoki valjastettiin vesivoimatuotantoon sotien jälkeen, jolloin talouspoliittiset edut ymmärrettävästi syrjäyttivät muut arvot. Suomen suurimman joen valjastamisella oli kuitenkin valtavia vaikutuksia: kosket katosivat, maisemia ja viljelysmaita hukkui nousevan veden alle ja taloudellisesti ja kulttuurisesti arvokkaat vaelluskalakannat hävisivät. Paikallisväestö ei saanut ääntään kuuluviin jokirakentamiseen liittyvässä keskustelussa. Suurimmalle osalle Kemijoen kuohujen katoaminen oli kulttuurinen trauma. Tänä päivänä olemme viisaampia: vesivoiman mittavat ympäristöhaitat tunnetaan hyvin, ja historia on näyttänyt, että voimalaitosrakentamisen aluetaloudelliset hyödyt ovat lyhytaikaisia. Sierilän voimalaitos toisi työtä alueelle pääosin rakennusvaiheessa, mutta ympäristön muutokset olisivat pysyviä. Sierilän voimalaitoksen rakentaminen tarkoittaisi, että Kemijoen pääuoman viimeisten koskien paikalle syntyisi patoallas, jonka alle jäisi monia uhanalaisten lajien esiintymiä. Virtakohtien katoaminen olisi kuolinisku esimerkiksi vaellussiialle, taimenelle, jokihelmisimpukalle ja harjukselle. Kalan istutukset eivät korvaa luontaisten kalakantojen menetystä. Paitsi luonnolle Sierilän kosket ja kuohut ovat tärkeitä myös paikallisille asukkaille, joiden ääntä toivoisimme tällä kertaa kuultavan. Alue on Vanttauksen ja Narkauksen paliskuntien poroille mieluisaa rauhallista kesäajan laidunmaata. Laidunmaiden pirstoituminen aiheuttaisi ongelmia alueen poronhoidolle. Patoamisen seurauksena yrittäjät ja maanviljelijät menettäisivät toimeentulonsa, moni jokivartinen rakkaan kotimaisemansa ja tuhannet luonnossa liikkujat tärkeän virkistysalueensa. Kemijoki Oy hyvittäisi vain menetettävien maa-alueiden ja rakennusten arvon, ei elinkeinon menetystä tai tulojen heikkenemistä – eikä mikään korvaa menetettyä maisemaa. Sierilän voimalaitoshanketta on valmisteltu pitkään ja siihen on jo investoitu huomattavia määriä aikaa ja rahaa. Ymmärrämme, että tämä luo painetta viedä hanketta eteenpäin. Tässä vaiheessa on kuitenkin vielä mahdollista tehdä vastuullinen päätös. Hyvät Kemijoki Oy:n päättäjät, olette nyt paljon vartijoina, sillä voimalaitoksen rakentaminen olisi lopullinen ratkaisu. Vetoamme Teihin, että edistätte Sierilän voimalan rakentamisen sijaan kestävää energiantuotantoa, ja säilytätte ihmisille ja luonnolle arvokohteen. Helsingissä 28.11.2017
+
+Liisa Rohweder, pääsihteeri, WWF Suomi Päivi Lundvall, toiminnanjohtaja, Suomen luonnonsuojeluliitto Markku Marttinen, toiminnanjohtaja, Suomen Vapaa-ajankalastajien Keskusjärjestö Anne Ollila, toiminnanjohtaja, Paliskuntain yhdistys Salla Tuomivaara, toiminnanjohtaja, Luonto-Liitto Sini Harkki, maajohtaja, Greenpeace Aki Arkiomaa, toiminnanjohtaja, Birdlife Suomi © PETTERI HAUTAMAA / WWF
+
+---
 
 ### WWF Suomen lausunto metsätietolaista (16.11.2017)
 
 Julkaistu: 17.11.2017  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/g/q/w2lo7pvfnfmbgwubydvnuyg/metsaetietolaki_wwf-lausunto_16.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -176,13 +241,30 @@ WWF Suomi
 
 ---
 
+### WWF Suomen pääsihteeri Liisa Rohwederin puheenvuoro Luonnonvarakeskuksen seminaarissa (9.11.2017)
+
+Julkaistu: 8.11.2017  
+Aiheet: Luonnon köyhtyminen, Suomi  
+Linkki: https://wwf.fi/app/uploads/i/h/l/kywyr4ndczev3wtq37mpxzd/liisan-puhe-valmis.pdf
+
+Luonnonvarakeskuksen seminaari 9.11.2017 Metsä 2060 – kestävän metsätalouden skenaariot WWF Suomen pääsihteerin Liisa Rohwederin kommenttipuheenvuoro Kommenttipuheenvuoroni aluksi haluan muistuttaa meitä kaikkia kahdesta tärkeästä sopimuksesta, joihin Suomi on sitoutunut. Olemme sitoutuneet toteuttamaan Nagoyan biodiversiteettisopimuksen vuoteen 2020 mennessä sekä allekirjoittaneet Pariisin ilmastosopimuksen ja siten sitoutuneet toimimaan niin, että ilmaston lämpeneminen saadaan pidettyä alle 1,5 asteessa ja ilmastonmuutoksen tuhoisimmat vaikutukset estettyä. Ikävä totuus kuitenkin on, että suomalainen biotalouspolitiikka ei tue näitä tavoitteita. Se ei siis ole monimuotoisuuden tai ilmastonmuutoksen näkökulmasta kestävää. Metsäluontotyypeistä kaksi kolmasosaa on uhanalaisia joko niiden laadun tai määrän muutoksen perusteella. Tämä vastaa pinta-alaltaan miltei puolta Suomen metsäpintaalasta. Uhanalaisia metsälajeja on suuri määrä – yli 800 – ja uhanalaisuuden kynnyksellä on miltei toiset 800 lajia. Yli 100 metsälajia on jo hävinnyt. Suurimman osan uhanalaistumisen syynä on metsätalous, eli metsien hoito ja uudistaminen. Luonnonmetsistä riippuvaisten lajien sukupuuttovelka on 900 lajia. Tämä tarkoittaa sitä, että ne tulevat häviämään jo tapahtuneiden muutosten seurauksena, ellei niiden elinympäristöjen tilanne paranne nopeasti laajoilla pinta-aloilla. Enää noin neljä prosenttia metsistämme on luokiteltavissa luonnontilaisiksi. Kolmasosa uhanalaisista lajeista on vanhojen metsien lajeja. Vanhojen metsien määrä on huvennut olemattomiin. 1900-luvun jälkipuoliskolla vanhojen metsien määrä väheni puoleen ja väheneminen on yhä jatkunut 2000-luvulla. Samaan aikaan metsät ovat nuorentuneet: 70 prosenttia metsistämme on korkeintaan 80-vuotiaita. Vakavassa ahdingossa ovat myös lahopuusta riippuvaiset lajit. Puuta on metsissämme ennätysmäärä. Se ei kuitenkaan valitettavasti tarkoita sitä, että metsäluontomme olisi elinvoimaista, ja olisimme matkalla kohti Nagoyan sopimusvelvoitteiden täyttämistä. Ennätyssuuri puuston kasvu on saatu aikaan sellaisilla voimaperäisillä tehostamistoimilla, että metsälajisto, luontotyypit ja vesistöt ovat kärsineet voimakkaasti. Entäpä hallituksen biotalouspolitiikan ilmastovaikutukset? Tukevatko ne Pariisin ilmastosopimuksen tavoitteita?
+
+Tiede on asiassa selkeä: hallituksen tavoittelemat lisähakkuut ovat ilmaston kannalta haitallisia. Esimerkiksi Ilmastopaneelin, Euroopan tiedeakatemian ja laajan tutkijajoukon julkilausuman mukaan:
+1) Lisähakkuut pienentävät hiilinieluja useiksi vuosikymmeniksi verrattuna nykyhakkuisiin. Sama Ilmastopaneelin sanoin: ”Hakkuiden ja puunkorjuun lisääminen pienentää Suomen metsien hiilinielua ja metsien hiilivarastoa vähintään vuosikymmeniksi eteenpäin verrattuna tilanteeseen, jossa niitä ei lisätä.”
+2) Bioenergia ei ole hiilineutraalia. Metsäbioenergia on vasta pitkällä aikavälillä vähän parempi kuin fossiiliset vaihtoehdot, eli ei suinkaan hiilineutraali ratkaisu. Bioenergian on ajateltu olevan energiankäytössä hiilineutraalina, koska oletetaan, että bioenergian korjuun ilmastovaikutukset huomioitaisiin LULUCFsektorilla. Nyt EU:n LULUCF-päätöstilanne vaikuttaa siltä, että lisähakkuiden ilmastovaikutuksia ei oteta käytännössä huomioon, jolloin oletus bioenergian hiilineutraaliuudesta tulee kyseenalaiseksi. Ratkaisut ovat tiedossamme. Parhaimmillaan suomalainen biotalouspolitiikka ja metsätalous ja metsäteollisuus voisivat olla suunnanmuuttajia kestävän tulevaisuuden rakentamisessa, koska meillä on tarvittavaa osaamista. Kyse on arvovalinnoista. Mitä vastuullisuus tarkoittaa luonnon monimuotoisuuden suhteen? Suojelun osalta Suomen tulee ripeästi edetä kohti 17 % suojeluastetta. Metso-ohjelman rahoitus tulee nostaa 100 miljoonaan euroon vuodessa ja siitä on tehtävä pysyvä suojeluohjelma. Valtion maiden viimeiset vanhat talousmetsät tulee viipymättä suojella ja retkeilyalueilla metsätalous tulee lopettaa. Metsätalouden harjoittamisessa tulee siirtyä viljely-avohakkuumetsänhoidosta jatkuvapeitteiseen metsänhoitoon – se olisi hyvä ratkaisu monimuotoisuudelle, ilmastolle, monikäytölle ja kannattavuudelle. Kaikki runkokokoinen lahopuu tulee jättää metsään kaikissa metsänhoidon vaiheissa. Kantojen nostamisesta tulee luopua kokonaan ja energiapuun korjuussa tulee noudattaa muutenkin malttia, jotta se ei aiheuta ongelmia metsäekosysteemissä. Biotaloutta toki tarvitaan, mutta se olisi pakko pystyä tekemään kestävästi eli metsävisiomme mukaisesti maltillisilla hakkuilla ja korkean lisäarvon tuotteilla. Biotaloudessa tavoitteiden pitäisi siis siirtyä määrästä laatuun. Lisäksi metsän kansantaloudellinen arvo tulee nähdä muunakin kuin yhä kasvavana hakkuupotentiaalina – siis muunakin kuin sellun raaka-aineena tai bioenergiana.
+
+Esimerkiksi luontomatkailu on maakunnissa tärkeä ja voimakkaasti kasvava elinkeino. Kun Hossaan perustettiin kansallispuisto, alueen kävijämäärä kaksinkertaistui. Kansallispuistojen kävijämäärät ovat jatkuvassa kasvussa: viime vuonna rekisteröitiin 2,3 miljoonaa käyntiä, jotka jättivät aluetalouteen peräti 141 miljoonaa euroa. Luken tutkimusten mukaan Lapin-matkailijat arvostavat peitteistä metsämaisemaa – avohakkuut eivät sovi siihen. Lisäksi suomalaisista 70 % vastustaa avohakkuita eli vallalla olevalla avohakkuita suosivalla metsänhoidon mallilla ei ole sosiaalista hyväksyntää. Luonnon ja luontoliikunnan kansanterveydelliset hyödyt ovat kiistattomat, mutta tämä on pahasti alinoteerattu maankäytön ja metsäpolitiikan suunnittelussa. Monet autoimmuunisairaudet olisivat ehkäistävissä, ja tällä hetkellä niistä aiheutuu yhteiskunnalle miljardien euroja vuosikustannukset. Tarvitaan riittävästi houkuttelevia ja yhtenäisiä luontokohteita retkeilyä ja virkistyskäyttöä varten. Hallittu luonnontila tai jatkuvapeitteinen metsänhoito voidaan tutkimusten mukaan helposti sovittaa yhteen virkistyskäytön kanssa, sillä ihmiset arvostavat nimenomaan metsän tuntua, vanhoja puita, pensaskerrosta, eikä lahopuukaan heitä häiritse. Kansallispuistoissakin kaikkein monimuotoisimmat kohteet ovat suosituimpia retkeilykohteita. Millaisen perinnön haluamme jättää jälkeemme? Nyt on aika jättää juupas eipäs keskustelu ja lyhytnäköinen kansallinen voitontavoittelu taakse ja lähdettävä kilpailemaan aidosti vastuullisilla teoilla. Näin toimivat yritykset ja kansakunnat ovat aivan varmasti voittajia 2030 luvulle siirryttäessä. Yritysvastuun määritelmän mukaan yritykset voivat puhua yritysvastuusta vasta kun ne ylittävät lainsäädännön vaatiman tason. Yhä useampi yritys näkeekin yritysvastuun, siis lainsäädännön tason ylittävät toimenpiteet, nykyisin jo kilpailuetuna. Aivan samoin tulisi olla valtioiden osalta. On selvää, että maailman maiden on jo lähivuosina kasvatettava päästöleikkauksia. YK:n ympäristöohjelman Unepin tuoreen raportin mukaan nykyiset päästösitoumukset kattavat vain kolmanneksen niistä päästöleikkauksista, joita tarvitaan rajoittamaan ilmakehän lämpeneminen kahteen asteeseen. Samoin toimenpiteet monimuotoisuuden heikkenemisen pysäyttämiseksi eivät ole lähimainkaan riittäviä.
+
+Vastuulliset valtiot kilvoittelevat siitä, kuka sitoutuu kunnianhimoisimpiin toimiin. Vain näin saadaan aikaan se kipeästi tarvittava vallankumous kohti kestävää tulevaisuutta. Tästä kiittävät niin hyvinvoivat ihmiset kuin myös luonto.
+
+---
+
 ## Syyskuu 2017
 
 ### WWF:n lausunto luonnoksesta ilveksen metsästystä koskevaksi kiintiöksi metsästysvuonna 2017–2018 (28.9.2017)
 
 Julkaistu: 28.9.2017  
 Aiheet: Ilves, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/i/3/des46fbe5plnxnpburqasme/wwf-lausunto-ilves-mmm-170928.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -212,7 +294,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 20.9.2017  
 Aiheet: Itä-Afrikka, Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/t/u/g/4elq3u5ctdj4lyscugebs5h/tac2018_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -259,7 +340,6 @@ Lisätiedot: Matti Ovaska, p. 040-7273149, matti.ovaska@wwf.fi
 
 Julkaistu: 31.8.2017  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/x/x/z/zmix2uffvzait5uln2te6jd/kannanotto.pdf
 
 Hallitus myönsi budjettiriihessä 31.8.2017 lisää rahaa ympäristönsuojeluun. EteläSuomen metsiensuojelun toimintaohjelma METSO on saamassa 10 miljoonan lisärahoituksen, minkä lisäksi hallitus on varaamassa 850 000 euroa kalateiden rakentamiseen. WWF pitää päätöksiä erittäin tervetulleina. ”Hienoa, että hallitus satsaa metsäluonnon köyhtymisen pysäyttämiseen lisäämällä aiemmin pahasti leikattua Metso-rahoitusta merkittävästi”, WWF Suomen pääsihteeri Liisa Rohweder toteaa. ”Monet kalalajimme ovat sukupuuton partaalla, koska padot estävät niiden nousun lisääntymisalueilleen. Hallitus on nyt vastaamassa vaelluskalojemme ahdinkoon satsaamalla lisää varoja kalateiden rakentamiseen, mikä on tärkeä askel oikeaan suuntaan”, Rohweder iloitsee.
@@ -272,7 +352,6 @@ Hallitus myönsi budjettiriihessä 31.8.2017 lisää rahaa ympäristönsuojeluun
 
 Julkaistu: 24.7.2017  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/y/j/w/smgfq3napxoizqc2b32oe5c/wwf-lausunto-metsaehanhi-mmm-170721.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -299,7 +378,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 18.7.2017  
 Aiheet: Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/g/o/jjtrgsvg5zbd7onakkfc6zg/ymparistojarjestot_elylle_sierilasta-19062017.pdf
 
 Lapin ELY-keskus Timo Jokelainen, ympäristövastuualueen johtaja Jari Pasanen, yksikönpäällikkö Pirkko Posio, ympäristölakimies
@@ -322,7 +400,6 @@ Tiedoksi: Ympäristöministeriö, Heikki Korpelainen, Esko Seppälä, Aulikki Al
 
 Julkaistu: 11.7.2017  
 Aiheet: Itämerennorppa, Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/n/q/s/cqtqkfbcqbfgepse2n3giic/wwf-lausunto-hylkeet-majava-saukko-mmm-170711.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -373,7 +450,6 @@ Petteri Tolvanen ohjelmapäällikkö, WWF Suomi
 
 Julkaistu: 12.6.2017  
 Aiheet: Itämeri, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/2/3/ermmftrgtzctumbhvokqrog/mmv_310517_e36_2017_lohi_wwflausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -420,7 +496,6 @@ Lisätiedot: Matti Ovaska, p. 040-7273149, matti.ovaska@wwf.fi
 
 Julkaistu: 12.6.2017  
 Aiheet: Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/d/f/3eca7n5htlpst3rlnudzvyb/mmv_070617_kiintiot_wwflausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -462,18 +537,350 @@ Lisätiedot: Matti Ovaska, p. 040-7273149, matti.ovaska@wwf.fi
 
 Julkaistu: 8.6.2017  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/7/t/yuf3nvnerlo3wqqeiiljdug/wwf_nord-stream-2-lausunto.pdf
+
+---
+
+### WWF Suomen pääsihteeri Liisa Rohwederin puhe YK:n merikonferenssissa (5.–9.6.2017)
+
+Julkaistu: 7.6.2017  
+Aiheet: Ilmastonmuutos, Liikakalastus, Luonnon köyhtyminen  
+Linkki: https://wwf.fi/app/uploads/u/m/o/nbhtxdvd5rlcp52277f6s2e/speech_sdg14-liisa-rohweder-8-6-2017_pdf.pdf
+
+Roadmap towards a truly Sustainable Blue Economy UN Ocean Conference 5-9th June Side event organized by Finland: Collaboration in Public Private Partnerships for a Sustainable Maritime Future 8 June 2017 – 9.00–10.30 Liisa Rohweder, CEO WWF Finland
+
+•
+
+My name is Liisa Rohweder and I am delighted to represent WWF in this important discussion today.
+
+•
+
+WWF is pleased to participate in this Ocean Conference, which is an important opportunity for the world to outline how it will contribute to achieving the Agenda 2030, in particular SDG14 and related SDGs.
+
+•
+
+We all know that partnerships are essential for the delivery of SDG14, which is also of course both dependent upon and a core contributor to the other SDG goals with healthy, productive and resilient oceans being indispensable to poverty eradication and sustainable development – particularly for the over three billion people who are directly dependent on marine and coastal biodiversity for their livelihoods.
+
+•
+
+As an international NGO, WWF believes that working in partnership is fundamental to the delivery of our mission and long-term sustainability of our work. We engage both formally and informally with many ocean stakeholders including coastal communities, public and private sector actors, academia, donor agencies, intergovernmental and non-governmental organisations.
+
+•
+
+This is why we are delighted with this conference as an important step forward to help translate the agreement into practical, large scale, sustained action and we are pleased to have had the opportunity to work in partnership with most of the organizations I am sharing this stage with today.
+
+Ocean Asset values •
+
+Together with our partners, WWF has been working to elevate the role of the ocean in helping leaders achieve their core agendas; to reframe the idea of the ocean in order to convince them that it is worth spending the political capital and the actual capital it will take to drive the change we all know is needed. o To end overfishing which depletes fish stocks and destroys marine habitats o Stem the flow of pollutants, nutrients and plastics into our Ocean
+
+o o
+
+Limit the carbon in the atmosphere where it leads to acidification, coral bleaching and sea level rise And to protect coastal and marine ecosystems so they can be safe havens for biodiversity and buffers against climate change.
+
+•
+
+We know that one key challenge is that biological systems are largely considered to be externalities within present day accounting systems. Consequently, when economic and political decisions are made they tend to account poorly for the true cost and consequences of these decisions.
+
+•
+
+Putting a value on what many consider free or no value is quite important in order to demonstrate ocean conservation’s economic payoffs and how it delivers food security and livelihoods.
+
+•
+
+This is why we have partnered with the Boston Consulting Group in to determine the ocean’s contribution to the global economy.
+
+•
+
+What we found opened a lot of eyes: the ocean produces at least $US2.5 trillion, annually, from fishing to tourism, and many other services and this tremendous output is drawn from an asset base measured conservatively at $US24 trillion, comprising coral reefs, seagrass beds, fisheries, coastal areas, and so on.
+
+•
+
+If the ocean were a country, its annual economic output would rank it seventh in the world, just behind France and the UK, and ahead of some major economies like Brazil, Russia, India and Canada.
+
+•
+
+And, we know from a similar study in the Baltic region that the difference between a healthy and an unhealthy Baltic Sea is more than 500,000 jobs and 32 billion euros in annual value added by 2030.
+
+•
+
+Of course, any good manager keeps a close eye on the condition of the asset base that produces the goods and services that keep a business healthy. So, we analysed the major assets that support the ocean economy to see what condition those assets are in. We found that many of the world’s ocean assets are trending in the wrong direction.
+
+An unsustainable Blue Economy •
+
+•
+
+The ocean is an extraordinary source of shared wealth for our planet, but its health is failing due to local stresses, such as habitat destruction, overfishing, and pollution, as well as global forces, such as an unprecedented rise in ocean temperature and acidity. Given that two-thirds of the ocean’s value is produced by assets that rely on healthy ocean conditions, this is a serious problem.
+
+•
+
+This slide shows examples of the clear unsustainability of the Blue Economy today – and why together with our partners, WWF is working to address challenges and realize opportunities towards a more sustainable approach in every ocean and most seas around the globe.
+
+•
+
+During the past few years the terms “Blue Growth” and “Blue Economy” have surged into common policy usage all over the world making it sound as if our Ocean was a new and unchartered frontier.
+
+•
+
+And, we also know that a fundamental weakness of the Blue Economy, despite increasing highlevel adoption of the term in policy-making, and investment, is that there is still no commonly agreed, scientifically-based definition of what a sustainable Blue Economy is.
+
+Definition of a Sustainable Blue Economy •
+
+To have a clear view of what we are aiming for with a Sustainable Blue Economy, we need to step back and get a big-picture understanding of the whole system.
+
+•
+
+We need clear definitions that can be translated into operational and measurable goals and targets, so that we can determine whether the growth strategies that are being pursued are actually taking us in the right direction. We need a framework for seeking win-win solutions and making decisions about the inevitable trade-offs that will come up along the way.
+
+•
+
+Without such a framework, we risk undermining the very possibility of long-term growth and development.
+
+•
+
+To help fill this gap in shared understanding, WWF has developed a set of “Principles for a Sustainable Blue Economy,” based on a global consultation process, that we believe can serve as a navigational chart for stakeholders in the public and private sectors to help point our economic development, and especially its marine-based economy, in the same direction as the historic 2030 Agenda. The Principles are fully aligned with the SDGs, especially SDG 14.
+
+•
+
+In summary, we need to promote a framework around the sustainable blue economy which:
+• provides social and economic benefits for current and future generations;
+• restores, protects and maintains the natural capital upon which its prosperity depends; and,
+• is based on clean technologies, renewable energy, and circular material flows to keep within the limits of one planet.
+
+•
+
+Fortunately, many governments, organizations and communities are becoming aware of the need for a more coherent, integrated, fair, and science-based approach to managing the economic development of the oceans.
+
+•
+
+Humanity increasingly understands that we are an integral part of the marine ecosystem. We must plan and implement our economic activities with care, balancing the desire to improve human living standards and well-being with the imperative to sustain ecosystem health.
+
+•
+
+We know that many ocean resources are renewable, if well managed. The steps we must take are complex, but economic analysis has also shown substantial returns can accrue from doing so.
+
+A Sustainable Blue Economy requires an equally Green and Circular economy on land •
+
+Land-based sources are responsible for the vast majority of marine pollution – 80% of marine pollution.
+
+•
+
+The Blue Economy can only be sustainable when we also succeed in creating a sustainable economy on land. That is, an economy that restores, protects and maintains diverse, productive, and resilience ecosystems, and that is based on clean technologies, renewable energy, and circular material flows.
+
+•
+
+By aiming for zero negative impact – or even positive and restorative impact – on already severely stressed seas and oceans, a Sustainable Blue Economy combines the critical aspects of both Green and Circular.
+
+•
+
+The Blue, Green, and Circular Economy agendas must merge … in order to ensure that all economic activities operate in such a way that the natural capital on which they depend is restored, protected, and maintained.
+
+•
+
+Sustainable Blue Economy is built on oceans ecosystems and should support their resilience. The way to achieve it is to fully apply ecosystem based management both on-shore and offshore. The key principles and practical recommendation for implementing ecosystem based management are agreed by many countries through global and regional processes.
+
+Innovation, cooperation and public-private partnership is the only way forward! •
+
+The increased competition for marine space and resources between sectors such as tourism, shipping, fisheries and for instance the extremely fast development of the number of offshore oil and gas exploration and production contracts, poses a potential additional threat to the health of marine ecosystems already-stressed due to climate change.
+
+•
+
+There are also greater incidents of potential conflicts where one sectors plans can have strong potential consequences not only for marine ecosystems but on another sectors development, like tourism and fisheries, as well.
+
+•
+
+Countries, businesses, and civil society need to better coordinate efforts and think and act in new ways: outside of the sectoral silos, beyond the ministry walls, and across the borders
+
+between economic sectors, countries, and issue areas. If there was ever a time when we needed everyone on board, pulling in the same direction toward a sustainable future for the ocean and future generations, it’s now.
+
+Sustainable Shipping Global Challenges and Opportunities •
+
+The shipping industry is destined to grow rapidly over the next decades. With growth comes responsibility and the world is watching how the industry will respond on climate change.
+
+•
+
+It is essential shipping contributes its fair share to keep global warming as a result of carbon emissions to below 1.5C.
+
+•
+
+WWF was a founding member of the sustainable shipping initiative which consists of leading industry players and a major agenda item is to make clear the need to quickly establish ambitious, meaningful emissions reduction targets.
+
+•
+
+We were very pleased to see the agreement to reduce the sulphur cap of marine fuel from 3.5% to 0.5% which is an important step forward to protecting human health as well as marine ecosystems alike.
+
+•
+
+In the Baltic Sea, WWF has been an active stakeholder through HELCOM and with other stakeholders engaging at the national, regional and international level to advocate for stronger measures to reduce pollution from maritime traffic in the Baltic Sea.
+
+•
+
+This has included close dialogue also with the cruise industry and CLIA.
+
+•
+
+We are pleased to see the impressive progress made on key issues such as: o the agreement to designate the Baltic Sea as a special area for sewage discharges from passenger ships under Annex IV of the MARPOL Convention o designation of the Baltic Sea as a special area for nitrogen oxide emissions from ships exhaust gases (NECA).
+
+•
+
+According to recent estimates by the European Monitoring and Evaluation programme, some 22,000 tons less Nitrogen will be deposited annually in the Baltic Sea area as a result, although fleets will need to be renewed over time before the full effect is realized; thus, it will not be an effective tool to reduce Nitrogen in the short term. Implementation of the regulation will result in curbing eutrophication problem in the Baltic. The new regulations will also have a number of indirect benefits for the Baltic Sea marine environment, such as increase the use and catalyzing technological innovation in the field of green shipping and alternative fuels such as LNG.
+
+•
+
+The progress made on in the Baltic Sea demonstrates the value of public and private sector partnerships and the importance of regional platforms, like HELCOM and its Maritime Working Group, where we have been actively engaged, and through ongoing industry dialogue to help facilitate concrete agreements and action.
+
+•
+
+We should both celebrate as well as build on this progress. In so doing, we can galvanize an inclusive approach and an alternative narrative – one where a healthy Baltic Sea is achievable and increased cooperation is the only way forward.
+
+•
+
+Now we need to ensure that these agreements are implemented fully – while continuing to move forward towards even more ambitious actions.
+
+•
+
+Furthermore, WWF does a lot of work in the Arctic, where the consequences of unsustainable shipping could have devastating consequences.
+
+•
+
+Overall shipping activity in the Arctic will increase by more than 50% between 2012 and 2050. This increase will vary depending on the region. Thus, Canada will double between 2010–2020 and then double again from 2020–2030. Alaska expects up to 500% increase in vessel traffic by 2025 (high-growth economic scenario). Tonnes of cargo shipped through the Northern Sea Route could increase from 6.8 million (2016) to 100 million by 2030.
+
+•
+
+To ensure this new shipping reality to be for the benefit and not for the harm to the Arctic we work with partners to advocate for full implementation of the Polar Code by all nations operating in the Arctic waters and also for further expanding Code’s coverage to all vessels and address ballast water issue.
+
+•
+
+We like to see marine safety corridors being identified to decrease impacts on marine mammals and ice ecosystems. And also other special measures to be implemented.
+
+•
+
+And a special attention in the arctic we pay to the problem of heavy fuel oil.
+
+Arctic Commitment •
+
+Continuous use of heavy fuel oil as a fuel or the carriage as bunker and ballast in the Arctic poses a very significant threat to the Arctic ecosystems and further contributes to climate change. This risk is aggravated by underdeveloped infrastructure for responding to spills and absence of any effective technologies to recover oil products from ice, under ice and from ice infested waters.
+
+•
+
+WWF worked with a coalition of other NGOs to develop the case an Arctic Commitment to be supported by various organisations including shipping companies.
+
+•
+
+We CALL FOR a phase-out of the use of heavy fuel oil by ships in a timely manner through decision of the International Maritime Organization.
+
+•
+
+We expect that governments and industry will AGREE for a switch from the use of heavy fuel oil to cleaner fuel types by ships and the application of adequate emission reduction technology to significantly advance the objective of protecting the Arctic marine environment.
+
+•
+
+WWF supports recent decision of the Arctic Council to work together with the IMO on HFO issues and expects Arctic states’ leadership in advancing decision on HFO in the IMO. Decision on HFO ban should be complimented by other measures including establishing emission control areas, measures for special protection and routeing measures.
+
+•
+
+Protocol •
+
+According to projections from the Organisation for Economic Co-operation and Development (OECD), by 2030 the output of the ocean economy, roughly €1.3 trillion globally, could more than double. This means significant increase in investments.
+
+•
+
+Only in the Arctic the expected investments are estimated at over a trillion during next 15–25 years.
+
+•
+
+WWF has been active engaging with key actors to ensure the sustainability of such investments with the joint ambition of safeguarding the health of our ocean, while understanding what approaches are needed for the ocean to sustainably support livelihoods, food security and jobs well into the future. It is critical.
+
+•
+
+Since we know that without clear guidelines and guardrails to ensure that any future investments in the blue economy will lead to environmentally and socially sustainable outcomes and a science-based management of ocean and coastal resources, there is a great risk that development of the Blue Economy will be unsustainable. And if so there is no chance that it will achieve its real potential economic benefit.
+
+•
+
+The long-term goal of WWF’s work in this area — a sustainable Blue Economy — is to ensure that the anticipated economic activity in the Blue Economy ‘space’ does not have a negative impact on the integrity of the marine ecosystem, on efforts to reduce carbon emissions, or on the revenue streams of ocean based businesses and the livelihoods of the people who depend on them for their prosperity and their way of life.
+
+•
+
+We proposed the Sustainable Blue Economy Protocol to catalyze discussions to guide investment and development toward sustainability while minimizing risk, increasing benefitsharing, and optimizing long-term returns.
+
+•
+
+WWF is delighted that Karmenu Vella, European Union Commissioner for Maritime Affairs and Fisheries, expressed his interest in working with WWF and the Prince of Wales’s Charities International Sustainability Unit to take forward a process to bring together public and private financing institutions and other stakeholders around principles for sustainable investment in the blue economy. These discussions continue at this Oceans Conference and at the upcoming Our Ocean conference in October.
+
+In conclusion •
+
+In conclusion, we are delighted to be working together in partnership with public and private sector actors and through critical regional platforms and fora such as HELCOM and the Arctic Council to help transform the good intent and momentum around the 2030 Agenda and SDG 14 into investment in ocean conservation and sustainable use that will put us on the path to achieving the ambitions of the SDGs.
+
+•
+
+WWF around the world stands ready to support and join the wave of renewed effort to collaborate with those willing to acknowledge the reality of the challenge and to get on with the job of delivering a truly sustainable blue economy, and on the great promise of the SDGs.
+
+---
+
+### Järjestöjen kirje ministeri Tiilikaiselle EU:n taakanjako- ja LULUCF-asetuksista (7.6.2017)
+
+Julkaistu: 7.6.2017  
+Aiheet: Ilmastonmuutos, Suomi  
+Linkki: https://wwf.fi/app/uploads/6/d/g/lhi7btra5tivewwugvgjbcb/kirje-tiilikaiselle-0706-2017.pdf
+
+Helsinki 7.6.2017 EU:n ilmastojohtajuus vaatii Suomelta konkreettisia toimia Arvoisa ministeri Tiilikainen, osallistutte EU:n ympäristöministereiden neuvoston kokoukseen 19. kesäkuuta. Kokouksessa käsitellään kahta EU:n ilmastopolitiikan kannalta tärkeää päätöstä eli taakanjako- ja LULUCF-asetuksia. Donald Trumpin ilmoitettua Yhdysvaltojen vetäytymisestä Pariisin sopimuksesta EU:n johtajuus on kansainvälisen ilmastopolitiikan kohtalonkysymys. Kannustamme teitä tukemaan taakanjako- ja LULUCF-asetusten vahvistamista, jotta EU ja jäsenmaat edistäisivät Pariisin sopimuksen tavoitteiden mukaisia päästövähennyksiä ja lämpenemisen rajoittamista 1,5 asteeseen. EU:n ilmastojohtajuuden vahvistamiseksi kaikkien jäsenmaiden mukaan luettuna Suomen on parannettava joukkuepeliään ilmastopolitiikassa. Tämä on ajankohtaista taakanjako- ja LULUCF-asetusten yhteydessä. Taakanjakosektori kattaa lähes 60 prosenttia Euroopan unionin hiilidioksidipäästöistä: liikenteen, maatalouden, rakennusten erillislämmityksen sekä jätteiden päästöt. Maankäytön, maankäytön muutoksen ja metsien sektori (LULUCF) taas otetaan LULUCF-asetuksen myötä ensi kertaa mukaan EU:n ilmastositoumusten piiriin. Ilmastotutkijoiden mukaan maankäyttösektorin nielujen kasvattaminen on Pariisin sopimuksen tavoitteiden kannalta keskeistä. Ehdotus taakanjakoasetukseksi ei nykymuodossaan ole riittävän kunnianhimoinen Pariisin sopimuksen sitoumusten toteuttamiseksi. Taakanjakoasetuksen tavoitteiden nostaminen on tärkeää, jotta Suomi ja muut jäsenmaat suuntautuisivat kestävään vähähiiliseen tulevaisuuteen. Toivomme, että kannattaisitte taakanjakoasetuksen osalta seuraavia ehdotuksia:
+
+1. Korkeampi vuoden 2030 ilmastotavoite ja kunnianhimoinen tavoite vuodelle
+2050. Taakanjakoasetuksen tulee tukea Pariisin sopimuksen tavoitteiden saavuttamista. Päästövähennysten tulee siksi olla vähintään 95 % vuoteen 2050 mennessä ja sitä tukien taakanjakosektorilla vähintään 47 % vuonna 2030. 1 Pääministeri Sipilä haastoi suomalaisia pohtimaan oman tavoitteensa kiristämistä viikonloppuna mielipidekirjoituksessaan (Kaleva 4.6.). Nyt valtioneuvostolla on mahdollisuus tarjota puheille katetta.
+2. Päästöjen lähtötason tulee perustua todellisiin päästöihin, eikä kannustaa jäsenmaita alisuoriutumiseen: Komission taakanjakosektorin päästövähennyksille ehdottaman polun aloitusvuosi 2020 sekä lähtötaso (vuosien 2016–2018 päästöjen keskiarvo) paisuttaisivat tarpeettomasti EU:n hiilibudjettia vuosina 2021–2030. Osalle jäsenmaista tarjotaan käytännössä mahdollisuutta tuottaa todellista tasoaan enemmän päästöjä. Seurauksena taakanjakosektorille syntyisi ylimääräisiä päästöyksiköitä eli “kuumaa ilmaa”. Ongelman välttämiseksi päästövähennysten lähtötasoksi tulee määritellä komission ehdotuksista kunkin jäsenmaan kannalta vähiten päästöjä tuottava vaihtoehto. Päästövähennyspolun aloitusvuodeksi tulee asettaa vuosi 2017, mikä vähentäisi kumulatiivisia päästöjä.
+3. Poistetaan porsaanreiät, jotka heikentävät nykyisiä päästövähennyssitoumuksia: Komission ehdotuksessa metsätalouden porsaanreikä sallii jäsenmaiden käyttää offset-periaatteen mukaisesti ei-pysyviä metsätalouden nieluja, jotta ne voivat aiheuttaa lisää kasvihuonepäästöjä muilla sektoreilla. Päästökaupan porsaanreikä (ns. one-off mekanismi) taas sallii maiden hyödyntää päästöyksiköiden ylijäämästä kärsivän päästökaupan suurta rakenteellista ylijäämää, jotta ne voivat vähentää ilmastotoimia taakanjakosektorilla. Mikäli Suomi käyttää tätä joustomekanismia, alentaa se itsessään kotimaan taakanjakosektorin päästötavoitetta kahdella prosenttiyksiköllä 37 %:iin. One off -mekanismi ei kuitenkaan näyttäisi vähentävän reaalisesti tarjolla olevien päästöyksiköiden määrää päästökaupassa ja siten tämä joustokeino heikentää EU:ssa sovittujen ilmastotavoitteiden tavoitteellisuutta.
+4. Tarvitaan välitarkastelu, joka sallii Pariisin sopimuksen hengen mukaisesti ilmastopolitiikan kunnianhimon nostamisen siinä vaiheessa, kun EU toimittaa uuden vuotta 2030 koskevan tavoitteen YK:n ilmastosopimuksen sihteeristölle. LULUCF-asetuksen osalta on keskeistä, että se tuottaa selkeät kirjanpitosäännöt maankäyttösektorin todellisen ilmastovaikutuksen huomioimiseksi. LULUCF-asetus ei saa vesittää EU:n muiden sektoreiden päästövähennystavoitteita. Sen tulee varmistaa, että ilmastotoimet yhteensä vähentävät nettopäästöjä ilmakehään. Lisäksi uskottava LULUCFasetus varmistaa, että tutkimuksissa todettu bioenergian ilmastovaikutus tulee huomioiduksi EU:n ilmastosääntelyssä. Toivomme että Suomi:
+1. Hyväksyy metsien käytön ilmastovaikutuksen vertailun historialliseen käyttöön. Vain vertailemalla mennyttä ja toteutunutta voidaan metsien ilmastovaikutuksen nettomuutos huomioida kirjanpidossa. Mikäli metsien hiilinielu pienenee merkittävästi, johtaa se nettopäästöjen kasvuun ilmastonmuutoksen kannalta keskeisellä lähivuosikymmenien aikajänteellä. Tämä tulee huomioida EU:ssa todellisena ilmastovaikutuksena. Vertailuvuoden tai -tason asettamisen tulee näyttää kestävää kansainvälistä esimerkkiä.
+2. Luopuu vaatimuksesta hoidetun metsämaan hiilinielun kattoluvun kasvattamiseksi. Tavoitteena kattoluvun kasvattamisessa on korvata metsänielulla toimenpiteitä muiden maankäyttösektoreiden päästöistä tai rajoitetusti taakanjakosektorilta. Koska metsänielut ovat luonteeltaan epävarmoja ja ei-pysyviä, 1 Ympäristöjärjestöt vaativat vähintään 55 % päästövähennyksiä vuoteen 2030 mennessä ja vähintään 95 % 2050 mennessä. Mikäli päästövähennystoimet jaettaisiin kuten nykyisessä komission esityksessä vuoden 2030 päästövähennystavoite taakanjakosektorille olisi 47 %
+
+on niiden käytön voimakas rajoittaminen kattoluvulla perusteltua. Maankäyttösektorin päästöille ja nieluille asetettava oma ilmastotavoite loisi parhaan kannusteen kasvattaa hiilinieluja Pariisin sopimuksen edellytämällä tavalla.
+3. Kannattaa kosteikkojen sisällyttämistä velvoittavana LULUCF-sektorilla. Turvemaat ja kosteikot vaikuttavat keskeisesti maankäyttösektorin ilmastotaseeseen. Sisällyttämällä kosteikot jäsenmaita velvoittavana LULUCF-asetuksen yhteydessä, kannustetaan jäsenmaita vähentämään kosteikkojen päästöjä. Toivomme, että otatte nämä kiireelliset toiveemme huomioon neuvotteluissa taakanjakosekä LULUCF-asetuksen osalta, ja laskemme teidän varaanne, että varmistatte näiden lainsäädäntöehdotusten ilmastokestävyyden. Ystävällisin yhteistyöterveisin Päivi Lundvall Toiminnanjohtaja Suomen luonnonsuojeluliitto ry
+
+Timo Lappalainen Toiminnanjohtaja KEPA ry
+
+Jari Luukkonen Suojelujohtaja WWF Suomi
+
+Niklas Kaskeala Puheenjohtaja Protect Our Winters Finland ry
+
+Rilli Lappalainen Pääsihteeri Kehys ry
+
+Jehki Härkönen Energiapoliittinen neuvonantaja Greenpeace Nordic
+
+Leo Stranius Toiminnanjohtaja Luonto-Liitto ry Lisätietoja: Tuuli Hietaniemi KEPA, asiantuntija tuuli.hietaniemi@kepa.fi, 050 317 6686
+
+Leo Stranius Luonto-liitto ry, toiminnanjohtaja leo.stranius@luontoliitto.fi, puh. 040 754 7371
+
+Otto Bruun Suomen luonnonsuojeluliitto, asiantuntija otto.bruun@sll.fi, 040 641 3399
+
+Jussi Nikula WWF, ohjelmapäällikkö jussi.nikula@wwf.fi, 040 595 9002
 
 ---
 
 ## Toukokuu 2017
 
+### WWF Suomen pääsihteeri Liisa Rohwederin puhe Arktisen neuvoston puheenjohtajuuskauden avajaisissa (18.5.2017)
+
+Julkaistu: 24.5.2017  
+Aiheet: Arktinen  
+Linkki: https://wwf.fi/app/uploads/f/x/q/d6tjp5vdovmxvfbxeianewg/liisan-puhe-avajaiset.pdf
+
+Arktisen neuvoston Suomen puheenjohtajuuskauden avajaiset 18.5.2017 WWF Suomi on tyytyväinen Arktisen neuvoston Alaskan Fairbanksin ministerijulistukseen siltä osin, että julistuksessa mainittiin useassa kohdassa ilmastonmuutos. Arktisten valtioiden sitoutuminen Pariisin ilmastosopimuksen toimeenpanoon olisi kuitenkin voitu ilmaista paljon voimakkaammin. Haluammekin korostaa, että valtioilta vaaditaan huomattavasti kunnianhimoisempaa sitoutumista ilmastonmuutoksen torjumiseksi arktisella alueella. Olemme myös tyytyväisiä siihen, että Arktisen neuvoston jäsenmaat sopivat ministerikokouksessa neuvostolle kehitettävästä strategiasta. WWF:nkin vaatima pitkän aikavälin strategia lisäisi sekä neuvoston työn pitkäjänteisyyttä ja vaikuttavuutta että ohjaisi vaihtuvia puheenjohtajuuksia yhteisesti sovittuihin tavoitteisiin. Arktisen neuvoston puheenjohtajana toimiva Suomi on nostanut muun muassa Pariisin ilmastosopimuksen toimeenpanon ja YK:n kestävän kehityksen tavoitteiden edistämisen puheenjohtajuuskautensa läpileikkaaviksi teemoiksi. Olemme tyytyväisiä näihin teemoihin. Kannustamme Suomea näyttämään käytännön esimerkkiä toteuttamalla kansallisesti neuvoston jo antamia suosituksia ja huolehtimalla siitä, että pohjoista luontoa suojellaan myös kotimaassa. Suomen oma kansallinen arktinen strategia keskittyy arktisen alueen talouden kehittämiseen ja suomalaisen arktisen osaamisen hyödyntämiseen. Arktisen alueen kohtaamat uhat ovat kuitenkin merkittävämpiä kuin kehityksen tuomat mahdollisuudet. Toivomme, että kansallista strategiaa toteutetaan Arktisen neuvoston puheenjohtajuusohjelman kanssa samassa linjassa ja sitä täydentäen. Suomen tulee Arktisen neuvoston puheenjohtajana vahvistaa myös Suomen pohjoisten alueiden ympäristön- ja luonnonsuojelua. Sen takia toivomme, että puheenjohtajuuskauden aikana muun muassa edistettäisiin Käsivarren kansallispuiston perustamista. Lisäksi poronhoitoalueella tulee siirtyä reviiripohjaiseen korvausjärjestelmään suurpetojen aiheuttamien porovahinkojen korvauksessa. Järjestelmä on jo käytössä maakotkan kohdalla ja se parantaisi suurpetojen suojelua pohjoisilla alueilla. Porojen mahdolliseen ylilukuun tulee myös voida puuttua. Kannustamme lisäksi Suomea panemaan Pariisin ilmastosopimuksen päästövähennystavoitteita toimeen ja lisäämään uusiutuvan energian tuotantoa merkittävästi pohjoisilla alueilla niiden omien nokipäästöjen kitkemiseksi. Kestävän kehityksen tavoitteita tulee edistää parantamalla ekologisesti kestävän luontomatkailun edellytyksiä.
+
+Suomen onnistumista Arktisen neuvoston puheenjohtajana mitataan muun muassa sillä, miten arktisen maat toimeenpanevat Arktisessa neuvostossa aikaansaatuja sekä uusia että aikaisemmin laadittuja suosituksia ja ohjeita. Toivomme, että Suomi onnistuu puheenjohtajuuskautensa aikana kehittämään Arktisen neuvoston toimintaa niin, että jo tehdyt hyvät suunnitelmat saadaan
+
+toteutettua ja neuvoston antamat uudet suositukset ovat selkokielisiä, konkreettisia ja helposti mitattavia. Yksi WWF:n panoksista Arktisen neuvoston työn tukemiseksi on Arctic Council Conservation Scorecard -mittaristo. Mittaristossa tarkastellaan, miten jäsenvaltiot ovat toteuttaneet Arktisessa neuvostossa annettuja suosituksia ja ohjeita. Scorecard -mittariston avulla vodaan arvioida, millainen Arktisen neuvoston todellinen vaikuttavuus on arktisissa ympäristönsuojelukysymyksissä. Mittaristo rajoittuu vuosiin 2006–2013. Siinä tarkastellaan maiden onnistumista muun muassa luonnon monimuotoisuuden turvaamiseen, suojelualueiden perustamiseen ja laivaliikenteen turvallisuuden sekä öljyntorjuntavalmiuden parantamiseen liittyen. Jäsenvaltioiden sitoutumista vapaaehtoisten suositusten käytännön toteuttamiseen ei ole koskaan aikaisemmin mitattu yhtä laajasti ja tarkasti. Selvitys osoittaa, että Arktisen neuvoston antamat ympäristönsuojeluun liittyvät suositukset ovat pääasiassa hyviä. Ongelma on, etteivät neuvoston jäsenvaltiot pane suosituksia toimeen tarpeeksi hyvin. Kansallisessa toimeenpanossa on vielä paljon parantamisen varaa. Yleisimmät maille annetut arvosanat selvityksessä olivat välttävä ja tyydyttävä. Jäsenvaltiot saivat alhaiset pisteet muun muassa kategoriassa, jossa tarkasteltiin niiden aktiivisuutta luonnon monimuotoisuuden turvaamiseen tähtäävien toimenpiteiden toteuttamisessa. Suurin osa maista ei myöskään ollut toteuttanut suositeltuja toimenpiteitä arktisen meriliikenteen päästöjen vähentämiseksi. Maat saivat selvityksessä myös hyviä ja kiitettäviä arvosanoja. Jäsenvaltioiden onnistumisiin voidaan lukea se, että öljyonnettomuuksien torjunnan hallinnointi on pääosin toteutettu suunnitelmien mukaisesti. Myös ilmastomuutosta kiihdyttävien nokipäästöjen vähentämisessä on edistytty, ja arktisen jääpeitteen laajuuden seurantaan on luotu suunniteltu seurantajärjestelmä. Kansallisessa vertailussa Suomi ja Tanska saivat suositusten ja ohjeiden toimeenpanosta parhaat arvosanat. Suomi onnistui erityisesti öljyonnettomuuksien torjuntaan ja nokipäästöjen vähentämiseen liittyvissä toimenpiteissä, yltäen osin jopa hyviin ja kiitettäviin arvosanoihin. Pääosin toteutus oli vain tyydyttävää, mikä näkyy esimerkiksi arktisen biodiversiteetin suojelun toimeenpanossa. Ilmastonmuutoksen torjunnassa, nokipäästöjen vähentämisessä ja lisääntyvän arktisen meriliikenteen öljyonnettomuusriskien ja päästöjen hallinnassa tarvitaan paljon nykyistä
+
+kunnianhimoisempia tavoitteita Arktiselta neuvostolta. Neuvoston toimintatapoja täytyy kehittää siten, että jatkossa voidaan varmistaa suositusten päätyminen paperilta käytäntöön. Sen takia toivomme, että Suomi yhdenmukaistaa puheenjohtajuuskautensa aikana maiden raportointia neuvostolle ja luo kansallista toimeenpanoa edistäviä rakenteita, kuten kansallisten toimeenpano-ohjelmat – esimerkiksi Itämeren suojelukomissio HELCOMin National Implementation Plan-mallin mukaisesti. Lisäksi toivomme Suomen näyttävän globaalia johtajuutta aiemmin suositeltujen ja uusien toimenpiteiden mahdollisimman nopeassa ja vaikuttavassa toimeenpanossa, myös yli yhdessä sovittujen tavoitteiden. WWF Suomi toivoo, että Alaskan ministerikokouksessa sovittu Arktiselle neuvostolle kehitettävä pitkän aikavälin strategia tehostaa neuvoston toimintaa ja kansallista toimeenpanoa. Strategiaan tulee sisältyä nykyistä voimakkaampi sitoutuminen ilmastonmuutoksen torjuntaan kaikissa arktisissa valtioissa. Kannustammekin Arktisen neuvoston puheenjohtajamaa Suomea näyttämään vahvaa käytännön esimerkkiä muille maille taistelussa arktisen alueen ilmastonmuutosta vastaan.
+
+Annamme tarvittaessa kaiken tukemme Suomelle ja Arktiselle neuvostolle strategian kehittämistyössä ja toivomme, että tavoitteista voidaan sopia mahdollisesti järjestettävän huippukokouksen yhteydessä. Strategiassa tulee olla kyse arvoista eikä politiikasta. Perustavien arvojen tulisi ohjata arktista politiikkaa yli puheenjohtajuuskausien. Tasavallan Presidentti Niinistöä lainaten: ”Arktisen alueen kohtalo on koko ihmiskunnan kohtalonkysymys”.
+
+Pääsihteeri Liisa Rohweder, WWF Suomi
+
+---
+
 ### WWF:n kannanotto Arktisen neuvoston ministerikokouksessa annettuun julkilausumaan (12.5.2017)
 
 Julkaistu: 12.5.2017  
 Aiheet: Arktinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/m/h/znfv3ifgvhbd46h6dz6okah/kommentti.pdf
 
 12.05.2017
@@ -486,7 +893,6 @@ WWF: Arktisen neuvoston on sitouduttava voimakkaammin ilmastonmuutoksen torjunta
 
 Julkaistu: 4.5.2017  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/2/z/ofjlglbelbeo4qt2bioq5jc/wwf-suomi_lausunto_kylmaeluoman-hks.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -513,7 +919,6 @@ Panu Kunttu metsäasiantuntija panu.kunttu@wwf.fi p. 050 3055 086
 
 Julkaistu: 24.4.2017  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/p/3/k/i5vzjwnf2jgwhh75tx7epmf/sidosryhmaekuuleminen_liikenne_21_4_17.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -573,7 +978,6 @@ https://wwf.fi/mediabank/7067.pdf
 
 Julkaistu: 27.3.2017  
 Aiheet: Ruoka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/g/c/r/smr2sl5agbgyvh65jd6axje/wwf-lausunto-ruokapoliittisesta-selonteosta-ympv-280317.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -630,7 +1034,6 @@ Annukka Valkeapää, suojeluasiantuntija (annukka.valkeapaa@wwf.fi)
 
 Julkaistu: 21.3.2017  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/e/o/2brclbneylkd5yj54fzsekd/wwf_hossa_lausunto_ymv_20-3-2017.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -675,7 +1078,6 @@ Jari Luukkonen suojelujohtaja WWF Suomi Lisätietoja: WWF Suomi, metsäasiantunt
 
 Julkaistu: 16.3.2017  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Metsäkato, Ylikulutus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/j/h/n/qirqegrdc5lcl6rwprkghcg/wwf-lausunto-vn-selonteko-sdg2030.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -712,7 +1114,6 @@ Jari Luukkonen, suojelujohtaja (jari.luukkonen@wwf.fi)
 
 Julkaistu: 10.3.2017  
 Aiheet: Energiatehokkuus, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/i/7/o/a3qwtqnhszc5qjq24aphutb/energia-ja-ilmastostrategia-wwf-lausunto_2017_maaliskuu-9_talousvaliokunta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -758,7 +1159,6 @@ https://wwf.fi/mediabank/7067.pdf
 
 Julkaistu: 28.2.2017  
 Aiheet: Itämeri, Liikakalastus, Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/p/6/v/q3nisq5gv7gkyjza2yj3prh/lohiasetukset_wwf_lausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -793,7 +1193,6 @@ Riista- ja kalatalouden tutkimuslaitos. 2010. Istutettujen ja luonnonlohien esii
 
 Julkaistu: 27.2.2017  
 Aiheet: Energiatehokkuus, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/q/m/qwrplb5hi5bhcoow4xf7ehe/energia-ja-ilmastostrategia-wwf-lausunto_2017_helmikuu-23_valtiovarainvaliokunta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -833,11 +1232,20 @@ https://wwf.fi/mediabank/7067.pdf
 
 ---
 
+### WWF Suomen pääsihteeri Liisa Rohwederin puheenvuoro Suomen IUCN-komitean Paras luontoteko 2015-2016 -kilpailun voittajan palkitsemistilaisuudessa 7.2. 2017: Niin sudet kuin ahmatkin kaipaavat suojelua (7.2.2017)
+
+Julkaistu: 7.2.2017  
+Aiheet: Ahma, Luonnon köyhtyminen, Salametsästys, Suomi, Susi  
+Linkki: https://wwf.fi/app/uploads/q/7/3/ftf7sdzgi5dfdnyhs5nh4yg/iucn-palkinto.pdf
+
+WWF Suomen pääsihteeri Liisa Rohwederin puheenvuoro Suomen IUCN-komitean Paras luontoteko 2015-2016 -kilpailun voittajan palkitsemistilaisuudessa 7.2. 2017: Niin sudet kuin ahmatkin kaipaavat suojelua ”Olen erittäin iloinen siitä, että Luonto-Liiton susilähettiläät valittiin voittajaksi. Sudet ja kaikki muutkin suurpetomme kuuluvat Suomen luontoon ja ovat oleellinen osa ekosysteemejämme. Niitä kohtaan esiintyy kuitenkin osin asenteisiin ja vääriin käsityksiin perustuvaa vihaa ja pelkoa. Me suomalaiset voimme oppia ja opetella elämään paremmin rinnan suurpetojemme kanssa. Siinä on oleellista jakaa asiallista tietoa ja kuunnella suurpetoalueilla elävien tuntoja. Tätä tärkeää tavoitetta Luonto-Liiton susilähettiläät edistävät suden osalta. Susi on erittäin uhanalainen laji, jonka ainoa uhka on laillinen ja laiton pyynti, salametsästys. Viime talvena susien kokonaiskuolleisuus oli jopa noin neljännes (78 yksilöä) Suomen kannasta. Kaikki ymmärrämme, että tämä on aivan liikaa. Suden rinnalla toinen erittäin uhanalainen suurpeto, jonka suojeluun liittyvät päätökset ovat juuri nyt ajankohtaisia, on ahma. Ahmoja on Suomessa noin sata yksilöä vähemmän kuin saimaannorppia. Ahmankin ainoa uhka ja uhanalaisuuden syy on tällä hetkellä laiton tappaminen. Näinä päivinä tehdään päätös siitä, lopetetaanko ahman 35 vuotta jatkunut rauhoitus. WWF vastustaa uhanalaisen ahman metsästyksen aloittamista, koska ahman ja porotalouden yhteensovittamiseksi on olemassa muitakin vaihtoehtoja kuin tappaminen. Nyt kun suden suojelua edistävä kansalaistoiminta palkitaan Paras Luontoteko-palkinnolla, hallinnon on kannettava vastuunsa ja etsittävä rakentavia ratkaisuja myös ahmakannan turvaamiseksi ahmojen tappamisen aloittamisen sijaan. Lupaavin toimenpide ahman suojelutilanteen parantamiseksi olisi siirtyä reviiripohjaiseen, ahman onnistuneiden pesintöjen määrän perusteella paliskunnalle maksettavaan porovahinkojen korvaukseen. Maakotkan kohdalla näin toimitaan jo. Maakotkan esimerkki osoittaa, että reviiripohjaisen korvausjärjestelmän myötä lajiin kohdistuva vaino on käytännössä loppunut ja asenteet sitä kohtaan ovat muuttuneet positiiviseen suuntaan. Sudellekin täytyy löytää mahdollisuus elää myös Lapissa, ainakin suurissa kansallispuistoissamme. Susilähettiläät tekevät töitä tiedon levittämiseksi ja asenteiden muuttamiseksi kouluvierailuillaan ja siten heidän tärkeä työnsä vaikuttaa petopelkoon ja -vihaan. Lisäksi tarvitaan hallinnon vastuullisia päätöksiä, jotka turvaavat niin susien kuin myös ahmojen tulevaisuuden koko Suomessa. Samalla kun kiitän Luonto-Liiton susiryhmää vaikuttavasta ja arvokkaasta työstä, vetoan myös Maa- ja metsätalousministeriötä ja ministeri Tiilikaista tekemään omalta osaltaan viisaita päätöksiä erittäin uhanalaisten lajiemme suojelemiseksi.”
+
+---
+
 ### WWF:n lausunto ahmakiintiöasetuksesta metsästysvuodelle 2016–2017 (1.2.2017)
 
 Julkaistu: 1.2.2017  
 Aiheet: Ahma, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/6/a/kbn6m5bdibpemodfamsfr5a/wwf-lausunto-mmm-ahma-170201.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -871,5 +1279,25 @@ WWF Suomi
 Jari Luukkonen suojelujohtaja
 
 Petteri Tolvanen ohjelmapäällikkö
+
+---
+
+## Tammikuu 2017
+
+### WWF:n kommentti metsähanhen metsästyksen säätelystä AEWA-sopimuksen puitteissa (7.12.2016)
+
+Julkaistu: 9.1.2017  
+Aiheet: Luonnon köyhtyminen, Suomen metsät, Suomi  
+Linkki: https://wwf.fi/app/uploads/4/s/o/nv4tgrnehbhnneaffwfhuvd/wwf-kommentti-metsaehanhi-mmm-161212.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 Faksi: (09) 7740 2139 www.wwf.fi, www.panda.org
+
+MMM, Luonnonvaraosasto Ylitarkastaja Janne Pitkänen (janne.pitkanen@mmm.fi) kirjaamo@mmm.fi 12.12.2016 Viite: MMM:n kommenttipyyntö 7.12.2106 Asia: WWF Suomen kommentti metsähanhen metsästyksen säätelystä AEWA-sopimuksen puitteissa (ADAPTIVE HARVEST MANAGEMENT PROGRAMME FOR THE TAIGA BEAN GOOSE (ANSER F. FABALIS) – SETUP PHASE PROPOSED DECISIONS; 1st MEETING OF THE AEWA EUROPEAN GOOSE MANAGEMENT INTERNATIONAL WORKING GROUP) Metsähanhen uhanalaisuusluokka nostettiin vuoden 2015 uhanalaisuusarvioinnissa silmälläpidettävästä vaarantuneeksi, koska seurantatiedot talvehtimisalueilta osoittavat taigametsähanhikannan taantuneen voimakkaasti. Tiedot erityisesti Suomessa pesivän taigametsähanhikannan tarkasta koosta ja trendistä ovat edelleen hyvin puutteelliset. Suomessa ja Tanskassa viime vuosina toteutettu metsähanhen metsästyskielto on ollut hyvin perusteltu ja ainoa oikea ratkaisu nykyisessä tilanteessa. Taigametsähanhen kansainväliseen hoitosuunnitelmaan sisältyvä sopeutuvan metsästysverotuksen säätelyjärjestelmä, jossa metsästys eri maissa mitoitetaan metsästettävän kannan tilan ja hoitotavoitteen mukaiseksi tieteellisin keinoin on hyvin tervetullut. Alkavalla viikolla järjestettävässä AEWA:n kokouksessa (1st meeting of the AEWA european goose management international working group) on tarkoitus päättää, mikä metsästysverotuksen taso (harvest rate) valitaan keskiselle (= Suomessa pesivälle) taigametsähanhikannalle (Central MU) tulevaksi vuodeksi. Ehdolla ovat 0%, 2%, 5% ja 6% verotustasot. WWF Suomen mielestä toistaiseksi on ehdottomasti tarpeen jatkaa Suomessa ja Tanskassa viime vuosina harjoitettua metsästyksen täyskieltoa eli 0% verotustasoa koko muuttoreitillä (myös Ruotsissa), jotta voidaan kannanseurannan tulosten myötä todella varmistua siitä, että kanta kääntyy tavoitteen mukaiseen kasvuun. Lisäksi on hyvin tärkeää, että taigametsähanhikannan seurantaan ja hanhisaaliin tilastointiin Suomessa ja kaikissa muissakin muuttoreitin maissa panostetaan, jotta sopeutuvan metsästysverotuksen säätelyjärjestelmä voi käytännössä toimia.
+
+Jari Luukkonen suojelujohtaja WWF Suomi
+
+Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 ---

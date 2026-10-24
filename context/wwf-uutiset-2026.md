@@ -1,9 +1,8 @@
 # WWF Suomi – Uutiset 2026
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Uutiset). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 64 (uusin 21.10.2026).
+Kohteita: 57 (uusin 21.10.2026).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -41,7 +40,6 @@ Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 17.6.2026 – Miljoonia hehtaareja trooppista metsää ja arvokkaita vesialueita suojelun ja kestävän käytön piiriin – lue kehitysyhteistyömme viimeisimmät onnistumiset
 - 17.6.2026 – Inkooseen rakennetaan uusi kosteikko hyödyttämään Itämerta ja luonnon monimuotoisuutta
 - 16.6.2026 – Mäyrälive tulee taas – tällä kertaa kahdella kameralla
-- 8.6.2026 – EU:n lintu- ja luontodirektiivit ovat suomalaisen luonnonsuojelun kivijalka – niitä ei saa heikentää
 - 5.6.2026 – Nuuksion kansallispuistoa suojellaan haitalliselta lupiinilta
 - 4.6.2026 – WWF:n Panda-palkinto padonpurkuhankkeelle ja perinnemaisemien hoitoon
 
@@ -72,12 +70,9 @@ Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 30.3.2026 – Tämä ei ole aprillia: Suomen ylikulutuspäivä on 1. huhtikuuta
 - 18.3.2026 – WWF vaatii verkkokalastuskiellon jatkamista Saimaalla heinäkuulle kuuttien suojelemiseksi
-- 18.3.2026 – Vattendraget Paavola i S:t Karins restaureras för att begränsa övergödningen av Östersjön och öka den biologiska mångfalden
-- 18.3.2026 – Näkökulma: Heinäkuun verkkokalastuskielto on nopein ja toimivin keino suojella saimaannorppaa
 - 18.3.2026 – Kaarinan Paavolan uomaa ennallistetaan Itämeren tilan ja luonnon monimuotoisuuden parantamiseksi
 - 12.3.2026 – Yli 11 000 ihmistä vaati metsien hiilinielun elvyttämistä allekirjoittamalla WWF:n vetoomuksen
 - 12.3.2026 – Järjestöjen yhteiskirje: Tuki YK:n yleiskokouksen päätöslauselmalle valtioiden ilmastovelvoitteista
-- 9.3.2026 – Näkökulma: Pingviinit pelastuivat öljyltä – maailman suurimman villieläinten pelastusoperaation oppeja ei saa unohtaa
 
 **Helmikuu 2026**
 
@@ -87,14 +82,11 @@ Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 23.2.2026 – Uuden mallinnuksen avulla mitattavuutta metsätalouden vesiensuojeluun
 - 18.2.2026 – Keinopesillä rakennetaan tulevaisuutta saimaannorpille – riistakamerat ovat tutkijoille “ainutlaatuinen tilaisuus”
 - 12.2.2026 – Uusi EmpCo-kuluttajansuojadirektiivi ohjaa yrityksiä viestimään vastuullisuudesta aiempaa todennettavammin
-- 11.2.2026 – Näkökulma: Vastuulliset yritykset ottavat yhä voimakkaammin kantaa vahvemman ympäristösääntelyn puolesta – se tekee myös hyvää bisnekselle
 - 9.2.2026 – Viisi väärää väitettä susista
-- 5.2.2026 – WWF bygger en våtmark i Raseborg för att minska övergödningen i Östersjön och öka naturens mångfald
 - 5.2.2026 – Raaseporin Karsbyhyn rakennettava kosteikko vähentää Itämeren rehevöitymistä ja tarjoaa elinympäristön kosteikkolajeille
 
 **Tammikuu 2026**
 
-- 27.1.2026 – Näkökulma: Luonnonvarakeskuksen susikanta-arvio on paras, mitä saatavilla on
 - 26.1.2026 – Salmensuun tila yhdistää ympäristönsuojelun ja lihantuotannon –”Luonnonlaidunliha syntyy luonnonhoidon seurauksena”
 - 23.1.2026 – Miksi Palokin pato pitää purkaa? Vastaamme 10 kysymykseen
 - 22.1.2026 – Merkittävä projekti niin kaloille kuin ihmisille – Palokin koskien vapauttaminen puhutti Kolilla
@@ -230,11 +222,11 @@ WWF:n tuoreessa Living Planet -raportissa julkaistu Living Planet -indeksi (LPI)
 
 Vaikka isossa kuvassa luonto köyhtyy, raportista on löydettävissä myös toivoa, sillä kymmenistätuhansista seurattavista eläinpopulaatioista puolet on vakaita tai kasvussa. Tässä artikkelissa esitellään lajeja, joiden tilanne on kohentunut jopa niin, ettei osaa enää luokitella lainkaan uhanalaisiksi.
 
-#### 1. Tiikerien määrä kasvoi 70 prosentilla
+#### 1. Tiikerien määrä kasvoi yli 70 prosentilla
 
 Vuonna 2010 villejä tiikereitä arvioitiin olevan maailmanlaajuisesti jäljellä vain 3200 ja nekin levittäytyneenä 13 valtion alueelle. Nämä tiikerivaltiot ryhtyivät toimeen ja lupasivat yhdessä tuplata tiikereiden määrän vuoteen 2022 mennessä.
 
-Tiikerien määrä saatiinkin kasvuun ensimmäistä kertaa koko tilastoidussa historiassa. Vuonna 2025 tiikereiden määräksi arvioitiin 5700 yksilöä, eli määrä on kasvanut 70 prosentilla!
+Tiikerien määrä saatiinkin kasvuun ensimmäistä kertaa koko tilastoidussa historiassa. Vuonna 2025 tiikereiden määräksi arvioitiin 5700 yksilöä, eli määrä on kasvanut yli 70 prosentilla!
 
 Vaikka kokonaisuudessaan tiikerikantaa ei saatu kaksinkertaistettua, esimerkiksi Nepalissa tavoite on jopa ylitetty: heinäkuussa maa ilmoitti kolminkertaistaneensa tiikerien määrän. Nepalissa on muun muassa tuettu elinkeinoja, jotka eivät perustu tiikereiden kotimetsien hakkaamiseen, ja perustettu vapaaehtoisia salametsästyksen vastaisia kyläpartioita.
 
@@ -610,7 +602,6 @@ Rautkarilla oli laaja ystävä- ja tuttavapiiri, johon hän piti yhteyttä aivan
 Julkaistu: 26.6.2026  
 Aiheet: Suomi, Ilmastonmuutos, Luonnon köyhtyminen  
 Kirjoittaja: Anne Salomäki  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/06/wwf-ja-upi-nostivat-ymparistoturvallisuuden-lavalle-suomiareenassa/
 
 **Ilmastonmuutos ja luontokato kuuluvat turvallisuuspolitiikan keskiöön, todettiin WWF Suomen ja Ulkopoliittisen instituutin SuomiAreenassa järjestämässä paneelissa.**
@@ -656,7 +647,6 @@ Lue myös WWF Suomen kansainvälisen ohjelman ohjelmajohtajan Anne Tarvaisen ja 
 Julkaistu: 26.6.2026  
 Aiheet: Itämeri, Suomi  
 Kirjoittaja: Larri Himma  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/06/nelja-vinkkia-kesamokille-nain-vahennat-ravinnekuormitusta-vesistoihin/
 
 **Kesämökillä pienilläkin valinnoilla voi olla suuri merkitys lähivesistön hyvinvoinnille. Vesistöjä rehevöittävät erityisesti fosfori ja typpi, joita päätyy veteen muun muassa jätevesistä, pohjasedimenteistä ja ihmisten toiminnasta. Näillä neljällä vinkillä voit auttaa pitämään mökkirannan veden kirkkaampana ja luonnon monimuotoisempana.**
@@ -840,48 +830,6 @@ Laji on Suomessa elinvoimainen ja kuuluu riistalajeihin. Suomessa metsästetää
 WWF toteuttaa livelähetyksen mäyrän pesältä yhdessä Tuomas Heinosen, Live Eye Oy:n ja Pukki Visualsin kanssa. Viime vuonna mäyräkameralle kertyi noin 360 000 katselukertaa.
 
 Mäyräkameran verkkosivu: wwf.fi/luontolive/mayra/
-
----
-
-### EU:n lintu- ja luontodirektiivit ovat suomalaisen luonnonsuojelun kivijalka – niitä ei saa heikentää
-
-Julkaistu: 8.6.2026  
-Aiheet: Luonnon köyhtyminen, Ahma, Ilves, Kiljuhanhi, Liito-orava, Merikotka, Saimaannorppa, Suomi, Susi, Valkoselkätikka  
-Kirjoittaja: Raija-Leena Ojanen  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2026/06/eun-lintu-ja-luontodirektiivit-ovat-suomalaisen-luonnonsuojelun-kivijalka-niita-ei-saa-heikentaa/
-
-**EU:n direktiiveillä on suomalaisessa keskustelussa usein huono maine. Niistä puhutaan helposti byrokratiana, joka säätelee arkisia yksityiskohtia kaukaa Brysselistä käsin. Todellisuudessa EU:n direktiivit ohjaavat monia yhteiskunnan kannalta keskeisiä asioita, myös luonnonsuojelua.**
-
-Euroopan komissio aikoo arvioida lintu- ja luontodirektiivien toimivuutta vuoden 2026 aikana niin sanotulla stressitestillä osana EU:n sääntelyn sujuvoittamista ja kilpailukyvyn vahvistamista. Komission mukaan tavoitteena on selvittää, saavutetaanko direktiivien tavoitteet kustannustehokkaasti. Arvion on määrä valmistua lokakuussa.
-
-Kustannustehokkuuden tavoittelu on sinänsä perusteltua. Myös WWF katsoo, että luonnonsuojelun ja ennallistamisen ratkaisuja kannattaa toteuttaa tavalla, joka tuottaa samanaikaisesti mahdollisimman paljon hyötyjä. Esimerkiksi peltojen tulvasuojelu vähentää vesistöjen ravinnekuormitusta ja hillitsee rehevöitymistä, samalla kun se turvaa peltojen viljelykäytön. Metsätuhojen ehkäiseminen taas voi vahvistaa sekä luonnon monimuotoisuutta että metsien hiilinieluja, samalla kun se ehkäisee taloudellisia tappioita metsän omistajalle.
-
-Huoli lintu- ja luontodirektiivien stressitestistä liittyykin siihen, että sääntelyn “yksinkertaistaminen” voi käytännössä tarkoittaa luonnonsuojelun heikentämistä.
-
-Komissio korostaa, ettei direktiivien tavoitteita ole tarkoitus vaarantaa. Silti aiemmat ympäristölainsäädännön keventämiseen liittyneet ehdotukset osoittavat, että ympäristönsuojelun tasoa voidaan heikentää myös silloin, kun tavoitteiden väitetään säilyvän ennallaan.
-
-Tämä on ongelmallista erityisesti siksi, että luonnon tila heikkenee edelleen nopeasti Euroopassa. Vaikka luonnonsuojelulainsäädäntöä on vuosikymmenten aikana vahvistettu, lajien ja luontotyyppien uhanalaisuus lisääntyy ja niiden tilanne heikkenee. Tämä ei osoita, että sääntelyä olisi liikaa, vaan pikemminkin sen, että nykyisiä tavoitteita ei ole vielä onnistuttu toteuttamaan riittävän tehokkaasti.
-
-Samaan aikaan luonto- ja ilmastokriisit aiheuttavat kasvavia riskejä myös eurooppalaisille yhteiskunnille ja talouksille. Luonnon köyhtyminen heikentää ruoantuotantoa, vesiturvaa, talouden vakautta ja yhteiskuntien turvallisuutta.
-
-Siksi lintu- ja luontodirektiivejä ei pitäisi tarkastella ensisijaisesti hallinnollisena taakkana tai kilpailukykyongelmana. Keskeinen kysymys on se, miten niiden toimeenpanoa voidaan vahvistaa.
-
-Direktiiveistä tehdyn toimivuusarvioinnin mukaan sääntely on tarkoituksenmukaista ja sen hyödyt selvästi ylittävät kustannukset. Arvioinnissa korostettiin erityisesti, että ilman riittävää rahoitusta direktiivien tavoitteita ei voida saavuttaa.
-
-Luontokadon keskellä Eurooppa tarvitsee vahvempaa luonnonsuojelua, ei sen purkamista. Siksi lintu- ja luontodirektiivien stressitestin yhteydessä huomion pitäisi kohdistua ennen kaikkea toimeenpanon tehostamiseen ja luonnonsuojelun resurssien vahvistamiseen, ei sääntelyn heikentämiseen kustannusten vähentämisen nimissä.
-
-#### Kuinka EU:n direktiivit vaikuttavat luonnonsuojeluun Suomessa?
-
-Vuonna 1979 voimaan tullut lintudirektiivi ja vuonna 1992 hyväksytty luontodirektiivi muodostavat EU:n luonnonsuojelun perustan. Samalla ne ovat myös suomalaisen luonnonsuojelun kivijalka. Direktiivien tavoitteena on turvata lajien, elinympäristöjen ja luontotyyppien säilyminen elinvoimaisina pitkällä aikavälillä.
-
-Direktiivit velvoittavat jäsenmaita suojelemaan luonnonvaraisia lintulajeja, uhanalaisia eläin- ja kasvilajeja sekä arvokkaita luontotyyppejä. Ne myös rajoittavat lajien tahallista tappamista, pyydystämistä ja häirintää sekä velvoittavat jäsenvaltiot perustamaan suojelualueita luonnon turvaamiseksi.
-
-Näiden direktiivien pohjalta on rakennettu Natura 2000 -verkosto, maailman laajin koordinoitu suojelualueverkosto. Lisäksi direktiivit suojaavat erityisesti esimerkiksi liito-oravaa, saimaannorppaa, kaikkia lepakoitamme, viitasammakkoa, raakkua, maa- ja merikotkia, sekä ilvestä ja ahmaa.
-
-Kyse ei kuitenkaan ole vain luonnosta. Direktiivit turvaavat samalla ekosysteemejä, joista myös ihmisten hyvinvointi, terveys ja talous ovat riippuvaisia. Toimivat ekosysteemit ovat välttämättömiä esimerkiksi puhtaalle vedelle, ruuantuotannolle ja ilmaston vakaudelle. Euroopan keskuspankin mukaan yli 70 prosenttia euroalueen yrityksistä on riippuvaisia vähintään yhdestä luonnon tarjoamasta ekosysteemipalvelusta.
-
-Siksi luonnonsuojelua ei pitäisi nähdä kilpailukyvyn vastakohtana, vaan sen perustana.
 
 ---
 
@@ -1296,7 +1244,6 @@ Fazer ja Suomen Lidl ovat WWF Suome n yritysyhteistyökumppaneita.
 
 Julkaistu: 30.4.2026  
 Aiheet: Saimaannorppa, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/04/saimaannorppaa-suojaavaa-verkkokalastusrajoitusta-odotetaan-yha-nain-sina-voit-auttaa-suojelutyossa/
 
 **Uutta asetusta saimaannorppaa suojelevista kalastusrajoituksista ei edelleenkään ole saatu, vaikka edellinen viisivuotiskausi päättyi huhtikuun puolessavälissä. Kokosimme ohjeet, joiden avulla Saimaalla kalastavat ja liikkuvat sekä Saimaalta kalastettua kalaa syövät voivat omalta osaltaan suojella norppaa.**
@@ -1410,7 +1357,6 @@ Lisäksi WWF kiittää Itä-Suomen yliopiston norppatutkijoita ja Metsähallituk
 Julkaistu: 29.4.2026  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Metsäkato, Metsäpalot  
 Kirjoittaja: Anne Salomäki  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/04/eurooppa-lampenee-arktiselta-alueelta-valimerelle-asti-viime-vuosi-oli-keskiarvoa-lampimampi-lahes-koko-maanosassa/
 
 **Tuore Euroopan ilmaston tilasta kertova raportti osoittaa, että viime vuonna Euroopassa merten pintalämpötila oli mittaushistorian korkein ja Fennoskandiassa rikottiin lämpöaaltoennätys. Ilmastotoimien kanssa ei ole varaa viivytellä, vaan ne on palautettava politiikan ytimeen.**
@@ -1550,7 +1496,6 @@ Kyselytutkimuksen Earth Hour osallistumisesta toteutti YouGov. Tiedot kerättiin
 Julkaistu: 17.4.2026  
 Aiheet: Itämeri, Ilmastonmuutos, Itämerennorppa, Suomi  
 Kirjoittaja: Riikka Kaartinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/04/wwf-iloitsee-ministerion-esityksesta-laajentaa-itaisen-suomenlahden-kansallispuistoa/
 
 **Ympäristöministeriö julkisti maaliskuun alussa suunnitelman Itäisen Suomenlahden kansallispuiston laajentamiseksi. Laajat, jo alun perin Itäisen Suomenlahden kansallispuistoon esitetyt merialueet saavat toivottavasti viimein luonnonsuojelulain suojan. WWF teki vuonna 2014 yksityiskohtaisen ehdotuksen kansallispuiston laajentamisesta merialueille ja nyt ehdotus saattaa viimein toteutua.**
@@ -1688,7 +1633,6 @@ Ilmastopolitiikan keinot voivat tarjota oppeja luontohaittojen hinnoitteluun. EU
 Julkaistu: 18.3.2026  
 Aiheet: Saimaannorppa, Luonnon köyhtyminen, Suomi  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/03/wwf-vaatii-verkkokalastuskiellon-jatkamista-saimaalla-heinakuulle-kuuttien-suojelemiseksi/
 
 **Verkkokalastuskieltoa tulisi jatkaa heinäkuulle, jotta vältettäisiin saimaan nor p an kuutti en hukkuminen verkkoihin. Saimaan kalastusrajoituksista päätetään nyt seuraavan viiden vuoden ajaksi.**
@@ -1706,66 +1650,6 @@ WWF kannattaa vahvasti ministeriön esityksessä ehdotettua verkkokalastuskielto
 ”Verkkokalastuskiellon jatkaminen heinäkuulle on yksinkertaisin ja tehokkain tapa suojella kuutteja nykyistä paremmin.”
 
 Liite: Lue lausuntomme maa- ja metsätalousministeriölle (https://wwf.fi/app/uploads/c/3/y/wmg4bf1jnw1cdlab9sroba/wwf-lausunto-mmm-saimaannorppa-maaliskuu-2026.pdf?filename=WWF%3An%20lausunto%20luonnoksesta%20valtioneuvoston%20asetukseksi%20er%C3%A4ist%C3%A4%20kalastusrajoituksista%20Saimaalla%20vuosina%202026%E2%80%932031.pdf)
-
----
-
-### Vattendraget Paavola i S:t Karins restaureras för att begränsa övergödningen av Östersjön och öka den biologiska mångfalden
-
-Julkaistu: 18.3.2026  
-Aiheet: Ennallistaminen, Itämeri, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2026/03/vattendraget-paavola-i-st-karins-restaureras-for-att-begransa-overgodningen-av-ostersjon-och-oka-den-biologiska-mangfalden/
-
-**WWF restaurerar vattendraget Paavola i S:t Karins i samarbete med den lokala markägaren. Vattendraget kommer att återställas till sitt naturliga slingrande tillstånd och översvämningarna kommer att kontrolleras. Som ett resultat av arbetet kommer den biologiska mångfalden att förbättras och landskapet förskönas, och vattendragets känslighet för erosion kommer att minska, vilket i sin tur kommer att minska belastningen på Östersjön.**
-
-Vattenhushållningsstrukturer byggs för närvarande i Paavola-vattendraget i Kaarina som en del av VALUTA 3 Egentliga Finland-projektet. Paavola-vattendraget rinner genom Makarlafloden till Pikisviken.
-
-Paavola-vattendraget är en gammal bäck som rätades ut för flera decennier sedan för att dränera åkrarna. En del av kanalen rinner genom ett betongrör. I sitt nuvarande skick översvämmas kanalen och dess stränder rasar ibland, vilket ökar läckaget av näringsämnen och fasta ämnen till Östersjön.
-
-”Syftet med restaureringen är att förbättra vattendragets stabilitet och minska erosionen orsakad av översvämningar. Dessa åtgärder kommer att bromsa övergödningen i Östersjön och återställa Paavola-vattendragets naturliga egenskaper. Samtidigt kommer de att öka mångfalden i området och förbättra landskapet”, säger WWF:s skyddsexpert Viivi Kaasonen.
-
-Återställandet av flodbädden innebär att man bygger konstruktioner för att kontrollera vattenflödet och översvämningarna: bottentrösklar och ett tvåstegsdike, samt att man ökar flodbäddens slingrande. En bottentröskel är en tröskel byggd av jord och stenar på flodbäddens botten för att bromsa vattenflödet. Tvåstegsdiket skapar utrymme för översvämningsvatten: bredvid den egentliga kanalen finns en flodsterrass där vattnet kan stiga utan att orsaka översvämningar på åkrarna.
-
-Kanalens naturliga slingrande form, dess djupa bakvatten och smalare och bredare sektioner saktar ner vattenflödet och underlättar vattenhanteringen. Återställandet av bäcken skapar också viktiga livsmiljöer för vattenlevande organismer genom att återställa till exempel den naturliga variationen i djup och bredd hos strömmande vatten, samt variation mellan strömmar och bakvatten.
-
-Den långsammare vattenströmmen och minskade översvämningarna kommer att minska urlakningen av näringsämnen och fasta ämnen till vattendraget och därifrån till Pikisviken och Östersjön.
-
-Området ägs av Muuritutkimus Ab, ett företag från S:t Karins. Företagets direktör, Kari Uotila, säger att han under sitt arbete i skärgården har sett hur olika vattenskyddsstrukturer, såsom våtmarker, kan bidra till att bromsa övergödningen i Östersjön. Förutom vattendraget i Paavola, som nu håller på att återställas, har den biologiska mångfalden ökat i företagets område.
-
-”Vårt företag vill göra sin lilla del för att förbättra tillståndet i Pikisviken och Skärgårdshavet. Jag hoppas att mina barnbarn fortfarande kommer att kunna se Kustö sundet lika klart som jag en gång såg det”, säger Uotila.
-
-Projektet VALUTA 3 Egentliga Finland har fått finansiering från NMT-centralen i Egentliga Finland (numera Livskraftscentralen i Sydvästra Finland) inom miljöministeriets bidragsprogram för vatten- och havsförvaltning. Den totala finansieringen för projektet uppgår till 260 069 euro, varav NMT-centralen i Egentliga Finland bidrar med 156 300 euro. Alla projektpartner bidrar till finansieringen av projektet. Projektet har också fått finansiering från Skyddsfond för Skärgårdshavet.
-
----
-
-### Näkökulma: Heinäkuun verkkokalastuskielto on nopein ja toimivin keino suojella saimaannorppaa
-
-Julkaistu: 18.3.2026  
-Aiheet: Saimaannorppa, Näkökulma, Suomi  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2026/03/nakokulma-heinakuun-verkkokalastuskielto-on-nopein-ja-toimivin-keino-suojella-saimaannorppaa/
-
-**Suojelun tehokkuutta ei pidä arvioida vain sillä, että kanta on kasvanut, vaan myös sillä, vältetäänkö turhat kuolemat, muistuttaa WWF:n ohjelmajohtaja Petteri Tolvanen.**
-
-Saimaannorpan suojelemiseksi asetetut kalastusrajoitukset ovat mediatietojen mukaan aiheuttaneet kiistaa ministeriöiden välillä. Lausuntokierroksella olevassa esityksessä maa- ja metsätalousministeriö laajentaisi rajoitusaluetta, mutta toisin kuin ympäristöministeriö ja tutkijat, se ei jatkaisi kieltoa heinäkuun loppuun.
-
-Kaikki ovat siis yhtä mieltä siitä, että suojelua tarvitaan. Rajoituksen jatkaminen heinäkuun loppuun saakka olisi seuraava, tehokkain askel kuuttien suojelemiseksi.
-
-Vuosina 2011–2025 yhteensä 78 saimaannorpan tiedetään hukkuneen verkkoihin, näistä 28 heinäkuussa. Yli kolmannes viranomaisten tietoon tulleista verkkokuolemista siis ajoittui kuukaudelle, jonka ajaksi esitys jättäisi norpat vaille suojaa.
-
-Ympäristöministeri Sari Multala (kok) on perustellut rajoituksen jatkamista heinäkuisilla verkkokuolemilla. Maa- ja metsätalousministeri Sari Essayah (kd) nojaa kannassaan siihen, että vaikka saimaannorppa on edelleen erittäin uhanalainen, rajoitukset ovat tukeneet kannan kasvua.
-
-Suojelun tehokkuutta ei kuitenkaan pidä arvioida vain kannan kasvulla vaan myös sillä, vältetäänkö turhat kuolemat. Vältettävissä olevia heinäkuun verkkokuolemia ei pidä hyväksyä vain siksi, että suunta on ollut parempi kuin aiemmin.
-
-Kyse ei ole ministeriöiden keskinäisestä arvovallasta vaan siitä, kuullaanko luonnonsuojelun asiantuntemusta. Norpan suojelun asiantuntijoita ja tutkijoita ei osallistettu asetuksen valmistelun tueksi tehdyn raportin laatimiseen samalla tavoin kuin aiemmin, vaan esitys tehtiin virkatyönä ilman laajapohjaista työryhmää. Maa- ja metsätalousministeriön esitystä on myös poliittisesti vaikea perustella, sillä se sivuuttaa vahvan kansalaismielipiteen.
-
-Kun lauhtuvat talvet vaikeuttavat Suomen ainoan kotoperäisen eläinlajin pesintää, kalanpyydyskuolleisuuden vähentäminen on entistäkin tärkeämpää. Heinäkuun verkkokielto olisi konkreettinen ja nopeasti vaikuttava päätös.
-
-Kielto ei myöskään merkitsisi kalastuksen loppumista. Ammattikalastajat pyytävät muikkua norppaturvallisesti troolilla, ja mökkiläinen voi käyttää katiskaa.
-
-Kirjoitus on alun perin julkaistu Etelä-Saimaan Lukijalta-palstalla 17. maaliskuuta 2026.
-
-Lisätietoja: Petteri Tolvanen, Ohjelmajohtaja
 
 ---
 
@@ -1827,7 +1711,6 @@ Suomi on jo onnistunut vähentämään päästöjään reilusti, mutta samaan ai
 
 Julkaistu: 12.3.2026  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/03/jarjestojen-yhteiskirje-tuki-ykn-yleiskokouksen-paatoslauselmalle-valtioiden-ilmastovelvoitteista/
 
 **WWF:nkin allekirjoittamassa yhteiskirjeessä ulkoministeri Elina Valtoselle huomautetaan, että ilmastotoimet eivät ole ainoastaan poliittinen prioriteetti. Kyse on myös valtioiden oikeudellisesta velvollisuudesta nykyisiä ja tulevia sukupolvia kohtaan.**
@@ -1860,35 +1743,6 @@ Amnesty International Suomen osasto CRASH – Coalition for Research and Action 
 
 ---
 
-### Näkökulma: Pingviinit pelastuivat öljyltä – maailman suurimman villieläinten pelastusoperaation oppeja ei saa unohtaa
-
-Julkaistu: 9.3.2026  
-Aiheet: Öljyntorjuntajoukot, Meret  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2026/03/nakokulma-pingviinit-pelastuivat-oljylta-maailman-suurimman-villielainten-pelastusoperaation-oppeja-ei-saa-unohtaa/
-
-**26 vuotta sitten Etelä-Afrikassa MV Treasure -rahtialus kärsi vaurioita kovassa merenkäynnissä ja upposi. Aluksesta vuoti mereen 1 400 tonnia raskasta polttoöljyä, mikä oli koitua tuhansien afrikanpingviinien tuhoksi. Nopea ja järjestelmällinen toiminta esti pahimman katastrofin silloin – ja vastaavia valmiuksia tarvitaan edelleen.**
-
-Raskas polttoöljy on merieläimille ja etenkin linnuille erittäin vaarallista, sillä se tahrii höyhenet ja heikentää höyhenpeitteen lämmöneristyskykyä. Kapkaupungin edustalla Etelä-Afrikassa kesäkuussa 2000 sattuneessa onnettomuudessa musta mönjä peitti nopeasti saarten rantoja, ja kymmenettuhannet uhanalaiset afrikanpingviinit olivat vaarassa tahriintua ja kylmettyä kuoliaaksi Hyväntoivonniemen hyisissä vesissä.
-
-Onnettomuutta seuranneina päivinä ja viikkoina otettiin kiinni ja hoidettiin yli 20 000 pingviiniä. Lähes saman verran pingviinejä siirrettiin varotoimena pois öljyyntyviltä alueilta. Pelastusoperaatiota johti paikallinen merilintujen auttamiseen erikoistunut järjestö The Southern African Foundation for the Conservation of Coastal Birds (SANCCOB) yhteistyössä viranomaisten ja kansainvälisten järjestöjen kanssa. Maailman suurin lintujen hoito-operaatio osoitti, että suuronnettomuudessa lintujen hoito voidaan organisoida tehokkaasti ja että hoitomenetelmät ovat toimivia. Hoitoon tuoduista linnuista yli 90 prosenttia pystyttiin kuntouttamaan ja vapauttamaan takaisin luontoon.
-
-Rahtialus MV Treasuren onnettomuus oli monessa mielessä alkusysäys nykyaikaiselle öljyyntyneiden villieläinten hoidolle. Sen jälkeen valmiuden ylläpito sekä kansainvälinen yhteistyö ovat kehittyneet harppauksin. Viime syksynä, 25 vuotta onnettomuuden jälkeen, toistasataa villieläintenhoidon, meriturvallisuuden, öljyalan ja tutkijaa kokoontui Kapkaupunkiin kolmen vuoden välein järjestettävään Effects of Oil on Wildlife -konferenssiin.
-
-Asiantuntijoiden keskuudessa vallitsi tapaamisessa varsin yhtenäinen käsitys suurten öljyonnettomuuksien riskeistä ja varautumisen tarpeesta maailmanlaajuisesti. Öljykuljetusten volyymit ovat yli kaksinkertaistuneet, mutta samalla tankkerionnettomuudet ovat vähentyneet yli 90 prosenttia 1970-luvun tasosta muun muassa tankkereiden kaksoisrunkojen, kehittyneen navigoinnin ja merenkulun valvonnan ansiosta. Myös pienemmät öljyvuodot, joita aiemmin tapahtui säännöllisesti vilkkaimmilla merialueilla, ovat vähentyneet.
-
-> Itämeren tilanne osoittaa, kuinka nopeasti asiat voivat nykypäivänä kääntyä päälaelleen. Teemu Niinimäki — Teemu Niinimäki
-
-Koska öljyvahingot ovat vähentyneet, öljyntorjuntavalmiuteen motivointi ja rahoituksen ylläpito voi olla haastavaa. Suuria öljyonnettomuuksia pidetään epätodennäköisinä. Mutta vaikka suuren öljyonnettomuuden riski on maailmanlaajuisesti katsottuna pienentynyt, voi tilanne voi muuttua nopeasti. Itämeren nykytilanne on tästä hyvä esimerkki: alueen pitkään jatkunut myönteinen meriturvallisuuden kehitys pysähtyi kuin seinään Venäjän aloitettua hyökkäyssodan Ukrainaan. Keväällä 2026 Venäjän varjolaivaston alukset ovat jatkuvassa vaarassa aiheuttaa MV Treasuren onnettomuuden kaltaista tuhoa Suomenlahdella talvehtiville merilinnuille.
-
-Itämeren tilanne osoittaa, kuinka nopeasti asiat voivat nykypäivänä kääntyä päälaelleen. Samalla se on muistutus siitä, kuinka tärkeää varautuminen on. Järjestöjen kansainvälinen yhteistyö nousee vallitsevassa tilanteessa keskiöön. Suuriin öljyonnettomuuksiin tulee varautua yhdessä, eri toimijoiden asiantuntemusta hyödyntäen.
-
-Suomessa öljyntorjuntavalmius on onneksi suhteellisen hyvällä tasolla ja yhteistyö eri toimijoiden välillä on mutkatonta. WWF tarjoaa ylläpitämilleen öljyntorjuntajoukoille koulutusta sekä rantaöljyntorjuntaan että öljyyntyneiden eläinten käsittelyyn ja hoitoon. Kun öljyvahinko tapahtuu, pystymme toimimaan nopeasti viranomaisten apuna. Öljyyntyneiden lintujen hoidon osalta WWF:n öljyntorjuntajoukoilla on myös kansainvälinen verkosto tukenamme.
-
-Lisätietoja: Teemu Niinimäki, Suojeluasiantuntija
-
----
-
 ## Helmikuu 2026
 
 ### Salpausselän kisat on sitoutunut WWF One Planet -kestävyyskriteeristöön
@@ -1896,7 +1750,6 @@ Lisätietoja: Teemu Niinimäki, Suojeluasiantuntija
 Julkaistu: 27.2.2026  
 Aiheet: Suomi, Yritykset  
 Kirjoittaja: Sara Salo  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/02/salpausselan-kisat-on-sitoutunut-wwf-one-planet-kestavyyskriteeristoon/
 
 **Salpausselän kisat valittiin kesällä 2025 yhdeksi WWF Suomen kehittämän WWF One Planet -kriteeristön pilottikumppaneista. Nyt pilotointivaihe huipentuu auditointiin, jossa tapahtuman vastuullisuustyö käydään läpi sekä dokumentaation että paikan päällä tehtävän arvioinnin kautta. Hyväksytysti läpäisty auditointi mahdollistaa WWF One Planet -tunnuksen myöntämisen.**
@@ -1981,7 +1834,6 @@ Vesivarojen kestävyyttä ei voida saavuttaa ilman yhteistä ja vahvaa oikeudell
 Julkaistu: 23.2.2026  
 Aiheet: Suomen metsät, Suomi, Virtavedet, Yritykset  
 Kirjoittaja: Riikka Kaartinen Emmi Karhiaho  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/02/uuden-mallinnuksen-avulla-mitattavuutta-metsatalouden-vesiensuojeluun/
 
 **WWF:n ja Tornatorin pääyhteistyökumppanuus pureutuu metsätalouden vesistökuormituksen vähentämiseen valuma-alueiden tasolla. Ennallistajat Group mallinsi vesiensuojelun toimien vaikuttavuutta ja kohdentamista Tornatorin metsäsuunnittelutietojen pohjalta, mikä on vesiensuojelussa uutta. Yhteistyön tavoitteena on kehittää Tornatorin vesiensuojelua sekä esitellä uusia, vesistöjen tilaa parantavia ratkaisuja myös muille metsätalouden toimijoille.**
@@ -2164,33 +2016,6 @@ WWF Suomi julkaisi vuonna 2022 selvityksen ilmastoväittämien käytöstä kulut
 
 ---
 
-### Näkökulma: Vastuulliset yritykset ottavat yhä voimakkaammin kantaa vahvemman ympäristösääntelyn puolesta – se tekee myös hyvää bisnekselle
-
-Julkaistu: 11.2.2026  
-Aiheet: Ylikulutus, Yritykset  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2026/02/nakokulma-vastuulliset-yritykset-ottavat-yha-voimakkaammin-kantaa-vahvemman-ymparistosaantelyn-puolesta-se-tekee-myos-hyvaa-bisnekselle/
-
-**Hallitustenvälisen luontopaneelin IPBESin tuore raportti osoittaa, kuinka sekä yritykset että yhteiskunta hyötyvät sääntelyn vahvistamisesta, kirjoittaa WWF Suomen suojelun neuvonantaja Jussi Nikula.**
-
-”Kuolleella planeetalla on vaikea tehdä bisnestä”, kertasi tunnettujen suomalaisyritysten muodostaman luontoverkoston puheenjohtaja, S-ryhmän vastuullisuusjohtaja Nina Elomaa helmikuun alussa, kun uusi yritysverkosto julkistettiin. Verkosto kirittää yritysten omia toimia ja vaatii myös hallitukselta tiukempaa sääntelyä luontokadon pysäyttämiseksi.
-
-Verkoston perustaminen on yksi viimeaikaisista esimerkeistä, joissa edelläkävijäyritykset toteavat omien toimintaedellytystensä turvaamisen vaativan huomattavasti enemmän tekoja sekä yrityksiltä että hallinnolta. Samalla se on esimerkki maanantaina julkistetun hallitustenvälisen luontopaneelin IPBESin raportin suositusten mukaisesta toiminnasta.
-
-IPBESin Business and Biodiversity Assessment -arviointiraportti luonnon monimuotoisuuden ja liiketoiminnan kytköksistä toteaa, että markkinoiden kannustimien tulisi muuttua, jotta yritykset voisivat toteuttaa kestävyyssiirtymän. Yrityksille ei ole toistaiseksi ollut kannattavaa muokata liiketoimintamallejaan planeetan kantokyvyn mukaiseksi, koska luontohaittojen aiheuttamiselle ei ole ollut riittävää hintaa. Tuotekehityksellä ja innovaatioilla on ilmiselvästi roolinsa, mutta jos aiheuttaja ei joudu maksamaan aiheuttamastaan haitasta, kannustimet laajan muutoksen aikaansaamiseksi eivät ole kunnossa.
-
-Raportin suositusten mukaisesti kansallisesti merkittävät yritykset pyytävät uuden verkostonsa äänellä vahvempaa sääntelyä kaikille yhteisen pelikentän tasoittamiseksi. Tällöin myös poliittisilta päättäjiltä löytyy yhä todennäköisemmin rohkeutta tehdä kipeästi tarvittuja, taloutta merkittävästi uudistavia päätöksiä.
-
-Business and Biodiversity -raportti on yli 80 asiantuntijan voimin toteutettu, miltei kolmivuotisen prosessi, jossa syntyi myös yhteenveto menetelmistä ja mittareista, joilla yritykset voivat ohjata toimintaansa kohti luontokadon pysäyttämistä. Raportin ydinviesti on, että riittävät metodit ja data on olemassa, jotta yritykset voivat ymmärtää oman luontoriippuvaisuutensa ja luontovaikutuksensa sekä huomioida ne päätöksissään. Läpinäkyvät mittarit, tavoitteiden asettaminen ja edistymisestä raportointi palvelevat myös yleisön, poliittisten päättäjien ja erityisesti rahoittajien tarpeita ymmärtää ja arvioida yritysten luontovaikutuksia ja -strategioita.
-
-Tieteellisen tiedon hälyttävyys luontokadon uhista on koko ajan voimistunut. Samalla edelläkävijäyrityksillä ja vastuullisilla yhteiskunnallisilla toimijoilla on entistä enemmän tahtoa ja kykyä toteuttaa kestävyyssiirtymää – vaikka toki nekin lunastavat uskottavuutensa lopulta konkreettisten tekojensa perusteella. Geopoliittisten myllerrysten ja muiden synkkien uutisten keskelläkin tällainen kehitys kuitenkin luo luottamusta tulevaisuuteen, jossa elämme maapallon kantokyvyn rajoissa.
-
-Jussi Nikula osallistui raportin ulkopuolisten asiantuntijoiden kommenttikierrokseen kesällä 2024.
-
-Lisätietoja: Jussi Nikula, Suojelun neuvonantaja
-
----
-
 ### Viisi väärää väitettä susista
 
 Julkaistu: 9.2.2026  
@@ -2240,25 +2065,6 @@ Pyydystämällä heikkoja ja huonokuntoisia yksilöitä sudet auttavat myös pit
 
 ---
 
-### WWF bygger en våtmark i Raseborg för att minska övergödningen i Östersjön och öka naturens mångfald
-
-Julkaistu: 5.2.2026  
-Aiheet: Ennallistaminen, Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2026/02/wwf-bygger-en-vatmark-i-raseborg-for-att-minska-overgodningen-i-ostersjon-och-oka-naturens-mangfald/
-
-**WWF samarbetar med markägaren för att anlägga en våtmark i Karsby, Raseborg. Våtmarken är en del av RANKKU2-projektet, vars centrala mål är att minska näringsbelastningen i kustvattnen i västra Nyland.**
-
-I februari kommer en våtmark att färdigställas på privatägd mark i Karsby, Raseborg, vid källan till den bäck som rinner ut i Heimlaxen. Våtmarken får sitt vatten från ett cirka 80 hektar stort avrinningsområde som domineras av skogs- och jordbruksmark. Från våtmarken rinner vattnet ut i Heimlaxen, som lider av kraftig belastning. För att förbättra viken måste det ske en minskining av näringsämnen och fasta ämnen som spolas ut. Heimlax är en del av Naturaområdet Tapelsåsen–Lindöviken–Heimlax. Heimlax och Lindöviken är värdefulla fågelvatten, och Heimlax är särskilt känt som ett viktigt födoområde för gäss och svanar.
-
-WWF har byggt och restaurerat många våtmarker i samarbete med privata markägare i Västra Nyland. Våtmarkerna gynnar både de lokala markägarna och den biologiska mångfalden. De fördröjar vattenflödet och renar avrinningsvattnet genom att hålla kvar näringsämnen och fasta ämnen som orsakar övergödning. Våtmarker jämnar också ut översvämningstoppar vilket minskar översvämningar av åkrar och fungerar som vattenreservoarer under torra perioder. De är också livsmiljöer för många växt- och djurarter, vilket ökar den biologiska mångfalden.
-
-”Det är viktigt att vi inom RANKKU2-projektet har en möjlighet att genomföra vattenskyddsåtgärder i kustområden som är kända för att lida av överbelastning och som dessutom också är värdefulla fågelvatten. Detta arbete skulle inte vara möjligt utan aktiva och entusiastiska markägare, eftersom alla projektets vattenskyddsobjekt bygger på frivilligt deltagande och har genomförts i samarbete med privata markägare. Vi är mycket tacksamma för detta”, säger WWF:s havsexpert Iiris Kokkonen.
-
-Sjuttio procent av RANKKU 2-projektet finansieras av programmet för effektiverat vattenskydd. Utöver samarbetet med mark- och skogsägare i samarbetar man inom projektet även med bland annat kommuner, föreningar, intresseorganisationer och miljömyndigheter. Stenmaterialet till Ruddamens våtmark donerades av Rudus Oy.
-
----
-
 ### Raaseporin Karsbyhyn rakennettava kosteikko vähentää Itämeren rehevöitymistä ja tarjoaa elinympäristön kosteikkolajeille
 
 Julkaistu: 5.2.2026  
@@ -2279,37 +2085,6 @@ RANKKU 2-hankkeesta 70 prosenttia rahoitetaan Vesiensuojelun tehostamisohjelmast
 ---
 
 ## Tammikuu 2026
-
-### Näkökulma: Luonnonvarakeskuksen susikanta-arvio on paras, mitä saatavilla on
-
-Julkaistu: 27.1.2026  
-Aiheet: Susi, Näkökulma  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2026/01/nakokulma-luonnonvarakeskuksen-susikanta-arvio-on-paras-mita-saatavilla-on/
-
-**Luken virallista kanta-arviota arvostelleilla ei ole esittää uskottavia perusteita väitteilleen, kirjoittaa WWF Suomen ohjelmajohtaja Petteri Tolvanen.**
-
-Luonnonvarakeskus (Luke) on viime aikoina joutunut puolustelemaan julkisuudessa arviotaan Suomen susikannan koosta. Kuten Luken erikoistutkija Mia Valtonen sanoo Aamulehden haastattelussa (AL 20.1.), Lukella on käytössään resursseihinsa nähden parhaat tutkimusmenetelmät.
-
-Suteen liittyvissä konflikteissa on tutkitusti taustalla paljon muutakin kuin itse eläimeen liittyviä asioita. Niin Suomessa kuin muuallakin suteen liitetään sekä puoluepolitikointia että yleisempää, yhteiskuntaa polarisoivaa vastakkainasettelua.
-
-Osa asetelmaa on kanta-arvioiden jatkuva kyseenalaistaminen olemattomin tai virheellisin perustein. Sama ilmiö esiintyy myös esimerkiksi saimaannorpan kohdalla verkkokalastusrajoituksista keskusteltaessa Myös Vesa Laitinen ihmettelee – perustellusti – kolumnissaan, miten sudenmetsästyksestä on tullut puoluepoliittinen kysymys.
-
-Luken kanta-arvio perustuu useisiin eri tietolähteisiin ja parhaalla asiantuntemuksella niitä yhdistävään matemaattiseen malliin. Luken rakentama malli susikannan kehityksestä vuodenkierrossa on kansainvälisestikin esimerkillinen. Suden kanta-arvion kyseenalaistajilla ei ole ollut esittää uskottavia perusteita väitteilleen. Kunnollista tieteellistä näyttöä ei ole myöskään tukemaan väitettä siitä, että laillisen metsästyksen lisääminen vähentäisi susien salametsästystä.
-
-Pitää paikkansa, että suotuisissa oloissa susikanta voi kasvaa melko nopeasti ja kestää oikein mitoitettua metsästystä siellä, missä suden aiheuttamia todellisia ongelmia halutaan vähentää. Susikanta on kuitenkin luokiteltu Suomessa erittäin uhanalaiseksi jo ennen nyt meneillään olevaa sadan suden kiintiömetsästystä. Lisäksi kanta on jakautunut Itä- ja Länsi-Suomen erillisiin osakantoihin, joiden välillä on hyvin vähän yksilöiden vaihtoa. Koko valtava poronhoitoalue, joka on suden luontaista levinneisyysaluetta, on poliittisella päätöksellä tyhjennetty susilaumoista kokonaan Lapin suuria kansallispuistoja myöten. Siksi susikantamme ei aidosti ole tavoiteltavalla tasolla, jolla laji säilyy pitkällä aikavälillä elinvoimaisena osana luontaisia elinympäristöjään.
-
-Meneillään olevan sudenmetsästyksen tavoite tappaa kokonaisia laumoja ei välttämättä ratkaise niitä ongelmia, joilla metsästystä on perusteltu. Ensinnäkin lauma saattaa hajota, ja ilman laumaa saalistavat sudet voivat aiheuttaa vain lisää ongelmia. Näin kävi vuosien 2015–2016 niin sanotun kannanhoidollisen sudenmetsästyksen epäonnistuneessa kokeilussa.
-
-Toinen huomioitava seikka on se, että jos reviirialue on ollut sudelle suotuisa, tilalle tulee hyvinkin mahdollisesti uusi lauma.
-
-Aamulehden pääkirjoituksen otsikossa todetaan, että susikeskustelu vaatii tietoa ja ymmärrystä (AL 18.1.). WWF on täysin samalla kannalla ja katsoo, että suden tappoluvat tulisi kohdistaa turvallisuus- ja vahinkoperusteisesti tilanteisiin, joissa sudet aidosti aiheuttavat vahinkoja, joita ei voida muilla keinoin estää. Ensisijaisen vaihtoehdon on oltava ennaltaehkäisy. Esimerkiksi kotieläinten suojaamisessa tehokkaita keinoja ovat muun muassa petoaidat ja laumanvartijakoirat.
-
-Kirjoitus on alun perin julkaistu Aamulehden verkkosivulla 25. tammikuuta 2026.
-
-Lisätietoja: Petteri Tolvanen, Ohjelmajohtaja
-
----
 
 ### Salmensuun tila yhdistää ympäristönsuojelun ja lihantuotannon –”Luonnonlaidunliha syntyy luonnonhoidon seurauksena”
 
@@ -2458,7 +2233,6 @@ Itä-Suomen yliopiston matkailuliiketoiminnan professorin Juho Pesosen mukaan Eu
 Julkaistu: 22.1.2026  
 Aiheet: Uncategorized @fi, Ennallistaminen, Suomen uhanalaiset kalat, Suomi, Virtavedet  
 Kirjoittaja: Noora Jussila  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2026/01/merkittava-projekti-niin-kaloille-kuin-ihmisille-palokin-koskien-vapauttaminen-puhutti-kolilla/
 
 **Palokin padon purkaminen ja koskien vapauttaminen voisi auttaa pelastamaan henkitoreissaan olevan järvilohen ja tuoda samalla uusia matkailuelinkeinon mahdollisuuksia Itä-Suomeen.**

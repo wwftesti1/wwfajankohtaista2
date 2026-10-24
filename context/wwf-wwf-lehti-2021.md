@@ -10,10 +10,10 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 - 3.12.2021 – Ympäristökansalaisten esiinmarssi
 - 3.12.2021 – Vesi haihtuu virtahevolta, kuumuus kurittaa kimalaista – Näin ilmastonmuutos vaikuttaa eläimiin eri puolilla maapalloa
-- 3.12.2021 – ”Tämäkin alue on merkitty avohakattavaksi” – työryhmä kartoittaa viimeisiä luonnonmetsiä
+- 3.12.2021 – “Tämäkin alue on merkitty avohakattavaksi” – työryhmä kartoittaa viimeisiä luonnonmetsiä
 - 3.12.2021 – Ronja Salmen kolumni: Voiko rikkinäisillä somealustoilla vaikuttaa?
 - 3.12.2021 – Parempaa ruokaa itselle ja ympäristölle
-- 3.12.2021 – Koululaiset askartelivat Itämeren hyväksi:”Kalatkin tarvitsevat suojaa”
+- 3.12.2021 – Koululaiset askartelivat Itämeren hyväksi: “Kalatkin tarvitsevat suojaa”
 - 3.12.2021 – Kiljuhanhien syysmuutto onnistui ja muita luonnonsuojelun onnistumisia
 - 3.12.2021 – Itämeren ympäristöystävällisimmäksi sukupolvien työllä
 - 3.12.2021 – Anssi Vainikka auttaa suojelutyötä luontokuvillaan
@@ -30,7 +30,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 7.10.2021 – Vapaaehtoiset uurastavat ruokapalkalla rakkaudesta luontoon – pieneltä tuntuvalla työllä on suuret vaikutukset
 - 7.10.2021 – Paula Noronen loi luontoa suojelevan marsun – aikuisillakin olisi opittavaa suloiselta sankarilta
 - 7.10.2021 – Odotamme huippukokouksista päätöksiä luonnon puolesta
-- 7.10.2021 – Meribiologi uskoo tiedon voimaan:”Jotkut näkevät meren vain ruoan toimittajana ja jätteiden hävittämispaikkana”
+- 7.10.2021 – Meribiologi uskoo tiedon voimaan: “Jotkut näkevät meren vain ruoan toimittajana ja jätteiden hävittämispaikkana”
 - 7.10.2021 – Meriasiantuntija ryhtyi WWF:n Ilmasto-kummiksi:”Tiedeyhteisö on yksimielinen siitä, että viime aikojen muutokset johtuvat ilmaston lämpenemisestä.”
 - 7.10.2021 – Lauhkeasta laamasta kuoriutuu tositilanteessa taistelija – Jingo ja Timotei suojelevat lammaslaumaa pedoilta
 - 7.10.2021 – Jani Kaaron kolumni: Kuinka typpi pysäytti Hollannin
@@ -41,8 +41,8 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 - 11.6.2021 – WWF 60 vuotta – Juhlimme kuudella onnistumistarinalla, joiden lopputekstit kirjoitetaan yhdessä
 - 11.6.2021 – WWF murtaa metsätyöllään jatkuvan kasvatuksen myytit
-- 11.6.2021 – Viidellä vuosikymmenellä saimaannorppia suojellut Juha Taskinen:”Ammattikalastajana koen olevani norpansuojelun ytimessä”
-- 11.6.2021 – Näin syntyy suosittu Luontolive:”Löysin itseni kantamasta kottikärryjä ruovikosta”
+- 11.6.2021 – Viidellä vuosikymmenellä saimaannorppia suojellut Juha Taskinen: “Ammattikalastajana koen olevani norpansuojelun ytimessä”
+- 11.6.2021 – Näin syntyy suosittu Luontolive: “Löysin itseni kantamasta kottikärryjä ruovikosta”
 - 11.6.2021 – Kim Jaatinen ja Turre-koira toteuttavat mahdollisimman eettistä vieraspetojen torjuntaa
 - 11.6.2021 – Keidas keskellä metsää suojelee vesiä
 - 10.6.2021 – WWF juhlii, työ jatkuu
@@ -57,10 +57,10 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 **Maaliskuu 2021**
 
-- 26.3.2021 – Haamuverkkojen etsijät törmäsivät toisen maailmansodan aikaiseen ENIGMA-salauslaitteeseen:”Ylivoimaisesti kiinnostavin löytö tähän mennessä”
-- 25.3.2021 – Toimittaja maalaa hetkiä lähiluonnosta:”Luonnon ainutlaatuisuutta ei tarvitse lähteä etsimään kaukaa.”
+- 26.3.2021 – Haamuverkkojen etsijät törmäsivät toisen maailmansodan aikaiseen ENIGMA-salauslaitteeseen: “Ylivoimaisesti kiinnostavin löytö tähän mennessä”
+- 25.3.2021 – Toimittaja maalaa hetkiä lähiluonnosta: “Luonnon ainutlaatuisuutta ei tarvitse lähteä etsimään kaukaa.”
 - 25.3.2021 – Näin valkoselkätikka nousi suojeluikoniksi sukupuuton partaalta
-- 25.3.2021 – ”Miten voisimme taistella kestävämmän tulevaisuuden puolesta?”
+- 25.3.2021 – “Miten voisimme taistella kestävämmän tulevaisuuden puolesta?”
 - 25.3.2021 – Arktisen luonnon ystävän suuri unelma: naalien paluu Suomeen pesimään
 - 24.3.2021 – Pinnalla nyt: mustekaladokumentti ja luonnon äänet
 - 24.3.2021 – Maapallon metsät ovat suojavyöhykkeitämme, ja nyt ne hupenevat hälyttävästi
@@ -68,7 +68,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 24.3.2021 – Koalat saavat uusia elinympäristöjä ja muita luonnonsuojelun onnistumisia
 - 24.3.2021 – Jani Kaaron kolumni: Maisemassa huippupeto
 - 24.3.2021 – Ilmastonmuutos vei jo elintilan riuttamosaiikkirotalta – Lisää sukupuuttoja seuraa, jos ilmastokriisiä ja luontokatoa ei ratkaista yhdessä
-- 23.3.2021 – Seuraajat inspiroivat somevaikuttaja Sita Salmista ympäristötekoihin:”Voin saada teoillani aikaan moninkertaisen vaikutuksen”
+- 23.3.2021 – Seuraajat inspiroivat somevaikuttaja Sita Salmista ympäristötekoihin: “Voin saada teoillani aikaan moninkertaisen vaikutuksen”
 
 ---
 
@@ -173,7 +173,7 @@ Voimme suojella virtahepoja torjumalla ilmastonmuutosta ja metsäkatoa, edistäm
 
 ---
 
-### ”Tämäkin alue on merkitty avohakattavaksi” – työryhmä kartoittaa viimeisiä luonnonmetsiä
+### “Tämäkin alue on merkitty avohakattavaksi” – työryhmä kartoittaa viimeisiä luonnonmetsiä
 
 Julkaistu: 3.12.2021  
 Aiheet: WWF-lehti, Metsäkato, Suomen metsät  
@@ -363,7 +363,7 @@ Keskimäärin 65 prosenttia ruuankulutuksen ilmastovaikutuksista Suomessa muodos
 
 ---
 
-### Koululaiset askartelivat Itämeren hyväksi:”Kalatkin tarvitsevat suojaa”
+### Koululaiset askartelivat Itämeren hyväksi: “Kalatkin tarvitsevat suojaa”
 
 Julkaistu: 3.12.2021  
 Aiheet: WWF-lehti, Itämeri  
@@ -760,7 +760,7 @@ pääsihteeri, WWF Suomi
 
 ---
 
-### Meribiologi uskoo tiedon voimaan:”Jotkut näkevät meren vain ruoan toimittajana ja jätteiden hävittämispaikkana”
+### Meribiologi uskoo tiedon voimaan: “Jotkut näkevät meren vain ruoan toimittajana ja jätteiden hävittämispaikkana”
 
 Julkaistu: 7.10.2021  
 Aiheet: WWF-lehti, Kentällä, Liikakalastus, Meret  
@@ -1189,7 +1189,7 @@ Peitteinen metsä varastoi hiiltä maaperään paremmin kuin avohakattu metsä, 
 
 ---
 
-### Viidellä vuosikymmenellä saimaannorppia suojellut Juha Taskinen:”Ammattikalastajana koen olevani norpansuojelun ytimessä”
+### Viidellä vuosikymmenellä saimaannorppia suojellut Juha Taskinen: “Ammattikalastajana koen olevani norpansuojelun ytimessä”
 
 Julkaistu: 11.6.2021  
 Aiheet: WWF-lehti, Luonnon köyhtyminen, Saimaannorppa, Suomi  
@@ -1218,7 +1218,7 @@ Muun muassa dokumentaristina työskennellyt Taskinen tuntee nyt kalastajan ammat
 
 ---
 
-### Näin syntyy suosittu Luontolive:”Löysin itseni kantamasta kottikärryjä ruovikosta”
+### Näin syntyy suosittu Luontolive: “Löysin itseni kantamasta kottikärryjä ruovikosta”
 
 Julkaistu: 11.6.2021  
 Aiheet: WWF-lehti, Kentällä, Luontolive  
@@ -1557,7 +1557,7 @@ Tutustu esimerkkeihin: wwf.fi/kuntavaalit/
 
 ## Maaliskuu 2021
 
-### Haamuverkkojen etsijät törmäsivät toisen maailmansodan aikaiseen ENIGMA-salauslaitteeseen:”Ylivoimaisesti kiinnostavin löytö tähän mennessä”
+### Haamuverkkojen etsijät törmäsivät toisen maailmansodan aikaiseen ENIGMA-salauslaitteeseen: “Ylivoimaisesti kiinnostavin löytö tähän mennessä”
 
 Julkaistu: 26.3.2021  
 Aiheet: WWF-lehti, Itämeri, Luonnon köyhtyminen, Merten muoviroska  
@@ -1592,7 +1592,7 @@ Geltinger Buchtin ENIGMA-laite on nyt lähetetty arkeologisen museon kunnostusty
 
 ---
 
-### Toimittaja maalaa hetkiä lähiluonnosta:”Luonnon ainutlaatuisuutta ei tarvitse lähteä etsimään kaukaa.”
+### Toimittaja maalaa hetkiä lähiluonnosta: “Luonnon ainutlaatuisuutta ei tarvitse lähteä etsimään kaukaa.”
 
 Julkaistu: 25.3.2021  
 Aiheet: WWF-lehti, Luonnon köyhtyminen, Tukijan tarina  
@@ -1700,7 +1700,7 @@ Valkoselkätikan kannan kasvusta huolimatta tehtävää riittää edelleen.
 
 ---
 
-### ”Miten voisimme taistella kestävämmän tulevaisuuden puolesta?”
+### “Miten voisimme taistella kestävämmän tulevaisuuden puolesta?”
 
 Julkaistu: 25.3.2021  
 Aiheet: WWF-lehti, WWF Nuoret, Ympäristökasvatus  
@@ -1978,7 +1978,7 @@ Suomessa Nordman ja Tolvanen näkevät paljon mahdollisuuksia ympäristöministe
 
 ---
 
-### Seuraajat inspiroivat somevaikuttaja Sita Salmista ympäristötekoihin:”Voin saada teoillani aikaan moninkertaisen vaikutuksen”
+### Seuraajat inspiroivat somevaikuttaja Sita Salmista ympäristötekoihin: “Voin saada teoillani aikaan moninkertaisen vaikutuksen”
 
 Julkaistu: 23.3.2021  
 Aiheet: WWF-lehti, Earth Hour, Ilmastonmuutos, Luonnon köyhtyminen  

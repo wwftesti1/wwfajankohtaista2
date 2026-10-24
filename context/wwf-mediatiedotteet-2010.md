@@ -3,7 +3,6 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Mediatiedotteet). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 111 (uusin 23.12.2010).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 110 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -162,7 +161,6 @@ Huom: 110 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdety
 
 Julkaistu: 23.12.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/12/wwf-tyytyvainen-raippaluodon-tuulivoimapaatokseen/
 
 **Ympäristöministeriö vahvisti tiistaina 21.12. Pohjanmaan maakuntakaavan. Kaavassa osoitettu Raippaluodon tuulivoima-alue jätettiin vahvistamatta, koska selvitysten puutteellisuuden vuoksi ei voitu varmistua siitä, täyttyvätkö siellä laissa asetetut sisältövaatimukset luonnonarvojen vaalimisen osalta. WWF:n mielestä ympäristöministeriön päätös on perusteltu ja oikea.**
@@ -183,7 +181,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 22.12.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/12/sulkavalle-rakennetaan-yksi-suomen-laajimmista-maatalouskosteikoista/
 
 **Innokkaan maanomistajan ja hyvän yhteistyön ansiosta Saimaan rantaa koristaa pian yksi laaja-alaisimmista, ei-tuotannollisella investointituella rahoitetuista kosteikkokohteista. Sulkavalle Pihlajaveden rannan tuntumaan rakennettava, yli 20 hehtaarin kokoiseksi suunniteltu kosteikko auttaa Pihlajaveden arvokkaan vesistöalueen tilan parantamisessa.**
@@ -220,7 +217,6 @@ Lisätietoa WWF:n kosteikkotyöstä
 
 Julkaistu: 11.12.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/12/jarjestot-cancunista-pohja-ilmastosopimukselle-teollisuusmaille-rutkasti-kotitoita/
 
 **Cancúnin ilmastokokouksessa saatiin lopulta aikaan sopu, joka on askel kohti sitovan kansainvälisen ilmastosopimuksen syntymistä Etelä-Afrikassa vuoden päästä. Suomalaisten kehitys- ja ympäristöjärjestöjen mukaan sopimus samalla palautti uskon YK-järjestelmään.**
@@ -253,7 +249,6 @@ Lisätietoja: Katri Suomi, Kirkon Ulkomaanapu, 050 326 3487, [email protected] (
 
 Julkaistu: 9.12.2010  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/12/wwf-vaatii-uhanalaisille-kalalajeille-sama-lainsuoja-kuin-uhanalaisilla-nisakkailla/
 
 **Äärimmäisen uhanalaisen saimaannorpan lihaa myytäväksi torille tai naalinnahkoista rukkaset? Kiljuhanhen maksaa joulupöytään? Ajatuskin pöyristyttää, mutta saimaannorpan tavoin äärimmäisen uhanalaiseksi luokiteltua meritaimenta ja erittäin uhanalaiseksi luokiteltavaa ankeriasta voi löytyä kalatiskistä aivan laillisesti. Äärimmäisen uhanalaiseksi luokiteltua järvilohta, Saimaan nieriää ja meriharjusta voi myös pyytää lähes rajoituksetta.**
@@ -280,7 +275,6 @@ Lisätietoja: Jari Luukkonen, suojelujohtaja, WWF Suomi, puh. + 358 40 585 0020 
 
 Julkaistu: 7.12.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/12/suomen-sijoitus-ilmastovertailussa-parantunut-arvosana-silti-heikko/
 
 **Cancúnin ilmastokokouksessa julkaistu vertailu maiden ilmastotoimista sijoittaa Suomen samaan joukkoon Japanin, Tanskan ja Ukrainan kanssa. Vertailussa arvioitiin maiden päästökehitystä, päästötasoa sekä kansallista ja kansainvälistä ilmastopolitiikkaa. Ympäristöjärjestöt ovat ilahtuneita Suomen sijoituksen kohentumisesta mutta korostavat että Suomella on vielä paljon parannettavaa.**
@@ -329,7 +323,6 @@ Avaaz.orgin vetoomus: Finland: Trees not Tricks: http://www.avaaz.org/en/finland
 
 Julkaistu: 5.12.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/12/ymparisto-ja-kehitysjarjestot-suomen-ja-eun-on-painostettava-japania-mukaan-kioton-poytakirjan-jatkoon/
 
 **Kioton pöytäkirjan tulevaisuus on Cancúnin ilmastoneuvottelujen ensimmäisellä viikolla noussut yhdeksi tärkeimmistä kysymyksistä Japanin ilmoitettua vastustavansa Kioton pöytäkirjan jatkoa. Ilmoitus saattaa vaarantaa sekä Cancúnin onnistumisen että laillisesti sitovan kansainvälisen ilmastosopimuksen saavuttamisen Etelä-Afrikassa ensi vuonna. Suomalaiset kehitys- ja ympäristöjärjestöt kannustavat Suomea ja Euroopan unionia painostamaan Japania, jotta tämä muuttaisi kantaansa Kioton pöytäkirjan jatkoon.**
@@ -360,7 +353,6 @@ Lisätietoja:
 
 Julkaistu: 2.12.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/12/wwf-patistelee-paattajia-omistamaan-10-minuuttia-merien-aluesuunnittelulle/
 
 **WWF Suomi patistelee päättäjiä perehtymään merien aluesuunnitteluun. Uusi, nykyistä paljon yhtenäisempi suunnittelujärjestelmä on välttämätön, jotta kilpailevat käyttöpaineet Itämerellä voitaisiin sovittaa yhteen alueen luonnonarvot säilyttäen. WWF lahjoitti tänään kansanedustajille ja muille päättäjille sarjakuvaesitteen, jota lukemalla he voivat noin kymmenessä minuutissa tutustua hauskalla tavalla merien aluesuunnitteluun. Jos esitteestä lukaisee yhden sivun jokaisena joulunaluspäivänä, voi jouluaattona jo todeta hallitsevansa suunnittelun perusteet!**
@@ -417,7 +409,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 30.11.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/metsahallitus-uudistaa-metsatalouden-ymparistooppaan-yhteistyossa-wwfn-kanssa/
 
 **Metsähallitus kehittää valtion talousmetsien monitavoitteista käyttöä uudistamalla ympäristöohjeistuksen (Metsätalouden ympäristöoppaan). Uusi ohjeistus edistää metsien monipuolista hyödyntämistä ja ekosysteemipalveluiden tuottamista valtion talousmetsissä. Keskeisenä yhteistyökumppanina oppaan uudistamisessa on WWF Suomi.**
@@ -442,7 +433,6 @@ Lisätietoja: Petri Heinonen, ympäristöpäällikkö, Metsähallitus, puh. 040 
 
 Julkaistu: 29.11.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/cancunin-ilmastokokouksen-neuvottelijoilla-paljon-kirittavaa/
 
 **WWF:n mukaan Cancunin ilmastokokouksen neuvottelijoiden tärkein tehtävä on sopia yhteisestä suunnitelmasta siitä, miten ilmastonmuutoksen hillintä saadaan tarvittavalle tasolle. Tällä hetkellä laajasti hyväksytyn tavoitteen rajoittaa lämpeneminen alle kahteen asteeseen ja ilmoitettujen päästövähennys- ja rahoitussitoumusten välinen kuilu on liian suuri.**
@@ -565,7 +555,6 @@ Onko toimittajanne paikan päällä Cancunissa? Haluatteko WWF:n tiedotteet suor
 
 Julkaistu: 26.11.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/historiallisen-kokouksen-rahoituspaatos-voi-pelastaa-tiikerit-sukupuutolta/
 
 **Pietarissa pidetyssä kokouksessa tehty päätös tiikerien suojelun rahoituksesta antaa toivoa uhanalaisille kissaeläimille. Tiikerivaltiot sitoutuivat hankkimaan 127 miljoonaa dollaria tiikerien suojeluun.**
@@ -590,7 +579,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 24.11.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/kasvavilla-talouksilla-mahdollisuus-nousta-eturintamaan-ilmastonmuutoksen-vastaisessa-tyossa/
 
 **Merkittävillä nousevilla talouksilla on hyvät mahdollisuudet edetä johtoasemiin tehokkailla suunnitelmillaan ilmastonmuutosta aiheuttavien hiilidioksidipäästöjen vähentämiseksi, paljastaa tänään julkaistu WWF:n raportti. Meksikon Cancúnissa pidettävän YK:n ilmastokokouksen kynnyksellä julkaistu raportti tarkastelee päästötrendejä ja ilmastonmuutokseen liittyviä toimintasuunnitelmia viidessä maailman suurimmista kehittyvistä talouksista – Brasiliassa, Kiinassa, Intiassa, Meksikossa ja Etelä-Afrikassa.**
@@ -639,7 +627,6 @@ Lisätietoja WWF:n ilmastopolitiikasta: www.panda-org/climate Tietoja Cancúnin 
 
 Julkaistu: 24.11.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/if-ja-wwf-edistavat-yhdessa-paperitonta-asiointia/
 
 **WWF Suomi (Maailman luonnonsäätiö) ja vahinkovakuutusyhtiö If käynnistävät vuoden 2011 alusta yhteistyön, jonka keskeisenä tavoitteena on kannustaa vakuutuskuluttajia paperittomaan asiointiin. Satoja Ifin kuluttaja-asiakkaita siirtyy joka kuukausi käyttämään paperitonta palvelua. Korvaushakemuksista jo yli puolet tehdään verkossa.**
@@ -668,7 +655,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 23.11.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/suomi-sijoittuu-ilmastopolitiikan-vertailussa-hantapaahan/
 
 **Tänään julkaistavan raportin mukaan EU-maat tekevät tällä hetkellä vain kolmanneksen siitä, mitä ilmastonmuutoksen torjunnan kannalta välttämättömien päästövähennysten toteuttaminen (vähentäminen 80-95 %:lla) vuoteen 2050 mennessä edellyttäisi. Suomella on erityisen paljon tekemistä päästövähennysten aikaansaamiseksi, sillä Suomi sijoittuu EU-maiden ilmastopolitiikan vertailuraportissa Puolan, Romanian ja Bulgarian joukkoon. Nämä tiedot ilmenevät tänään julkaistavasta WWF:n ja Ecofys:n seurantaraportista.**
@@ -715,7 +701,6 @@ European Policy Tracker on ilmastopolitiikan seurantatyökalu, joka mittaa kaikk
 
 Julkaistu: 17.11.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/ruotsalainen-viljelijapari-on-tana-vuonna-itameren-ymparistoystavallisin/
 
 **WWF myönsi tänään ruotsalaisille Håkan ja Teri Lee Erikssonille Itämeren ympäristöystävällisimmän viljelijän palkinnon. Vuosittain järjestettävän kilpailun tarkoituksena on innostaa Itämeren alueen viljelijöitä torjumaan aktiivisesti rehevöitymistä. Kilpailun järjestäjiä ovat WWF, ruotsalainen Swedbank, Itämeren viljelijöiden ympäristöfoorumi ja Itämeren alueen viljelijäjärjestöt (Suomessa MTK).**
@@ -750,7 +735,6 @@ Lisää tietoa: Itämeren viljelijöiden ympäristöpalkinto-verkkosivut Itämer
 
 Julkaistu: 16.11.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/jarjestot-cancunin-kokouksessa-rakennettava-luottamuspohjaa-ilmastosovulle/
 
 **SAK, Akava ja kansalliset kehitys- ja ympäristöjärjestöt ovat tänään julkaisseet omat tavoitteensa Cancúnissa Meksikossa joulukuussa pidettävälle YK:n ilmastokokoukselle.**
@@ -791,7 +775,6 @@ Mats Nyman, Akava, 050 328 1236, [email protected] Kaisa Kosonen, Greenpeace, 05
 
 Julkaistu: 15.11.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/vuoden-luontokirja-2010-suomen-lasten-luontokirja/
 
 **WWF Suomen Vuoden luontokirja 2010 -kilpailun voittaja on ratkennut. Kilpailun on ensimmäistä kertaa voittanut lapsille ja nuorille suunnattu teos, Lasse J. Laineen ja Iiris Kalliolan kirjoittama ja Kustannusyhtiö Otavan kustantama Suomen lasten luontokirja. WWF on valinnut Vuoden luontokirjan vuodesta 1978.**
@@ -870,7 +853,6 @@ Lasse J. Laine ja Iiris Kalliola ovat biologeja ja tietokirjailijoita. Laine tun
 
 Julkaistu: 2.11.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/11/itameren-viljelijoiden-ymparistopalkinto-heikkilan-tilalle/
 
 **Heikkilän tila on voittanut tänä vuonna WWF:n ja MTK:n järjestämän kilpailun Suomen ympäristöystävällisimmän viljelijän nimeämiseksi. Loimaalla sijaitseva Teppo Heikkilän tila kasvattaa sekä luomulihakarjaa että -rehua. Heikkilän tila edustaa Suomea koko Itämeren alueen viljelijöiden välisessä loppukilpailussa, jonka voittaja julkistetaan 17.11. Helsingissä.**
@@ -983,7 +965,6 @@ WWF Finland är en del av det internationella WWF-nätverket, som arbetar för a
 
 Julkaistu: 29.10.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/wwf-luonto-hyotyy-uudesta-biodiversiteettisopimuksesta/
 
 **WWF iloitsee Japanissa, Nagoyassa, tänään solmitusta luonnon monimuotoisuutta koskevasta kansainvälisestä sopimuksesta. Toteutuessaan uusi biodiversiteettisopimus auttaa WWF:n mukaan torjumaan lajien uutta sukupuuttoaaltoa ja pysäyttämään maailman arvokkaan luonnon köyhtymisen.**
@@ -1026,7 +1007,6 @@ http://wwf.panda.org/?196262/Nature-gets-major-boost-from-new-biodiversity-deal
 
 Julkaistu: 28.10.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/venaja-perui-tiikerien-elinalueiden-metsahuutokaupan/
 
 **Venäjän Primorskyn maakunnan metsähallinto on perunut tälle viikolle suunnitellun huutokaupan amurintiikerien elinalueiden metsänhakkuuoikeuksista. Toteutuessaan hakkuut tuhoaisivat amurintiikerien ja niiden saaliseläinten kuten lohen tärkeimpiä lisääntymis-, talvehtimis- ja ravinnonsaantialueita sekä helpottaisivat salametsästäjien pääsyä alueelle.**
@@ -1105,7 +1085,6 @@ http://wwf.panda.org/?196198/Public-outcry-fells-Russia-auction-for-logging-righ
 
 Julkaistu: 26.10.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/amazonilta-loydetty-viimeisen-kymmenen-vuoden-aikana-uusi-laji-joka-kolmas-paiva/
 
 **Amazonin alueelta on löydetty vuosina 1999–2009 yli 1200 uutta kasvi- ja eläinlajia. Tämä tarkoittaa yhtä uutta lajia joka kolmas päivä, mikä tekee Amazonista yhden luonnoltaan maailman monimuotoisimmista paikoista, kertoo WWF:n tuore raportti. Alueen luontoa uhkaavat lisääntyvä laidunmaan ja soijarehun kysyntä.**
@@ -1176,7 +1155,6 @@ Vuosi 2010 on YK:n kansainvälinen luonnon monimuotoisuuden vuosi. WWF työskent
 
 Julkaistu: 25.10.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/vuoden-luontokirja-2010-kilpailun-finalistit-on-valittu/
 
 **WWF:n Vuoden luontokirja 2010 -kilpailu on edennyt finaaliin asti. Viiden finalistin joukossa on sekä visuaalisesti näyttäviä että sisällöltään viihdyttäviä teoksia. Ensimmäistä kertaa Vuoden Luontokirja -finaalissa on mukana lapsille ja nuorille sekä heidän vanhemmilleen suunnattu teos, Otavan Suomen Lasten Luontokirja. WWF on valinnut Vuoden Luontokirjan vuodesta 1978.**
@@ -1211,7 +1189,6 @@ WWF:n Vuoden luontokirja -kilpailu järjestetään tänä vuonna jo 33. kerran. 
 
 Julkaistu: 22.10.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/venajan-metsahuutokauppa-uhkaa-amurintiikereita/
 
 **Venäjän Kaukoidässä sijaitsevan Primorskyn maakunnan metsähallinto on päättänyt huutokaupata metsänhakkuuoikeuksia uhanalaisen amurintiikerin elinalueilla. Päätös on huolestuttava uutinen ensi kuussa Pietarissa pidettävän kansainvälisen tiikerikokouksen alla.**
@@ -1260,7 +1237,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 15.10.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/itameren-maiden-suurimman-nuorten-luontovalokuvakilpailun-voittaja-loytyi-saksasta/
 
 **Baltic Sea – Young Wildlife Photographer 2010 -kilpailu on ratkennut. Itämeren maiden suurimman nuorten luontovalokuvakilpailun voitti 17-vuotias Hermann Hirsch Dortmundista Saksasta. Kaiken kaikkiaan kisaan lähetettiin yhdeksästä Itämeren maasta 1456 kuvaa, joista noin kolmannes oli suomalaisten ottamia kuvia.**
@@ -1317,7 +1293,6 @@ Tävlingens svenska huvuddomare Staffan Widstrand kan intervjuas i Helsingfors 1
 
 Julkaistu: 13.10.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/wwfn-living-planet-2010-raportti-tropiikin-luonto-on-koyhtynyt-voimakkaasti/
 
 **Trooppisten lajien määrä on romahtanut samaan aikaan, kun ihmiskunnan ekologinen jalanjälki on kasvanut jyrkästi. Jalanjälki ylittää maapallon kantokyvyn nyt jo 50 prosentilla. Tämä käy ilmi kansainvälisen ympäristöjärjestö WWF:n uusimmasta Living Planet 2010 -raportista. Raportti on yksi painavimmista maapallon tilaa analysoivista katsauksista.**
@@ -1450,7 +1425,6 @@ WWF Finland är en del av det internationella WWF-nätverket som arbetar för at
 
 Julkaistu: 11.10.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/merikotkien-satelliittiseuranta-laajenee/
 
 **WWF on asentanut satelliittilähettimen Hilkaksi nimetylle merikotkalle, joka syntyi kesällä tuulivoimalan välittömässä läheisyydessä olevaan pesään. Lisäksi neljän muun merikotkan jo yli vuoden käynnissä ollut satelliittiseuranta jatkuu. Tutkimuksella saadaan uutta tietoa merikotkan ja tuulivoiman suhteesta. Tuloksia voidaan hyödyntää, kun arvioidaan suunnitteilla olevien tuulivoimapuistojen ympäristövaikutuksia.**
@@ -1481,7 +1455,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 8.10.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/kansallinen-vastuullisen-metsanhoidon-fsc-standardi-on-historiallinen-askel-suomalaisessa-metsanhoidossa/
 
 **WWF pitää tänään tehtyä päätöstä kansallisesta hyvän metsänhoidon FSC-standardista historiallisena askeleena suomalaisten metsien kestävässä käytössä. Suomen FSC -yhdistyksen tekemän päätöksen ansiosta suomalaiset metsänomistajat voivat nyt hyötyä kansainvälisestä vastuullisen puun ja paperin kysynnästä ja turvata samalla entistä paremmin metsäluonnon monimuotoisuuden talousmetsissään.**
@@ -1504,7 +1477,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 7.10.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/julkisen-ruokahuollon-on-tarjottava-enemman-kotimaista-kalaa/
 
 **WWF Suomi haastaa työpaikkaruokalat, varuskuntien ja koulujen keittiöt sekä muun julkisen ruokahuollon edistämään kotimaisen kalan käyttöä. Nykyään jopa 80 prosenttia julkisen ruokahuollon tarjoamasta kalasta on peräisin Suomen rajojen ulkopuolelta, joskus hyvinkin kaukaa.**
@@ -1531,7 +1503,6 @@ Tutustu WWF:n Meren herkkuja -kalaoppaaseen
 
 Julkaistu: 6.10.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/kasvihuonekaasujen-sietoraja-vaarassa-ylittya-kolmanneksella-vuonna-2020/
 
 **Nykyinen ilmastopolitiikka näyttäisi johtavan siihen, että kasvihuonekaasupäästöt nousevat vuoteen 2020 mennessä jopa kolmanneksen ilmaston kestokykyä korkeammalle. Näin kertoo WWF:n tuore analyysi, joka julkaistiin tänään YK:n kansainvälisten ilmastoneuvottelujen yhteydessä Kiinassa.**
@@ -1596,7 +1567,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 1.10.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/10/wwf-silakkamarkkinoilla-3-10-silakkasushia-ja-kalaoppaita/
 
 **Ensi sunnuntaina WWF:n teltassa Helsingin silakkamarkkinoilla jaetaan maistiaisia kalatukku E. Erikssonin valmistamasta silakkasushista klo 10-13. Yleisöllä on nyt mahdollisuus tutustua yhteen tuotteeseen, jossa perinteisesti käytetty tonnikala on korvattu Itämeren silakalla.**
@@ -1633,7 +1603,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 22.9.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/09/wwfn-naturewatch-stipendi-porvooseen-ja-joutsaan/
 
 **Joutsan yhtenäiskoulu Joutsasta sekä Linnajoen koulu Porvoosta saavat WWF:n Naturewatch-stipendin lukuvuodelta 2009–2010. Stipendi myönnetään erityisen ansiokkaasta ympäristökasvatustyöstä. Uusia aiheita Naturewatch-tutkimuksissa tänä vuonna olivat kestävä elämäntapa ja rakennettu ympäristö.**
@@ -1662,7 +1631,6 @@ Lisätietoja: WWF, ympäristökasvattaja Essi Aarnio-Linnanvuori, 050 511 4397, 
 
 Julkaistu: 22.9.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/09/risteilyalukset-laskevat-yha-jatevesiaan-itamereen/
 
 **Yli puolet Itämerellä liikennöivistä kansainvälisistä risteilyaluksista laskee yhä jätevetensä suoraan mereen, kansainvälinen ympäristöjärjestö WWF kertoo. WWF vaatii jätevesien päästökieltoa ensi viikolla järjestettävässä kansainvälisessä meriensuojelukokouksessa.**
@@ -1721,7 +1689,6 @@ Mera information: Kommunikationsdirektör Anne Brax, WWF Finland, tfn 050 3671 8
 
 Julkaistu: 20.9.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/09/amazonin-sademetsien-sisaltamaa-hiilta-kartoitettiin-menestyksellisesti-perussa/
 
 **Sademetsien suojelu helpottuu trooppisten metsien sisältämän hiilen kartoitukseen ja seurantaan kehitetyn menetelmän avulla, arvioi ympäristöjärjestö WWF. Uudella ilma- ja satelliittikuviin perustuvalla menetelmällä pystytään laskemaan trooppisten metsien sisältämän hiilen määrä erittäin tarkasti. Sen avulla voidaan myös seurata ilmastonmuutosta vahvistavien hiilipäästöjen syntymistä. Menetelmää testattiin Perussa, jossa kartoitettiin onnistuneesti Amazonin sademetsien sisältämää hiiltä.**
@@ -1758,7 +1725,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 10.9.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/09/wwf-ministeri-lehtomaki-palautti-uskon-hallituksen-itameren-suojelutahtoon/
 
 **Ympäristöjärjestö WWF on arvostellut hallitusta ja ympäristöministeri Paula Lehtomäkeä hallituskauden aikana luonnon- ja ympäristönsuojelun unohtamisesta. Viimeisessä budjettineuvottelussaan ministeri Lehtomäki kuitenkin osoitti ympäristöministerille kuuluvaa päättäväisyyttä ja onnistui saamaan budjettiin takaisin Itämeren suojeluun tarkoitetun kolmen miljoonan euron määrärahan, jonka valtiovarainministeriö leikkasi esityksestä.**
@@ -1783,7 +1749,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 9.9.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/09/kosteikkojen-puhdistustehon-parantamista-ryhdyttiin-testaamaan-jokioisissa/
 
 **Kosteikot pidättävät parhaimmillaan tehokkaasti pelloilta ja muualta maataloudesta aiheutuvia ravinnepäästöjä ja ehkäisevät näin Itämeren ja muiden vesistöjen rehevöitymistä. Kosteikkojen tehoa ravinnevalumien vähentämisessä voi ehkä tehostaa entisestään soveltamalla yhdyskuntajätevesien tai pilaantuneiden pohjavesien puhdistuksesta tuttuja periaatteita. Näitä menetelmiä testataan nyt EU:n tukemassa suomalais-virolaisessa Active Wetlands -hankkeessa.**
@@ -1824,7 +1789,6 @@ MTT:n vesistöystävällinen maatalous: www.mtt.fi/vesistoystavallinen_maatalous
 
 Julkaistu: 9.9.2010  
 Kirjoittaja: Jaakko Poikonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/09/itameren-ymparistoystavallisinta-maanviljelijaa-etsitaan-jalleen/
 
 **WWF Suomen ja Maa- ja metsätaloustuottajain keskusliitto MTK ry:n kilpailu vuoden 2010 ympäristöystävällisimmän maataloustuottajan löytämiseksi Suomesta on loppusuoralla. Kilpailu on osa laajempaa WWF:n ja Itämeren alueen viljelijöiden ympäristöfoorumin kilpailua Itämeren ympäristöystävällisimmästä viljelijästä. Hakemuksia otetaan vastaan 30.9. saakka.**
@@ -1887,7 +1851,6 @@ WWF har inom projektet Baltic Ecoregion Programme sedan år 2007 arbetat aktivt 
 
 Julkaistu: 3.9.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/09/wwfn-20-000-euron-pandapalkinto-haettavana-4/
 
 **WWF Suomi julistaa haettavaksi vuoden 2010 Pandapalkinnon, jolla halutaan edistää ja palkita aktiivisia luonnon- ja ympäristönsuojeluhankkeita. Palkintoja voidaan antaa yksi tai useampia, ja niiden yhteissumma on 20 000 euroa. Hakijana voi olla yksi tai useampi henkilö, yritys tai yhteisö. Pandapalkinto jaetaan nyt jo kahdennentoista kerran.**
@@ -1912,7 +1875,6 @@ Vuosi 2010 on YK:n kansainvälinen luonnon monimuotoisuuden vuosi. WWF työskent
 
 Julkaistu: 31.8.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/pangasiuksen-ja-simpukoiden-vesiviljelylle-kansainvaliset-kestavyyskriteerit/
 
 **Suomessakin suositun ruokakalan pangasiuksen (haimonni) ja simpukan vesiviljely saavat kestävyyskriteerit kansainvälisen ympäristöjärjestö WWF:n koordinoimassa”pyöreän pöydän” prosessissa. Suurin osa maailmalla käytetystä pangasiuksesta ja simpukoista on viljelty, ja viljelyteollisuus kasvaa rajusti.**
@@ -1965,7 +1927,6 @@ To read the pangasius standards and watch a video about them, go to www.worldwil
 
 Julkaistu: 29.8.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/tiikerit-saamassa-ensimmaisen-valtioiden-rajat-ylittavan-suojelualueen/
 
 **Jilin maakunta Kiinassa ja naapurissa sijaitseva Primorskin maakunta Japanin meren rannalla Venäjällä ovat virallisesti sopineet, että ne perustavat alueilleen ensimmäisen valtioiden rajat ylittävän tiikereiden suojelualueen.**
@@ -1994,7 +1955,6 @@ Ponnistelut tiikerien pelastamiseksi etenivät Balilla (WWF Suomen tiedote 14.7.
 
 Julkaistu: 26.8.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/paineet-itameren-kayttoon-kasvavat-rajahdysmaisesti/
 
 **Kilpailu Itämerestä kasvaa. Seuraavien 20 vuoden aikana Itämeren rahtiliikenteen odotetaan kaksinkertaistuvan, risteilyturismi lisääntyy voimakkaasti ja merelle sijoittuvan tuulivoimatuotannon kapasiteetti kasvaa nykyisestä 400 megawatista jopa 25 000 megawattiin. Samaan aikaan Itämeren jo ennestään kuormitettu ekosysteemi vastaanottaa yhä lisää päästöjä maataloudesta ja teollisuudesta. Tämä käy ilmi Itämeren kehitysennusteita koskevasta raportista, jonka ympäristöjärjestö WWF julkisti tänään.**
@@ -2129,7 +2089,6 @@ För att lösa Östersjöns problem behövs enligt WWF ett starkt ledarskap.som 
 
 Julkaistu: 23.8.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/vapaita-paikkoja-ristisaaren-ja-hangon-talkooleireilla/
 
 **WWF:n kesän viimeisillä talkooleireillä Hangossa ja Ristisaaressa on vielä vapaita paikkoja. Vielä ehdit ilmoittautua mukaan! Mukaan ovat tervetulleita kaikki yli 18-vuotiaat konkreettisesta luonnonsuojelusta kiinnostuneet.**
@@ -2154,7 +2113,6 @@ Ristisaaren ja Hangon talkooleirit ovat osa WWF Suomen ja Suomen kulttuurirahast
 
 Julkaistu: 20.8.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/onnellisen-elaman-tavoittelu-tukee-kestavaa-luonnonvarojen-kayttoa/
 
 **Maapallon luonnonvarat on huomenna käytetty tältä vuodelta loppuun. Olemme siis kuluttaneet vajaassa kahdeksassa kuukaudessa luonnonvarat, joiden pitäisi riittää koko vuodeksi. Loppuvuoden kulutamme luonnonvaroja velaksi. Luonto ei kestä nykyistä elämäntapaamme, mutta onnellisuuden tavoittelu voisi palauttaa elämäntapamme kestävälle tasolle.**
@@ -2185,7 +2143,6 @@ Vuosi 2010 on YK:n kansainvälinen luonnon monimuotoisuuden vuosi. WWF työskent
 
 Julkaistu: 19.8.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/wwfn-talkooleirilaiset-kunnostavat-saamelaista-kulttuurimaisemaa-lemmenjoella/
 
 **WWF:n talkooleirikesä huipentuu parhaillaan käynnissä olevaan talkooleiriin Lemmenjoen kansallispuistossa Inarissa. Vapaaehtoiset tekevät talkootöitä Lemmenjoen Sotkajärven pohjoispäässä sijaitsevalla Kaapin Jounin tilalla, joka on alueen tärkeimpiä saamelaisia kulttuurimaisema- ja rakennusperintökohteita. Metsähallituksen kanssa yhteistyössä järjestettävä leiri alkoi lauantaina 14.8. ja päättyy sunnuntaina 22.8.**
@@ -2216,7 +2173,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 9.8.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/satelliittiseurannalla-merikotkista-uutta-tietoa/
 
 **WWF Suomen ja Luonnontieteellisen keskusmuseon kevättalvella 2009 käynnistämä merikotkien satelliittiseuranta on antanut merikotkien liikkeistä paljon uutta tietoa. Suomessa ainutlaatuisen satelliittiseurannan kautta kerättyjä tietoja voidaan käyttää esimerkiksi tuulivoimaloiden sijoittamisen suunnittelussa.**
@@ -2297,7 +2253,6 @@ Havsörnen och vindkraft -anvisningarna (pdf-fil)
 
 Julkaistu: 6.8.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/pekka-haavistosta-wwf-suomen-uusi-hallintoneuvoston-puheenjohtaja/
 
 **Kansanedustaja Pekka Haavisto on valittu WWF Suomen hallintoneuvoston puheenjohtajaksi. Uuden puheenjohtajan kausi alkoi 1.7.2010. Hallintoneuvostossa ovat monipuolisesti edustettuina yhteiskunnan eri tahot, kuten tiede-, kulttuuri- ja yritysmaailma sekä poliittiset päättäjät.**
@@ -2324,7 +2279,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 5.8.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/wwfn-talkooleirilaiset-kunnostavat-raaseporin-saariston-perinneymparistoja/
 
 **WWF:n aktiivinen talkooleirikesä jatkuu parhaillaan Raaseporin saaristossa Länsi-Uudellamaalla. Vapaaehtoiset kunnostavat alueella muun muassa metsittyneitä niittyjä ja ketoja. Viikon mittainen leiri järjestetään 31.7.–8.8. yhteistyössä Uudenmaan ELY-keskuksen ja Metsähallituksen kanssa.**
@@ -2373,7 +2327,6 @@ Lägret i Raseborg är ett samarbetsprojekt mellan WWF Finland och Finska kultur
 
 Julkaistu: 4.8.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/08/wwf-suomen-itameri-kampanja-tarjoaa-ratkaisuja/
 
 **WWF Suomen Itämeri-kampanja käynnistyi tällä viikolla MTV3-kanavalla esitettävillä mainosfilmeillä ja kampanjaverkkosivuilla. Kampanjan tavoitteena on kertoa WWF Suomen ratkaisupainotteisesta suojelutyöstä ja kerätä lisää varoja WWF:n Itämeri-työhön. MTV3 tukee Itämeri-kampanjaa lahjoittamalla järjestölle ilmaista mainostilaa.**
@@ -2406,7 +2359,6 @@ WWF työskentelee joka päivä Itämeren hyväksi, ja MTV3 on työssä mukana. T
 
 Julkaistu: 29.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/ymparistokuiskaaja-tekee-maatalouden-parhaat-ymparistokaytannot-tutuksi/
 
 **Viljelijöillä ja maatalousneuvojilla on ensi talvena mahdollisuus saada laajassa yhteistyössä suunniteltua koulutusta maatalouden parhaista ympäristökäytännöistä. MTK, Pro Agria ja WWF Suomi (Maailman luonnonsäätiö) käynnistävät yhteistyökumppaneidensa (Järki- ja TEHO-hankkeet, ELY-keskukset) kanssa kokeiluluonteisen Ympäristökuiskaaja-koulutushankkeen, joka on avoin kaikille kiinnostuneille viljelijöille.**
@@ -2449,7 +2401,6 @@ Itämeren viljelijöiden ympäristöpalkinto
 
 Julkaistu: 28.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/opiskelijat-polkevat-saimaannorpan-tueksi/
 
 **Mikkelin ammattikorkeakoulu järjestää yhteistyössä WWF:n kanssa pyöräilytempauksen, jossa opiskelijat polkevat 2.-6.8. välisenä aikana Hangosta Mikkeliin. Mereltä Saimaalle kulkeva hyväntekeväisyystempaus järjestetään Saimaan uhanalaisimman eläinlajin, saimaannorpan, suojelemiseksi.**
@@ -2488,7 +2439,6 @@ Infopisteen aikataulut:
 
 Julkaistu: 27.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/viela-ehdit-mukaan-raaseporin-talkooleirille/
 
 **Tammisaaren saariston kansallispuistossa 31.7.-8.8. järjestettävälle talkooleirille on vapautunut pari vapaata paikkaa. Vielä ehdit ilmoittautua mukaan! Leiri tarjoaa mahdollisuuden konkreettiseen luonnonsuojelutyöhön muun muassa risusavotan ja niittotöiden merkeissä.**
@@ -2513,7 +2463,6 @@ Raaseporin saariston talkooleiri on osa WWF Suomen ja Suomen kulttuurirahaston y
 
 Julkaistu: 26.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/wwf-uhanalaisen-itamerennorpan-pyyntia-ei-saa-aloittaa/
 
 **WWF tyrmää maa- ja metsätalousministeriön (MMM) esityksen itämerennorpan metsästyksen aloittamisesta ja harmaahylkeen pyyntikiintiöiden pitämisestä kestämättömän korkealla tasolla. Esitetyt toimenpiteet vaarantaisivat norppa- ja harmaahyljekantojen suotuisan kehityksen Itämerellä. Ne myös poikkeaisivat täysin muiden Itämeren maiden hyljepolitiikasta ja vaarantaisivat Suomen maineen Euroopassa. WWF antoi tänään MMM:lle lausuntonsa hylkeiden ja maasuurpetojen pyyntilupia koskevista määräyskirjeluonnoksista.**
@@ -2574,7 +2523,6 @@ WWF:s uttalande till jord- och skogsbruksministeriet 26.7.2010 (pdf-fil på fins
 
 Julkaistu: 26.7.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/radiolahetinkuutti-kuoli-kalaverkkoon/
 
 **Itä-Suomen yliopiston radioseurannassa ollut Ylermi-kuutti on kuollut kalaverkkoon Saimaan Haukivedellä. Tapaus on tämän kesän toinen; kesäkuun alussa radiolähetinkuutti Rasmus kuoli kalastusrajoitusalueella olleeseen, norpalle vaaralliseksi tiedettyyn kalanpyydykseen. Seurannassa ei ole enää yhtään kuuttia, sillä Vappu-kuutin lähetin on heinäkuun alusta ollut järven pohjassa.**
@@ -2599,7 +2547,6 @@ tutkija Miina Auttila, Itä-Suomen yliopisto, 050 568 5704 ohjelmapäällikkö P
 
 Julkaistu: 20.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/wwfn-talkooleirilaiset-hoitavat-perinnemaisemaa-linnansaaren-kansallispuistossa/
 
 **WWF:n aktiivinen talkooleirikesä jatkuu parhaillaan Linnansaaren kansallispuistossa Saimaalla. Leirin aikana WWF:n vapaaehtoiset kunnostavat yli 130 saaresta koostuvan kansallispuiston perinnemaisemia muun muassa niittäen ja tehden raivaustöitä. Leiri järjestetään yhteistyössä Metsähallituksen kanssa.**
@@ -2628,7 +2575,6 @@ Linnansaaren leiri on osa WWF Suomen ja Suomen kulttuurirahaston yhteistyöproje
 
 Julkaistu: 20.7.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/valkoselkatikan-pesimatulos-jatkuu-hyvana-uhanalainen-laji-leviaa-myos-suomen-lansiosiin/
 
 **Metsähallituksen, WWF Suomen, lintutieteellisten yhdistysten ja alueellisten ympäristökeskusten valkoselkätikkaseurannoissa saatiin pesimäaikaisia parihavaintoja noin 140 alueelta. Uhanalaisen lajin pesintöjä varmistui 90. Seurannassa löytyi lisäksi kymmeniä yksittäisten lintujen havaintopaikkoja, joista monet voivat muodostua pysyväksi reviiriksi.**
@@ -2661,7 +2607,6 @@ Suunnittelija Timo Laine, Etelä-Suomen luontopalvelut, puhelin 040 588 1766
 
 Julkaistu: 16.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/itameren-laajuinen-luontokuvakilpailu-kutsuu-nuoria/
 
 **WWF (Maailman luonnon säätiö), Suomen Luonnonvalokuvaajat sekä Suomen Partiolaiset järjestävät suuren luontokuvakilpailun Itämeren maiden nuorille. Juuri avautuneen Baltic Sea – Young Wildlife Photographer 2010 -luontovalokuvakilpailun tarkoituksena on kannustaa nuoria löytämään ainutlaatuisia kuvauskohteita ja -kokemuksia luonnosta sekä herättää nuorissa kiinnostus Itämeren suojelua kohtaan. Kilpailun suojelijana toimii Tasavallan presidentti Tarja Halonen.**
@@ -2692,7 +2637,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 14.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/ponnistelut-tiikerien-pelastamiseksi-etenivat-balilla/
 
 **Ponnistelut maailman tiikerien (Panthera tigris) pelastamiseksi etenivät Balin tiikerikokouksessa Indonesiassa. Tänään keskiviikkona päättyvä kokous pohjusti Pietarissa syyskuussa pidettävää huippukokousta. Huippukokouksessa on tarkoitus päättää historiallisesta suojelusuunnitelmasta, jonka avulla tiikerien määrä maailmassa kaksinkertaistetaan.**
@@ -2725,7 +2669,6 @@ Kuvapyynnöt: Viestinnän harjoittelija Kristiina Tolvanen, WWF Suomi, puh. (09)
 
 Julkaistu: 14.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/m-real-stora-enso-ja-upm-raportoivat-ymparistojalanjaljestaan-wwfn-kehittaman-indeksin-avulla/
 
 **WWF julkisti tänään vapaaehtoisen arviointityökalun, jonka avulla paperiyhtiöt voivat raportoida maailmanlaajuisesta ympäristöjalanjäljestään. Paperiyhtiöiden ympäristöindeksin (The Paper Company Environmental Index) arviointiperusteita ovat kierrätetyn ja kestävästi hoidetuista metsistä peräisin olevan kuidun käyttö, energiankulutus, kasvihuonekaasupäästöt, vesistöpäästöt ja toiminnan läpinäkyvyys.**
@@ -2758,7 +2701,6 @@ Lisätietoja: Kansainvälisen sellu- ja paperiohjelman päällikkö Harri Karjal
 
 Julkaistu: 9.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/merikotkille-lahes-ennatysmaara-poikasia/
 
 **Suomen merikotkakanta vahvistuu vakaasti. WWF:n merikotkatyöryhmän laskentojen mukaan merikotkat ovat saaneet tänä kesänä 314 poikasta. Vaikka tulos jää hieman alle viime vuoden ennätyksen, voidaan sitä pitää erinomaisena.**
@@ -3017,7 +2959,6 @@ Bildförfrågningar: Kristiina Tolvanen, WWF Suomi, (09) 7740 1040
 
 Julkaistu: 7.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/wwfn-talkooleirilaiset-kunnostavat-ketoja-jurmon-saarella/
 
 **WWF:n perinteinen talkooleirikesä jatkuu 3.–10.7. Jurmon saarella Länsi-Turunmaalla. Jurmon tarunhohtoisella saarella WWF:n vapaaehtoiset kunnostavat ketoja ja suojelevat saaren uhanalaisia lajeja raivaamalla katajan valtaamia alueita sekä tehden muita luonnonhoitotöitä.**
@@ -3064,7 +3005,6 @@ Lägret på Jurmo är ett samarbetsprojekt mellan WWF Finland och Finska kulturf
 
 Julkaistu: 1.7.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/07/wwf-eduskunnan-ydinvoimapaatos-on-lyhytnakoinen-ja-osoittaa-poliittisen-rohkeuden-puutetta/
 
 **Eduskunnan myönteinen äänestystulos ydinvoimaa koskevista periaatepäätöksistä on WWF Suomen mukaan suuri pettymys.”Kansanedustajat olisivat tänään voineet tehdä rohkeita poliittisia päätöksiä Suomen tulevaisuudesta. Sen sijaan he päätyivät antamaan Suomelle valitettavan lyhytnäköisen vision tulevasta suunnastamme”, WWF Suomen pääsihteeri Liisa Rohweder toteaa.**
@@ -3095,7 +3035,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 23.6.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/06/ilmastohaasteet-vaativat-metsateollisuudelta-lisaa-vastuullisuutta-etelan-nopeakasvuisilla-plantaaseilla/
 
 **WWF:n tänään julkaiseman raportin mukaan kansainvälistyneet metsäteollisuusyhtiöt Stora Enso ja UPM ovat edenneet viimeisen kahden vuoden aikana askeleittain kohti vastuullisempaa toimintaa etelän nopeakasvuisilla plantaaseilla. Edistymisestä huolimatta plantaasiyhtiöiltä vaaditaan entistä läpinäkyvämpää toimintaa uusien globaalien haasteiden, kuten ilmastonmuutoksen, edessä.**
@@ -3156,7 +3095,6 @@ Lisätietoja: Sarah Janicke, +41 79 528 8641, [email protected] Natalia Reiter, 
 
 Julkaistu: 16.6.2010  
 Kirjoittaja: Kristiina Tolvanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/06/wwfn-talkooleirilaiset-kunnostavat-perinnetilaa-perheleirilla-liesjarvella/
 
 **WWF:n tämän kesän ensimmäinen pitkä talkooleiri on parhaillaan käynnissä Liesjärven kansallispuistossa Tammelassa Kanta-Hämeessä. Viikon kestävällä leirillä WWF:n vapaaehtoiset hoitavat arvokasta perinnemaisemaa Korteniemen metsänvartijatilan ympäristössä sekä harjukasvillisuutta Komion luonnonsuojelualueella. Liesjärven leiri on WWF:n ensimmäinen perheleiri, jonne vanhemmat voivat osallistua lasten kanssa.**
@@ -3181,7 +3119,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 8.6.2010  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/06/green-office-toimistot-saastivat-kaksi-kilometria-korkean-pinon-paperia/
 
 **Suomen Green Office -toimistot säästivät vuonna 2009 yhteensä 2230 tonnia kasvihuonekaasupäästöjä aiempaan vuoteen verrattuna kulutustaan vähentämällä (*). Määrä vastaa yli 260 henkilöautomatkaa maapallon ympäri. WWF:n Green Office on toimistoille tarkoitettu ympäristöpalvelu, jonka tavoitteena on toimistojen ekologisen jalanjäljen pienentäminen ja kasvihuonekaasujen vähentäminen. Green Office -verkostossa on mukana 180 organisaatiota.**
@@ -3260,7 +3197,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 2.6.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/06/radiolahetinkuutti-kuoli-laittomaan-kalanpyydykseen-haukivedella/
 
 **Radiolähetinkuutti Rasmus kuoli kalastusrajoitusalueella olleeseen laittomaan kalanpyydykseen kesäkuun alussa. Kuutti hukkui kokoontaittuvaan, keveästä muoviverkosta valmistettuun katiskaan, joka ei ole norpalle turvallinen pyydystyyppi.**
@@ -3289,7 +3225,6 @@ Lisätietoja toimittajille: – Saimaannorppa ( Phoca hispida saimensis ) on yks
 
 Julkaistu: 1.6.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/06/metsahallituksen-julkiset-tehtavat-virastoon/
 
 **Greenpeace, Suomen luonnonsuojeluliitto ja WWF Suomi ovat pyytäneet puolueettomalta asiantuntijalta selvitystä Metsähallituksen yhtiöittämisestä. Arvion mukaan tulevaisuuden kannalta kestävä ratkaisu on siirtää julkisen vallankäytön ja kilpailun kannalta herkät tehtävät laaja-alaisen viraston tehtäväksi.**
@@ -3324,7 +3259,6 @@ Lisätietoja:
 
 Julkaistu: 28.5.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/viesti-maailman-huipulta/
 
 **Carina Räihän ja WWF Suomen yhteinen lehdistötilaisuus pidettiin 28.5.2010. Tilaisuudessa WWF:n luonnon lähettiläs Carina Räihä kertoi matkastaan WWF:n suojelukohteisiin Nepalissa sekä huimasta matkastaan maailman korkeimman vuoren huipulle.**
@@ -3349,7 +3283,6 @@ WWF Suomen hankkeet Himalajan alueella
 
 Julkaistu: 28.5.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/merikotkan-ja-tuulivoiman-tormaykset-voidaan-valttaa/
 
 **WWF Suomi on laatinut ohjeen siitä, miten merikotkan esiintyminen tulee ottaa huomioon, kun suunnitellaan tuulivoimaloiden sijoituspaikkoja. Kaavoituksesta vastaavalle asuntoministeri Jan Vapaavuorelle tänään luovutettu ohje on tarkoitettu energiayhtiöiden, suunnittelijoiden, kaavoittajien ja ympäristöviranomaisten käyttöön.**
@@ -3424,7 +3357,6 @@ WWF:s havsörnsarbete (på finska)
 
 Julkaistu: 27.5.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/tiukemmat-paastorajoitukset-edistaisivat-ilmastoinnovaatioiden-kaupallistumista/
 
 **Ilmastonmuutosta ehkäisevien keksintöjen pääsy markkinoille on vaikeaa, vaikka ne ympäristöhyötyjen lisäksi säästäisivät käyttäjälleen selvää rahaa. Parhaiten tällaisten ratkaisujen ja tuotteiden kaupallistumista tukisivat nykyistä tiukemmat kasvihuonekaasupäästöjen rajoitukset. Näin päättelee DI Sanni Kontinen Suomen innovaatiojärjestelmää koskevassa diplomityössään, joka esiteltiin tänään WWF:n järjestämässä innovaatiotyöpajassa.**
@@ -3459,7 +3391,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 21.5.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/wwf-ja-suomen-luonnonsuojeluliitto-pallas-laki-jatkaa-hallituksen-huonoa-luonnonsuojelupolitiikkaa/
 
 **Eduskunta hyväksyi tänään täysistunnossaan esityksen Pallas-Yllästunturin kansallispuistosta annetun lain muuttamisesta. Muutos muun muassa mahdollistaa kansallispuistossa sijaitsevan hotellin huomattavan laajentamisen. Luonnonsuojelujärjestöt ovat vastustaneet lisärakentamista kansallispuiston alueelle.**
@@ -3486,7 +3417,6 @@ Lisätietoja: pääsihteeri Liisa Rohweder, WWF, puh 040 840 7461 luonnonsuojelu
 
 Julkaistu: 20.5.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/radiolahetinkuutteja-seurataan-jalleen-saimaalla/
 
 **Tänä keväänä kolmen saimaannorpan kuutin liikkeitä seurataan Joutenvedellä ja Haukivedellä niihin kiinnitettyjen radiolähettimien avulla. Tutkimuskuutit Vappu, Rasmus ja Ylermi valottavat osaltaan, miten kuutit liikkuvat vierotuksen jälkeen. Tutkijoiden mielenkiinto kohdistuu erityisesti kuuttien selviytymiseen ensimmäisinä itsenäisinä kuukausina kalastusrajoitusten aikana ja niiden jälkeen.**
@@ -3519,7 +3449,6 @@ Tiedoksi toimituksille: Jutun yhteydessä saa käyttää vuonna 2008 seurannassa
 
 Julkaistu: 20.5.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/helcomin-ministerikokouksen-tavoitteita-ei-saavutettu/
 
 **Ympäristöjärjestö WWF:n pessimistiset ennakko-odotukset HELCOMin Moskovassa pidetyn ministeritason Itämerikokouksen tuloksista näyttävät toteutuneen. Kokouksessa ei pystytty arvioimaan rantavaltioiden kansallisia toimeenpano-ohjelmia, koska niitä ei ollut toimitettu ajoissa kokoukselle. Lisäksi tavoitetasoa suhteessa Itämeren suojelun toimintaohjelman tavoitteisiin madallettiin monelta osin.**
@@ -3550,7 +3479,6 @@ WWF:n seurantaraportti”Analysis of the status of implementation of the Baltic 
 
 Julkaistu: 19.5.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/itameren-suojeluohjelman-toimet-jaljessa-aikataulusta/
 
 **Rantavaltioiden toimenpiteet Itämeren yhteisen toimintaohjelman toteuttamiseksi ovat reilusti jäljessä aikataulustaan, ja aikatauluja lykätään yhä eteenpäin. Kansalaisten kiinnostuksesta ja annetuista korkean tason lupauksista huolimatta Itämeren suojelu kaipaa edelleen ennen kaikkea konkreettisia tekoja. Tämä käy ilmi WWF:n seurantaraportista, jonka järjestö teetti HELCOMin ministeritason kokousta silmälläpitäen. Kokous pidetään torstaina 20. toukokuuta Moskovassa.**
@@ -3601,7 +3529,6 @@ Haastattelupyynnöt HELCOM-kokouksen aikana 19.5. ja 20.5. myös viestintäjohta
 
 Julkaistu: 11.5.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/suomalainen-ilmastotyo-etenee-kasijarru-paalla/
 
 **WWF:n maaliskuun lopussa organisoimaan maailmanlaajuiseen Earth Hour -tapahtumaan osallistui tänä vuonna huikeat 126 maata ja yli 4000 kaupunkia. Mukana oli 38 maata enemmän kuin viime vuonna. Suomessa mukaan ilmoittautui 86 suomalaista kuntaa, 105 oppilaitosta, 510 yritystä ja yli 200 muuta organisaatiota.**
@@ -3676,7 +3603,6 @@ Esimerkkejä terveisistä, joita kampanjaan osallistuneet suomalaiset lähettiv�
 
 Julkaistu: 11.5.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/kuitupuun-energiakaytto-kantoja-ilmastoystavallisempaa/
 
 **Suomen luonnonsuojeluliiton ja WWF Suomen mielestä metsäenergian lisäystavoitteita ei tule täyttää kantojen käyttöä lisäämällä. Kantojen energiakäytöstä saadaan pienimmät ilmastohyödyt muihin metsäenergian muotoihin verrattuna. Kantojen noston seurauksiin liittyy myös muita epävarmuuksia.**
@@ -3705,7 +3631,6 @@ Sini Eräjää, metsäasiantuntija, Suomen luonnonsuojeluliitto, puh. 050 358 38
 
 Julkaistu: 6.5.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/venla-norppa-sai-poikasen-viela-vanhoilla-paivillaan/
 
 **Etelä-Saimaalla koettiin iloisia hetkiä saimaannorpan pesälaskennoissa: Yövedeltä löytyi saimaannorpan pesäpaikka ja kuutti ensimmäistä kertaa laskentojen 31-vuotisen historian aikana. WWF:n seuraama Venla-norppakin synnytti jälleen poikasen. Uusien norpanpoikasten selviytymisen kannalta verkkokalastuksesta pidättäytyminen on erittäin tärkeää kaikilla Saimaan vesillä.**
@@ -3732,7 +3657,6 @@ Lisätietoja toimittajille: – Saimaannorppa ( Phoca hispida saimensis ) on yks
 
 Julkaistu: 6.5.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/hallituksen-ydinvoimaehdotus-tulisi-suomalaisille-kalliiksi/
 
 **Energiatehokkuuden ja älykkäiden sähkömarkkinoiden edistäminen ovat ydinvoimaa edullisempi ratkaisu suomalaisille sähkönkuluttajille. Tämä käy ilmi asiantuntijayhtiö Gaian laatimasta Suomelle kilpailukykyä älyenergiasta -raportista. Eduskunnan tuleekin päätöksentekoprosessin aikana punnita, mikä on Suomen kokonaisedun ja kansantalouden näkökulmasta kannattavaa. Ydinvoiman lisärakentamiselle ei WWF:n mukaan ole todellista tarvetta.**
@@ -3771,7 +3695,6 @@ Kun sähköverkon toimintaa uudistetaan, voivat myös kuluttajat olla mukana opt
 
 Julkaistu: 4.5.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/wwf-meksikonlahden-oljyonnettomuudesta-tarvitsemme-turvallisempia-ja-puhtaampia-energiamuotoja/
 
 **Viimeaikaiset öljyturmat, kuten Meksikonlahden Deepwater Horizon -porauslautan vuodon aiheuttama katastrofi, kertovat akuutista tarpeesta siirtyä turvallisempiin ja puhtaampiin energiamuotoihin. Lisäksi jos öljyä ja kaasua lähdettäisiin jatkossa poraamaan esimerkiksi arktisille alueille onnettomuuksien torjuntatöiden vaikeusaste kasvaisi huimasti. Myös onnettomuuksien vaikutukset ekosysteemiin olisivat tuhoisammat.**
@@ -3794,7 +3717,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 3.5.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/05/alyenergiasta-kilpailukykya-ja-tyopaikkoja-ympariston-ehdoilla/
 
 **WWF Suomen tänään julkaisema Gaian laatima raportti esittää, miten kustannustehokas ja kestävä energiajärjestelmä edistäisi Suomen kilpailukykyä. Raportin maltilliset energiankulutusarviot perustuvat teollisuuden energiankäytön tehostumiseen, palvelusektorin kasvuun, energiatehokkuuden parantumiseen ja älykkäiden sähköverkkojen tuomiin säästömahdollisuuksiin.**
@@ -3843,7 +3765,6 @@ Gaia on suomalainen johtava energia- ja ympäristöalan, ilmastonmuutoksen ja ri
 
 Julkaistu: 28.4.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/04/onnellisuus-nostettava-politiikan-ytimeen/
 
 **Tänään julkaistu WWF:n ja Demos Helsingin onnellisuuspoliittinen manifesti esittelee keinoja, joilla poliittiset päättäjät pystyvät tukemaan suomalaisten hyvinvointia. Hyvinvoinnin rakentaminen pienentäisi myös ekologista jalanjälkeä.**
@@ -3886,7 +3807,6 @@ Demos Helsinki on riippumaton ajatushautomo, think tank. Sen perusti joukko yhte
 
 Julkaistu: 23.4.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/04/itameren-kaasuputken-suunnittelussa-ymparistolle-torjuntavoitto-saksassa/
 
 **WWF Saksa ja Saksan Maan ystävät ovat onnistuneet huomattavasti parantamaan Itämeren kaasuputken rakentamissuunnitelmaa ympäristövaikutusten näkökulmasta. Järjestöt saivat myös nostettua putken rakentamisesta aiheutuvien ympäristövahinkojen kompensaatiosummaa noin 13 miljoonalla eurolla. Parannuksista sovittiin WWF Saksan, Saksan Maan ystävien (BUND) ja kaasuputken rakennuttajayhtiö Nord Streamin välisissä neuvotteluissa. Sopimuksen seurauksena ympäristöjärjestöt vetivät oikeudesta kaasuputkea koskevan kaavavalituksensa.**
@@ -3913,7 +3833,6 @@ Lisätietoja: Jochen Lamp, Itämeriohjelman päällikkö, WWF Saksa, p. +49 162 
 
 Julkaistu: 22.4.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/04/yli-sata-uutta-lajia-loydetty-borneolta/
 
 **Borneon saarelta on löydetty 123 uutta lajia viimeisen kolmen vuoden aikana. Tämä käy ilmi tuoreesta WWF:n raportista. Lajien joukossa ovat esimerkiksi maailman pisin hyönteinen ja sammakko, jolla ei ole keuhkoja.**
@@ -3964,7 +3883,6 @@ Vuosi 2010 on YK:n kansainvälinen luonnon monimuotoisuuden vuosi. WWF työskent
 
 Julkaistu: 21.4.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/04/hallituksen-ydinvoimapaatos-ei-edista-tehokasta-ja-kestavaa-energiantuotantoa-ja-kulutusta/
 
 **WWF Suomen mukaan Suomi on hukkaamassa mahdollisuuttaan siirtyä tielle, joka johtaisi tehokkaampaan ja kestävämpään energiatulevaisuuteen. Hallitus päätti tänään esittää eduskunnalle kahden ydinvoimalan rakennusluvan myöntämistä.**
@@ -3993,7 +3911,6 @@ Erilaisia tukitapoja internetissä: www.wwf.fi/tue_toimi
 
 Julkaistu: 19.4.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/04/loytyyko-itameren-ymparistoystavallisin-maanviljelija-jalleen-suomesta/
 
 **WWF Suomi ja MTK käynnistävät kilpailun vuoden 2010 Itämeren ympäristöystävällisimmän maataloustuottajan löytämiseksi Suomesta. Kilpailu on osa laajempaa WWF:n ja Itämeren alueen viljelijöiden ympäristöfoorumin kilpailua. Suomi puolustaa kilpailussa viimevuotista voittoaan; koko Itämeren alueen palkinnon voitti vuonna 2009 Suomen edustaja, Vapolan tila Uudessakaupungissa.**
@@ -4062,7 +3979,6 @@ WWF har inom ramen för sitt Baltic Ecoregion -program sedan år 2007 arbetat ak
 
 Julkaistu: 16.4.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/04/sll-ja-wwf-ahman-kauppa-on-kiellettava/
 
 **Suomen luonnonsuojeluliitto ja WWF Suomi esittävät, että ahman nahkojen ja muiden osien kauppa Suomessa kiellettäisiin. Ahma on erittäin uhanalainen ja täysin rauhoitettu laji, jonka uhanalaisuuden tärkein syy ja ainoa merkittävä uhka on laiton pyynti. Tällaisen lajin kaupan ei luonnonsuojelujärjestöjen mielestä pidä olla sallittua. Lisäksi järjestöt kiirehtivät ahman hoitosuunnitelmaa, joka on lojunut maa- ja metsätalousministeriössä jo vuosia.**
@@ -4099,7 +4015,6 @@ SLL:n ja WWF:n esitys Valtioneuvostolle ahman kaupan kieltämisestä. WWF:n rapo
 
 Julkaistu: 8.4.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/04/sademetsaa-suomen-lihatiskeilla/
 
 **WWF Suomen tänään julkaisemasta raportista”Sademetsää lihatiskillä – Soijan tuotannon ympäristö- ja sosiaaliset vaikutukset” selviää, että suomalaisen elintarviketeollisuuden tulee siirtyä vastuulliseen soijan ja eläinrehun hankintaan estääkseen tuotannon aiheuttamaa sademetsien tuhoutumista ja ihmisoikeusloukkauksia.**
@@ -4156,7 +4071,6 @@ Lisätietoja medialle:
 
 Julkaistu: 1.4.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/04/itameren-norppalaskennat-alkavat/
 
 **Riista- ja kalatalouden tutkimuslaitos aloittaa itämerennorpan lentolaskennat huhtikuussa. Hyvä jäätalvi mahdollistaa laajat laskennat norpan keskeisillä levinneisyysalueilla usean vuoden tauon jälkeen.**
@@ -4177,7 +4091,6 @@ Lisätietoja: tutkija Mervi Kunnasranta, Riista- ja kalatalouden tutkimuslaitos,
 
 Julkaistu: 31.3.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/saimaannorpan-pesalaskennat-alkoivat-nokian-tekema-lahjoitus-wwflle-tehostaa-pesalaskijoiden-tyota/
 
 **Metsähallitus aloittaa saimaannorpan jokakeväiset pesälaskennat. Tavoitteena on noin kuukauden sisällä saada laskettua norpan pesät, minkä perusteella tehdään arvio syntyneiden kuuttien määrästä. Vapaaehtoiset ovat tärkeä apu pesälaskennoissa. Uutta tehoa laskentoihin tuo myös Nokian tekemä merkittävä lahjoitus.**
@@ -4218,7 +4131,6 @@ Saimaannorpan kummiksi ryhtyminen: www.wwf.fi/liity
 
 Julkaistu: 29.3.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/wwf-pahoittelee-onnettomuutta/
 
 **WWF Suomi pahoittelee Earth Hour -tunnin aikana Uudessakaupungissa sattunutta kuolemaan johtanutta onnettomuutta. WWF on tapahtumaa järjestettäessä luottanut kuntien, yritysten ja organisaatioiden omaan asiantuntemukseen ja harkintakykyyn siinä, mitä valoja sammutetaan. Kunnille, yrityksille ja muille organisaatioille tarkoitetuissa Earth Hour -oppaissa on neuvottu valojen sammuttamisessa.**
@@ -4281,7 +4193,6 @@ WWF är en världsomspännande naturskyddsorganisation som inspirerar människor
 
 Julkaistu: 27.3.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/earth-hour-kiertaa-koko-maailman/
 
 **Jopa 125 maata ja lähes 4000 kaupunkia kaikilta seitsemältä mantereelta osallistuu tänään historialliseen maailmanlaajuiseen ilmastotempaukseen. Earth Hourin aikana yli 1200 ikonia ja maamerkkiä eri puolilta maailmaa sammutetaan tunniksi. Sammutus tapahtuu aikavyöhykkeittäin paikallista aikaa klo 20.30-21.30.**
@@ -4372,7 +4283,6 @@ Världens första Earth Hour arrangerades år 2007 i Australien. Omkring 2,2 mil
 
 Julkaistu: 26.3.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/suomi-tempaisee-ilmaston-puolesta/
 
 **WWF:n Earth Hour 2010 -tapahtuma näkyy ja kuuluu lauantaina 27.3.2010 maailman ympäri. Sadat miljoonat ihmiset tempaisevat tuolloin ilmaston puolesta ja vaativat päättäjiltä tiukkoja toimia ilmastonmuutoksen torjumiseksi. Suomessakin tempaistaan monilla paikkakunnilla. Pimeää hetkeä vietetään toreilla laulaen ja uimahalleissa kynttilöiden valossa uiden. Saimaannorppakin vie viestiä ilmastonmuutoksen torjumisen tärkeydestä.**
@@ -4445,7 +4355,6 @@ Världens första Earth Hour arrangerades år 2007 i Australien. Omkring 2,2 mil
 
 Julkaistu: 24.3.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/wwf-ja-kulttuurirahasto-ennallistavat-yhdessa-arvokkaita-perinneymparistoja/
 
 **WWF Suomi ja Suomen Kulttuurirahasto aloittavat yhteistyön, jonka tavoitteena on uhanalaisten perinneympäristöjen entistä tehokkaampi ja kattavampi kunnostus ja hoito. Yhteistyön puitteissa WWF ja Kulttuurirahasto järjestävät yhteisiä talkooleirejä arvokkaiden perinneympäristöjen kunnostamiseksi.**
@@ -4480,7 +4389,6 @@ Suomen Kulttuurirahasto on yksityinen säätiö, joka tukee maamme kulttuurielä
 
 Julkaistu: 24.3.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/suomi-tarvitsee-energiatehokkuutta-ja-uusiutuvia-energiamuotoja-tukevia-paatoksia/
 
 **WWF:n Earth Hour 2010 -kampanja huipentuu tämän viikon lauantaina, kun sadat miljoonat ihmiset ympäri maapalloa antavat valomerkkinsä ilmaston puolesta. Suomessakin lukuisat ihmiset osallistuvat tempaukseen. WWF Suomen pääsihteeri Liisa Rohweder kehottaa päättäjiä kuuntelemaan.**
@@ -4557,7 +4465,6 @@ Världens första Earth Hour arrangerades år 2007 i Australien. Omkring 2,2 mil
 
 Julkaistu: 17.3.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/rauhannobelisti-tukee-valojensammutustempausta/
 
 **Kun sadat miljoonat ihmiset sammuttavat valonsa tunniksi 27. maaliskuuta, heidän joukossaan on myös monta julkisuuden henkilöä. Earth Hour -tempausta tukevat muun muassa rauhannobelisti Desmond Tutu, espanjalainen elokuvaohjaaja Pedro Almodóvar ja ruotsalainen lehtimoguli Amelia Adamo. Suomessa eturivin näyttelijät Maria Sid, Irina Björklund ja Peter Franzén osallistuvat tempaukseen sammuttamalla valot.**
@@ -4626,7 +4533,6 @@ Världens första Earth Hour arrangerades år 2007 i Australien. Omkring 2,2 mil
 
 Julkaistu: 11.3.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/valojensammutustempaus-lahestyy-sammutatko-sina/
 
 **Kevään suurin valojensammutustempaus koittaa runsaan kahden viikon kuluttua. Suomessa lukuisat kunnat, järjestöt, koulut, yritykset ja yksityishenkilöt ovat luvanneet sammuttaa valot ja vedota päättäjiin sitovien ilmastopäätösten puolesta. Valot sammuvat tunniksi ympäri Suomea lauantaina 27. maaliskuuta klo 20.30.**
@@ -4699,7 +4605,6 @@ Världens första Earth Hour arrangerades år 2007 i Australien. Omkring 2,2 mil
 
 Julkaistu: 8.3.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/natur-och-miljo-suomen-luonnonsuojeluliitto-ja-wwf-suomi-enemmisto-puolueista-sailyttaisi-itsenaisen-ymparistoministerion/
 
 **Kuusi Suomen yhdeksästä suurimmasta puolueesta kannattaa ympäristöministeriön säilyttämistä erillisenä, itsenäisenä ministeriönä. Suomen keskusta ja kokoomus pitävät kantansa asiaan avoimena. Luonnonsuojelujärjestöjen mielestä ympäristöministeriötä pitää heikentämisen sijaan vahvistaa suhteessa ympäristöä kuormittaviin tahoihin**
@@ -4732,7 +4637,6 @@ Lisätietoja: Puheenjohtaja Risto Sulkava, Suomen luonnonsuojeluliitto, p. 050 5
 
 Julkaistu: 8.3.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/earth-hour-kohoaa-korkeuksiin/
 
 **Kun Earth Houriin on jäljellä vain kolme viikkoa, kampanjaan on ilmoittautunut ennätykselliset 92 maata ja runsaat tuhat kaupunkia ympäri maapalloa. Pimeys yltää korkeuksiin, sillä neljä viidestä maailman korkeimmasta rakennuksesta pimenee tapahtumailtana. Valot sammuvat tunniksi myös Suomessa lauantaina 27. maaliskuuta klo 20.30.**
@@ -4795,7 +4699,6 @@ Världens första Earth Hour arrangerades år 2007 i Australien. Omkring 2,2 mil
 
 Julkaistu: 5.3.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/03/wwfn-tutkijat-loysivat-ennatysmaaran-kiljuhanhia-ja-valkopaasorsia-syyriasta/
 
 **Helmikuussa tehtyjen laskentojen mukaan uhanalaisia kiljuhanhia talvehtii Syyrian aroalueen huonosti tutkituilla kosteikoilla aiemmin arvioitua enemmän. Kiljuhanhi-inventoinnin ohessa suomalais-syyrialainen tutkimusryhmä teki merkittäviä havaintoja myös muun muassa maailmanlaajuisesti erittäin uhanalaisesta valkopääsorsasta. Inventoinnin tulosten perusteella Syyrian viranomaiset perustivat välittömästi uuden kosteikkojen suojelualueen.**
@@ -4818,7 +4721,6 @@ Lisätietoja: Sami Timonen, WWF:n kiljuhanhityöryhmä, gsm 040 565 1939
 
 Julkaistu: 23.2.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/02/ymparistojarjestot-pallas-lakimuutoksen-kasittely-keskeytettava/
 
 **Viisi ympäristöjärjestöä jätti tänään eduskunnan ympäristövaliokunnalle kannanoton, joka liittyy Pallas-Yllästunturin kansallispuistoa koskevaan lainmuutokseen. WWF Suomi, BirdLife Suomi, Luonto-Liitto, Natur och Miljö ja Suomen luonnonsuojeluliitto listaavat kannanotossaan lukuisia haittoja, joita lakimuutoksesta aiheutuisi. Järjestöt vetoavatkin ympäristövaliokuntaan, jotta se päättäisi keskeyttää lakiesityksen käsittelyn.**
@@ -4849,7 +4751,6 @@ Lisätietoja: Pääsihteeri Liisa Rohweder, WWF Suomi, p. 040 840 7461 Puheenjoh
 
 Julkaistu: 12.2.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/02/dayakit-sateen-lapset-valokuvanayttely-kampissa/
 
 **Tervetuloa ilmaiselle matkalle Borneon sydämen sademetsiin ja siellä asuvan dayak-kansan elämään. WWF ja Apu-lehti järjestävät 15.–28.2. Kampin kauppakeskuksessa valokuvanäyttelyn, jonka kuvat vievät kauas Borneon sademetsien siimekseen dayak-alkuperäiskansan pariin. Kuvat on ottanut valokuvaaja Petri Mulari.**
@@ -4874,7 +4775,6 @@ WWF Suomi, ohjelmavastaava Sampsa Kiianmaa, [email protected], 050 542 7017 (Bor
 
 Julkaistu: 11.2.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/02/panda-mei-lan-on-kiinan-earth-hour-lahettilas/
 
 **Panda nimeltä Mei Lan valittiin tänä vuonna WWF Kiinan Earth Hour -kampanjan viralliseksi lähettilääksi. Mei Lanin ensimmäinen diplomaattinen tehtävä on lanseerata ilmastokampanja maailmanlaajuisesti kiinalaisen uudenvuoden alkajaisiksi. Aiemmin lähettiläänä on toiminut muun muassa Desmond Tutu, Coldplay ja Cate Blanchett.**
@@ -4935,7 +4835,6 @@ Världens första Earth Hour arrangerades år 2007 i Australien. Omkring 2,2 mil
 
 Julkaistu: 10.2.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/02/wwf-laittoi-tiikerin-uhkat-kartalle/
 
 **Sunnuntaina 14.2. käynnistyvänä Tiikerin vuonna WWF haluaa kiinnittää erityistä huomiota uhanalaisen kissaeläimen suojeluun. Tänään julkaistiin interaktiivinen kartta, johon on merkattu kymmenen tiikerin kannalta kriittistä paikkaa. Suurin osa kartan merkinnöistä sijoittuu tiikereiden elinalueille Aasiaan. Merkintä löytyy myös Euroopasta, jonka suuri palmuöljyn kysyntä uhkaa monien Aasian alueiden tiikerikantoja.**
@@ -4964,7 +4863,6 @@ Vuosi 2010 on YK:n kansainvälinen luonnon monimuotoisuuden vuosi. WWF:n työske
 
 Julkaistu: 9.2.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/02/wwf-itameren-suojelusta-uusia-sitoumuksia-tehtaessa-vanhoja-ei-saa-unohtaa/
 
 **WWF:n kansainvälinen Itämeriohjelma lähetti tänään kaikkien Itämeren valtioiden pääministereille kirjeen, jossa ehdotetaan useita yksinkertaisia toimenpiteitä, jotka toteuttamalla hallitukset voivat nopeasti ja pysyvästi parantaa Itämeren ympäristön tilaa. Kirjeen lähettäminen liittyy Baltic Sea Action Summitiin, johon Itämeren maiden pääministerit ja valtionpäämiehet kokoontuvat “tarjotakseen puitteet konkreettisten sitoumusten antamiselle Itämeren pelastamiseksi”.**
@@ -5017,7 +4915,6 @@ WWF:n kansainvälisessä Itämeri-ohjelmassa ovat mukana seuraavat kansalliset W
 
 Julkaistu: 2.2.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/02/wwf-kutsuu-maanomistajia-mukaan-kosteikkohankkeeseen/
 
 **Tiistaina 2.2. vietetään kansainvälistä kosteikkopäivää, jonka puitteissa halutaan muistuttaa luonnonkosteikkojen merkityksestä myös ilmastonmuutoksen kiihtymisestä johtuvien vaikutusten hillitsemisessä. Kosteikot ovat uhanalaisia luonnon aarreaittoja ja niiden säilyttäminen on monimuotoisuuden häviämisen pysäyttämiseksi välttämätöntä.**
@@ -5058,7 +4955,6 @@ Leader-rahoitteinen”Lahdelta Latvoille – kosteikot Kiskonjoella ja Perniönj
 
 Julkaistu: 1.2.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/02/kuuttien-suojaksi-verkkokalastusrajoitusalue-kevaaksi-2011/
 
 **Saimaannorppa ja kalastus -seurantaryhmän muistio luovutetaan tänään maa- ja metsätalousministeri Sirkka-Liisa Anttilalle Savonlinnassa. Kuumin kysymys työryhmässä oli, jatketaanko norpan kuuttien turvaksi luotavan keväisen verkkokalastuksen kieltävän alueen muodostamista sopimusteitse vai toteutetaanko rajoitus asetuksella.**
@@ -5111,7 +5007,6 @@ Ohjelmapäällikkö Petteri Tolvanen, WWF Suomi, p. 0400 168 939
 
 Julkaistu: 30.1.2010  
 Kirjoittaja: Laura Rahka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/01/koopenhaminan-julistusta-tukevien-maiden-on-aika-nayttaa-vakavat-aikeet/
 
 **Gland, Switzerland: Sunnuntaina Kööpenhaminan poliittista julistusta tukevien maiden on määrä kertoa päästötavoitteistaan ja yksityiskohtia päästönvähennyssuunnitelmistaan. WWF kannustaa julkilausuman takana seisovia valtioita nyt näyttämään että ovat vakavissaan.**
@@ -5162,7 +5057,6 @@ Martin Hiller, Head Climate Policy Communications, WWF Int., [email protected], 
 
 Julkaistu: 29.1.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/01/anna-valomerkki/
 
 **WWF:n Earth Hour 2010 -kampanja käynnistyi Suomessa tällä viikolla, kun verkkosivut avattiin. Parin päivän sisällä ilmastotempaukseen on ilmoittautunut lähes puolitoista tuhatta suomalaista yksityishenkilöä, kahdeksan kuntaa ja kaupunkia, runsaat 60 yritystä sekä toistakymmentä oppilaitosta ja muuta organisaatiota.**
@@ -5259,7 +5153,6 @@ Donationer till WWF:s klimatarbete: Nordea 157230-11189. Bli klimatfadder: www.w
 
 Julkaistu: 27.1.2010  
 Kirjoittaja: Kaisa Räsänen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/01/bb-talon-joukkue-voitti-kolaamiskisan/
 
 **WWF julisti keskiviikkona saimaannorpalle perinteisen pesärauhan. Pesärauhan julistuksen luki näyttelijä Eija Vilpas WWF:n ja Haaga-Helian Kolaa koti kuutille -tapahtumassa Helsingin Narinkkatorilla. Uhanalainen saimaannorppa vaatii juuri nyt erityishuomiota, sillä sekä ilmastonmuutos että ihminen aiheuttavat lajille haasteita.**
@@ -5290,7 +5183,6 @@ Lisätietoja: suojelujohtaja Jari Luukkonen, WWF, 040 585 0020 (saimaannorppa ja
 
 Julkaistu: 26.1.2010  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/01/saimaannorpan-poikasille-kolataan-koteja-helsingissa-27-1/
 
 **Kolaa koti kuutille -kaupunkitapahtumassa kansanedustajat ottavat mittaa BB-julkkiksista leikkimielisessä kilpailussa, kun joukkueet rakentavat uhanalaiselle saimaannorpalle lumesta pesiä. WWF julistaa tapahtumassa perinteisen saimaannorpan pesärauhan, jonka lukee näyttelijä Eija Vilpas. Tapahtuman järjestävät WWF ja HAAGA-HELIA ammattikorkeakoulu.**
@@ -5323,7 +5215,6 @@ Aikataulu:
 
 Julkaistu: 26.1.2010  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/01/ilmastonmuutos-vaikeuttaa-saimaannorpan-pesintaa/
 
 **WWF julistaa huomenna saimaannorpalle perinteisen pesärauhan. Pesärauhan lukee tänä vuonna näyttelijä Eija Vilpas. Uhanalainen saimaannorppa vaatii juuri nyt erityishuomiota, sillä sekä ilmastonmuutos että ihminen aiheuttavat lajille haasteita.**
@@ -5380,7 +5271,6 @@ Saimaannorppa kaipaa rauhaa Joulukuussa jäähän hengitysaukko. Tammikuussa kin
 
 Julkaistu: 19.1.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/01/wwfn-uunituore-selvitys-msc-on-kalatuotteiden-ymparistomerkeista-paras/
 
 **MSC-ympäristömerkintä (Marine Stewardship Council) saa selkeästi parhaan arvosanan vertailevassa tutkimuksessa, jossa arvioidaan luonnonkalatuotteiden sertifiointiohjelmia. Kiinnostus kalatuotteiden ympäristömerkkejä kohtaan on Suomessakin voimakkaassa kasvussa. WWF:n selvitys auttaa hankintayhtiöitä ja jälleenmyyjiä valitsemaan ympäristön kannalta vaikuttavimman.**
@@ -5425,7 +5315,6 @@ WWF Suomi on osa kansainvälistä WWF-verkostoa, joka työskentelee maailman ain
 
 Julkaistu: 19.1.2010  
 Kirjoittaja: Veera Honkanen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2010/01/lapin-kansallispuistot-toimivat-suurpetojen-laittoman-pyynnin-turvapaikkoina/
 
 **Sodankylässä viime viikon lopulla paljastunut ahman laiton tappo oli tämän talven ensimmäinen julki tullut, mutta valitettavasti odotettu ja varsin tyypillinen tapaus. Tappo tapahtui Urho Kekkosen kansallispuistossa. Moottorikelkoilla liikkuneet salapyytäjät olivat yrittäneet peittää jälkensä.**

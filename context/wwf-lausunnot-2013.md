@@ -1,9 +1,8 @@
 # WWF Suomi – Lausunnot 2013
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 25 (uusin 30.12.2013).
+Kohteita: 34 (uusin 30.12.2013).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -24,6 +23,9 @@ Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 **Syyskuu 2013**
 
+- 30.9.2013 – WWF:n muistio kansanedustajille: Metsälaki- ja metsätuholakiesitysten ongelmat luonnon monimuotoisuuden kannalta (31.5.2013, 184 kt)
+- 30.9.2013 – WWF:n muistio eduskunnan ympäristövaliokunnalle: Metsälakiesityksen ongelmat luonnon monimuotoisuuden kannalta (26.9.2013, 235 kt)
+- 27.9.2013 – WWF:n kirje Itämeren alueen keskeisille ministereille (23.9.2013, 143 kt)
 - 20.9.2013 – WWF:n lausunto komission ehdotuksesta Itämeren kalastusmahdollisuuksista vuodelle 2014 (17.9.2013, 135 kt)
 
 **Elokuu 2013**
@@ -39,11 +41,14 @@ Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 **Kesäkuu 2013**
 
+- 25.6.2013 – WWF Suomen kommentit Manner-Suomen maaseudun kehittämisohjelma 2014-2020 luonnokseen (25.6.2013, 205 kt)
 - 19.6.2013 – WWF:n lausunto koskien Kioton pöytäkirjan toisen velvoitekauden ratifiointia EU:ssa, sen yleisjärjestelyjä ja metsäkatokompensaatiota
 - 17.6.2013 – WWF: lausunto ehdotuksesta valtioneuvoston asetukseksi kalastusasetuksen muuttamisesta (17.6.2013, 327 kt)
+- 2.6.2013 – Kriteerit luonnonlaidunlihan tuotannolle Suomessa (3.6.2013, 129 kt)
 
 **Toukokuu 2013**
 
+- 31.5.2013 – WWF:n kommentit luontodirektiivin raportointiin (29.5.2013, 93 kt)
 - 31.5.2013 – WWF:n lausunto Suomen suojelualueiden luokittelemiseksi IUCN:n suojelualueluokituksen mukaan (31.5.2013, 132 kt)
 - 31.5.2013 – WWF Suomen lausunto siiankalastuksen säätelyehdotuksesta (29.5.2013, 262 kt)
 - 8.5.2013 – WWF Suomen lausunto eduskunnan maa- ja metsätalousvaliokunnalle ehdotuksesta Euroopan parlamentin ja neuvoston asetukseksi yhteisestä kalastuspolitiikasta (2.5.2013, pdf-tiedosto, 199 kt)
@@ -58,11 +63,14 @@ Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 26.3.2013 – WWF Suomen lausunto esityksestä metsälaiksi ja valtioneuvoston asetukseksi metsien kestävästä hoidosta ja käytöstä (22.3.2013, pdf-tiedosto, 336 kt)
 - 8.3.2013 – WWF Suomen lausunto vesiviljelyn kansallisesta sijainninohjaussuunnitelmasta (8.3.2013, pdf-tiedosto, 356 kt)
+- 6.3.2013 – WWF Suomen kirje kansanedustajille metsälain uudistamisesta (5.3.2013, pdf-tiedosto, 186 kt)
+- 4.3.2013 – WWF Suomen mielipide soidensuojelun täydennysohjelman valmistelusta (28.2.2013, pdf-tiedosto, 185 kt)
 
 **Helmikuu 2013**
 
 - 18.2.2013 – WWF:n lausunto luonnoksesta asetukseksi, jonka tarkoituksena on lisätä kiintiötä viidellä sudella poronhoitoalueen ulkopuolella metsästyskaudella 2012–2013 (18.2.2013, pdf-tiedosto, 114 kt)
 - 15.2.2013 – WWF:n lausunto luonnoksesta luonnonsuojeluasetuksen liitteiden muuttamiseksi (15.2.2013, pdf-tiedosto, 84 kt)
+- 15.2.2013 – WWF:n täydentävä lausuma siikatyöryhmän mietintöön (15.2.2013, pdf-tiedosto, 86 kt)
 
 **Tammikuu 2013**
 
@@ -76,7 +84,6 @@ Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 Julkaistu: 30.12.2013  
 Aiheet: Itämeri, Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/4/s/hkptslzfetmw4g6mqzrqdif/lausunto_poisheittokielto_wwf_122013.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -113,7 +120,6 @@ WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmis
 
 Julkaistu: 18.11.2013  
 Aiheet: Luonnon köyhtyminen, Suomen metsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/p/j/e/vf3jqtngvberpbz2vyuc5pa/wwf-suomen-lausunto-esityksestae-metsaeasetukseksi.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -176,7 +182,6 @@ metsät yleistyisivät, niin niitä ei metsäviranomaisten valvonta kontrolloisi
 
 Julkaistu: 18.11.2013  
 Aiheet: Suomen metsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/k/a/f/pggreanab3pigm5i7e7kcld/wwf-lausunto-kaesivarren-kansallispuiston-perustamisedellytyksistae-131114.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -197,7 +202,6 @@ Petteri Tolvanen ohjelmapäällikkö, suomalainen luonto petteri.tolvanen@wwf.fi
 
 Julkaistu: 14.11.2013  
 Aiheet: Suomen metsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/y/7/2zqcoh5bqhk5e456e5syrsf/wwf-suomen-lausunto-teijon-kansallispuiston-perustamisesta_24-10-2013.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -222,7 +226,6 @@ Panu Kunttu metsäasiantuntija
 
 Julkaistu: 4.11.2013  
 Aiheet: Suomi, Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/j/n/q/6dfgppjdq3k2nnhd6foqxic/wwf-lausunto-mmm-susi-131104.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -277,7 +280,6 @@ Petteri Tolvanen ohjelmapäällikkö
 
 Julkaistu: 24.10.2013  
 Aiheet: Ilves, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/g/2/w/xsqevhrdafnrb5d3vt5hp3a/wwf-lausunto-ilves-mmm-130717-pvmkorjattu.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -312,11 +314,88 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 ## Syyskuu 2013
 
+### WWF:n muistio kansanedustajille: Metsälaki- ja metsätuholakiesitysten ongelmat luonnon monimuotoisuuden kannalta (31.5.2013, 184 kt)
+
+Julkaistu: 30.9.2013  
+Aiheet: Luonnon köyhtyminen, Metsäkato, Suomen metsät  
+Linkki: https://wwf.fi/app/uploads/t/x/d/he7t6vbb4jgtlvumqqzm5af/metsaelaki-ja-metsaetuholaki_wwf_yhteenveto_31052013.pdf
+
+MUISTIO
+
+31.5.2013
+
+Metsälaki- ja metsätuholakiesitysten ongelmat luonnon monimuotoisuuden kannalta ● Monet kansalliset ja kansainväliset sopimukset velvoittavat Suomea pysäyttämään luonnon monimuotoisuuden köyhtymisen vuoteen 2020 mennessä. ● Metsissä elää 814 uhanalaista lajia ja uhanalaisuuden kynnyksellä, silmälläpidettävinä, on 776 lajia. Yli sata metsälajia on luokiteltu jo hävinneeksi. Kaksi kolmasosaa metsätyypeistä on uhanalaisia. ● Metsätalous on merkittävin uhka suurimmalle osalle näitä uhanalaisia lajeja ja luontotyyppejä. ● 90 % metsistä on talousmetsiä, joita metsälaki ja metsätuholaki koskevat. Etelä-Suomessa talousmetsien osuus on vielä suurempi. ● Metsälainsäädäntö on ainoa kaikkia metsänomistajia sitova keino vaikuttaa metsien käsittelyyn. Lain avulla tulee varmistaa monimuotoisuuden säilyminen, jos halukkuus tai resurssit vapaaehtoisiin toimiin vähenevät. ● Metsäntutkimuslaitos, Suomen ympäristökeskus ja Metsätalouden kehittämiskeskus Tapio toteavat metsälakiesitystä käsittelevässä arvioinnissaan, että metsälain muutosehdotus kokonaisuutena heikentää metsäluonnon monimuotoisuuden turvaamista verrattuna voimassa olevaan metsälakiin.
+
+Metsälaki ● Metsälain erityisen tärkeiden elinympäristöjen osalta metsälakiehdotus sisältää useita selviä heikennyksiä monimuotoisuuden turvaamisen kannalta. Merkittävin heikennys on näiden elinympäristöjen määritteleminen kooltaan pienialaisiksi ja niiden käsittelyn salliminen voimakkain poimintahakkuin. Kaikkien elinympäristöjen kriteerejä on myös kiristetty edellyttämällä niiltä vanhoja ylispuita sekä kelo- ja lahopuita. Näiden elinympäristöjen huomiointi metsänkäsittelyssä on ainoa monimuotoisuuden säilyttämiseen liittyvä pykälä metsälaissa. ● Erityisen tärkeiden elinympäristöjen hakkaamisen sallivan poikkeusluvan myöntämisen kynnysarvoa ollaan alentamassa. Tämä rajaa säästettäviä elinympäristöjä pieniksi ja samalla metsäkiinteistöllä ei tarvitse säästää useita elinympäristöjä, jos taloudellinen kynnysarvo ylittyy jo yhden kohteen kohdalla. ● Lakiehdotuksessa ei huomioida uusia elinympäristötyyppejä riittävästi ekologiseen tarpeeseen nähden. Elinympäristölistaa tulee täydentää kaikilla aito- ja nevakorpityypeillä sekä näihin rajoittuvilla kangaskorvilla, ruohokangaskorvilla, joenvarsimetsillä ja korpirämeillä. Nämä ovat uhanalaisia luontotyyppejä. ● Uudistushakkuiden järeys- ja ikärajojen poistaminen saattaa vähentää vanhojen metsien määrää. Jos ikärajoitteiden poistaminen vaikuttaa metsien ikäluokkajakaumaan nuorentavasti, vaikutukset monimuotoisuuteen ovat negatiivisia. ● Taimikon perustaminen tulee sallia myös taloudellisesti vähäarvoisemmilla lehtipuulajeilla, jotka ylläpitävät monimuotoisuutta (raita, pihlaja ja harmaaleppä).
+
+Käännä
+
+● Metsän jatkuvan kasvatuksen eli eri-ikäisrakenteisen metsänhoidon sopivat minimipohjapinta-alat kasvatushakkuun jälkeen Etelä-Suomessa ovat 8-9 m2/ha. Nyt lakiesityksessä olevat rajat ovat liian korkeat menetelmän toimimisen varmistamiseksi erilaisissa tilanteissa. ● Luontaisen uudistamisen käyttöä tulee edistää säätämällä sille riittävän väljät rajat taimikon koon ja aikarajan suhteen. Sopiva raja olisi 10 cm taimikko 10 vuodessa Etelä-Suomessa, 15 vuotta Keski-Suomessa ja 25 vuotta Pohjois-Suomessa. Nyt esitetty kokovaatimus annettuun aikaan nähden on liian kireä ja saattaa pakottaa metsän istutukseen. ● Metsänkäyttöilmoituksen jättöajan lyhentäminen 14 päivästä 7 päivään saattaa vähentää viranomaisvalvonnan mahdollisuuksia monimuotoisuuden kannalta tärkeillä kohteilla. ● Metsälakiehdotuksessa ei huomioida voimakkaassa kasvussa olevan energiapuun korjuun vaikutuksia lainkaan, vaikka tutkimustulosten perusteella sillä voi olla huomattavia vaikutuksia metsäluonnolle, erityisesti lahopuusta riippuvaiselle lajistolle. ● Metsälaissa pitää olla velvoite jättää uudistushakkuiden yhteydessä eläviä säästöpuita ja kaikissa hakkuissa säästää lahopuuta. Metsälain tulee turvata uhanalaisten lajien elinpaikat, koska metsätalouden vaikutukset ovat 606 lajin uhanalaisuuden syynä. Vesistöjen rantametsien leveydelle tulee asettaa metrimäärät, joissa metsätaloustoimet ovat rajoitettuja.
+
+Metsätuholaki ● Kuolleiden ja lahoavien puiden vähäinen määrä talousmetsissä on tärkein yksittäinen metsälajien uhanalaisuuden syy. Suomen metsissä on noin 5000 lahopuusta riippuvaista eliölajia. Metsätuholakiesitys on kiristämässä korjattavan kuolleen puuston määrää, vaikka tälle ei ole perusteita tutkimustietoon pohjautuen. Lakiesitys ei yleisesti ottaen huomioi monimuotoisuuden turvaamisen tarpeita ja se on tarpeettomasti muuttumassa laajojen merkittävien metsätuhojen torjunnasta kohti yleistä metsähygieniaa. ● Vahingoittuneiden puiden korjuuvelvoite koskee myös sellaisia talousmetsien kohteita, jotka muuten jätettäisiin käsittelemättä monimuotoisuuden turvaamiseksi. Metsälain soveltamisalan mukaan metsätuholain mukaisesti vahingoittuneet puut on poistettava myös metsälain erityisen tärkeistä elinympäristöistä, ympäristötukikohteilta ja metsälailla toteutetuilta Natura-alueilta. Metsätuholain mukaisen korjuuvelvoitteen ei tule olla voimassa näillä kohteilla, joiden tarkoitus on lisätä monimuotoisuutta. ● Sallittu vahingoittuneiden havupuiden määrän yläraja (10 m3/ha) on voimassa olevaa lakia selvästi alhaisempi, mikä hankaloittaa lahopuun lisäämistä talousmetsissä. Pinta-alaltaan hyvin pienissä kohteissa korjuuvelvoite täyttyisi jo muutaman järeän rungon kaatuessa. ● Vahingoittuneiden puiden poistovelvoite koskee myös mäntyjä, vaikka mäntyjen kohdalla ei vahingoittuneiden puiden poistovelvoitteella metsästä ole juurikaan hyötyjä tuhojen torjumisen kannalta, mutta tulee kustannuksia maanomistajille ja haittaa mäntylahopuuta tarvitseville eliöille. ● Lakiesityksessä metsätuhojen vahingonkorvausvelvollisuuden raja muille kuin valtiolle on laskettu niin alas (puuston kuolema tai kasvun väheneminen 10 m3/ha viidessä vuodessa), että rajanveto metsän luontaiseen kiertokulun vaikutuksiin on mahdotonta. Lisätiedot: WWF Suomi, metsäasiantuntija Panu Kunttu, panu.kunttu@wwf.fi, p. 050 305 5086 tai pääsihteeri Liisa Rohweder, liisa.rohweder@wwf.fi, p. 040 840 7461
+
+---
+
+### WWF:n muistio eduskunnan ympäristövaliokunnalle: Metsälakiesityksen ongelmat luonnon monimuotoisuuden kannalta (26.9.2013, 235 kt)
+
+Julkaistu: 30.9.2013  
+Aiheet: Suomen metsät, Suomi  
+Linkki: https://wwf.fi/app/uploads/o/6/b/u4fnvwzf5tfpptpdfpxf2ue/metsaelaki-ymvlle_wwf_26092013.pdf
+
+MUISTIO
+
+26.9.2013
+
+Eduskunnan ympäristövaliokunnalle
+
+Metsälakiesityksen ongelmat luonnon monimuotoisuuden kannalta Taustaa ● Monet kansalliset ja kansainväliset sopimukset velvoittavat Suomea pysäyttämään luonnon monimuotoisuuden köyhtymisen vuoteen 2020 mennessä. ● Metsissä elää 814 uhanalaista lajia ja uhanalaisuuden kynnyksellä, silmälläpidettävinä, on 776 lajia. Yli sata metsälajia on luokiteltu jo hävinneeksi. Kaksi kolmasosaa metsätyypeistä on uhanalaisia. ● Metsätalous on merkittävin uhka suurimmalle osalle näitä uhanalaisia lajeja ja luontotyyppejä. ● 90 % metsistä on talousmetsiä, jota metsälaki koskee. Etelä-Suomessa talousmetsien osuus on vielä suurempi. ● Metsälaki on ainoa kaikkia metsänomistajia sitova keino vaikuttaa metsien käsittelyyn. Lain avulla tulee varmistaa monimuotoisuuden säilyminen, jos halukkuus tai resurssit vapaaehtoisiin toimiin vähenevät. ● Metsäntutkimuslaitos, Suomen ympäristökeskus ja Metsätalouden kehittämiskeskus Tapio toteavat metsälakiesitystä käsittelevässä arvioinnissaan, että metsälain muutosehdotus kokonaisuutena heikentää metsäluonnon monimuotoisuuden turvaamista verrattuna voimassa olevaan metsälakiin. Lakiesityksen sisältö ● 2 § Metsälain soveltamisalan mukaan metsätuholain mukaisesti vahingoittuneet puut on poistettava 10 § erityisen tärkeistä elinympäristöistä. Tämä heikentää erittäin merkittävästi näiden pinta-alaltaan nykyään pienien kohteiden ominaispiirteitä, joista kuollut puu on keskeisimpiä. Metsätuholain mukaisen korjuuvelvoitteen ei tule olla voimassa erityisen tärkeissä elinympäristöissä. Metsälain ja metsätuholain esityksissä tämä muutos tulee linjata yhteisesti. ● 5 § Metsän eri-ikäisrakenteisen metsänhoidon sopivat minimipohjapinta-alat kasvatushakkuun jälkeen Etelä-Suomessa ovat 8 m2/ha (kuivahko ja sitä karumpi) ja 9 m2/ha (tuore ja sitä ravinteikkaampi). Asetusesityksessä olevat rajat ovat olleet liian korkeat menetelmän toimimisen varmistamiseksi erilaisissa tilanteissa. ● 8 § Luontaisen uudistamisen käytön lisääminen ja kylvön pitäminen toimenpidevalikoimassa edellyttäisi, että lakiesityksen aika- ja pituusrajoja muutettaisiin seuraavanlaisiksi: taimikon keskipituusraja 10 cm ja aikarajana eteläisessä Suomessa 10 vuotta, keskisessä Suomessa 15 vuotta ja pohjoisessa Suomessa 25 vuotta. ● 8 a § Taimikon perustaminen tulee sallia myös taloudellisesti vähäarvoisemmilla lehtipuulajeilla, jotka ylläpitävät monimuotoisuutta (raita, pihlaja ja harmaaleppä). ● 10 § Erityisen tärkeiden elinympäristöjen osalta metsälakiesityksen merkittävin heikennys on näiden elinympäristöjen määritteleminen kooltaan pienialaisiksi tai metsätaloudellisesti vähämerkityksellisiksi. Kohteiden pinta-alan tulee määräytyä luonnontieteellisesti, eikä taloudellisin perustein, joten lähtökohtainen pienialaisuus on esityksestä poistettava. Pienialaisuus
+
+Käännä
+
+on jo nyt näiden kohteiden keskeinen ongelma. Esityksestä tulee myös poistaa mahdollisuudet kohteiden käsittelyyn poimintahakkuin ja puutavaran kuljettamiseen niiden läpi metsäkoneilla. Näiden elinympäristöjen huomiointi metsänkäsittelyssä on ainoa suoraan monimuotoisuuden säilyttämiseen liittyvä pykälä metsälaissa. ● 10 § Lakiesityksessä ei huomioida uusia elinympäristötyyppejä riittävästi ekologiseen tarpeeseen nähden. Elinympäristölistaa tulee täydentää aito- ja nevakorvilla sekä näihin rajoittuvilla kangaskorvilla, ruohokangaskorvilla, joenvarsimetsillä ja korpirämeillä. Nämä ovat uhanalaisia luontotyyppejä. ● 11 § Erityisen tärkeiden elinympäristöjen hakkaamisen sallivan poikkeusluvan myöntämisen kynnysarvoa ollaan alentamassa, kun tarkasteluyksikkönä olisi esityksen mukaan kiinteistö, eikä kunta. Tämä rajaa säästettäviä elinympäristöjä pieniksi ja samalla metsäkiinteistöllä ei tarvitse säästää useita elinympäristöjä, jos taloudellinen kynnysarvo ylittyy jo yhden kohteen kohdalla. ● Metsälakiehdotuksessa ei huomioida voimakkaassa kasvussa olevan energiapuun korjuun vaikutuksia lainkaan, vaikka tutkimustulosten perusteella sillä voi olla huomattavia vaikutuksia metsäluonnolle, erityisesti lahopuusta riippuvaiselle lajistolle. ● Uudistushakkuiden järeys- ja ikärajojen poistaminen saattaa vähentää vanhojen metsien määrää. Jos ikärajoitteiden poistaminen vaikuttaa metsien ikäluokkajakaumaan nuorentavasti, vaikutukset monimuotoisuuteen ovat negatiivisia. Metsiemme ikäluokkajakauma on etenkin Etelä-Suomessa viime vuosikymmeninä (VMI8-VMI10) nuorentunut. ● Metsälaissa tulee olla velvoite jättää uudistushakkuiden yhteydessä eläviä säästöpuita ja kaikissa hakkuissa säästää lahopuuta. ● Metsälaissa tulee olla kirjaus metsissä elävien uhanalaisten lajien elinpaikkojen turvaamisesta, koska metsätalouden vaikutukset ovat 606 lajin uhanalaisuuden syynä. ● Vesistöjen rantametsien leveydelle tulee asettaa metrimäärät, joissa metsätaloustoimet ovat rajoitettuja.
+
+WWF Suomi metsäasiantuntija Panu Kunttu, panu.kunttu@wwf.fi, p. 050 305 5086 pääsihteeri Liisa Rohweder, liisa.rohweder@wwf.fi, p. 040 840 7461
+
+---
+
+### WWF:n kirje Itämeren alueen keskeisille ministereille (23.9.2013, 143 kt)
+
+Julkaistu: 27.9.2013  
+Aiheet: Itämeri, Liikakalastus  
+Linkki: https://wwf.fi/app/uploads/i/p/k/rkt5vrve7zezkqvcypu5utf/wwf-kirje-itaemeren-alueen-ministereille.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 www.wwf.fi www.panda.org
+
+23.9.2013
+
+Itämeren alueen ministereille
+
+Arvoisa ministeri
+
+Itämeren maiden ympäristöministerit kokoontuvat 3. lokakuuta Kööpenhaminaan arvioimaan, miten Itämeren suojelukomission (HELCOM) Itämeren suojelun toimintaohjelma (Baltic Sea Action Plan) on toteutunut. Toimintaohjelman avulla tulisi palauttaa Itämerelle hyvä ekologinen tila vuoteen 2021 mennessä. Kööpenhaminan ministerikokous on valitettavasti matkalla kohti epäonnistumista: viime aikoina ei ole tapahtunut juurikaan myönteistä kehitystä, jota ministerit voisivat arvioida. WWF:n Baltic Sea Action Plan – is it on track -selvitys kertoo, että kaikki Itämeren maat, Suomi mukaan lukien, ovat jäljessä aikataulusta toimintaohjelman toteuttamisessa. Selvitys on tämän kirjeen liitteenä. Kööpenhaminan kokouksen alla pyydämme Teitä tutustumaan myös toiseen WWF:n tuoreeseen raporttiin, joka niin ikään on tämän kirjeen liitteenä. The Boston Consulting Groupin WWF:lle tekemä Turning Adversity into Opportunity -raportti osoittaa, että Itämeren tila ei ole ainoastaan ympäristökysymys, vaan sillä on myös merkittäviä sosioekonomisia vaikutuksia. Tämän vuoksi Itämeren tila on myös Teidän ministeriönne asia. Raportin mukaan Itämeren tilan kohentamiseksi tehtävät suojelutoimet voivat tuoda jopa 550 000 uutta työpaikkaa ja tuottaa alueelle 32 miljardia euroa vuoteen 2030 mennessä. Raportti osoittaa myös, että Itämeren alueella on muita alueita paremmat mahdollisuudet tarttua haasteisiin ja että suojelutyön vaatimia innovaatioita voidaan hyödyntää myös kansainvälisessä kaupassa. Hyvä esimerkki tästä on Singapore, jonka investoinnit vesivarojen hallintaan ovat tehneet maasta ympäristöteknologian keskuksen Aasiassa. Raportissa keskitytään Itämeren suojelun vaikutuksiin matkailualan, maatalouden ja kalastuksen näkökulmasta. Yksi johtopäätös on, että syntyviä kustannuksia ja hyötyjä ei voida arvioida vain toimialakohtaisesti, sillä yhdellä sektorilla syntyneillä kustannuksilla voi olla merkittäviä myönteisiä vaikutuksia toiseen toimialaan ja laajemmin koko yhteiskuntaan. Tarvitaan siis kokonaisvaltaista lähestymistapaa, joka tarkoittaa kaikkien asianomaisten ministerien ja heidän hallinnonalojensa osallistumista Itämeren suojeluun. WWF toivoo, että tutustutte Turning Adversity into Opportunity -raporttiin ja  edistätte ministerikollegoidenne kanssa Itämeren alueen kestävää kehitystä ja varmistatte näin Itämeren suojelun tuomien taloudellisten, sosiaalisten ja ympäristöä koskevien hyötyjen toteutumisen  työskentelette rakentavassa yhteistyössä ympäristöministeriön kanssa Itämeren suojelun toimintaohjelman toteuttamiseksi aikataulussaan ja alkuperäisten tavoitteiden mukaisesti  edistätte kaupallisten kannustimien syntyä Itämeren suojelun vaatimien ratkaisujen yhteyteen.
+
+Tulemme mielellämme kertomaan lisää raportin sisällöstä ja keskustelemaan kanssanne Itämeren suojelusta. Kuulisimme mielellämme myös siitä, millaisia toimia Teidän ministeriönne voisi Itämeren suojeluohjelman edistämiseksi tehdä ja miten osoitatte tukeanne ympäristöministerille.
+
+Kunnioittavasti
+
+Liisa Rohweder, pääsihteeri, WWF Suomi
+
+Sampsa Vilhunen, meriohjelman päällikkö, WWF Suomi
+
+040 840 7461, liisa.rohweder@wwf.fi
+
+040 550 3854, sampsa.vilhunen@wwf.fi
+
+Kopio: Ympäristöministerit Liitteet: Baltic Sea Action Plan – is it on track -selvitys (luettavissa myös verkossa: http://wwf.fi/mediabank/4546.pdf) Turning Adversity into Opportunity -raportti (luettavissa myös verkossa: http://wwf.fi/mediabank/4680.pdf)
+
+---
+
 ### WWF:n lausunto komission ehdotuksesta Itämeren kalastusmahdollisuuksista vuodelle 2014 (17.9.2013, 135 kt)
 
 Julkaistu: 20.9.2013  
 Aiheet: Itämeri, Liikakalastus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/z/b/mwimynff3jfirk2kzc4xkbg/lausunto_tac2014_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -355,7 +434,6 @@ WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmis
 
 Julkaistu: 22.8.2013  
 Aiheet: Suomi, Uhka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/n/v/h5cjbdzbyhpb7j75nzhpwyb/wwf_torjunta-asetus.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -394,7 +472,6 @@ Vanessa Ryan Meriasiantuntija
 
 Julkaistu: 20.8.2013  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/j/5/e/s5ifcgjclxkpv7zmiagxa7h/wwf-lausunto-riekko-mmm-130819.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -413,7 +490,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 20.8.2013  
 Aiheet: Itämeri, Suomi, Vieraslajit  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/4/p/n/ajhikbnadpmj3ndxikkkced/lausunto_painolastivesi_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -440,7 +516,6 @@ Vanessa Ryan Meriasiantuntija
 
 Julkaistu: 24.7.2013  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/v/r/ou2mtfnfjbpun57hcqtkoec/wwf-lausunto-hanhet-mmm-130724.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -463,7 +538,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 23.7.2013  
 Aiheet: Itämerennorppa, Itämeri, Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/5/k/lzz5rkvdkdanbqd5sns6jub/wwf-lausunto-hylkeet-majava-saukko-mmm-130717.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -510,11 +584,69 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 ## Kesäkuu 2013
 
+### WWF Suomen kommentit Manner-Suomen maaseudun kehittämisohjelma 2014-2020 luonnokseen (25.6.2013, 205 kt)
+
+Julkaistu: 25.6.2013  
+Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Suomi  
+Linkki: https://wwf.fi/app/uploads/c/r/6/sgchegrg2rc6tmzfj6s6bcc/wwf_kommentit_maataloudenymparitoohjelma_ee_svi_ee.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Maa- ja metsätalousministeriö kirjaamo@mmm.fi
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+25.6.2013
+
+ASIA: WWF Suomen kommentit Manner-Suomen maaseudun kehittämisohjelma 20142020 luonnokseen
+
+WWF kiittää mahdollisuudesta kommentoida luonnosta ja esittää seuraavaa: Yleiset kommentit: -
+
+Hallitusohjelmaan on kirjattu muun muassa seuraavaa: ”Ympäristötuen toimenpiteitä kohdennetaan alueellisesti sekä tila- ja lohkokohtaisesti vesistöjensuojelun kannalta herkimmille alueille” sekä tavoitellaan ”Suomesta ravinteiden kierrätyksen mallimaata”. Ympäristökorvausjärjestelmässä ei ole tämän tasoista kohdentamista, eikä se myöskään sisällä merkittäviä toimenpiteitä kierrätysravinteiden käytön edistämiseksi. Ohjelmaan tulee saada esimerkiksi toimenpide, jolla kasvinviljely- ja eläintilojen yhteistyötä voidaan aidosti parantaa, koska tämä on monessa yhteydessä todettu kulmakiveksi lannan tehokkaamman käytön mahdollistamiseksi.
+
+-
+
+Hallitusohjelman tavoitteissa Suomesta kaavaillaan myös ”ilmastonmuutoksen torjunnan ja luonnon monimuotoisuuden vaalimisen edelläkävijämaata”. Edeltävällä tukikaudella Euroopan Komissio on vaatinut Suomelta voimakkaampia toimia juuri maatalousympäristön monimuotoisuuden parantamiseksi. Uuden ohjelman tulee näin sisältää merkittäviä toimia luonnon monimuotoisuuden heikentymisen pysäyttämiseksi.
+
+-
+
+Päällekkäisten, tavoitteiltaan usein päinvastaisten toimintojen tukemista tulisi järkeistää. Valtion toimesta voidaan esimerkiksi tukea samalla niin uomien kuivatus kuin ennallistamishankkeitakin. Hankkeiden toteuttamista tulisi tarkastella valuma-aluekohtaisesti eikä vesien ekologista tilaa heikentäviä hankkeita tulisi yleisin varoin tukea.
+
+-
+
+Toimenpiteiden kohdentamisen helpottamiseksi WWF ehdottaa eri tietolähteiden (esim. Syke, MTT, alueelliset Ely- keskukset, Mavi) tietojen yhteen kokoamista esimerkiksi paikkatieto-ohjelma-aineistoksi. Myös erilaiset toimenpideohjelmat,
+
+kuten alueelliset vesienhoitosuunnitelmat, toimivat kohdentamisen ohjaamisessa. Suomen valtio on sitoutunut hallitusohjelmassaan vesienhoitosuunnitelmien toimeenpanoon. -
+
+Alustavassa esityksessä Manner-Suomen maaseudun kehittämisohjelman rahoituksen jakautumisesta ympäristöohjelman varoja esitetään leikattavan. Suomi on sitoutunut sekä hallitusohjelmassa että erilaissa kansallisissa ja kansainvälisissä sopimuksissa ympäristötavoitteisiin, joiden toteutumista ympäristötoimenpiteiden toteutuksesta leikattavat varat uhkaisivat.
+
+-
+
+Maaseutuohjelma rahoitetaan eurooppalaisten veronmaksajien varoilla. Ohjelman vaikutuksia ympäristöön on pidetty pieninä käytettyihin rahamääriin suhteutettuna ja tilintarkastuslaitokset ovat esittäneet tähän liittyvää kritiikkiä niin kotimaassa kuin Euroopankin tasolla. Uuden ohjelman uskottavuuden kannalta on tärkeää, että toimenpiteet edistäisivät ensisijaisesti ympäristön tilaa. Mahdollisissa budjettileikkauksissa juuri ympäristön kannalta tehokkaimmat toimenpiteet tulee säilyttää tuen piirissä ja toimenpiteiden alueellista kohdentumista tulee selvästi tehostaa.
+
+Yksityiskohtaisemmat kommentit: 1.5 SWOT- analyysi Analyysissä vahvuudeksi on esitetty Suomen vähäinen lajien ja luontoyypien häviäminen. Maatalousluonnon monimuotoisuuden heikkeneminen ja perinnemaisemien luontotyyppien uhanalaistumiskehitystä ei ole kuitenkaan kyetty pysäyttämään, jonka vuoksi edellä mainitut tulisikin siirtää vahvuuksista heikkouksiin. Uhkien joukkoon tulisikin lisätä luonnon monimuotoisuuden köyhtyminen ja luonnoksessa esitetyn ”ympäristöongelmien pahenemisen” lisäksi eritellä uhaksi vesien ekologisen tilan heikentyminen niin sisämaassa kuin rannikon merialueillakin.
+2. Analyysista nousevat tarpeet Prioriteetti 4. Maa- ja metsätalouteen liittyvien ekosysteemien ennallistaminen, säilyttäminen ja parantaminen 4C Maaperän eroosion hoidon sekä lannoitteiden ja torjunta-aineiden käsittelyn parantaminen:
+
+WWF:n näkemyksen mukaan luonnonmukaiseksi palautettujen uomien vedenjohtokyky on mahdollista saada kuivatuksen tarpeeseen nähden sopivaksi. Näin ollen WWF esittää poistettavaksi sivulla 46 olevan lauseen: ”Luonnonmukaiseksi palautettujen uomien vedenjohtokyky on huomattavasti tavanomaista peruskuivatusta heikompi.”
+3. Ennakkoarviointi 3.1 Kuvaus arviointiprosessista Laaditussa ympäristöselostuksessa ei ole huomioitu riittävällä tasolla ohjelman vaikutuksia Natura 2000 alueisiin tai luonnon monimuotoisuuteen.
+7. Valitut toimenpiteet 7.4.1 Maatilojen kokonaistehokkuuden parantaminen Tuettaviin investointeihin kuuluu ohjelmaluonnoksessa salaojitus, joka ei ensisijaisesti ole ympäristöperusteinen toimenpide, joissa maksuperusteena on ympäristötoimenpiteestä syntyvät tulonmenetykset. Salaojitusta ei näin ollen tule rahoittaa ympäristöohjelman varoista. 7.4.3 Ympäristöinvestoinnit Perinnebiotooppien ja luonnonlaidunten alkuraivaus ja aitaaminen Perinnebiotooppien lisäksi luonnonlaidunten ottaminen mukaan tuettavaksi ympäristöinvestoinniksi on erinomainen lisäys ohjelmassa. Kosteikkoinvestoinnit Kosteikkoinvestointeja koskevat muutokset ovat erinomainen lisäys ohjelmassa. Sekä kosteikot että perinnebiotoopit ovat maatalouden luonnon monimuotoisuuden kannalta yksiä tärkeimmistä toimenpiteistä. Molemmilla toimenpiteillä on lisäksi maisemavaikutuksia ja kosteikot ovat myös tärkeitä toimenpiteitä vesien ekologisen tilan parantamisessa. MYTVAS- tutkimuksen mukaan kosteikot ja perinnebiotoopit ovat nykyisen järjestelmän ympäristötehokkaimpia toimenpiteitä, jonka vuoksi myös niiden rahoitusta tulee priorisoida.
+
+7.7.1 Ravinteiden tasapainoinen käyttö (ravinnetase) Niin kutsutusta ”startti fosforista” tulisi luopua hyvän, korkean ja arveluttavan korkean fosforiluvun mailla. Startti fosforista ei korkean P-luvun mailla ole tutkimuksilla osoitettu olevan vaikutusta satotasoon. Myöskään satotason määrän korjauksen ei tulisi nostaa fosforilannoituksen enimmäismäärää hyvän, korkean ja arveluttavan korkean P- luvun mailla, ennen lisätutkimusta siitä, miten luotettavasti tällainen satotaso saadaan ennakkoon määriteltyä. 7.7.2 Lannan levitys kasvukaudella Lannan levitystä kasvukaudella tulee edistää esimerkiksi poistamalla luovutusrajoitukset. 7.7.7 Ympäristönhoitonurmet Suojavyöhykkeiden siirtyminen nykyisestä sopimuksesta sitoumukseksi on hyvä edistysaskel yksinkertaistamaan järjestelmää. Koska ympäristönurmien, kuten luonnonhoitopeltojen, osuus ympäristöohjelman budjetista on huomattava, on luonnonhoitopeltojen osalta huolehdittava että toimenpiteen ehdot ovat tiukasti ympäristöperusteiset. Luonnonhoitopeltojen niitto tulee suorittaa joka toinen vuosi ja vasta aikaisintaan 1.8. jälkeen. Niittäminen ennen elokuuta voi luoda ekologisen ansan eliölajistolle, erityisesti perhosille ja linnuille. Niittojätteen poiskorjaukseen ja hyötykäyttöön tulisi kannustaa. Ilman edellä kuvattuja keinoja toimenpiteen tukemiselle ei löydy riittäviä ympäristöperusteita. Ympäristösopimukset Ympäristösopimuksiin on ohjelmaluonnoksessa esitetty paljon positiivisia muutoksia. WWF on tyytyväinen, että ympäristösopimuksien teko ei ohjelmaluonnoksessa edellytä hakijalta enää ympäristötukisitoumusta. 7.7.12 Kosteikkojen hoito Kosteikkojen hoitoon tarkoitetun korvauksen säilyminen ohjelmassa on tärkeää. Näin voidaan ylläpitää niitä luonnolle positiivisia vaikutuksia, joita muun muassa ympäristöinvestoinneilla rakennetuista kosteikoista on mahdollistettu.
+
+7.7.13 Maatalousluonnon monimuotoisuuden ja maiseman hoito Maatalousluonnon monimuotoisuuden ja maiseman hoitoon tarkoitetun korvauksen säilyminen ohjelmassa on tärkeää. Tämä mahdollistaa esimerkiksi ympäristöinvestoinneilla raivattujen perinnebiotooppien ja luonnonlaitumien ympäristön kannalta positiivisten vaikutusten ylläpitämisen. Luonnonlaitumien ja perinnebiotooppien hoitomäärien lisäämiseksi on tärkeää, että ohjelmassa säilyy luonnoksessa esitetty luonnonlaidunalueille myönnettävä luonnonhaittakorvaus. 7.8 Luonnonmukainen tuotanto Luonnonmukaisen tuotannon irrottaminen ympäristökorvausjärjestelmästä on kannatettavaa, jotta myös luomutuottajat voivat ottaa mielekkäästi käyttöön ympäristökorvausjärjestelmän toimenpiteitä. Esityksen mukaan luomutuottajat voisivat ovat vapautettuja viherryttämistoimenpiteistä ja ympäristökorvausjärjestelmään liittyminen olisi vapaaehtoista. Tässä tapauksessa myös luomutuottajille tulee olla käytössä enimmäisrajat fosforin ja typen lannoitekäytön osalta, koska nitraattidirektiivin vaatimukset ovat ympäristökorvausjärjestelmässä esitettyjä tasoja löyhemmät. WWF tukee esitystä lannan ravinteiden sataprosenttisen hyödyntämisasteen käyttöönotosta.
+
+Helsinki 25.6.2013 Maailman Luonnon Säätiö (WWF) Suomen Rahasto
+
+Jari Luukkonen Suojelujohtaja
+
+Elina Erkkilä Suojeluasiantuntija
+
+---
+
 ### WWF:n lausunto koskien Kioton pöytäkirjan toisen velvoitekauden ratifiointia EU:ssa, sen yleisjärjestelyjä ja metsäkatokompensaatiota
 
 Julkaistu: 19.6.2013  
 Aiheet: Metsäkato  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/3/d/gv5zjfne2pcyj4xzfgf3spb/mmv-e67-2013vp-wwfsuomi-jussi-nikula-lausunto-kioton-toinen-kausi-ja-metsaekato-2013-06-11.pdf
 
 Maa- ja metsätalousvaliokunta E 67/2013 vp Lausunto koskien Kioton pöytäkirjan toisen kauden ratifiointia ja metsäkatokompensaatiota
@@ -576,7 +708,6 @@ Jussi Nikula, WWF Suomi
 
 Julkaistu: 17.6.2013  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/p/s/f/flzksvvbstlb4iafcrvet5h/lausunto_alamitat_120613.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -614,13 +745,115 @@ Liite 1. Kyselytutkimus uhanalaisten kalalajien rauhoittamisesta (s.4)
 
 ---
 
+### Kriteerit luonnonlaidunlihan tuotannolle Suomessa (3.6.2013, 129 kt)
+
+Julkaistu: 2.6.2013  
+Aiheet: Perinneympäristöt, Ruoka, Suomi  
+Linkki: https://wwf.fi/app/uploads/g/2/r/5jmltcfcsbc4tum7hifcekb/kriteerit-luonnonlaidunlihan-tuotannolle_03062013.pdf
+
+WWF Suomi ja Metsätalouden kehittämiskeskus Tapio Puustoisten perinneympäristöjen hoito luonnonlaiduntamisella -hanke Kriteerit luonnonlaidunlihan tuotannolle Suomessa 3.6.2013 Metsälaidunhanke eli ”Puustoisten perinneympäristöjen hoito luonnonlaiduntamisella” on METSOohjelman tukema hanke. Sen toteuttamisesta vastaavat WWF Suomi ja Metsätalouden kehittämiskeskus Tapio. Osana metsälaidunhanketta WWF on kehittänyt yhdessä eläintuottajien kanssa kriteerit luonnonlaidunlihan tuotannolle Suomessa. Luonnonlaidunlihalla tarkoitetaan lihaa, joka saadaan osan vuodesta vapaana luonnonlaitumilla laiduntavista eläimistä, kuten naudoista ja lampaista. Suomen kriteerien pohjana toimivat Ruotsin kriteerit luonnonlaidunlihan (naturbeteskött) tuotannolle, mutta Ruotsin järjestelmästä poiketen Suomessa kriteerit on laadittu nautojen lisäksi myös lampaille. Metsälaidunhankkeen luonnonlaidunlihan kriteerejä kehittävä työryhmä perustettiin syksyllä 2012. Marraskuussa 2012 järjestettiin sidosryhmille seminaari, jossa alustavia kriteereitä esiteltiin ja kerättiin palautetta kriteerien jatkokehittelyyn. Maaliskuussa 2013 edelleen työstetyt kriteerit lähetettiin avoimelle kommenttikierrokselle. Saadut kommentit käsiteltiin huhtikuussa ja työryhmä sai työnsä päätökseen toukokuussa 2013. Kriteerien laadinnan keskeisenä periaatteena on ollut hyödyntää mahdollisimman pitkälle jo olemassa olevaa säädöstöä ja ohjeistoa, mm. maatalouden ympäristöohjelmaa. Maatalouden uuden ohjelmakauden valmistelu on vielä kesken, ja työryhmä on laatinut kriteerit uuden ohjelman tämänhetkistä valmistelutilannetta mukaillen. Lakien, asetusten ja muiden säädösten tuomia minimitasoja ei varsinaisissa kriteereissä ole kirjoitettu auki, mutta tämä tullaan tekemään siinä vaiheessa, kun niistä aletaan tiedottaa kuluttajille. Työryhmän jäsenet: • • • • • • • •
+
+Suomen Lammasyhdistys, Janne Jokela Pihvikarjaliitto, Fredrik von Limburg Stirum Pihvikarjaliitto, Antti Toivonen Metsälaidunhankkeen neuvoja: Jukka Tobiasson (lammaspuolen tuottaja) Metsälaidunhankkeen neuvoja: Jari Ukkonen (nautapuolen tuottaja) WWF Suomi: Panu Kunttu WWF Suomi: Petteri Tolvanen WWF Suomi: Elina Erkkilä
+
+Kriteerit luonnonlaidunlihan tuotannolle Suomessa
+1. Yleinen ympäristöjärjestelmä •
+
+Tila, jonka eläimet ovat luonnonlaidunlihan tuotannossa, kuuluu maatalouden ympäristötukeen (uusi ohjelmakausi: ympäristöjärjestelmään) tai täyttää ympäristötuen vaatimukset muuten.
+
+2. Jäljitettävyys ja erotettavuus • • • •
+
+Tuotteessa on tilan nimi ja yhteystiedot (esim. osoite tai nettisivu). Tuotteessa on tuotteen nimi ja/tai logo [tämä korvataan luonnonlaidunlihalla tai muulla nimityksellä, kun nimiasia on päätetty]. Vain tuotetta, jonka kaikki liha on sataprosenttisesti luonnonlaidunlihaa, saa myydä luonnonlaidunlihana. Tilalla pidetään laidunpäiväkirjaa kuvaamaan, millä laitumilla kukin eläin on ollut.
+
+3. GMO ja jalostus • • •
+
+GMO-kylvösiemeniä, istutusmateriaalia ja rehua ei saa käyttää. Belgian sinistä karjaa (= Belgisk blå-boskap) tai sen risteymiä ei saa pitää. Jalostusta tulee harjoittaa siten, että eläinten terveyttä suositaan ja poikimiskomplikaatioita minimoidaan.
+
+4. Eläinten hyvinvointi • •
+
+• •
+
+Tuotanto täyttää eläinten hyvinvointituen perusehdot (jos sellaiset on määritelty) tai luonnonmukaisen kotieläintuotannon ehdot. Talvikasvatuksessa käytetään kuivikepohjaista kasvattamoa, makuuparsipihattoa tai ulkokasvatusta siihen soveltuvilla roduilla siten, ettei siitä aiheudu haittaa ympäristölle. Ritiläpohjaiset kasvattamot eivät ole sallittuja. Eläin kasvatetaan siten, että se ei ole kytkettynä muuten kuin tarpeen vaatiessa toimenpiteitä tehtäessä. Eläimille annetaan asianmukainen kivunlievitys, ja kastrointi tehdään eläinlääkärin suorittamana.
+
+5. Rehu ja ruokinta •
+
+Rehun ja sen raaka-aineiden alkuperä ja muut tiedot tulee kirjata ylös ja säilyttää vähintään kolme vuotta.
+
+•
+
+•
+
+Laidunkauden ulkopuolella vähintään 70 % rehun kuiva-aineesta tulee olla karkearehua. Karkearehuksi lasketaan säilörehu, heinä, olki, vihantarehu, maissi- ja viljasäilörehu, juurikasmassa (ei juurekset ja peruna). Vuositasolla 100 % rehusta kotimaista tai luomua, ei kuitenkaan soijaa.
+
+6. Luonnonlaitumet • •
+
+•
+
+• • •
+
+•
+
+Yli puolet luonnonlaidunlihan tuotannossa olevien eläimien laitumista tulee olla luonnonlaitumia. Eläimen tulee laiduntaa luonnonlaitumilla vähintään puolet laidunkauden pituudesta. Suomessa on kolme eri laidunkauden pituutta tukialueiden mukaisesti (A- ja B-alue 4 kuukautta, C1 ja C2 3 kuukautta ja C2P, C3 ja C4 2 kuukautta). Eläimen tulee laiduntaa luonnonlaitumilla kaikki laidunkaudet syntymästään alkaen. Poikkeuksena ovat sonnit, joiden on oltava luonnonlaidunnuksessa vähintään ensimmäisen laidunkautensa ajan. Tämän jälkeen sonnit voidaan pitää sisällä korkeintaan yhden laidunkauden ajan kuitenkin siten, että niillä on luomuvaatimusten mukainen jaloittelumahdollisuus. Korkeintaan puolet tilan luonnonlaidunalasta saa olla peltomaalla (tilatukiominaisuus A, esim. suojavyöhykkeet ja yli viisi vuotta lannoittamattomana olleet pellot). Vuoden 2004 jälkeen raivattuja peltoja ei voi laskea luonnonlaitumiksi. Muu kuin luonnon monimuotoisuuden edistämiseksi tehtävä maanmuokkaus (esim. sammalen poisto rikkaäkeellä) on kielletty luonnonlaitumilla. Luonnonlaitumella tarkoitetaan tässä seuraavia alueita: Maatalouden tulevan ympäristöjärjestelmän mukaiset perinnebiotoopit:
+• niityt ja kedot
+• rantaniitty
+• lehdesniitty
+• hakamaa
+• metsälaidun
+• nummi Muut näissä kriteereissä luonnonlaitumiksi luettavat alueet:
+• Natura-alue tai muu luonnonsuojelualue (muu kuin pelto silloin kun laiduntamisesta ei ole haittaa alueelle)
+• pellon metsäsaareke
+• pellon reunavyöhyke
+• muinaisjäännöskohde (silloin kun laiduntamisesta ei aiheudu haittaa kohteelle)
+
+• • • • •
+
+•
+
+• • • • •
+
+uhanalaisen lajin elinympäristö ELY-keskuksen rajauspäätöksen mukaisesti silloin kun laiduntamisesta ei aiheudu haittaa suojavyöhykesopimuslohkot ja yli 5 vuotta lannoittamatta olleet pellot (ks. yllä, korkeintaan puolet luonnonlaidunalasta tulee olla näitä) peltojen ulkopuolella olevat kosteikkojen ja vesistöjen rannat, ruovikot ja kaislikot ym. metsät aiempiin luonnon ja maiseman monimuotoisuuden erityistukisopimuksiin kuuluneet kohteet sekä muut alueet, jotka alueellinen ELY-keskus arvioi luonnonlaitumiksi sopiviksi alueiksi
+
+Luonnonlaitumien laidunpaineen täytyy olla sopiva, millä tarkoitetaan alueella sellaista eläinmäärää, joka laidunnuksellaan selvästi edistää alueen luonnon monimuotoisuutta, mutta tuottaa kuitenkin eläimille riittävästi ravintoa 1. Luonnonlaitumia ei lannoiteta. Tämä koskee myös luonnonlaidunalaan luettavia peltomaalla olevia suojavyöhykkeitä ja yli 5 vuotta lannoittamattomana olleita peltoja. Luonnonlaitumilla ei saa käyttää kemiallisia kasvinsuojeluaineita. Luonnonlaitumille ei saa viedä lisäruokaa. Poikkeuksena on vasikoiden lisäruokinta 1.8. alkaen sekä ruokinta houkuttelutarkoituksessa eläinten siirtojen yhteydessä. Kivennäiset ovat sallittuja. Luonnonlaitumet on aidattava erikseen lannoitettavista alueista. Vesistöihin rajautuvilla luonnonlaitumilla laiduntamisesta ei saa aiheutua merkittävää vesiensuojelullista haittaa.
+
+Lisätietoja: Petteri Tolvanen, WWF Suomi, petteri.tolvanen@wwf.fi, puh. 0400 168 939
+
+Kohteiden ja tilanteiden moninaisuuden takia mitään raja-arvoja ei ole voitu määritellä, vaan sopivan laidunpaineen arviointi ja korjaavat toimenpiteet ovat tuottajan vastuulla.
+
+---
+
 ## Toukokuu 2013
+
+### WWF:n kommentit luontodirektiivin raportointiin (29.5.2013, 93 kt)
+
+Julkaistu: 31.5.2013  
+Aiheet: Ahma, Suomen metsät, Susi  
+Linkki: https://wwf.fi/app/uploads/v/k/4/bee5hibharixfc32fbtncde/wwf-kommentit.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 www.wwf.fi, www.panda.org
+
+Ympäristöministeriö kirjaamo.ym@ymparisto.fi
+
+ASIA: WWF:n kommentit luontodirektiivin raportointiin WWF kiittää mahdollisuudesta kommentoida 16.5. esiteltyyn raportointiin ja esittää kommentteinaan seuraavaa:. Yleistä Jotta lausunnolla olevia laji- ja luontotyyppikohtaisia arviointeja olisi mahdollista kunnolla kommentoida, pitäisi nyt lausunnolla olevien yhteenvetotaulukoiden koodien ja värien takana olevien yksityiskohtaisten arviointien sekä asetettujen favourable reference –arvojen olla julkisia ja lausunnonantajien käytettävissä. Tämä olisi myös arvioinnin läpinäkyvyyden ja objektiivisuuden kannalta tärkeää. Yleinen vaikutelma kuitenkin on, että arviointi on tällä kertaa tehty – kuten pitääkin – puhtaammin tieteellisin perustein kuin edellisellä kerralla, mikä on hyvä. Ahma Kokonaisarvio alpiinisen alueen ahmakannasta on lausunnolla olevan luonnoksen mukaan suotuisa (FV), mikä mielestämme ei voi olla oikein. Ahma on Suomessa äärimmäisen uhanalainen (CR) laji, jonka uhanalaisuuden peruste on D1 (kannan pienuus). Koko Suomen kokonaisahmakannasta (raportointijaksolla noin 150 yksilöä) noin puolet elää poronhoitoalueella, ja poronhoitoalueen kannasta vain osa alpiinisella alueella. Aiemmassa (2001-2006) arvioinnissa ahman alpiinisen alueen favourable reference –arvona on käytetty 40 yksilöä. Oletamme, että tätä ei ole muutettu nyt tehtävässä arvioinnissa. Suomen alpiinisen alueen ahmakanta on ollut raportointijaksolla karkeasti arvioiden korkeintaan 25-30 yksilöä, joten perusteita suotuisan suojelun tason statukselle kannan koon perusteella ei käsittääksemme ole. Edellisessä raportissa alpiinisen alueen ahmakannaksi raportoitiin 40-50 yksilöä, mikä on tuntuva yliarvio silloin vallinneeseen todelliseen tilanteeseen nähden. Edelliseen raportin kanta-arvioon nähden kuitenkin
+
+loogisesti alpiinisen alueen ahmakannan pitäisi nyt raportoida pienentyneen tuntuvasti (noin puoleen) aiemmasta. Ei myöskään ole johdonmukaista, että ahman tilanne on boreaalisella alueella arvioitu populaatiokriteerillä perustellusti epäsuotuisaksi – riittämättömäksi, kun taas alpiinisella alueella (jonka ahmakanta on paljon pienempi kuin boreaalisella alueella) suotuisaksi. Linnellin ym. (2008) 1 suosituksen mukaan IUCN:n uhanalaisuuskriteerien D (kannan koko) tai E (kvantitatiivinen analyysi) mukaan uhanalainen (CR, EN tai VU) populaatio ei lähtökohtaisesti voi olla suotuisalla suojelun tasolla, mikä on myös maalaisjärjellä ymmärrettävä tulkinta. Näin ollen ahma kuuluisi populaation koon perusteella vähintään luokkaan U1 (epäsuotuisa – riittämätön) koko maassa ja myös alpiinisella alueella. Ahman tilannetta voi verrata myös toiseen äärimmäisen uhanalaiseen lajiin, saimaannorppaan, jonka kanta (raporttijaksolla noin 250 yksilöä) oli selvästi suurempi kuin ahmalla, mutta arvioitu populaation koon perusteella luokkaan U2 (epäsuotuisa – huono). Susi Levinneisyyden osalta suden arvioidaan lausunnolla olevan luonnoksen mukaan olevan alpiinisella alueella suotuisalla (FV) tasolla ja kannan koon osalta luokassa U1= (epäsuotuisa – riittämätön), mikä mielestämme ei voi olla oikein.. Edellisessä raportoinnissa (2001-2006) on suden alpiinisen alueen favourable reference –kannan kokona on käytetty 1 yksilöä, joka ei nähdäksemme voi mitenkään täyttää favourable reference –populaation määritelmää (”minimum necessary to ensure long term viability of the species”). Vaikka susi luontaisesti ja historiallisesti kuuluu Suomessa myös alpiinisen alueen lajistoon, se on lisääntyvänä lajina käytännössä hävitetty alueelta kokonaan. Tämä on tapahtunut jo vuosikymmeniä sitten, joten oleellista muutosta kannassa ei tämän eikä edellisen luontodirektiivin raportin aikaperspektiivissä ole tapahtunut. On hyvin kyseenalaista, voidaanko alueelle luontaisesti kuuluva laji, joka on ihmisen toimesta hävitetty ja jonka paluu alueelle aktiivisesti estetään ihmisen toimin (pyyntiluvat ja salametsästys), arvioida levinneisyysalueen osalta suotuisaksi ja kannan koon osalta ”vain” epäsuotuisaksi – riittämättömäksi. Alpiinisen alueen susikannan favourable reference –arvo on asetettava biologisin perusteiden järkevälle tasolle ja verrattava alueen todellista kantaa siihen.
+
+Linnell, J., V. Salvatori, ja L. Boitani. 2008: Guidelines for population level management plans for large carnivores in Europe. Contract nr. 070501/2005/424162/MAR/B2. Final version. European Commission, Brussels, Belgium.
+
+Boreaalisella alueella myös erittäin uhanalaisen (EN) suden tilannetta voi verrata myös saimaannorppaan, jonka kanta (raportointijaksolla noin 250 yksilöä) oli samaa luokkaa kuin alueen susikanta raportointijaksolla suurimmillaan, mutta populaation koon perusteella saimaannorppa on arvioitu luokkaan U2 (epäsuotuisa – huono), kun susi taas on arvioitu ”vain” luokkaan U1-. Lisäksi suden kanta on kohti raportointijakson loppua hälyttävästi pienentynyt salametsästyksen takia, ja kohti raportointijakson loppua susi lähentelee jo äärimmäisen uhanalaisen lajin kriteerien täyttymistä kannan koon perusteella. Boreaaliset luonnonmetsät Emme pysty kommentoimaan arvioinnin yksityiskohtia, kun luontotyyppikohtaisia lomakkeita ei ole nähtävänä, mutta yleisesti ottaen oikeampi arvio boreaalisten luonnonmetsien statuksesta (pinta-ala, rakenne ja toiminta, tulevaisuus) Suomessa olisi varmastikin U2 (epäsuotuisa – huono). Itämeren lohi Lohi on merkitty suotuisaksi ja sen tilanne onkin parantunut edellisestä raportoinnista. Kokonaisuudessaan lohen tilanne on kuitenkin huono, koska esimerkiksi kalatiestrategian toimenpiteitä ei ole lähdetty toteuttamaan ja lohen lisääntymisalueista valtaosa on edelleen saavuttamattomissa.
+
+WWF Suomi 29.5.2013
+
+Jari Luukkonen suojelujohtaja
+
+Petteri Tolvanen ohjelmapäällikkö
+
+---
 
 ### WWF:n lausunto Suomen suojelualueiden luokittelemiseksi IUCN:n suojelualueluokituksen mukaan (31.5.2013, 132 kt)
 
 Julkaistu: 31.5.2013  
 Aiheet: Ahma, Suomen metsät, Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/7/o/ccmmhdne7vmpkviypvrkuja/wwf-lausunto-ym-suojelualueiden-iucn_luokitus-130531.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -685,7 +918,6 @@ Petteri Tolvanen ohjelmapäällikkö, suomalainen luonto petteri.tolvanen@wwf.fi
 
 Julkaistu: 31.5.2013  
 Aiheet: Liikakalastus, Suomen uhanalaiset kalat  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/p/g/rkv4y4zddlnxau23qymhe4c/siika_asetus_wwf-lausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -712,7 +944,6 @@ Sampsa Vilhunen Meriohjelman päällikkö
 
 Julkaistu: 8.5.2013  
 Aiheet: Itämeri, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/p/4/d/tzghtc5gidiqbj4ofaktd6h/mmvl_ykp_020513_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -759,7 +990,6 @@ WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmis
 
 Julkaistu: 8.5.2013  
 Aiheet: Itämeri, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/a/c/evvq7zvaz5ivtmkpejtavqa/ymvl_ykp_030513_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -806,7 +1036,6 @@ WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmis
 
 Julkaistu: 3.5.2013  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/r/6/b/keq3ytrhmxfb5xvn3lomgxa/wwf-lausunto-mmm-metsaestysasetus-hallin-metsaestys-130503.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -833,7 +1062,6 @@ Petteri Tolvanen ohjelmapäällikkö
 
 Julkaistu: 15.4.2013  
 Aiheet: Luonnon köyhtyminen, Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/2/x/yxtxzavfrjn23wci3ihurqg/wwf-suomen-lausunto-metsaetuhojen-torjuntaa-koskevan-lain-luonnoksesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -872,7 +1100,6 @@ Panu Kunttu metsäasiantuntija
 
 Julkaistu: 26.3.2013  
 Aiheet: Luonnon köyhtyminen, Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/d/s/vuewi65aj5a7ukju3gdognb/wwf-suomen-lausunto-esityksestae-metsaelaiksi-ja-asetukseksi.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -940,7 +1167,6 @@ kasvattaminen olisi mahdollista ja energiapuumetsikön hakkuu voitaisiin suoritt
 
 Julkaistu: 8.3.2013  
 Aiheet: Itämeri, Liikakalastus, Ruoka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/h/5/zsoj2anbbjoc3tq7nuxapte/vesiviljelyn-sijainninohjaus_wwf-lausunto-2.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -961,13 +1187,66 @@ Sampsa Vilhunen Meriohjelman päällikkö
 
 ---
 
+### WWF Suomen kirje kansanedustajille metsälain uudistamisesta (5.3.2013, pdf-tiedosto, 186 kt)
+
+Julkaistu: 6.3.2013  
+Aiheet: Luonnon köyhtyminen, Suomen metsät  
+Linkki: https://wwf.fi/app/uploads/s/p/f/6qmqdszepfionchci3iiltc/metsaelain-uudistaminen_kirje-kansanedustajille-5-3-2013.pdf
+
+WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
+
+wwf.fi panu.kunttu@wwf.fi p. 050 305 5086
+
+Uuden metsälain vahvistettava luonnon monimuotoisuutta Arvoisa kansanedustaja Metsälakia ollaan parhaillaan uudistamassa. Lain uudistaminen on tärkeää metsänomistajien arvojen muuttumisen, metsätalouden rakennemuutoksen ja metsäluonnon monimuotoisuuden tilan takia. Yhtenä lakiuudistuksen keskeisenä tavoitteena on metsäluonnon monimuotoisuuden turvaamisen kehittäminen. Monet kansalliset ja kansainväliset sopimukset velvoittavat pysäyttämään luonnon monimuotoisuuden köyhtymisen vuoteen 2020 mennessä. Uudistettava metsälaki vaikuttaa keskeisesti tähän tavoitteeseen. Metsälaki asettaa metsien hoidolle ja käytölle vähimmäisvaatimukset, joiden perusteella metsätaloutta säädellään vuosiksi eteenpäin. EteläSuomen metsistä 98 prosenttia on talouskäytössä, joten metsätalouden toiminnan säätely on erittäin keskeisessä roolissa monimuotoisuuden turvaamisessa. Tällä kirjeellä haluamme nostaa esille metsälakiesityksen ongelmia ja epäkohtia liittyen metsäluonnon monimuotoisuuden turvaamisen. Hallituksen esitys uudeksi metsälaiksi on tulossa eduskunnan käsittelyyn kevätistuntokauden aikana. Metsäluonto on kriisissä Metsäluontomme on liian tehokkaan metsänhoidon takia kriisissä. Uhanalaisista lajeistamme 36 prosenttia elää ensisijaisesti metsissä, ja kaksi kolmasosaa metsätyypeistä on uhanalaisia. Metsissämme elää 814 uhanalaista lajia ja uhanalaisuuden kynnyksellä, silmälläpidettävinä, on 776 metsälajia. Yli sata lajia on metsistämme luokiteltu jo hävinneeksi. Näiden tulosten perusteella on selvää, että nykyinen metsien käyttö ei ole ekologisesti kestävällä pohjalla, eikä säilytä biologista monimuotoisuutta riittävästi. Metsätalous on merkittävin uhka suurimmalle osalle näistä uhanalaisista lajeista ja luontotyypeistä. Tähän erittäin huolestuttavaan tilanteeseen on johtanut vuosikymmeniä jatkunut puuntuotannon maksimointiin perustuva metsänhoito. Metsälainsäädäntö on ainoa kaikkia metsänomistajia sitova keino vaikuttaa metsien käsittelyyn. Kaikki muut keinot, kuten metsäsertifiointi ja metsänhoidon suositukset, ovat vapaaehtoisia. Vapaaehtoiset keinot ovat erinomainen lisä täydentämään lakisääteisiä vähimmäisvaatimuksia. Lain avulla tulee kuitenkin varmistaa monimuotoisuuden säilyminen, jos halukkuus tai resurssit vapaaehtoiseen suojeluun vähenevät. Tutkijoiden mukaan metsälakiesitys heikentää luonnon monimuotoisuutta Metsäntutkimuslaitos, Suomen ympäristökeskus ja Metsätalouden kehittämiskeskus Tapio toteavat metsälakiesitystä käsittelevässä arvioinnissaan, että metsälain muutosehdotus kokonaisuutena heikentää metsäluonnon monimuotoisuuden turvaamista verrattuna voimassa olevaan metsälakiin. Arvioinnin valmisteli 28 asiantuntijaa ja se perustuu alan parhaaseen tutkimustietoon. WWF, kuten myös ympäristöministeriö, jätti metsälakiesitystä valmistelleen työryhmän mietintöön eriävän mielipiteen elokuussa 2012. Asiantuntija-arviointi kiinnittää huomiota samoihin metsälakiesityksen kohtiin kuin WWF.
+
+Keskeisimmät ongelmat luonnon monimuotoisuuden kannalta ovat: ● Metsälain erityisen tärkeitä elinympäristöjä koskevien säädösten osalta metsälakiehdotus sisältää useita selviä heikennyksiä monimuotoisuuden turvaamisen kannalta. Merkittävin heikennys on metsätaloustoimissa säästettävien elinympäristöjen määritteleminen kooltaan pienialaisiksi ja niiden käsittelyn salliminen siten, että jopa 25 prosenttia runkoluvusta saa hakata. Lakiehdotus siis sallii näiden elinympäristöjen keskeisten ominaispiirteiden heikentämisen poimintahakkuin. Näiden elinympäristöjen huomiointi metsänkäsittelyssä on ainoa selvästi monimuotoisuuden säilyttämiseen liittyvä pykälä metsälaissa. Kohteiden keskimääräinen koko on tällä hetkellä vain 0,35 hehtaaria, minkä vuoksi niiden ominaispiirteet eivät säily viereen tehtävien avohakkuiden takia. Kaikkien elinympäristöjen kriteerejä on myös kiristetty edellyttämällä niiltä vanhoja ylispuita sekä kelo- ja lahopuita. ● Lakiehdotuksessa ei huomioida uusia elinympäristötyyppejä riittävästi ekologiseen tarpeeseen nähden. Luontotyyppien uhanalaisuusarvion perusteella metsälakiin esitetään luonnontieteellisin perustein kaikkia aitokorpityyppejä ja nevakorpityyppejä sekä näihin rajoittuvia kangaskorpia. Lisäksi erityisen tärkeitä elinympäristöjä tulee täydentää ruohokangaskorvilla, joenvarsimetsillä ja korpirämeillä, jotka ovat uhanalaisia luontotyyppejä. ● Uudistushakkuiden järeys- ja ikärajoitteiden poistaminen saattaa vähentää vanhojen metsien määrää. Jos ikärajoitteiden poistaminen vaikuttaa metsien ikäluokkajakaumaan nuorentavasti, vaikutukset monimuotoisuuteen ovat negatiivisia. ● Metsälakiehdotuksessa ei huomioida voimakkaassa kasvussa olevan energiapuun korjuun vaikutuksia lainkaan, vaikka tutkimustulosten perusteella sillä voi olla suuren huomattavia vaikutuksia metsäluonnolle, erityisesti lahopuusta riippuvaiselle lajistolle. Laissa tulee asettaa rajat korjuualalle jätettävien kantojen ja hakkuutähteiden osuudesta, sekä korjuulle sallituista kasvupaikoista. Vesistöjen rantametsien leveydelle tulee asettaa metrimäärät, joissa metsätaloustoimet ovat rajoitettuja. ● Metsänkäyttöilmoituksen jättöajan lyhentäminen 14 päivästä 7 päivään vähentää viranomaisvalvonnan mahdollisuuksia monimuotoisuuden kannalta tärkeillä kohteilla. ● WWF:n mielestä uudistushakkuiden yhteydessä metsään tulee jättää vähimmäismäärä tietynkokoisia eläviä säästöpuita ja kaikissa hakkuissa tulee säästää lahopuuta. Lahopuun väheneminen on tärkeimpiä metsälajien uhanalaisuuden syitä. Metsälaissa tulee olla kirjaus uhanalaisten lajien tunnettujen elinpaikkojen turvaamisesta, koska metsätalouden vaikutukset ovat 606 lajin uhanalaisuuden syynä. ● Taimikon perustaminen tulee sallia myös taloudellisesti vähäarvoisemmilla lehtipuulajeilla, jotka ylläpitävät monimuotoisuutta. Metsän jatkuva kasvatus eli eri-ikäisrakenteisen kasvatus tulee mahdollistaa laissa asettamalla riittävän väljät rajat luontaiselle uudistamiselle. Maa- ja metsätalousministeriön tulee muokata metsälakiesitystä asiantuntija-arvioinnin tulosten perusteella. Ministeriön on varmistettava, että tuleva laki turvaa metsäluonnon monimuotoisuuden nykyistä paremmin. Tulemme mielellämme kertomaan asiasta lisää ja esittelemään metsälakiesitystä parantavia muutosehdotuksia. Helsingissä 5.3.2013
+
+Liisa Rohweder Panu Kunttu Pääsihteeri Metsäasiantuntija WWF Suomen edustajat metsälakityöryhmässä
+
+---
+
+### WWF Suomen mielipide soidensuojelun täydennysohjelman valmistelusta (28.2.2013, pdf-tiedosto, 185 kt)
+
+Julkaistu: 4.3.2013  
+Aiheet: Ilmastonmuutos, Suomi  
+Linkki: https://wwf.fi/app/uploads/t/w/c/3jxxvzvha3n4vymrm4lnaka/wwf_mielipide_soidensuojelun-taeydennysohjelma_20130227.pdf
+
+WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
+
+Ympäristöministeriö
+
+wwf.fi info@wwf.fi puh. 09 7740 100
+
+28.2.2013
+
+Viite:
+
+Ympäristöministeriö pyysi mielipiteitä soidensuojeluohjelman valmistelusta 23.1.2013
+
+ASIA:
+
+WWF Suomen mielipide soidensuojelun täydennysohjelman valmistelusta
+
+Soidensuojelun täydennysohjelman tarve Soiden lisäsuojelulle on huomattava tarve. Varsinaisten suojelukohteiden määrittelyn lisäksi toivomme työryhmältä myös muita konkreettisia ehdotuksia soiden suojelun ja ennallistamisen sekä monimuotoisuuden kannalta kestävän käytön edistämiseksi. Soidensuojelun määrällinen lisätarve Suostrategiatyöryhmän työn aikaan (2011) syntynyt arviointi soiden lisäsuojelutarpeen (alustava arvio noin 100 000 ha) on hyvä alku, mutta ei riittävä suoluonnon monimuotoisuuden turvaamisen ja suojelutavoitteiden saavuttamisen kannalta. Nagoyassa laaditun YK:n biodiversiteettisopimuksen pohjalta voisi arvioida, että 17 % suojelutavoitetta lähestyvä lisäsuojelun määrä pitäisi olla luokkaa 300 000−400 000 ha. Pelkästään työryhmän esityksen pohjalta ei voida riittävässä määrin turvata soidensuojeluverkoston kehittämistarpeita. Arvioinnin tulosta tulisi nostaa korkeammaksi ja tähdätä siihen, että tuleva soidensuojeluesitys on sellainen, että se parantaa olennaisesti nykyisen soidensuojeluverkostomme määrällisiä, alueellisia ja laadullisia puutteita. Ohjelman valmistelun aikataulu Ohjelman valmistelun aikataulu on tiukka. Siksi ohjelman valmisteluun liittyvien maastoselvitysten tekoon, tiedon kokoamiseen sekä maanomistajatiedottamiseen tulee varata riittävät resurssit. Jo tässä vaiheessa tulee varautua siihen, että vuonna 2014 tehdään jonkin verran täydentäviä maastoselvityksiä myös niiden ELY-keskusten alueella, joiden osalla pääosa selvityksistä on tarkoitus tehdä vuonna 2013. Tarvittavan luontotiedon taso
+
+Soidensuojeluohjelman vaatiman luontotiedon keruussa on syytä keskittyä olennaiseen. Suojeluohjelmaa varten kerättävän maastotiedon on oltava luotettavaa ja sen tulee mahdollistaa suon arvottamisen. Keskeistä on varmistaa se, että kultakin selvityskohteelta on olemassa riittävä minimitieto kohteella tavattavista suotyypeistä sekä perusteltavissa oleva rajaus, jonka mukainen suojelu turvaisi alueen soiden vesi- ja ravinnetalouden säilymisen sekä tarpeelliset ennallistamistoimet. Maakuntakaavojen suojeluvaraukset Ohjelmavalmistelussa tulevat tietojemme mukaan olemaan mukana myös maakuntakaavojen toteuttamattomat suojeluvaraukset. Ympäristöministeriö on jo kaavat hyväksyessään sitoutunut näiden kohteiden suojelun toteuttamiseen. Kohteista on myös yleensä aina ollut käytössä riittävät luontotiedot, joiden pohjalta kohteet on voitu osoittaa kaavan suojeluvarauksiksi. Pitää olla erittäin hyvät ja yksilöidyt perusteet sille, että suojeluohjelman maastoselvityksiin varattuja, ilmeisen vähiä resursseja käytetään maakuntakaavojen SL- ja S-kohteiden lisä- ja täydennysselvityksiin. Järkevää on lähinnä varmistaa se, että ohjelmatasoisten maakuntakaavan suojeluvarausten osalta on olemassa riittävät tiedot alueiden mielekkäistä rajauksista. Ohjelman painopisteen tulee olla eteläisessä Suomessa WWF pitää erityisen tärkeänä sitä, että ohjelma parantaa eteläisen suoluonnon suojelutilannetta. Varsinkin hemi- ja eteläboreaalisella vyöhykkeellä tämä vaatii sitä, että ohjelmaan sisällytetään myös pienehköjä ja keskisuuria kohteita sekä osin vaurioituneita kohteita. Harkitulla kohdevalinnalla pystytään tällöin parantamaan myös useiden kaikkein uhanalaisimpien suoluontotyyppien (mm. korvet), luhtien, paikallisten suoyhdistymien sekä suo- ja metsämosaiikkien suojelutilannetta. Liian voimakas keskittyminen parhaiten säilyneiden keidas- ja aapasuoyhdistymien suojeluun ei vastaavalla tavalla korjaa soidensuojeluverkostomme vakavimpia puutteita. Kohdevalinnassa tulee myös pyrkiä vahvistamaan etenkin eteläisen Suomen nykyisiä säilyneiden soiden keskittymiä (esim. Mynämäen ja Nousiaisten seudun suokeskittymä Varsinais-Suomessa). Käytännössä jokaisen ELY-keskuksen alueelta löytyy ainakin yksittäisiä tällaisia keskittymiä, joiden vahvistamisessa tulee painottaa myös suojeltavien kohteiden ennallistamismahdollisuuksia. Lajistonsuojelullisesti on selvää, että suotuisalle suojelutasolle ei voi päästä suojelemalla vain parhaat nykyiset suokohteet, koska lajisto hupenee jo nyt tässä laikkuverkostossa. Siksi ennallistamisella on syytä laajentaa nykyistä suolaikkujen verkostoa. Tässä erityisen merkittäviä ovat useamman lähekkäisen suon keskittymät, joista osa on säilyttänyt lajistonsa ja osan voi palauttaa ennallistamalla lajistolle mahdolliseksi lisäalueeksi. Soiden ojituksesta aiheutuu huomattavia hiilipäästöjä ilmakehään, joten laajamittainen ojitettujen soiden ennallistaminen hiiltä sitoviksi ekosysteemeiksi on olennaisen tärkeää. Suomessa on noin miljoona hehtaaria epäonnistuneita metsäojitusalueita, jotka ovat menettäneet luontoarvojaan vailla toivoa minkäänlaisen metsätaloudellisen arvon kehittymisestä. Kun soidensuojelun tarve on satoja tuhansia hehtaareja lisää, niin myös näistä voitaisiin edullisesti perustaa suojelualueita, kun vesitalous ensin ennallistetaan.
+
+Rajaukset ja muut toimenpiteet Ohjelmaan valittavat kohteet tulee rajata siten, että kohteet säilyttävät vesitaloutensa ulkopuolisesta maankäytöstä huolimatta ja välttämättömät ennallistamistoimet on mahdollista toteuttaa. Soidensuojelutyöryhmän tulee etenkin valtion maiden osalta huomioida myös muut valtioneuvoston elokuussa 2012 tekemään periaatepäätökseen liittyvät toimet. Periaatepäätöksen mukaan esimerkiksi myös alueellisesti arvokkaat suot on valtion mailla turvattava. On selvää, että valtion soihin liittyviä suojelu- ja ennallistamismahdollisuuksia ei täysimääräisesti hyödynnetä, mikäli periaatepäätöksessä mainitut toimet jäävät yksinomaan Metsähallituksen päätettäviksi. Vuorovaikutus Toivomme, että ohjelman valmistelussa hyödynnetään myös luonnonsuojelujärjestöjen tietämystä. Lokakuussa 2012 WWF Suomi ja neljä muuta luonnonsuojelujärjestöä julkaisivat ”Kansallisomaisuus turvaan” -suojeluesityksen valtion metsä- ja suoalueista METSO-ohjelman alueelta. Toivomme, että tämä laaja, maantieteellisesti kattava ja merkittäviltä osin maastokartoituksiin perustuva suojeluesitys on mukana soidensuojelun täydennysohjelman kohdevalinnassa.
+
+Helsingissä 28.2.2013 WWF Suomi
+
+Jari Luukkonen suojelujohtaja
+
+Panu Kunttu metsäasiantuntija
+
+---
+
 ## Helmikuu 2013
 
 ### WWF:n lausunto luonnoksesta asetukseksi, jonka tarkoituksena on lisätä kiintiötä viidellä sudella poronhoitoalueen ulkopuolella metsästyskaudella 2012–2013 (18.2.2013, pdf-tiedosto, 114 kt)
 
 Julkaistu: 18.2.2013  
 Aiheet: Suomi, Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/z/s/jcbpaw5ev3pbgrmo2f5flkd/wwf-lausunto-mmm-susi-helmikuu-2013.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -993,7 +1272,6 @@ Petteri Tolvanen ohjelmapäällikkö
 
 Julkaistu: 15.2.2013  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/p/6/k/t6mawmvhwllpjg57lbr2xfh/wwf-lausunto-lsa-130215.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1005,6 +1283,28 @@ Ympäristöministeriö kirjaamo.ym@ymparisto.fi timo.tanninen@ymparisto.fi 15.2.
 Jari Luukkonen suojelujohtaja jari.luukkonen@wwf.fi
 
 Petteri Tolvanen ohjelmapäällikkö, suomalainen luonto petteri.tolvanen@wwf.fi
+
+---
+
+### WWF:n täydentävä lausuma siikatyöryhmän mietintöön (15.2.2013, pdf-tiedosto, 86 kt)
+
+Julkaistu: 15.2.2013  
+Aiheet: Liikakalastus, Suomen uhanalaiset kalat  
+Linkki: https://wwf.fi/app/uploads/i/3/g/vvexrwvgsdnxlbk2ogtthlb/taeydentaevae-lausuma_wwf_15022013.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 www.wwf.fi, www.panda.org
+
+Maa- ja metsätalousministeriö Täydentävä lausuma siikatyöryhmän mietintöön WWF katsoo, että siikatyöryhmän perustaminen ja työryhmän esittämä siikakantoja ja siian kalastusta koskeva ohjelma on kaivattu askel vaellussiikakantojen tilan ja niiden kestävän kalastuksen edistämiseksi. Nyt esitetyn ohjelman tutkimus- ja seurantahanke, siikakantojen hoidosta ehdotuksia tekevä seurantaryhmä sekä vuonna 2015 suoritettava arviointi tarpeesta suurentaa verkkojen silmäkokoa vuoden 2016 alusta ovat oikeansuuntaisia toimia ja parannus nykytilanteeseen. Esityksen mukainen ohjelma on kuitenkin toimenpiteiltään pääosin heikko ja hidas, joten jatkossa vaellussiiankalastuksen ongelmakohtiin, kuten käytännön säätelyn ulkopuolelle pääosin jääneeseen merenkurkun pohjaverkkokalastukseen, tulee puuttua huomattavasti voimakkaammin. Leveysasteen 63°30´N eteläpuolella tulisi verkkojen silmäkoko ainakin valtion yleisvedellä ensi tilassa asettaa vähintään 43 mm:iin. On epätodennäköistä, että nyt esitetyn kaltaisella kalastuksen säätelyllä saataisiin aikaan laajamittaista muutosta merellisten siikakantojen kalastukseen, jotta työryhmän tavoite vaellussiian tilan vahvistumisesta ja muun muassa sen uhanalaisuusluokituksen muuttumisesta voitaisiin saavuttaa. Yli puolet työryhmään osallistuneista tahoista, WWF mukaan lukien, vaati vähintään 45 mm:n solmuvälirajoituksen käyttöönottoa välittömästi tai siirtymäajalla ja alueellisin poikkeuksin. Tätä ei kuitenkaan hyväksytty maa- ja metsätalousministeriön koostamaan työryhmän esitykseen. Työryhmälle esiteltiin työn aluksi 45 mm:n yleissäätelyn vaikutukset sekä elinkeinoon että sukukypsyyden saavuttavien siikojen määrän kasvuun. Sen sijaan nyt esitetyn, useita poikkeuksia sisältävän säätelyn ja asetusehdotuksen vaikutusarviointia ei työryhmälle esitelty. Näin ollen esitetyn säätelyn vaikutuksia siikakantoihin on vaikea arvioida. Hylkeiden ja merimetsojen aiheuttaman siian luonnollisen kuolleisuuden nostaminen uhkatekijäksi vaellussiikakantojen tilan parantamisessa sekä luontaisten petojen priorisointi vaellussiikaa koskevaan tutkimusohjelmaan vetää huomiota pois kestämättömästi toteutetun kalastuksen aiheuttamista haitoista. WWF katsoo että seurantaryhmän työhön tulee luoda laajempi asiantuntijapohja, käyttäen hyväksi tietoja siiantutkimuksesta myös Riista- ja kalatalouden tutkimuslaitoksen ulkopuolelta.
+
+WWF seuraa tarkasti työn etenemistä ja nyt esitetyn säätelyn vaikutuksia sekä ottaa huomioon käyttöönotettavan asetuksen tuomat mahdolliset parannukset tehdessään Kuluttajan kalaoppaaseen suosituksia villin vaellussiian käytöstä.
+
+Helsingissä 15.2.2013
+
+Jari Luukkonen Suojelujohtaja WWF Suomi
+
+Sampsa Vilhunen Meriohjelman päällikkö WWF Suomi
 
 ---
 

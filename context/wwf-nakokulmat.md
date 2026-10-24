@@ -1,7 +1,7 @@
 # WWF Suomi – Näkökulmat 2000–
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Näkökulmat). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 79 (uusin 20.10.2026).
+Kohteita: 91 (uusin 20.10.2026).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
 
 ## Sisällysluettelo
@@ -16,16 +16,22 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 27.8.2026 – Näkökulma: Ilmastonmuutos on jäänyt talouden alakulon ja konfliktien jalkoihin
 - 20.7.2026 – EU-komission esitys horjuttaa hyvin toimivan päästökaupan perustuksia
 - 25.6.2026 – Sakatin kaivoshanke koettelee luonnonsuojelun rajoja
+- 8.6.2026 – EU:n lintu- ja luontodirektiivit ovat suomalaisen luonnonsuojelun kivijalka – niitä ei saa heikentää
 - 26.5.2026 – Näkökulma: Uutta puhtia perinnebiotooppien niittohoitoon yhteistyöllä ja urakoinnilla
 - 12.5.2026 – Kansainväliseen ilmastopolitiikkaan saatiin viimein konkretiaa fossiilisista polttoaineista luopumiseksi – Suomi voisi ottaa isomman roolin
 - 3.4.2026 – Näkökulma: Pääsiäissuklaan todelliset kustannukset eivät näy hintalapussa
 - 31.3.2026 – Näkökulma: Kokonaisturvallisuus rakennetaan yhdessä – myös yli rajojen
+- 18.3.2026 – Näkökulma: Heinäkuun verkkokalastuskielto on nopein ja toimivin keino suojella saimaannorppaa
+- 9.3.2026 – Näkökulma: Pingviinit pelastuivat öljyltä – maailman suurimman villieläinten pelastusoperaation oppeja ei saa unohtaa
 - 16.2.2026 – Näkökulma: Päättäjät tietävät riskit – hyvinvointi pitää rakentaa maapallon rajoissa
+- 11.2.2026 – Näkökulma: Vastuulliset yritykset ottavat yhä voimakkaammin kantaa vahvemman ympäristösääntelyn puolesta – se tekee myös hyvää bisnekselle
+- 27.1.2026 – Näkökulma: Luonnonvarakeskuksen susikanta-arvio on paras, mitä saatavilla on
 - 23.1.2026 – Näkökulma: Amazonia suojaava sopimus murenee Brasiliassa – siksi EU ei saa vesittää metsäkatoasetusta
 
 **2025**
 
 - 31.10.2025 – Näkökulma: Niin maanpuolustus kuin ympäristötoimetkin ovat välttämättömyyksiä
+- 12.6.2025 – Näkökulma: Kannattava liiketoiminta ei voi perustua luonnonvarojen ylikulutukseen
 - 19.2.2025 – Näkökulma: Hiilidioksidin tekninen talteenotto ei korvaa luonnon hiilinieluja – EU:n ilmastopolitiikkaan tarvitaan uusi sektori
 - 4.2.2025 – Näkökulma: Hallituksen haluttomuus ohjata hakkuumääriä tulee kalliiksi suomalaisille
 
@@ -54,10 +60,15 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 **2022**
 
+- 14.12.2022 – Näkökulma: Hakkuiden sääntely palvelee koko yhteiskuntaa – Suomen pyrittävä suurempaan hiilinielutavoitteeseen
+- 21.11.2022 – Näkökulma: Mitä Sharm El-Sheikhin ilmastokokouksessa loppujen lopuksi päätettiin?
 - 1.11.2022 – Näkökulma: Luontokadon pysäyttämiseksi liiketoiminta pitää mahduttaa planeetan rajoihin
+- 20.9.2022 – Näkökulma: Käsitteiden huolimaton käyttö sekoittaa kompensaatiokeskustelua entisestään
 - 5.9.2022 – Näkökulma: Puhdas, terveellinen ja kestävä ympäristö on nyt globaali ihmisoikeus – ja sen pitää näkyä käytännössä
 - 1.6.2022 – Näkökulma: MSC-sertifikaatin rimaa nostettava, jotta se täyttäisi tehtävänsä
+- 18.5.2022 – Näkökulma: Yrityksillä on merkittävä rooli luontokadon pysäyttämisessä
 - 18.5.2022 – Näkökulma: Luonnonsuojelulla luodaan myös turvallisuutta
+- 16.5.2022 – Näkökulma: Maankäyttö uhkaa tulla ohitetuksi EU:n ilmastotavoitteissa
 - 3.5.2022 – Näkökulma: Kansallispuiston perustaminen Evolle kannattaa
 - 31.3.2022 – Näkökulma: Suomalaisten ylikulutuspäivä, sota ja pandemia – mitä niillä on yhteistä?
 - 23.3.2022 – Näkökulma: Ratkaisevat neuvottelut luonnon monimuotoisuuden tulevaisuudesta käydään nyt
@@ -93,6 +104,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 8.6.2020 – Näkökulma: Itämeren suojelualueita on laajennettava
 - 2.6.2020 – Näkökulma: Nepalissa pelätään salametsästyksen kasvua poikkeustilan aikana
 - 13.5.2020 – Näkökulma: Lihantuotannon vähentäminen pienentää pandemiariskiä
+- 8.5.2020 – Näkökulma: Luonto ei odota, ja siksi kestävää talouselvytystä tarvitaan
 - 17.4.2020 – Lohenkalastuksen aikaistaminen oli hätiköity ratkaisu
 - 31.3.2020 – Pandemia nostaa esiin globaalin ruokaturvan ja omavaraisuuden: Tarvitsemme vähemmän tehokkuusajattelua
 - 26.3.2020 – Näkökulma: Oikeus päätti, ahma voitti
@@ -350,6 +362,47 @@ Juttua on päivitetty 23.9.2026. Jutusta on poistettu kohta hallituksen huhtikuu
 
 ---
 
+### EU:n lintu- ja luontodirektiivit ovat suomalaisen luonnonsuojelun kivijalka – niitä ei saa heikentää
+
+Julkaistu: 8.6.2026  
+Aiheet: Luonnon köyhtyminen, Ahma, Ilves, Kiljuhanhi, Liito-orava, Merikotka, Saimaannorppa, Suomi, Susi, Valkoselkätikka  
+Kirjoittaja: Raija-Leena Ojanen  
+Linkki: https://wwf.fi/uutiset/2026/06/eun-lintu-ja-luontodirektiivit-ovat-suomalaisen-luonnonsuojelun-kivijalka-niita-ei-saa-heikentaa/
+
+**EU:n direktiiveillä on suomalaisessa keskustelussa usein huono maine. Niistä puhutaan helposti byrokratiana, joka säätelee arkisia yksityiskohtia kaukaa Brysselistä käsin. Todellisuudessa EU:n direktiivit ohjaavat monia yhteiskunnan kannalta keskeisiä asioita, myös luonnonsuojelua.**
+
+Euroopan komissio aikoo arvioida lintu- ja luontodirektiivien toimivuutta vuoden 2026 aikana niin sanotulla stressitestillä osana EU:n sääntelyn sujuvoittamista ja kilpailukyvyn vahvistamista. Komission mukaan tavoitteena on selvittää, saavutetaanko direktiivien tavoitteet kustannustehokkaasti. Arvion on määrä valmistua lokakuussa.
+
+Kustannustehokkuuden tavoittelu on sinänsä perusteltua. Myös WWF katsoo, että luonnonsuojelun ja ennallistamisen ratkaisuja kannattaa toteuttaa tavalla, joka tuottaa samanaikaisesti mahdollisimman paljon hyötyjä. Esimerkiksi peltojen tulvasuojelu vähentää vesistöjen ravinnekuormitusta ja hillitsee rehevöitymistä, samalla kun se turvaa peltojen viljelykäytön. Metsätuhojen ehkäiseminen taas voi vahvistaa sekä luonnon monimuotoisuutta että metsien hiilinieluja, samalla kun se ehkäisee taloudellisia tappioita metsän omistajalle.
+
+Huoli lintu- ja luontodirektiivien stressitestistä liittyykin siihen, että sääntelyn “yksinkertaistaminen” voi käytännössä tarkoittaa luonnonsuojelun heikentämistä.
+
+Komissio korostaa, ettei direktiivien tavoitteita ole tarkoitus vaarantaa. Silti aiemmat ympäristölainsäädännön keventämiseen liittyneet ehdotukset osoittavat, että ympäristönsuojelun tasoa voidaan heikentää myös silloin, kun tavoitteiden väitetään säilyvän ennallaan.
+
+Tämä on ongelmallista erityisesti siksi, että luonnon tila heikkenee edelleen nopeasti Euroopassa. Vaikka luonnonsuojelulainsäädäntöä on vuosikymmenten aikana vahvistettu, lajien ja luontotyyppien uhanalaisuus lisääntyy ja niiden tilanne heikkenee. Tämä ei osoita, että sääntelyä olisi liikaa, vaan pikemminkin sen, että nykyisiä tavoitteita ei ole vielä onnistuttu toteuttamaan riittävän tehokkaasti.
+
+Samaan aikaan luonto- ja ilmastokriisit aiheuttavat kasvavia riskejä myös eurooppalaisille yhteiskunnille ja talouksille. Luonnon köyhtyminen heikentää ruoantuotantoa, vesiturvaa, talouden vakautta ja yhteiskuntien turvallisuutta.
+
+Siksi lintu- ja luontodirektiivejä ei pitäisi tarkastella ensisijaisesti hallinnollisena taakkana tai kilpailukykyongelmana. Keskeinen kysymys on se, miten niiden toimeenpanoa voidaan vahvistaa.
+
+Direktiiveistä tehdyn toimivuusarvioinnin mukaan sääntely on tarkoituksenmukaista ja sen hyödyt selvästi ylittävät kustannukset. Arvioinnissa korostettiin erityisesti, että ilman riittävää rahoitusta direktiivien tavoitteita ei voida saavuttaa.
+
+Luontokadon keskellä Eurooppa tarvitsee vahvempaa luonnonsuojelua, ei sen purkamista. Siksi lintu- ja luontodirektiivien stressitestin yhteydessä huomion pitäisi kohdistua ennen kaikkea toimeenpanon tehostamiseen ja luonnonsuojelun resurssien vahvistamiseen, ei sääntelyn heikentämiseen kustannusten vähentämisen nimissä.
+
+#### Kuinka EU:n direktiivit vaikuttavat luonnonsuojeluun Suomessa?
+
+Vuonna 1979 voimaan tullut lintudirektiivi ja vuonna 1992 hyväksytty luontodirektiivi muodostavat EU:n luonnonsuojelun perustan. Samalla ne ovat myös suomalaisen luonnonsuojelun kivijalka. Direktiivien tavoitteena on turvata lajien, elinympäristöjen ja luontotyyppien säilyminen elinvoimaisina pitkällä aikavälillä.
+
+Direktiivit velvoittavat jäsenmaita suojelemaan luonnonvaraisia lintulajeja, uhanalaisia eläin- ja kasvilajeja sekä arvokkaita luontotyyppejä. Ne myös rajoittavat lajien tahallista tappamista, pyydystämistä ja häirintää sekä velvoittavat jäsenvaltiot perustamaan suojelualueita luonnon turvaamiseksi.
+
+Näiden direktiivien pohjalta on rakennettu Natura 2000 -verkosto, maailman laajin koordinoitu suojelualueverkosto. Lisäksi direktiivit suojaavat erityisesti esimerkiksi liito-oravaa, saimaannorppaa, kaikkia lepakoitamme, viitasammakkoa, raakkua, maa- ja merikotkia, sekä ilvestä ja ahmaa.
+
+Kyse ei kuitenkaan ole vain luonnosta. Direktiivit turvaavat samalla ekosysteemejä, joista myös ihmisten hyvinvointi, terveys ja talous ovat riippuvaisia. Toimivat ekosysteemit ovat välttämättömiä esimerkiksi puhtaalle vedelle, ruuantuotannolle ja ilmaston vakaudelle. Euroopan keskuspankin mukaan yli 70 prosenttia euroalueen yrityksistä on riippuvaisia vähintään yhdestä luonnon tarjoamasta ekosysteemipalvelusta.
+
+Siksi luonnonsuojelua ei pitäisi nähdä kilpailukyvyn vastakohtana, vaan sen perustana.
+
+---
+
 ### Näkökulma: Uutta puhtia perinnebiotooppien niittohoitoon yhteistyöllä ja urakoinnilla
 
 Julkaistu: 26.5.2026  
@@ -483,6 +536,64 @@ Lisätietoja: Anne Tarvainen, Ohjelmajohtaja; Mari Pasula, Kansainvälisen polit
 
 ---
 
+### Näkökulma: Heinäkuun verkkokalastuskielto on nopein ja toimivin keino suojella saimaannorppaa
+
+Julkaistu: 18.3.2026  
+Aiheet: Saimaannorppa, Näkökulma, Suomi  
+Linkki: https://wwf.fi/uutiset/2026/03/nakokulma-heinakuun-verkkokalastuskielto-on-nopein-ja-toimivin-keino-suojella-saimaannorppaa/
+
+**Suojelun tehokkuutta ei pidä arvioida vain sillä, että kanta on kasvanut, vaan myös sillä, vältetäänkö turhat kuolemat, muistuttaa WWF:n ohjelmajohtaja Petteri Tolvanen.**
+
+Saimaannorpan suojelemiseksi asetetut kalastusrajoitukset ovat mediatietojen mukaan aiheuttaneet kiistaa ministeriöiden välillä. Lausuntokierroksella olevassa esityksessä maa- ja metsätalousministeriö laajentaisi rajoitusaluetta, mutta toisin kuin ympäristöministeriö ja tutkijat, se ei jatkaisi kieltoa heinäkuun loppuun.
+
+Kaikki ovat siis yhtä mieltä siitä, että suojelua tarvitaan. Rajoituksen jatkaminen heinäkuun loppuun saakka olisi seuraava, tehokkain askel kuuttien suojelemiseksi.
+
+Vuosina 2011–2025 yhteensä 78 saimaannorpan tiedetään hukkuneen verkkoihin, näistä 28 heinäkuussa. Yli kolmannes viranomaisten tietoon tulleista verkkokuolemista siis ajoittui kuukaudelle, jonka ajaksi esitys jättäisi norpat vaille suojaa.
+
+Ympäristöministeri Sari Multala (kok) on perustellut rajoituksen jatkamista heinäkuisilla verkkokuolemilla. Maa- ja metsätalousministeri Sari Essayah (kd) nojaa kannassaan siihen, että vaikka saimaannorppa on edelleen erittäin uhanalainen, rajoitukset ovat tukeneet kannan kasvua.
+
+Suojelun tehokkuutta ei kuitenkaan pidä arvioida vain kannan kasvulla vaan myös sillä, vältetäänkö turhat kuolemat. Vältettävissä olevia heinäkuun verkkokuolemia ei pidä hyväksyä vain siksi, että suunta on ollut parempi kuin aiemmin.
+
+Kyse ei ole ministeriöiden keskinäisestä arvovallasta vaan siitä, kuullaanko luonnonsuojelun asiantuntemusta. Norpan suojelun asiantuntijoita ja tutkijoita ei osallistettu asetuksen valmistelun tueksi tehdyn raportin laatimiseen samalla tavoin kuin aiemmin, vaan esitys tehtiin virkatyönä ilman laajapohjaista työryhmää. Maa- ja metsätalousministeriön esitystä on myös poliittisesti vaikea perustella, sillä se sivuuttaa vahvan kansalaismielipiteen.
+
+Kun lauhtuvat talvet vaikeuttavat Suomen ainoan kotoperäisen eläinlajin pesintää, kalanpyydyskuolleisuuden vähentäminen on entistäkin tärkeämpää. Heinäkuun verkkokielto olisi konkreettinen ja nopeasti vaikuttava päätös.
+
+Kielto ei myöskään merkitsisi kalastuksen loppumista. Ammattikalastajat pyytävät muikkua norppaturvallisesti troolilla, ja mökkiläinen voi käyttää katiskaa.
+
+Kirjoitus on alun perin julkaistu Etelä-Saimaan Lukijalta-palstalla 17. maaliskuuta 2026.
+
+Lisätietoja: Petteri Tolvanen, Ohjelmajohtaja
+
+---
+
+### Näkökulma: Pingviinit pelastuivat öljyltä – maailman suurimman villieläinten pelastusoperaation oppeja ei saa unohtaa
+
+Julkaistu: 9.3.2026  
+Aiheet: Öljyntorjuntajoukot, Meret  
+Linkki: https://wwf.fi/uutiset/2026/03/nakokulma-pingviinit-pelastuivat-oljylta-maailman-suurimman-villielainten-pelastusoperaation-oppeja-ei-saa-unohtaa/
+
+**26 vuotta sitten Etelä-Afrikassa MV Treasure -rahtialus kärsi vaurioita kovassa merenkäynnissä ja upposi. Aluksesta vuoti mereen 1 400 tonnia raskasta polttoöljyä, mikä oli koitua tuhansien afrikanpingviinien tuhoksi. Nopea ja järjestelmällinen toiminta esti pahimman katastrofin silloin – ja vastaavia valmiuksia tarvitaan edelleen.**
+
+Raskas polttoöljy on merieläimille ja etenkin linnuille erittäin vaarallista, sillä se tahrii höyhenet ja heikentää höyhenpeitteen lämmöneristyskykyä. Kapkaupungin edustalla Etelä-Afrikassa kesäkuussa 2000 sattuneessa onnettomuudessa musta mönjä peitti nopeasti saarten rantoja, ja kymmenettuhannet uhanalaiset afrikanpingviinit olivat vaarassa tahriintua ja kylmettyä kuoliaaksi Hyväntoivonniemen hyisissä vesissä.
+
+Onnettomuutta seuranneina päivinä ja viikkoina otettiin kiinni ja hoidettiin yli 20 000 pingviiniä. Lähes saman verran pingviinejä siirrettiin varotoimena pois öljyyntyviltä alueilta. Pelastusoperaatiota johti paikallinen merilintujen auttamiseen erikoistunut järjestö The Southern African Foundation for the Conservation of Coastal Birds (SANCCOB) yhteistyössä viranomaisten ja kansainvälisten järjestöjen kanssa. Maailman suurin lintujen hoito-operaatio osoitti, että suuronnettomuudessa lintujen hoito voidaan organisoida tehokkaasti ja että hoitomenetelmät ovat toimivia. Hoitoon tuoduista linnuista yli 90 prosenttia pystyttiin kuntouttamaan ja vapauttamaan takaisin luontoon.
+
+Rahtialus MV Treasuren onnettomuus oli monessa mielessä alkusysäys nykyaikaiselle öljyyntyneiden villieläinten hoidolle. Sen jälkeen valmiuden ylläpito sekä kansainvälinen yhteistyö ovat kehittyneet harppauksin. Viime syksynä, 25 vuotta onnettomuuden jälkeen, toistasataa villieläintenhoidon, meriturvallisuuden, öljyalan ja tutkijaa kokoontui Kapkaupunkiin kolmen vuoden välein järjestettävään Effects of Oil on Wildlife -konferenssiin.
+
+Asiantuntijoiden keskuudessa vallitsi tapaamisessa varsin yhtenäinen käsitys suurten öljyonnettomuuksien riskeistä ja varautumisen tarpeesta maailmanlaajuisesti. Öljykuljetusten volyymit ovat yli kaksinkertaistuneet, mutta samalla tankkerionnettomuudet ovat vähentyneet yli 90 prosenttia 1970-luvun tasosta muun muassa tankkereiden kaksoisrunkojen, kehittyneen navigoinnin ja merenkulun valvonnan ansiosta. Myös pienemmät öljyvuodot, joita aiemmin tapahtui säännöllisesti vilkkaimmilla merialueilla, ovat vähentyneet.
+
+> Itämeren tilanne osoittaa, kuinka nopeasti asiat voivat nykypäivänä kääntyä päälaelleen. Teemu Niinimäki — Teemu Niinimäki
+
+Koska öljyvahingot ovat vähentyneet, öljyntorjuntavalmiuteen motivointi ja rahoituksen ylläpito voi olla haastavaa. Suuria öljyonnettomuuksia pidetään epätodennäköisinä. Mutta vaikka suuren öljyonnettomuuden riski on maailmanlaajuisesti katsottuna pienentynyt, voi tilanne voi muuttua nopeasti. Itämeren nykytilanne on tästä hyvä esimerkki: alueen pitkään jatkunut myönteinen meriturvallisuuden kehitys pysähtyi kuin seinään Venäjän aloitettua hyökkäyssodan Ukrainaan. Keväällä 2026 Venäjän varjolaivaston alukset ovat jatkuvassa vaarassa aiheuttaa MV Treasuren onnettomuuden kaltaista tuhoa Suomenlahdella talvehtiville merilinnuille.
+
+Itämeren tilanne osoittaa, kuinka nopeasti asiat voivat nykypäivänä kääntyä päälaelleen. Samalla se on muistutus siitä, kuinka tärkeää varautuminen on. Järjestöjen kansainvälinen yhteistyö nousee vallitsevassa tilanteessa keskiöön. Suuriin öljyonnettomuuksiin tulee varautua yhdessä, eri toimijoiden asiantuntemusta hyödyntäen.
+
+Suomessa öljyntorjuntavalmius on onneksi suhteellisen hyvällä tasolla ja yhteistyö eri toimijoiden välillä on mutkatonta. WWF tarjoaa ylläpitämilleen öljyntorjuntajoukoille koulutusta sekä rantaöljyntorjuntaan että öljyyntyneiden eläinten käsittelyyn ja hoitoon. Kun öljyvahinko tapahtuu, pystymme toimimaan nopeasti viranomaisten apuna. Öljyyntyneiden lintujen hoidon osalta WWF:n öljyntorjuntajoukoilla on myös kansainvälinen verkosto tukenamme.
+
+Lisätietoja: Teemu Niinimäki, Suojeluasiantuntija
+
+---
+
 ### Näkökulma: Päättäjät tietävät riskit – hyvinvointi pitää rakentaa maapallon rajoissa
 
 Julkaistu: 16.2.2026  
@@ -510,6 +621,62 @@ Hyvinvointi planeetan rajoissa ei synny itsestään. Se tehdään rohkeilla ja j
 Kirjoitus on alun perin julkaistu Talouselämän Tebatti-palstalla 15. helmikuuta 2026.
 
 Lisätietoja: Jussi Nikula, Suojelun neuvonantaja
+
+---
+
+### Näkökulma: Vastuulliset yritykset ottavat yhä voimakkaammin kantaa vahvemman ympäristösääntelyn puolesta – se tekee myös hyvää bisnekselle
+
+Julkaistu: 11.2.2026  
+Aiheet: Ylikulutus, Yritykset  
+Linkki: https://wwf.fi/uutiset/2026/02/nakokulma-vastuulliset-yritykset-ottavat-yha-voimakkaammin-kantaa-vahvemman-ymparistosaantelyn-puolesta-se-tekee-myos-hyvaa-bisnekselle/
+
+**Hallitustenvälisen luontopaneelin IPBESin tuore raportti osoittaa, kuinka sekä yritykset että yhteiskunta hyötyvät sääntelyn vahvistamisesta, kirjoittaa WWF Suomen suojelun neuvonantaja Jussi Nikula.**
+
+”Kuolleella planeetalla on vaikea tehdä bisnestä”, kertasi tunnettujen suomalaisyritysten muodostaman luontoverkoston puheenjohtaja, S-ryhmän vastuullisuusjohtaja Nina Elomaa helmikuun alussa, kun uusi yritysverkosto julkistettiin. Verkosto kirittää yritysten omia toimia ja vaatii myös hallitukselta tiukempaa sääntelyä luontokadon pysäyttämiseksi.
+
+Verkoston perustaminen on yksi viimeaikaisista esimerkeistä, joissa edelläkävijäyritykset toteavat omien toimintaedellytystensä turvaamisen vaativan huomattavasti enemmän tekoja sekä yrityksiltä että hallinnolta. Samalla se on esimerkki maanantaina julkistetun hallitustenvälisen luontopaneelin IPBESin raportin suositusten mukaisesta toiminnasta.
+
+IPBESin Business and Biodiversity Assessment -arviointiraportti luonnon monimuotoisuuden ja liiketoiminnan kytköksistä toteaa, että markkinoiden kannustimien tulisi muuttua, jotta yritykset voisivat toteuttaa kestävyyssiirtymän. Yrityksille ei ole toistaiseksi ollut kannattavaa muokata liiketoimintamallejaan planeetan kantokyvyn mukaiseksi, koska luontohaittojen aiheuttamiselle ei ole ollut riittävää hintaa. Tuotekehityksellä ja innovaatioilla on ilmiselvästi roolinsa, mutta jos aiheuttaja ei joudu maksamaan aiheuttamastaan haitasta, kannustimet laajan muutoksen aikaansaamiseksi eivät ole kunnossa.
+
+Raportin suositusten mukaisesti kansallisesti merkittävät yritykset pyytävät uuden verkostonsa äänellä vahvempaa sääntelyä kaikille yhteisen pelikentän tasoittamiseksi. Tällöin myös poliittisilta päättäjiltä löytyy yhä todennäköisemmin rohkeutta tehdä kipeästi tarvittuja, taloutta merkittävästi uudistavia päätöksiä.
+
+Business and Biodiversity -raportti on yli 80 asiantuntijan voimin toteutettu, miltei kolmivuotisen prosessi, jossa syntyi myös yhteenveto menetelmistä ja mittareista, joilla yritykset voivat ohjata toimintaansa kohti luontokadon pysäyttämistä. Raportin ydinviesti on, että riittävät metodit ja data on olemassa, jotta yritykset voivat ymmärtää oman luontoriippuvaisuutensa ja luontovaikutuksensa sekä huomioida ne päätöksissään. Läpinäkyvät mittarit, tavoitteiden asettaminen ja edistymisestä raportointi palvelevat myös yleisön, poliittisten päättäjien ja erityisesti rahoittajien tarpeita ymmärtää ja arvioida yritysten luontovaikutuksia ja -strategioita.
+
+Tieteellisen tiedon hälyttävyys luontokadon uhista on koko ajan voimistunut. Samalla edelläkävijäyrityksillä ja vastuullisilla yhteiskunnallisilla toimijoilla on entistä enemmän tahtoa ja kykyä toteuttaa kestävyyssiirtymää – vaikka toki nekin lunastavat uskottavuutensa lopulta konkreettisten tekojensa perusteella. Geopoliittisten myllerrysten ja muiden synkkien uutisten keskelläkin tällainen kehitys kuitenkin luo luottamusta tulevaisuuteen, jossa elämme maapallon kantokyvyn rajoissa.
+
+Jussi Nikula osallistui raportin ulkopuolisten asiantuntijoiden kommenttikierrokseen kesällä 2024.
+
+Lisätietoja: Jussi Nikula, Suojelun neuvonantaja
+
+---
+
+### Näkökulma: Luonnonvarakeskuksen susikanta-arvio on paras, mitä saatavilla on
+
+Julkaistu: 27.1.2026  
+Aiheet: Susi, Näkökulma  
+Linkki: https://wwf.fi/uutiset/2026/01/nakokulma-luonnonvarakeskuksen-susikanta-arvio-on-paras-mita-saatavilla-on/
+
+**Luken virallista kanta-arviota arvostelleilla ei ole esittää uskottavia perusteita väitteilleen, kirjoittaa WWF Suomen ohjelmajohtaja Petteri Tolvanen.**
+
+Luonnonvarakeskus (Luke) on viime aikoina joutunut puolustelemaan julkisuudessa arviotaan Suomen susikannan koosta. Kuten Luken erikoistutkija Mia Valtonen sanoo Aamulehden haastattelussa (AL 20.1.), Lukella on käytössään resursseihinsa nähden parhaat tutkimusmenetelmät.
+
+Suteen liittyvissä konflikteissa on tutkitusti taustalla paljon muutakin kuin itse eläimeen liittyviä asioita. Niin Suomessa kuin muuallakin suteen liitetään sekä puoluepolitikointia että yleisempää, yhteiskuntaa polarisoivaa vastakkainasettelua.
+
+Osa asetelmaa on kanta-arvioiden jatkuva kyseenalaistaminen olemattomin tai virheellisin perustein. Sama ilmiö esiintyy myös esimerkiksi saimaannorpan kohdalla verkkokalastusrajoituksista keskusteltaessa Myös Vesa Laitinen ihmettelee – perustellusti – kolumnissaan, miten sudenmetsästyksestä on tullut puoluepoliittinen kysymys.
+
+Luken kanta-arvio perustuu useisiin eri tietolähteisiin ja parhaalla asiantuntemuksella niitä yhdistävään matemaattiseen malliin. Luken rakentama malli susikannan kehityksestä vuodenkierrossa on kansainvälisestikin esimerkillinen. Suden kanta-arvion kyseenalaistajilla ei ole ollut esittää uskottavia perusteita väitteilleen. Kunnollista tieteellistä näyttöä ei ole myöskään tukemaan väitettä siitä, että laillisen metsästyksen lisääminen vähentäisi susien salametsästystä.
+
+Pitää paikkansa, että suotuisissa oloissa susikanta voi kasvaa melko nopeasti ja kestää oikein mitoitettua metsästystä siellä, missä suden aiheuttamia todellisia ongelmia halutaan vähentää. Susikanta on kuitenkin luokiteltu Suomessa erittäin uhanalaiseksi jo ennen nyt meneillään olevaa sadan suden kiintiömetsästystä. Lisäksi kanta on jakautunut Itä- ja Länsi-Suomen erillisiin osakantoihin, joiden välillä on hyvin vähän yksilöiden vaihtoa. Koko valtava poronhoitoalue, joka on suden luontaista levinneisyysaluetta, on poliittisella päätöksellä tyhjennetty susilaumoista kokonaan Lapin suuria kansallispuistoja myöten. Siksi susikantamme ei aidosti ole tavoiteltavalla tasolla, jolla laji säilyy pitkällä aikavälillä elinvoimaisena osana luontaisia elinympäristöjään.
+
+Meneillään olevan sudenmetsästyksen tavoite tappaa kokonaisia laumoja ei välttämättä ratkaise niitä ongelmia, joilla metsästystä on perusteltu. Ensinnäkin lauma saattaa hajota, ja ilman laumaa saalistavat sudet voivat aiheuttaa vain lisää ongelmia. Näin kävi vuosien 2015–2016 niin sanotun kannanhoidollisen sudenmetsästyksen epäonnistuneessa kokeilussa.
+
+Toinen huomioitava seikka on se, että jos reviirialue on ollut sudelle suotuisa, tilalle tulee hyvinkin mahdollisesti uusi lauma.
+
+Aamulehden pääkirjoituksen otsikossa todetaan, että susikeskustelu vaatii tietoa ja ymmärrystä (AL 18.1.). WWF on täysin samalla kannalla ja katsoo, että suden tappoluvat tulisi kohdistaa turvallisuus- ja vahinkoperusteisesti tilanteisiin, joissa sudet aidosti aiheuttavat vahinkoja, joita ei voida muilla keinoin estää. Ensisijaisen vaihtoehdon on oltava ennaltaehkäisy. Esimerkiksi kotieläinten suojaamisessa tehokkaita keinoja ovat muun muassa petoaidat ja laumanvartijakoirat.
+
+Kirjoitus on alun perin julkaistu Aamulehden verkkosivulla 25. tammikuuta 2026.
+
+Lisätietoja: Petteri Tolvanen, Ohjelmajohtaja
 
 ---
 
@@ -568,6 +735,44 @@ Ilmastotoimet ja luontokadon lopettaminen tulisi nähdä osana kokonaisturvallis
 Aikaa ei ole siihen, että unohdamme luontokadon ja ilmastonmuutoksen ja palaamme niiden pariin vasta jos ja kun joskus olemme geopoliittisesti vakaammilla vesillä.
 
 Kirjoitus on julkaistu alun perin Helsingin Sanomissa 26.10.2025.
+
+---
+
+### Näkökulma: Kannattava liiketoiminta ei voi perustua luonnonvarojen ylikulutukseen
+
+Julkaistu: 12.6.2025  
+Aiheet: Ylikulutus, Yritykset  
+Linkki: https://wwf.fi/uutiset/2025/06/nakokulma-kannattava-liiketoiminta-ei-voi-perustua-luonnonvarojen-ylikulutukseen/
+
+**Siirtymä aidosti kestäviin liiketoimintamalleihin on edellytys paitsi yritystoiminnan kannattavuudelle, myös koko yhteiskunnan hyvinvoinnille, kirjoittaa WWF:n suojelun neuvonantaja Jussi Nikula.**
+
+Euroopan maiden välisessä luonnonvaratuottavuuden vertailussa Suomi on kaukana muiden perässä: sillä luonnonvaramäärällä, jolla ruotsalainen tuottaa lähes kaksi, suomalainen tuottaa vain yhden euron. Erityisen huolestuttavaa on, että tämä ero on vain kasvanut viime vuosina.
+
+Suomalaisen liike-elämän kyvykkyyden tietäen syy tuhlailevaan luonnonvarojen käyttöön ei voi olla osaamisen puutteessa. Ennemminkin vaikuttaa siltä, että lyhyen aikavälin tavoitteisiin keskittyminen on tehnyt useimmista yrityksistä sokeita pitkäaikaisen menestyksen perusedellytykselle, aidosti kestävälle luonnonvarojen käytölle.
+
+Hallitustenvälinen luontopaneeli IPBES vahvisti vuodenvaihteessa tiedon siitä, että jatkamalla luonnonvarojen ylikulutusta etenemme nopeasti kohti yhä vaarallisempaa ilmastoa ja ekosysteemien romahdusta. Ylikulutukseen liittyvät luonto- ja ilmastoriskit ovat vuodesta toiseen olleet myös maailman talousfoorumi WEF:n riskilistauksen kärjessä.
+
+> Ongelma on siinä, ettei kehityksen aallonpohjiin olisi enää aikaa, sillä meillä on äärimmäinen kiire vähentää haurastuvien ekosysteemien murentamista. Jussi Nikula — Jussi Nikula
+
+Vaikka luonnonvarojen kulutuksen ja globaalien kriisien välinen syy-seuraussuhde on ollut tiedossa jo pitkään, on yrityksissä usein jumiuduttu kehittämään liiketoimintaa nykyisiä toimintamalleja hiomalla ja kustannustehokkuutta parantamalla. Nämä eivät kuitenkaan tuota ratkaisuja perusongelmaan, luonnonvarojen ylikulutukseen.
+
+Vastaavanlainen näköalattomuus tuntuu vaivaavan myös ajankohtaista poliittista keskustelua. Esimerkiksi EU:n yritysvastuudirektiiviä heikentämään pyrkivän Omnibus-paketin kaltaiset aloitteet on kuitenkin parasta nähdä osana ympäristöpolitiikan edistymisen perinteistä aaltoliikettä, joka ei muuta kehityksen isoja linjoja. Suunta on ollut selvä jo vuosikymmenien ajan, ja eroon on päästy niin otsonikatoa aiheuttavista freoneista kuin tehtaiden jätevesipäästöistä. Näistäkin käytiin aikanaan kovaa vääntöä, mutta harvempi lienee isossa kuvassa pettynyt päätöksiin.
+
+Ongelma on siinä, ettei kehityksen aallonpohjiin olisi enää aikaa, sillä meillä on äärimmäinen kiire vähentää haurastuvien ekosysteemien murentamista. Mitä pidempään jatkamme ylikulutusta, sitä suuremmaksi muutoksen hintalappu kasvaa. Erityisen harmillista tällainen vastuullisuuspolitiikan peruuttelu on vastuullisimmille toimijoille, jotka ovat jo kykeneviä vastaamaan yritysvastuuvaatimuksiin.
+
+Onneksi ylikuluttavista liiketoimintamalleista irtautumiseen ohjaava muutos on jo käynnissä. Muun muassa Euroopan keskuspankki on talouden vakauden turvaamiseksi päättänyt priorisoida ilmasto- ja luontoriskien hallintaa pankkivalvonnassaan. Se tarkoittaa rahoituksen hinnan nousua niille yrityksille, joiden toiminta on riippuvaista luonnonvarojen ylikulutuksesta.
+
+> Yritysten on viimeistään nyt ryhdyttävä työstämään kohti kestävää liiketoimintaa vieviä siirtymäsuunnitelmia. Jussi Nikula — Jussi Nikula
+
+Tämän päivän investoinnit voivat lukita yrityksen ylikulutuksen polulle, ja siksi yritysten tulisi viimeistään nyt hahmotella oma polkunsa kohti aidosti kestävää toimintaa. Se tarkoittaa toiminnan ja strategioiden läpikotaista tarkastelua sekä ripeää, mutta harkittua siirtymää kestävyysrajojen mukaisiin liiketoimintamalleihin. Siirtymä on välttämätön paitsi koko yhteiskunnan hyvinvoinnin, myös kannattavan liiketoiminnan jatkuvuuden turvaamiseksi.
+
+Oikeudenmukainen siirtymä kestävämpiin liiketoimintamalleihin vaatii nykyistä selvästi tiukempaa ympäristösääntelyä sekä kannustimia. Yksi selkeimmistä keinoista olisi riittävän hinnan asettaminen luonnonvarojen käytön haitoille. Aiheuttaja maksaa -periaatteen mukaisesti toteutettuna se tekisi kilpailusta tasapuolisempaa ja palkitsisi kestäviin liiketoimintamalleihin sitoutuneita yhtiöitä ja yrityksiä.
+
+Lopulta kestävyyssiirtymässä on kyse myös eloonjäämisestä: ne yritykset, jotka eivät pysy muutoksen kyydissä, korvautuvat kykenevämmillä.
+
+Kirjoitus on julkaistu lyhennettynä Kauppalehdessä 10.6.2025.
+
+Lisätietoja: Jussi Nikula, Suojelun neuvonantaja
 
 ---
 
@@ -1159,6 +1364,86 @@ Lisätietoja: Mai Suominen, Johtava metsäasiantuntija; Bernt Nordman, Ohjelmajo
 
 ## 2022
 
+### Näkökulma: Hakkuiden sääntely palvelee koko yhteiskuntaa – Suomen pyrittävä suurempaan hiilinielutavoitteeseen
+
+Julkaistu: 14.12.2022  
+Aiheet: Suomi, Ilmastonmuutos  
+Linkki: https://wwf.fi/uutiset/2022/12/nakokulma-hakkuiden-saantely-palvelee-koko-yhteiskuntaa-suomen-pyrittava-suurempaan-hiilinielutavoitteeseen/
+
+**Talousmetsillä on keskeinen rooli ilmastolain mukaisen hiilineutraaliustavoitteen saavuttamisessa, ja siksi nielupolitiikan pitää näkyä talousmetsien hoidossa ja metsäsektorin tulevaisuusstrategioissa, kirjoittavat WWF:n asiantuntijat Mai Suominen ja Bernt Nordman.**
+
+Marraskuussa EU-parlamentti ja jäsenmaiden neuvosto pääsivät yhteisymmärrykseen Suomeakin velvoittavan maankäyttösektorin asetuksen (LULUCF) päivittämisestä. Päivitettyjen tavoitteiden mukaisesti Suomen pitää vuosina 2026–2030 päästä metsä- ja maatalousmaiden osalta keskimäärin vähintään -18 megatonnin vuosittaisiin nieluihin. Tilastokeskuksen juuri julkaisemiin vuoden 2021 lukuihin peilattuna Suomen olisi siis lisättävä nielujaan neljän vuoden aikana lähes 19 megatonnin verran. Jos nielut ovat sovittua pienemmät, pitää Suomen kompensoida joko vähentämällä päästöjä muualla, esimerkiksi liikennesektorilla, tai hankkimalla nieluyksiköitä muista EU-maista.
+
+EU ei ole vielä asettanut vuoteen 2035 ulottuvaa nielutavoitetta, mutta tavoitteen löysentäminen olisi Pariisin sopimuksen vastaista. WWF:n mielestä Suomen tuleekin jo tässä vaiheessa ennakoivasti pyrkiä nykyistä vähimmäisvelvoitetta huomattavasti suurempaan nielutavoitteeseen. Kansalliseen ilmastolakiimme kirjattu vaade Suomen hiilineutraaliudesta viimeistään vuonna 2035 on ilmastopaneelin laskelmien mukaan saavutettavissa 21 megatonnin nielutasolla, mutta esimerkiksi kansallista maankäyttösektorin ilmastosuunnitelmaa (MISU) varten laaditut selvitykset osoittivat, että keinot huomattavasti suuremman nielutason saavuttamiseen ovat jo tiedossa. Metsä- ja maatalousmaiden kokonaisnielujen kasvattaminen 25 megatonnin tasolle vuoteen 2030 mennessä on WWF Suomen mielestä täysin realistinen tavoite, mutta se edellyttää muutoksia talousmetsien hoitoon ja käyttöön.
+
+#### Näemmekö metsän puilta?
+
+Tasaikäisrakenteisessa talousmetsässä hiilen määrä on korkeimmillaan ennen päätehakkuutta, ja iäkäs, järeäpuustoinen metsä jatkaa hiilen sitomista puuston kasvun jo hidastuttua. Mikäli puusukupolven kiertoaikaa eli hakkuiden väliin jäävää jaksoa lyhennetään, tämä runsashiilinen vaihe jää lyhyemmäksi. Metsälain uudistamisen jälkeen tapahtunut talousmetsien kiertoaikojen lyhentäminen onkin pienentänyt Suomen hiilinieluja.
+
+Metsä ei kuitenkaan tarkoita vain siellä kasvavia puita. Suomen metsiin sitoutuneesta hiilestä jopa puolet tai enemmän on puiden sijaan maaperässä. Avohakkuun ja siihen liittyvän ojituksen ja muun voimakkaan maanmuokkauksen seurauksena maaperään sitoutunut hiili hajoaa ja karikkeen muodostuminen hidastuu pitkäksi aikaa. Erityisen suurta ilmastohaittaa syntyy ojituksista turvemailla eli suometsissä, joihin orgaanista ainesta on kertynyt vuosituhansien ajan.
+
+Puuntuotantoon liittyviä ilmastohaittoja ja nieluhävikkiä voidaan vähentää huomattavasti muuttamalla hakkuutapoja. WWF suosittaa siirtymistä avohakkuuttomaan puuntuotantoon pääosassa Suomen metsiä. Jatkuvapeitteisestä metsänhoidosta on vähemmän haittaa sekä metsäluonnolle että metsien hiilinieluille.
+
+#### Puun käytön negatiiviset vaikutukset tulee minimoida
+
+Suomessa vain noin puolet hakatusta puubiomassasta päätyy puutuotteisiin – puolet poltetaan lähes välittömästi. Ilmakehän hiilidioksidipitoisuuden kannalta olisi hyvin tärkeää, että hiili pysyisi sidottuna puutuotteisiin mahdollisimman pitkään. Talousmetsistä korjattu puuraaka-aine tulisikin käyttää pitkäkestoisiin tuotteisiin kuten talojen rakenteisiin ja huonekaluihin. Hiiltä pitkään sitovilla puutuotteilla voidaan myös korvata esimerkiksi sementistä, teräksestä tai muista fossiiliperäisiä päästöjä tuottavista materiaaleista valmistettuja tuotteita.
+
+Metsänhoidon eri vaiheissa syntyvää harvennuspuuta ja hakkuutähteitä on Suomessa vielä tällä hetkellä perusteltua hyödyntää sähkön ja lämmön tuotannossa, jos sillä voidaan korvata fossiilisia polttoaineita kuten turvetta ja kivihiiltä. Puubiomassalla on kuitenkin monia vaihtoehtoisia käyttökohteita, joiden arvonlisä yhteiskunnalle on suurempi kuin lämmöntuotannossa. Siksi esimerkiksi kaukolämmön tuotannossa tulee jatkossa investoida teknologiaan, joka ei perustu puun polttoon.
+
+#### Maksajasta edelläkävijäksi
+
+Suomessa ei ole haluttu ottaa käyttöön valtion ohjauskeinoja kokonaishakkuiden rajoittamiseksi. Tätä on perusteltu sekä metsäteollisuuden intresseillä että yksityisten metsänomistajien omaisuuden suojalla. Ilmastolain sitovan hiilineutraalisuustavoitteen sekä Suomen EU-lainsäädännön mukaisten nieluvelvoitteiden valossa hakkuiden tiukemmasta sääntelystä pitää kuitenkin puhua vakavasti. Nykyinen tilanne on epäoikeudenmukainen, sillä koko yhteiskunta joutuu maksajan rooliin, jos ylimitoitetut hakkuut estävät riittävän nielutason saavuttamisen. Oikeudenmukainen keino olisi ottaa käyttöön kuutioperusteinen hakkuuvero, joka loisi puun ostajalle kannusteita vähentää puun käyttöä pienen lisäarvon tuotteisiin ja kerryttäisi yhteiskunnalle varoja nieluhäviöiden korvaamiseen. Myös metsätalouden valtiontukia tulisi jatkossa kohdentaa toimenpiteisiin, jotka vahvistavat talousmetsien hiilinieluja (ks. lausuntomme metsätalouden määräaikaisesta kannustinjärjestelmästä METKA:sta ).
+
+Vähintään yhtä tärkeää on käynnistää Suomen talousmetsien hyödyntämisen rakennemuutos. Metsänhoidon käytäntöjen uudistaminen ja koko teollisen infrastruktuurin muuttaminen vie useita vuosikymmeniä, eikä muutosprosessin aloittamista voi siksi enää lykätä. Ilmastonäkökohtien painoarvo politiikassa ei taatusti ole vähenemässä.
+
+Lisätietoja: Mai Suominen, Johtava metsäasiantuntija; Bernt Nordman, Ohjelmajohtaja
+
+---
+
+### Näkökulma: Mitä Sharm El-Sheikhin ilmastokokouksessa loppujen lopuksi päätettiin?
+
+Julkaistu: 21.11.2022  
+Aiheet: Näkökulma, Ilmastonmuutos  
+Linkki: https://wwf.fi/uutiset/2022/11/nakokulma-mita-sharm-el-sheikhin-ilmastokokouksessa-loppujen-lopuksi-paatettiin/
+
+**YK:n ilmastoneuvottelut Sharm El-Sheikhissä päättyivät pettymykseen. Historiallista päätöstä menetysten ja vahinkojen korvaamisesta varjostaa päättäjien vitkuttelu fossiilisten polttoaineiden alasajossa, kirjoittaa WWF:n ilmastovastaava Bernt Nordman.**
+
+Pariisin ilmastokokouksessa vuonna 2015 päätettiin maapallon keskilämpötilan nousun rajoittamisesta. Sen jälkeisissä ilmastokokouksissa on pyritty löytämään yhteisymmärrys siitä, miten 1,5 asteen rajan alle jääminen voidaan käytännössä varmistaa. Sharm El-Sheikhin sunnuntaina päättyneessä kokouksessa saatiin lopulta kovan väännön tuloksena aikaan kompromissi niin sanotusta ilmastomuutoksen hillinnän monivuotisesta työohjelmasta. Tätä kutsutaan jatkossa Sharm El-Sheikhin työohjelmaksi.
+
+Nyt tehty päätös on ilmastokriisin vakavuuteen nähden huomattavan epämääräinen. Sovitun prosessin puitteissa – osapuolten niin halutessa – voidaan kuitenkin sopia hyvinkin merkittävistä päästövähennyksistä. Tämän prosessipäätöksen myötä maapallon keskilämpötilan nousun rajaaminen 1,5 asteeseen on vielä mahdollista, mutta vain teoriassa: kriittisen rajan alittamiseen vaaditaan käytännön toimia. Siksi on hyvin huolestuttavaa, että Sharm El-Sheikhin kokouksessa ei saatu aikaan mitään uusia päätöksiä fossiilisten polttoaineiden alasajosta.
+
+#### Suurin onnistuminen: uusi rahasto ilmastotuhojen korvaamiseen
+
+Kokouksen merkittävin päätös oli uuden rahaston perustaminen, joka korvaa ilmastokriisin aiheuttamia vahinkoja ja menetyksiä (englanniksi Loss and Damage). Päätöksen toimeenpano tulee kestämään muutaman vuoden ja rahoituksen kerääminen vieläkin pitempään.
+
+Miksi uudenlaista rahastoa sitten tarvitaan? Jo käytössä olevien pitkäjänteisen sopeutumisrahoituksen ja humanitaarisen katastrofiavun välimaastoon tarvitaan tehokkaita rahoitusmekanismeja ja erityisesti kaikkein haavoittuvimmille maille ja ihmisille korvamerkittyä rahaa. Ensisijainen vastuu rahoituksesta on niillä mailla, joiden historialliset päästöt ovat aiheuttaneet nykyisen ilmastonmuutoksen.
+
+Jatkossa olisi perusteltua luoda myös mekanismeja, joilla saastuttaja maksaa -periaate ulottuisi yksityisen sektorin toimijoille, esimerkiksi kansainvälisen meriliikenteen tai lentoliikenteen fossiiliverojen muodossa.
+
+#### Vaikuttavia päätöksiä hiilimarkkinoista lykättiin jälleen
+
+Sharm El-Sheikhin kokoukselta odotettiin selkeitä linjauksia myös Pariisin ilmastosopimuksen artikla 6:een kirjattujen, maiden yhteistyötä ja hiilimarkkinoita koskevien periaatteiden täytäntöönpanosta. Viime vuoden ilmastokokouksessa hiilimarkkinoille laadittiin yleisen tason sääntökirja, mutta Sharm El-Sheikhissä neuvottelut yksityiskohdista osoittautuivat vaikeiksi. Hiilimarkkinoiden pelisääntöihin tehtiin tarkennuksia muun muassa ilmastohyödyn kaksoislaskennan, eli samojen hiilinielujen päällekkäisen ilmoittamisen useamman kuin yhden tahon toimesta, ehkäisemiseksi. Nyt tehtyjen tarkennusten myötä hankkeiden isäntämaiden, eli valtioiden, joissa hankkeet toteutetaan, tulee mukauttaa kasvihuonekaasutilastojaan, mikäli päästövähennystuloksia viedään kansainvälisille markkinoille, joista yritykset voivat niitä hankkia.
+
+Pariisin sopimuksen artikla 6 korvaa Kioton pöytäkirjan mukaiset hiilimarkkinat, eikä esimerkiksi puhtaan kehityksen mekanismia (CDM) enää käytetä. Glasgow’ssa sovittiin, että näistä vanhoista hankkeista luotuja yksiköitä voidaan tietyin edellytyksin siirtää Artikla 6 -markkinoille. Tämä oli iso pettymys WWF:lle, sillä niitä ei voida pitää lisäisinä. Sharm El-Sheikhin kokouksessa tietyt maat halusivat entisestään helpottaa näiden huonolaatuisten yksiköiden siirtoa. Hiilikrediittien ostajalla on jatkossakin iso vastuu laadun tarkistuksesta.
+
+Kokonaisuuteen jäi edelleen huomattavia aukkoja. Esimerkiksi valtioidenvälisen yhteistyön osalta tietojen avoimuuteen ja hankkeiden ulkopuoliseen arviointiin liittyvät, avoimeksi jääneet kysymykset heikentävät luottamusta mekanismiin. Ei-valtiollisia toimijoita koskevia sääntökohtia täsmennettiin, mutta muun muassa ehdotus hiilensidontahankkeita koskevasta ohjeistuksesta palautettiin uuteen valmisteluun selvästi puutteellisena.
+
+#### Koronivia-työlle jatkoa, ihmisoikeudet ja luontokato vahvasti esillä
+
+Maatalouden ilmastonäkökohtiin liittyvä viisivuotinen Koronivia-dialogi päättyi Sharm El-Sheikhin COP27-kokoukseen. Tärkeää työtä päätettiin kuitenkin jatkaa uuden nelivuotisen Maataloutta ja ruokajärjestelmää koskevan Sharm El-Sheikhin yhteistyö -prosessin muodossa. Tässäkin asiassa ollaan hyvin kaukana varsinaisista yhteisistä päätöksistä, sillä osapuolten näkemykset ovat vielä hyvin kaukana toisistaan.
+
+Myönteisenä kehityksenä voidaan pitää sitä, että ihmisoikeusnäkökulma on selvästi vahvistumassa ilmastokokouksissa. Vastustavia kannanottoja kuultiin vähemmän kuin viime vuonna ja monen asiakohdan päätöksiin kirjattiin hyviä ehtoja ihmisoikeuksien huomioimisesta hillintä- ja sopeutumistoimien suunnittelussa ja toteutuksessa.
+
+Toinen läpileikkaava teema oli luontokadon ja ilmastokriisin monet yhteydet. Näillä globaaleilla ongelmilla on useita yhteisiä syitä, kuten metsäkato. Luontopohjaisten ratkaisujen merkitystä korostettiin monessa päätöksessä, muun muassa ilmastonmuutokseen sopeutumisessa. Tämä on tärkeä signaali joulukuussa pidettävälle biodiversiteettisopimuksen osapuolikokoukselle, johon kollegani, WWF Suomen kansainvälisen ohjelman ohjelmajohtaja Anne Tarvainen osallistuu.
+
+Kokouksessa tehtiin tuttuun tapaan iso liuta poliittisia kannanottoja, joiden käytännön merkitys jää kuitenkin usein hyvin vaatimattomaksi. Ne heijastavat kuitenkin hyvin kansainvälisen ilmastodiplomatian nykytilaa. Suuri pettymys oli, että jotkut fossiilitalouden keskeiset maat blokkaavat edelleen tiukempia kirjauksia fossiilisten polttoaineiden alasajosta.
+
+Bernt Nordman on WWF Suomen ilmasto-ohjelman johtaja. Hän seurasi COP27-neuvotteluja paikan päällä Sharm El-Sheikhissä 4.—19.11.2022.
+
+Ilmastopuitesopimuksen sihteeristön tekemän koosteen COP27-kokouksen päätöksistä voit lukea täältä.
+
+---
+
 ### Näkökulma: Luontokadon pysäyttämiseksi liiketoiminta pitää mahduttaa planeetan rajoihin
 
 Julkaistu: 1.11.2022  
@@ -1186,6 +1471,44 @@ Yrityksillä ei ole enää varaa odotella muun yhteiskunnan toimia luontokadon p
 Kirjoitus julkaistu alun perin Suomen Kuvalehden Puheenvuoro-palstalla 21.10.2022.
 
 Lisätietoja: Jussi Nikula, Suojelun neuvonantaja
+
+---
+
+### Näkökulma: Käsitteiden huolimaton käyttö sekoittaa kompensaatiokeskustelua entisestään
+
+Julkaistu: 20.9.2022  
+Aiheet: Ilmastonmuutos, Suomen metsät, Suomi, Yritykset  
+Linkki: https://wwf.fi/uutiset/2022/09/nakokulma-kasitteiden-huolimaton-kaytto-sekoittaa-kompensaatiokeskustelua-entisestaan/
+
+**Julkinen keskustelu päästökompensaatiosta on sekavaa: sanaa”kompensaatio” käytetään huolimattomasti, ja eri ilmastonmuutoksen hillintätoimet niputetaan virheellisesti yhteen, kirjoittaa WWF:n ilmastovastaava Bernt Nordman.**
+
+Julkinen keskustelu päästökompensaatiosta on sekavaa, eikä asiaa auta se, että kompensaatioon liittyvät termit sekoittuvat usein keskenään. Monilta väärinkäsityksiltä vältyttäisiin pitämällä käsitteellisesti erillään kaksi asiaa: 1) hiilensidonta ja 2) päästöjen kompensaatio tai”hyvittäminen”.
+
+Ilmakehän hiilidioksidin sitominen biomassaan on yksi hyvin merkittävä tapa hillitä ilmastonmuutosta. Monet maapallon ekosysteemit, kuten metsät ja meret, sitovat hiiltä ilmakehästä. Ihmisen muokkaamista ekosysteemeistä muun muassa talousmetsillä ja maatalousmaalla on tärkeä rooli maapallon elonkehän hiilen kiertokulussa.
+
+Erilaisilla toimilla, esimerkiksi kasvattamalla pellolla syväjuurisia kasveja tai ehkäisemällä turvemetsien ojituksia jatkuvapeitteisellä puunkasvatuksella, on mahdollista saavuttaa lisäistä hiilensidontaa verrattuna tiettyyn perusuraan. Lisäistä hiilensidontaa on mahdollista tuotteistaa, jolloin puhutaan hiilikrediittien luomisesta. Hiilikrediitit ovat hiilimarkkinoiden vaihdannan välineitä. Ne vastaavat seteleitä rahan maailmassa. Niiden avulla hiilensidontapalvelun tuottaja (myyjä) ja rahoittaja (ostaja) voivat sujuvasti kohdata markkinoilla.
+
+Hiilikrediitin ostaja tarvitsee uskottavia takeita siitä, että krediitti perustuu todellisiin toimiin. Se on lähtökohtaisesti todistus siitä, että on tehty jotain lisäistä ja pysyvää ja että kyseessä on uniikki toimi, jota kukaan muu ei väitä omakseen, eikä kyse siten ole kaksoislaskennasta. Vapaaehtoisten hiilimarkkinoiden ajatuksena on, että krediitin avulla lisäinen hiilensidonta vaihtaa omistajaa. Tuottaja, esimerkiksi metsän ja pellon omistaja, myy hiilensidontapalvelun toiselle osapuolelle.
+
+Markkinoilla voi myös olla välittäjiä, eli hiilensidontapalvelun tuottajan ja krediitin loppukuluttajan välisiä välikäsiä. Suomessa tämän alan tunnettu toimija on Compensate-säätiö. Suomalaisten talousmetsien tuotteistettuun hiilensidontaan perustuvia kompensaatiopalveluja tarjoaa muun muassa Green Carbon.
+
+Hiilensidontapalvelun myyjällä ei ole mitään tekemistä sen kanssa, mihin krediitin ostaja käyttää krediittiä. Metsän tai pellon omistaja ei siis voi”tuottaa kompensaatiota” tai”myydä kompensaatiota”. Esimerkiksi LUKE on syyskuun aluissa julkaistuilla uusilla tietosivuillaan valitettavasti sortunut näiden virheellisten ilmaisujen käyttämiseen.
+
+#### Kompensaatio on väite, hiilensidonta todellista
+
+Mitä kompensaatio sitten on? On tärkeää huomata, että kompensaatio ei ole samalla tavalla”todellista” kuin esimerkiksi lisäinen hiilensidonta, jonka perusteella markkinoille on luovutettu todistus eli krediitti. Kompensaatio on puhtaasti sopimuksenvarainen väittämä siitä, että tietyssä paikassa syntyvä päästö on ilmastonmuutoksen hillinnän näkökulmasta samanarvoinen kuin hillintätoimi jossain muualla. Lue lisää kompensaatiosta.
+
+Nykyisessä kriisitilanteessa tarvitsemme kaikkia keinoja, joilla ilmastonmuutosta voidaan hillitä: sekä päästöjen vähentämistä, että ilmakehän hiilidioksidipitoisuuden vähentämistä hiilensidonnan avulla. Fossiilipäästöjen vähentämistä ei pidä jarruttaa vetoamalla siihen, että jossain muualla sidotaan hiilidioksidia ilmakehästä.
+
+Kompensaatiosta ovat kiinnostuneet niin yksittäiset kansalaiset ja julkiset organisaatiotkin, mutta erityisesti se liittyy yrityksiin. Yritys voi markkinoinnissaan sanoa olevansa kokonaan hiilineutraali tai että myytävä tuote tai palvelu on hiilineutraali. Hiilineutraaliusväittämien, tai uuden sukupolven nettonollaväittämien, taustalla on käytännössä aina jokin määrä kompensaatiota, eli sitä, että yrityksen päästöjä”hyvitetään” rahoittamalla hillintätoimia jossain muualla.”Muualla” voi tarkoittaa missä päin maailmaa tahansa, sillä vapaaehtoiset hiilimarkkinat ovat globaalit.
+
+Vastuu hiilineutraaliusväittämästä on aina yrityksellä itsellään. Hiilensidontapalveluja myyvällä taholla on vastuu ainoastaan siitä, että krediitti perustuu todelliseen ilmastohyötyyn. Hiilineutraaliusväittämien yhteiskunnallinen sääntely kuuluu kuluttajansuojalainsäädännön piiriin. WWF julkaisi kesäkuussa 2022 selvityksen hiilineutraaliusväittämistä Suomen kuluttajamarkkinoilla.
+
+Hiilineutraaliusväittämiä esittävän yrityksen pitäisi pystyä osoittamaan, että päästöt ja hankitut krediitit ovat samanarvoisia. Tähän liittyy omat haasteensa, sillä fossiilisen hiilen lisääminen elonkehään on pitkällä aikavälillä hyvin toisenlainen ilmiö kuin hiilidioksidin sitominen puuhun, joka mahdollisesti hakataan jo kymmenen vuoden päästä.
+
+Vapaaehtoiset hiilimarkkinat ovat kehittyneet nopeasti ja tähän asti pitkälti ilman viranomaissääntelyä. Ei siis ole kovin yllättävää, että eri toimijat käyttävät keskeisiä käsitteitä omalla tavallaan. Nyt olisi kuitenkin korkea aika selkiinnyttää käsitteitä tavalla, joka auttaa myös suurta yleisöä asian ymmärtämisessä.
+
+Lisätietoja: Bernt Nordman, Ohjelmajohtaja
 
 ---
 
@@ -1239,6 +1562,58 @@ Lisätietoja: Matti Ovaska, Johtava kalastuksen asiantuntija
 
 ---
 
+### Näkökulma: Yrityksillä on merkittävä rooli luontokadon pysäyttämisessä
+
+Julkaistu: 18.5.2022  
+Aiheet: Yritykset, Luonnon köyhtyminen, Metsäkato, Sademetsät  
+Linkki: https://wwf.fi/uutiset/2022/05/nakokulma-yrityksilla-on-merkittava-rooli-luontokadon-pysayttamisessa/
+
+**Onko millään yrityksellä varaa olla huomioimatta kestävyyssiirtymän vaikutuksia toimintaympäristöönsä? Kyse ei ole ainoastaan ympäristötietoisen kuluttajasegmentin kasvusta tai taitavasta markkinoinnista. Kyse on siitä, mahtuuko yrityksen liiketoimintamalli yhden planeetan rajoihin. Nykyisin suomalaisten luonnonvarojen kulutus on useimmiten vähintään kolminkertainen kestävään tasoon verrattuna riippuen tarkastelussa käytetystä mittarista.**
+
+Luontokato ja ekosysteemien heikkeneminen uhkaa ihmisten toimeentuloa, toteaa kansainvälinen luontopaneeli IPBES. Yritysjohtajien näkemyksen mukaan luontokato on ilmastopolitiikan epäonnistumisen ja äärimmäisten sääilmiöiden jälkeen kolmanneksi suurin maailmanlaajuinen riski seuraavan kymmenen vuoden aikana (Global Risk Report 2022). Yritysten rooli luontokadon pysäyttämisessä on oikeutetusti noussut vahvemmin keskusteluun myös Suomessa.
+
+Yksittäisen yrityksen valinnat luontokadon pysäyttämisessä riippuvat huomattavasti muun muassa sen paikasta arvoketjussa, toimialasta ja yleisesti toimintaympäristöstä. Yksi asia yrityksen onnistumisessa on keskeistä: onko luontokato kiinteästi osa yrityksen hallituksen ja johdon asialistaa, vai delegoidaanko se alemmille tasoille organisaatiossa.
+
+IPBESin tiedeyhteenvetojen mukaan luontokadon pysäyttäminen”muuttaa kaiken”. Tämä tarkoittaa perinpohjaista systeemitason muutosta teknologisissa, taloudellisissa ja sosiaalisissa tekijöissä halki yhteiskunnan. Eri toimialat uudistuvat ja investoivat eri tahdeilla, mutta merkittävien muutosten tekeminen liiketoimintamalleihin vuoteen 2030 mennessä on luultavasti melkoinen haaste mille tahansa toimialalle.
+
+Tämä kirjoitus keskittyy pääasiassa yritystoiminnan haitallisten biodiversiteettivaikutusten pienentämiseen, koska se on usein yritysten välittömän mielenkiinnon kohteena. Useita muita tärkeitä näkökulmia jää käsittelemättä. Luontokadon vaatima kestävyysmurros on riski useille olemassa oleville liiketoimintamalleille. Mutta kuten kaikenlaiset murrokset, se on myös mahdollisuus uusille yrittäjille ja uusiutumiskykyisille perinteisille toimijoille. Lisäksi rahoittajien ja sijoittajien kiinnostus luontokatokysymykseen kasvaa jatkuvasti.
+
+#### 2030 tulee pian, tavoitteet saavutettu?
+
+EU:n tavoitteiden mukaan luontokato piti pysäyttää ensin vuoteen 2010 mennessä ja sitten vuoteen 2020 mennessä. Tavoite on jälleen siirretty eteenpäin vuoteen 2030. Nyt viimein vaikuttaa siltä, että luontokadon pysäyttäminen on integroitu EU-politiikkaan vahvemmin, ja politiikan ohjausvaikutus voi mahdollisesti muodostua merkittäväksi.
+
+EU:n vihreän kehityksen ohjelman, kestävän rahoituksen strategian sekä biodiversiteettistrategian alla on useita yksityiskohtaisempia sääntelyaloitteita, jotka voivat vaikuttaa yritysten toimintaan merkittävästi jo pian. Muun muassa kestävän rahoituksen taksonomia tai kestävyysraportointivelvollisuuksien laajentuminen ovat kiinnostavia esimerkkejä siitä, kuinka luontokadon pysäyttäminen alkaa koskea myös rahoitusta ja pakollisesti raportoitavia tunnuslukuja, jotka ovat hyvin keskeisiä asioita yrityksen johdon kannalta. EU:n biodiversiteettistrategian tavoite suojelualueiden merkittävästä laajentamisesta voi vaikuttaa raaka-aineiden saatavuuteen sekä hintaan ja siten erityisesti luonnonvaraintensiivisiin toimialoihin ja arvoketjujen eri vaiheisiin. Myös ilmastopolitiikan tavoitteiden vahvistaminen ohjaa samaan suuntaan.
+
+EU-politiikan lisäksi kansainvälisellä tasolla käydään neuvotteluja YK:n biodiversiteettisopimuksen (CBD) tavoitteista vuodelle 2030. Jos tavoitteisiin tulee mukaan luonnonvarojen kulutukseen liittyvä jalanjälkitavoite, nykyiset länsimaiset luonnonvarojen ylikulutukseen perustuvat yhteiskuntarakenteet ja liiketoimintamallit kohtaavat uudistumisen tarpeen myös sitä kautta. Oli jalanjälkitavoite mukana CBD-sopimuksessa tai ei, ylikulutuksen purkaminen on välttämätöntä luontokadon pysäyttämiseksi, kuten kansainvälisen luontopaneelin IPBESin tiedeyhteenveto toteaa.
+
+(teksti jatkuu kuvan jälkeen)
+
+#### Yritys ei voi ulkoistaa luontokadon pysäyttämistä
+
+Mistä yrityksen tulisi aloittaa toimet luontokadon pysäyttämiseksi? Eräs asiaa selkeyttävä kehikko on SBTN (Science Based Targets Network) – ohjeistusluonnos, jota myös WWF on ollut mukana kehittämässä. SBTN-verkoston ja ohjeistuksen avulla yritykset voivat asettaa luontotavoitteensa järjestelmällisesti ja mahdollisimman tiedepohjaisesti. Ohjeistukseen kuuluu tavanomaiset vaiheet vaikutusten arvioinnista, priorisoinnista, tavoitteiden asettamisesta, toiminnasta ja seurannasta. Ohjeistusta kehitetään jatkuvasti.
+
+WWF-verkoston kokemukset SBTN-pilotoinneista yritysten kanssa kertovat muun muassa siitä, että mittarointi, datan saatavuus ja erityisesti arvoketjujen alkuperäjäljitettävyys ovat tavanomaisia päänsärkyjen aiheita. Lähes varmaa siis on, että kun yritykset lähtevät hahmottamaan omien arvoketjujensa luontokatovaikutuksia, edessä on isompia ja pienempiä haasteita.
+
+Ensivaiheessa yrityksellä voi olla edessään joukko monimutkaisia kysymyksiä ja paljon selvitettävää. Tämä on välttämätön vaihe polulla, jotta yrityksen ymmärrys oman toiminnan ja arvoketjujen usein monimutkaisista kytköksistä luontokatoon kasvaa. Haasteen edessä positiivista on kuitenkin se, että luontokatovaikutusten kokonaisvaltainen arvioinnin kysymys on noussut vahvemmin esiin vasta viime vuosina, joten asiaa koskevat menetelmät tulevat varmasti kehittymään ja yhtenäistymään. Esimerkiksi WWF tulee julkaisemaan vuodenvaihteessa Biodiversity Risk Filter -työkalun, joka auttaa yrityksiä biodiversiteettiin liittyvien riskien tunnistamisessa ja priorisoinnissa. Yritysten vesivastuun toteuttamisen apuna on jo vuosia ollut olemassa WWF:n Water Risk Filter. Myös yritysten ilmastotoimista kertynyt kokemus helpottaa luontokadon pysäyttämiseen tarvittavien toimien saamista vauhtiin.
+
+Yrityksen ymmärryksen kasvaminen oman toiminnan ja arvoketjujen luontokatovaikutuksista auttaa myös havaitsemaan sen, että mitään pikakeinoja luontokadon pysäyttämiseksi ei ole. Kuten ilmastoasioissa on huomattu, uusien aiheiden noustessa pinnalle markkinoille ilmestyy monenkirjavia ratkaisujen tarjoajia. Jos yritysten luontokatotoimien kenttä vaikuttaa vielä sekavalta – tai kauniimmin sanottuna kehittyvältä – niin yksi asia on selvä: luontokadon ehkäisyä ei ole mahdollista ulkoistaa.
+
+Ymmärrys oman toiminnan luontokatovaikutuksista antaa suojaa sellaisia virheinvestointeja vastaan, jotka eivät todellisuudessa vähennä yrityksen luontokatoriskejä merkittävästi. Yksinkertaisen paljastava kysymys yritykselle on oman arvoketjun raaka-aineiden alkuperä. Tietääkö yritys raaka-aineiden alkuperän tarkasti, ja millaisia luontokatovaikutuksia sen tuotannolla on ollut? Jos tarkka alkuperä ei ole tiedossa, niin se on syytä selvittää ensimmäisenä. Esimerkiksi Unilever korostaa omilla vastuullisuussivuillaan tarkan alkuperätiedon tärkeyttä luontokatovaikutusten minimoimisessa. Toimialasta ja tuotevalikoimasta riippuen joudutaan usein priorisoimaan tärkeimmiksi arvoituja raaka-aineita ja tuotantoalueita. Jokaista perunaa ei kannata heti ryhtyä jäljittämään.
+
+(teksti jatkuu kuvan jälkeen)
+
+#### Vahva sääntely on vastuullisen toimijan etu
+
+Monet yritykset ovat jo vuosikausia ponnistelleet luontokadon kitkemiseksi arvoketjuistaan. Edistystä on tapahtunut, mutta se ei ole helppoa. Mielenkiintoista on, että joukko yrityksiä on päätynyt pyytämään lisää ja tiukempaa sääntelyä. Esimerkiksi lähes 80 eurooppalaista yritystä allekirjoitti kirjeen EU-komissiolle, jossa ne pyysivät vahvaa ja velvoittavaa metsäkatolakia. Luontokadon ehkäisyyn sitoutuneet, vastuulliset yritykset joutuvat huolehtimaan metsäkatoriskituotteiden arvoketjujen alkuperäjäljitettävyydestä ja kestävyydestä. Tämän varmistaminen ei ole aina yksinkertaista ja vaatii panostusta. Samaan aikaan yritykset kilpailevat markkinoilla, joilla osa toimijoista käyttää metsäkatotuotteiden kaltaisia epäreiluja kilpailukeinoja.
+
+Sitova ja kattava metsäkatolainsäädäntö, joka estää metsäkatotuotteiden tulon EU-markkinoille, on siis sekä vastuullisten toimijoiden että trooppisten metsien monimuotoisen luonnon etu. Vastuullisten yritysten nouseva rooli edistyksellisen ilmasto- ja luontopolitiikan kirittäjinä on yksi lupaavimmista systeemisen muutoksen ajureista. WWF:llä on pitkä historia yhteistyöstä yrityskentän kanssa vahvemman poliittisen ohjauksen edistäjänä. Eräs esimerkki on WWF:n ja S-ryhmän yhteinen Vieraskynäkirjoitus vahvan metsäkatolain puolesta. Yritysten luontokatotoimet eivät missään nimessä rajoitu vain omaan toimintaan ja arvoketjuihin. Aktiivista yrityskansalaisuutta tarvitaan myös.
+
+Lähes kaikille edellä mainituille luontokadon ehkäisyn toimille on yhteistä, että harvoista niistä yritys selviää täysin omin voimin. Toimivat kumppanuudet ovat äärimmäisen arvokkaita, oli sitten kyseessä konsultin käyttö luontokatoarvioinneissa, alihankintaketjujen kehittäminen, toimialan yhteiset ponnistelut, yhteiskunnallinen vaikuttaminen tai yhteistyö kansalaisjärjestöjen kanssa. Muutos on edessä ja se on välttämätön. Se saavutetaan kaikkien kannalta parhaiten, kun se tehdään yhdessä.
+
+Lisätietoja: Jussi Nikula, Suojelun neuvonantaja
+
+---
+
 ### Näkökulma: Luonnonsuojelulla luodaan myös turvallisuutta
 
 Julkaistu: 18.5.2022  
@@ -1268,6 +1643,36 @@ Teksti: Emma Viitanen ja Anne Tarvainen
 Liite: Tutustu WWF:n raporttiin! (https://climate-diplomacy.org/magazine/environment/nature-conflict-and-peace-links-between-environment-security-and-peace-and)
 
 Lisätietoja: Ohjelmajohtaja, Lisätietoja
+
+---
+
+### Näkökulma: Maankäyttö uhkaa tulla ohitetuksi EU:n ilmastotavoitteissa
+
+Julkaistu: 16.5.2022  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/uutiset/2022/05/maankaytto-uhkaa-tulla-ohitetuksi-eun-ilmastotavoitteissa/
+
+**Tapamme käyttää maata lämmittää ilmastoa. Maatalouden, metsätalouden ja muun maankäytön muutoksilla lämpenemistä voidaan kuitenkin hillitä. Tähän EU:ssa on käsillä tärkeä tilaisuus, kun maankäyttöä koskevaa LULUCF-asetusta uudistetaan EU-parlamentin ja jäsenmaiden kesken. Suomalaismepeillä on työtä tehtävänä, jotta riittävä ilmastovaikutus saadaan turvattua.**
+
+#### Nielutavoite uhkaa jäädä löysäksi
+
+Hyvinvoiva luonto poistaa ilmasta hiilidioksidia. Monet ihmistoimet, kuten intensiiviset metsähakkuut, kuitenkin heikentävät hiilensidontaa ja pienentävät hiilivarastoja. Sen lisäksi esimerkiksi ojitus ja viljely vapauttavat turvemaiden hiilivarastoja ilmakehään. Silloin, kun metsät ja maat sitovat itseensä hiiltä enemmän kuin on päästöjä, syntyy lämpenemistä hillitsevä hiilinielu.
+
+EU-alueen ilmastotoimista päättäminen on EU:n toimivallan alla. Nielupolitiikka on keskeinen osa ilmastopolitiikkaa. EU:n hiilinielujen vähimmäistaso määritellään LULUCF-asetuksessa (Land Use, Land-Use Change and Forestry), jota päivitetään parhaillaan. EU-parlamentti muodostaa kantansa komission riittämättömään esitykseen lähikuukausien äänestyksissä.
+
+Komission esityksen mukaan EU:n maankäyttösektorin hiilinielun tulisi vuonna 2030 olla -310 Mt CO2-ekv. (miljoonaa tonnia CO2-ekvivalenttia). Jos tavoite hyväksytään, hiilinieluja velvoitettaisiin vahvistamaan nykyisestä vain noin -40 Mt CO2-ekv. verran. Koska tavoitteen jako EU-maiden kesken pohjautuu vuosien 2016–2018 nieluihin – jolloin Suomessa oli ennätyshakkuut – ei asetus vaatisi hiilinielujen vahvistamista Suomessa lainkaan. Monet suomalaismepit ovat tyytymässä komission ehdotukseen tai ehdottaneet jopa sen heikentämistä, mikä kertoo karua kieltä sitoutumisesta ilmastokriisin torjuntaan.
+
+Maankäytössä on EU:ssa huomattavasti paremmat edellytykset hillitä ilmastonmuutosta. Maa- ja metsätaloudessa päästöjä voidaan vähentää ja hiilensidontaa vahvistaa lukuisin keinoin, kuten peltojen hiiliviljelyllä ja kestävämmillä metsänkäsittelytavoilla. Keinot ovat keskimäärin halvempia kuin muilla sektoreilla tehtävät ilmastotoimet. Ne myös vahvistavat suomalaisen maa- ja metsätaloustuotannon asemaa markkinoilla, joilla vastuullisuus kiinnostaa. Näistä syistä WWF on ilolla pannut merkille, että muutamat suomalaismepit ovat vaatineet nielutavoitteen korottamista -490 tai jopa -600 Mt CO2-ekv. tasolle. Näyttää kuitenkin epätodennäköiseltä, että parlamentin enemmistö siirtyisi tukemaan tavoitetason nostoa.
+
+#### Päästövähennyksiä ei pidä korvata hiilinieluilla
+
+Komission LULUCF-esitys antaisi jäsenmaiden jatkaa erilaisten joustojen käyttöä päästöjen ja hiilensidonnan kanssa tasapainoiluun. Maat voisivat esimerkiksi jättää taakanjakosektorin päästövähennystavoitteensa täyttämättä ja korvata vajetta LULUCF-nieluilla.
+
+Päästövähennyksiä ja nielujen vahvistamista ei voida pitää toisilleen vaihtoehtoisina. Jokaisen maan ja sektorin on kannettava vastuunsa kummankin suhteen. Poikkeukset ovat WWF:n mielestä perusteltuja vain luonnonkatastrofitilanteissa. IPCC:n raportit painottavat, ettei ilmastotoimia voida enää lykätä, jos lämpeneminen halutaan rajoittaa 1,5 asteeseen. Joustoista luopumista vaativat äänet ovat kuitenkin jäämässä parlamentissa alakynteen.
+
+LULUCF-uudistuksessa tarvitaan nyt loppukiriä. Suomalaismepit voivat näyttää suuntaa vaatimalla kunnianhimoista parannusta maankäytön ilmastovaikutukseen. Se on viime kädessä paitsi suomalaisen maa- ja metsätalouden myös jokaisen suomalaisen etu.
+
+Teksti: Lotta Närhi, WWF Suomen metsiensuojelun harjoittelija
 
 ---
 
@@ -2167,6 +2572,47 @@ COVID-19 and the crisis in food systems: Symptoms, causes, and potential solutio
 PTT-ennuste: Maa- ja elintarviketalous 2020
 
 Ympäristötiedon foorumi 12.5.2020: Pandemian takana on ihminen
+
+---
+
+### Näkökulma: Luonto ei odota, ja siksi kestävää talouselvytystä tarvitaan
+
+Julkaistu: 8.5.2020  
+Aiheet: Pandemiat, Ilmastonmuutos, Luonnon köyhtyminen, Näkökulma, Suomi  
+Kirjoittaja: Liisa Rohweder  
+Linkki: https://wwf.fi/uutiset/2020/05/nakokulma-luonto-ei-odota-ja-siksi-kestavaa-talouselvytysta-tarvitaan/
+
+**Luonnon monimuotoisuus on huomioitava koronakriisin elvytystoimissa, kirjoittaa WWF:n pääsihteeri Liisa Rohweder.**
+
+Koronavirus on koetellut maailmaa mittavin seurauksin. Kun raivaamme tietä ulos koronakriisistä, meidän pitää ehdottomasti huomioida myös ekologinen ulottuvuus.
+
+Yhteiskuntajärjestelmämme perustaa uhkaa akuutti kriisi, jonka taustalla on luonnonvarojen ylikulutus ja luonnon köyhtyminen. Ellei kestävyyskriteereitä nosteta kaiken sopeutumisen ytimeen, tämä kierre jatkuu. Se on katkaistava, sillä yhteiskuntia ravistelevia uhkia, kuten tulvia, metsäpaloja ja eläimistä ihmisiin tarttuvia tautiepidemioita, nousee jatkuvasti.
+
+#### Luonnon monimuotoisuuden häviäminen on todellisuutta myös Suomessa
+
+Luonnon köyhtyminen tuo helposti mieleen sademetsien hakkuut, Australiassa jyllänneet metsäpalot ja saastuneet meret. Luonnon kirjo hupenee kuitenkin myös Suomessa.
+
+Uhanalaisten lajien määrä on Suomessa kasvanut. Joka yhdeksäs laji ja lähes puolet luontotyypeistä on arvioitu Suomessa uhanalaisiksi. Eniten uhanalaisia lajeja on metsissä ja perinneympäristöissä. Joukossa on monia tuttuja lajeja, kuten hömötiainen, naali, huuhkaja ja saimaannorppa. Olemme ylpeitä kotimaisesta kalasta, mutta myös kalojen uhanalaisuus on alati pahentunut.
+
+Uhanalaistuminen johtuu useimmin metsätaloudesta, ojituksesta, pellonraivauksesta, rakentamisesta ja vesien rehevöitymisestä. Kalojen kohdalla uhanalaisuuden pääsyy on valtava määrä kutuvaelluksen estäviä patoja. Samasta syystä ovat kadonneet myös vapaana virtaavat kosket. Eikä ilmastonmuutoksen vaikutuksia pidä unohtaa.
+
+Lajien ja elinympäristöjen hupeneminen vaikuttaa yhteiskuntamme kantokykyyn ja resilienssiin. Kun luonnon monimuotoisuus heikkenee, lajien ja ekosysteemien on yhä vaikeampaa sopeutua säiden ääri-ilmiöihin ja ilmaston muuttumiseen. Hakatut metsät ja kuivatetut suot muuttuvat hiilivarastoista hiilen lähteiksi. Rehevöityminen ja saastuminen voivat pilata puhtaan juoma- ja uimaveden.
+
+#### Kestävät elvytystoimet vievät kohti uutta normaalia
+
+Elämme hetkessä, jossa voimme muuttaa suunnan. Lukuisten kansainvälisten instituutioiden, kuten YK:n, Maailmanpankin ja Euroopan komission mukaan koronapandemian jälkeinen elvytys on tehtävä taloudellisesti, sosiaalisesti ja ekologisesti kestävästi.
+
+Samaa mieltä on myös tiede. Tiedeyhteenvedoissa todetaan, että kestävän kehityksen tavoitteet on mahdollista saavuttaa vain purkamalla luonnonvarojen ylikulutus. WWF on mukana kehittämässä ratkaisuja elvytykseen ministeri Krista Mikkosen asettamassa kestävän elvytyksen työryhmässä. Olemme tehneet ehdotuksia kestävään elvytykseen myös EU:lle.
+
+Kestävät elvytystoimet eivät ratkaise kaikkia ongelmia, mutta ne auttavat rakentamaan tien ulos niin koronakriisistä kuin ekologisesta kriisistä. Siksi meidän on asetettava päätöspäivämäärä fossiilisten polttoaineiden käytölle ja investoitava yhä enemmän puhtaaseen energiaan. Meidän pitää luopua ympäristölle ja ilmastolle haitallisista tuista ja satsata luonnonsuojeluun ja heikentyneiden elinympäristöjen ennallistamiseen. Nyt meidän on mahdollista myös edistää rakennusten energiatehokkuutta sekä kestävää liikennettä ja ruokajärjestelmää.
+
+Nämä toimet voivat olla systeemisen muutoksen alku, kun uusi normaali rakennetaan kestävälle pohjalle. Systeeminen muutos on valtava tavoite, joka on samaan aikaan välttämätön, mutta mahdollinen. Yhteiskuntamme kestävyyden määrittää se, pystymmekö luopumaan ylikulutuksesta ajoissa ja tekemään sen sosiaalisesti oikeudenmukaisesti.
+
+Keskeistä on toimien ripeys ja riittävyys. Ekologisella jälleenrakennuksella on kiire. Luonto ei odota eikä neuvottele. Siksi nyt on varmistettava välittömästi, että kaikkiin elvytystoimiin liitetään kestävyyskriteerit: elvytystoimet eivät saa heikentää luonnon monimuotoisuutta, pahentaa ympäristön ja ilmaston tilaa tai tukea luonnonvarojen kestämätöntä käyttöä.
+
+Luonnon monimuotoisuuden eteen tehtävillä toimilla emme voi hävitä. Luonnon hyvinvointi kasvaa, työllisyysvaikutukset ovat myönteisiä ja uusiutuvien luonnonvarojen kyky uusiutua kohenee. Tie kohti uutta normaalia on auki.
+
+Lisätietoja: Liisa Rohweder, Pääsihteeri
 
 ---
 

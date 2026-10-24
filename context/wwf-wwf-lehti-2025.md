@@ -1,9 +1,9 @@
 # WWF Suomi – WWF-lehti 2025
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: WWF-lehti). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 55 (uusin 11.12.2025).
+Kohteita: 56 (uusin 11.12.2025).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 39 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 2 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -43,12 +43,10 @@ Huom: 39 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 9.10.2025 – Aurinkoahven uhkaa vallata vesistömme – haitallinen vieraslaji leviää nopeasti
 - 9.10.2025 – Alkuperäiskansat suojelevat Amazonia – metsäpalojen ehkäisy erityisen tärkeää
 
-**Heinäkuu 2025**
-
-- 7.7.2025 – Eväiden jämät Suomen uhanalaisimman nisäkkään uhkana – WWF kampanjoi naalin puolesta
-
 **Kesäkuu 2025**
 
+- 27.6.2025 – Kort och Gott på svenska 2/2025
+- 27.6.2025 – Kort och Gott på Svenska 2/2024
 - 18.6.2025 – Norppa, kamera, käy!
 - 6.6.2025 – Vieraspetopyynti auttaa saariston lintuja
 - 6.6.2025 – Teknologian pimeä puoli – Suomeen tuotavat mineraalit tuhoavat luontoa tropiikissa
@@ -94,7 +92,6 @@ Huom: 39 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 Julkaistu: 11.12.2025  
 Aiheet: WWF-lehti, Itä-Afrikka, Norsu, Salametsästys, Sarvikuono  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/yha-uudet-lajit-paatyvat-laittomasti-lemmikeiksi-yhdesta-muurahaisesta-voi-saada-50-dollaria/
 
 **Valvonnan parantuessa l ait on villieläinkauppa on muuttanut muotoaan. V iranomaiset yrittävät pysyä perässä, kun myytäväksi päätyy yhä uusia lajeja.**
@@ -203,7 +200,6 @@ Villieläinrikollisuuden ehkäisy vaatii useita lähestymistapoja. On huolehditt
 Julkaistu: 11.12.2025  
 Aiheet: WWF-lehti  
 Kirjoittaja: Pinja Silvonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/wwfn-luontokilta-on-opiskelijoita-varten-ainejarjesto-kaplaaki-sai-tunnuksen-juoksemalla-norpan-hyvaksi/
 
 **Lähes 500 opiskelijaa puki lenkkarit jalkaan hyvän asian puolesta Lappeenrannassa lokakuussa. Urheilu- ja hyväntekeväisyystapahtuma Norppamaili toi ainejärjestö Kaplaakille Suomen ensimmäisen Luontokilta-tunnuksen.**
@@ -231,7 +227,6 @@ Norppamaili on tästä hyvä esimerkki. Sen lisäksi, että jokaista juostua kil
 Julkaistu: 11.12.2025  
 Aiheet: Sademetsät, Amazon, WWF-lehti  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/wwf-kolumbian-maajohtaja-on-lainoppinut-luonnonsuojelija-rauhan-rakentaminen-on-osa-minua/
 
 **Kun Sandra Valenzuela pohti nuorena uravaihtoehtojaan, kaksi alaa olivat ylitse muiden: biologia ja oikeustiede. WWF Kolumbian maajohtajan roolissa yhdistyvät molemmat.**
@@ -261,7 +256,6 @@ Jos Valenzuela saisi valita urapolkunsa uudelleen, hän valitsisi edelleen oikeu
 Julkaistu: 11.12.2025  
 Aiheet: WWF-lehti, Itä-Afrikka, Norsu, Salametsästys, Sarvikuono  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/sankarirotat-torjuvat-laitonta-villielainkauppaa/
 
 **Rottien ja koirien verraton hajuaisti on avuksi laittoman villieläinkaupan paljastamisessa. Nuuskijaeläimet voivat työskennellä esimerkiksi satamissa ja lentokentillä.**
@@ -294,7 +288,6 @@ Siinä missä koirat ovat monelle tuttu näky vaikkapa lentokentällä, ihmisten
 
 Julkaistu: 11.12.2025  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/pinnalla-nyt-tyontekijoidemme-vinkit-talveen/
 
 **WWF-lehden Pinnalla nyt -palstalla WWF:n työntekijät kertovat omat vinkkinsä talviseen tekemiseen. Nappaa vinkit ja nauti luonnosta!**
@@ -313,7 +306,6 @@ Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/pinnalla-nyt-tyontekijoidemme-
 
 Julkaistu: 11.12.2025  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/luonto-ansaitsee-puolustajansa/
 
 **Stansvikin metsiä puolustaneita koskeva päätös muistuttaa meitä siitä, että luonnon puolustaminen on yhteiskunnallisesti tärkeää ja välttämätöntä – vaikka se vaatisi poikkeuksellisia toimia.**
@@ -367,7 +359,6 @@ Tuoreen kanta-arvion mukaan Saimaalla elää nyt noin 530 saimaannorppaa, kun vi
 Julkaistu: 11.12.2025  
 Aiheet: WWF-lehti  
 Kirjoittaja: Jaana Laitinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/konkarikummilla-kavi-arpaonni/
 
 **WWF-kummi Janiika Aaltonen on tukenut luonnonsuojelua lahjoittamalla jo vuosikymmenen ajan. Voitto WWF:n norppa-arpajaisissa oli iloinen yllätys.**
@@ -435,7 +426,6 @@ WWF:n osallistumisen Kirkonkylänkosken kunnostukseen mahdollistivat myös Mona 
 
 Julkaistu: 11.12.2025  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/j-p-laitisen-kolumni-luonnosta-kuuluu-myos-hyvia-uutisia/
 
 **Moni potee ekoahdistusta, eikä ihme. Media suoltaa huonoja uutisia ilmastosta ja ympäristön tilasta päivittäin, eikä näytä siltä, että päättäjät olisivat tarttumassa ongelmiin tosissaan. Onneksi todellisuus on mutkikkaampi.**
@@ -469,7 +459,6 @@ J.P. Laitinen on moninkertaisesti palkittu kirjailija, toimittaja ja viestinnän
 Julkaistu: 11.12.2025  
 Aiheet: WWF-lehti  
 Kirjoittaja: Sini Harvo  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/itameren-muuttunut-turvallisuustilanne-pitaa-vapaaehtoiset-oljyntorjuntajoukot-valppaina/
 
 **V ilma Vaarna toimii WWF:n öljyntorjuntajoukoissa joukkueenjohtajana. Hän on valmis auttamaan, jos Itämerellä tapahtuisi pahin mahdollinen ympäristökatastrofi.**
@@ -493,7 +482,6 @@ Tositilanteessa öljyntorjunta on raskasta ja likaista työtä. Kun öljy pääs
 Julkaistu: 11.12.2025  
 Aiheet: WWF-lehti, Ennallistaminen, Suomi  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/ennallistamissuunnitelmasta-ilmeni-epakohtia/
 
 **Luontokadon pysäyttämiseen tähtäävä EU:n ennallistamisasetus jää vain tekstiksi paperille, ellei siihen kirjattuja toimia toteuteta jäsenmaissa riittävällä tasolla. Suomen suunnitelmat ennallistamisesta osoittautuivat järjestöjen suurennuslasin alla heikoiksi, kertoo WWF Suomen johtava metsäasiantuntija Mai Suominen.**
@@ -589,7 +577,6 @@ Lopulta ennallistaminen on myös meidän ihmisten etu, sillä saamme luonnosta r
 Julkaistu: 28.11.2025  
 Aiheet: WWF-lehti, Ruoka  
 Kirjoittaja: Anni Saastamoinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-4-2025/kestavia-valintoja-joulupoytaan/
 
 **Joulun kalakattauksen ei tarvitse rakentua norjalaisen lohen varaan. WWF:n kestävän kalastuksen asiantuntija Matti Ovaska kertoo, millaisia kalaherkkuja kannattaa ympäristön kannalta suosia.**
@@ -661,7 +648,6 @@ Ota kalaopas käyttöön osoitteessa wwf.fi/kalaopas
 ### Yksinkertaistaminen ei ole luonnon etu
 
 Julkaistu: 9.10.2025  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/yksinkertaistaminen-ei-ole-luonnon-etu/
 
 **Euroopan unioni on viime vuosina ottanut historiallisia ilmasto- ja luontoharppauksia. Nyt suunta uhkaa kääntyä.**
@@ -687,7 +673,6 @@ pääsihteeri
 Julkaistu: 9.10.2025  
 Aiheet: WWF-lehti, Luonnon köyhtyminen, Suomen metsät, Suomi  
 Kirjoittaja: Riikka Kaartinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/vanhan-metsan-uudistaja-on-talousmetsan-pirulainen/
 
 **Kirjanpainajasta ja sen aiheuttamista kuusimetsien tuhoista kirjoitetaan paljon, mutta millaisesta lajista oikeastaan on kyse? Ja ovatko kuusikkomme tuhoon tuomitut?**
@@ -763,7 +748,6 @@ Metsänomistajille hyvä uutinen on, että kuusikoiden laajat kirjanpainajatuhot
 
 Julkaistu: 9.10.2025  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/pinnalla-nyt-tyontekijoidemme-vinkit-syksyyn-2/
 
 **WWF-lehden Pinnalla nyt -palstalla WWF:n työntekijät kertovat omat vinkkinsä syksyiseen tekemiseen. Nappaa vinkit ja nauti luonnosta!**
@@ -826,7 +810,6 @@ Tavoitteena on myös löytää toimivia tapoja niittourakoitsijoiden työllistä
 Julkaistu: 9.10.2025  
 Aiheet: WWF-lehti, Amazon, Ilmastonmuutos, Metsäkato, Suomen metsät  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/metsat-hillitsevat-ilmastokriisia-metsakadon-lopettaminen-ilmastokokouksen-ydinkysymys/
 
 **Metsät ovat elämän elinehto. Silti maapallon metsäpeite hupenee ihmisen toiminnan johdosta hälyttävää tahtia. Kysyimme WWF:n metsäasiantuntija Maija Kaukoselta maailman metsien tilanteesta ja siitä, miksi metsät ovat yksi tämän vuoden ilmastokokouksen tärkeimmistä neuvotteluaiheista.**
@@ -859,7 +842,6 @@ Tämän vuoden ilmastokokous pidetään Brasilian Belémissä, keskellä Amazoni
 
 Julkaistu: 9.10.2025  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/luonnonsuojelu-on-joonas-saartamolle-kunniatehtava/
 
 **Näyttelijänä tunnettu, monilahjakas taiteilija Joonas Saartamo kokee kunniatehtäväkseen olla WWF:n rinnalla suojelemassa luontoa. Hän ajattelee, ettei hädälle saa antaa valtaa, vaan on keskityttävä toimintaan.**
@@ -890,7 +872,6 @@ Saartamo haluaa rohkaista kaikkia viettämään aikaa luonnossa – tuntemaan, n
 
 Julkaistu: 9.10.2025  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/kuuntele-wwf-lehden-3-2025-jutut/
 
 **WWF-lehden artikkelit löytyvät myös audiona. Kuuntele ajankohtaiset tarinat luonnosta ja sen suojelusta Spotifyssa tai Soundcloudissa!**
@@ -988,7 +969,6 @@ Kosteikot tuovat näkyväksi sen, että ekologisessa kriisissä on kyse sekä lu
 
 Julkaistu: 9.10.2025  
 Aiheet: WWF-lehti, Suomen metsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/jenni-rainan-kolumni-vanhojen-metsien-mukana-katoaa-historiaa/
 
 **Muutama vuosi sitten koin synnyinpitäjässäni Perämeren rannikolla hämmentävän hetken. Seisoin soiden keskellä kohoavalla metsäisellä nyppylällä, jonka lakea peitti rakkakivikko. Sen laitamilla erottui halkaisijaltaan parin metrin kokoisia kivistä ladottuja kehiä, joiden syvyys oli reilu metri.**
@@ -1033,7 +1013,6 @@ Jenni Räinä on oululainen kirjailija, jolta ilmestyi keväällä vesien tilaa 
 
 Julkaistu: 9.10.2025  
 Aiheet: WWF-lehti, Merten muoviroska  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/jattisaalis-muoviroskaa-ja-muita-tuoreita-onnistumisia/
 
 **Nämä ajankohtaiset onnistumiset eivät olisi mahdollisia ilman tukijoitamme ja pitkäjänteistä luonnonsuojelutyötämme.**
@@ -1066,7 +1045,6 @@ Lukuisat lajit ja kymmenet tuhannet ihmiset hyötyivät työstämme ympäri maai
 
 Julkaistu: 9.10.2025  
 Aiheet: Bhutan, Kentällä, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/autonkuljettaja-kuvaa-luontoa-tyotehtavien-lomassa-katso-upeat-kuvat-bhutanista/
 
 **Bhutanissa WWF:n autonkuljettajana työskentelevä Chening Dorji rakastaa uuden oppimista. Hän onkin itseoppinut valokuvaaja ja innokas lintuharrastaja.**
@@ -1098,7 +1076,6 @@ Selaa Dorjin ottamia luontokuvia alla olevassa galleriassa!
 Julkaistu: 9.10.2025  
 Aiheet: WWF-lehti, Suomi, Vieraslajit  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/aurinkoahven-uhkaa-vallata-vesistomme-haitallinen-vieraslaji-leviaa-nopeasti/
 
 **Suomen vesistöihin on levitetty laittomasti aurinkoahventa, joka lisääntyy nopeasti ja vie elintilaa muilta lajeilta. Haitalliset vieraslajit ovat maailmanlaajuisesti yksi suurimmista uhkista luonnon monimuotoisuudelle.**
@@ -1138,7 +1115,6 @@ Vieraslajihavainnoista tulee aina ilmoittaa, jotta leviämiseen voidaan puuttua 
 Julkaistu: 9.10.2025  
 Aiheet: Bolivia, Amazon, Ilmastonmuutos, Kentällä, Luonnon köyhtyminen, Metsäkato, Metsäpalot  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/alkuperaiskansat-suojelevat-amazonia-metsapalojen-ehkaisy-erityisen-tarkeaa/
 
 **Ilmastonmuutos lisää kuivuutta ja pahentaa metsäpaloja Bolivian Amazonilla. Itonama-alkuperäiskansan naisjärjestöä johtava Edelmira Saucedo Suárez korostaa metsäpalojen ehkäisyn merkitystä.**
@@ -1163,118 +1139,383 @@ WWF Suomi tukee alkuperäiskansoja ja paikallisia yhteisöjä Bolivian Amazonill
 
 ---
 
-## Heinäkuu 2025
+## Kesäkuu 2025
 
-### Eväiden jämät Suomen uhanalaisimman nisäkkään uhkana – WWF kampanjoi naalin puolesta
+### Kort och Gott på svenska 2/2025
 
-Julkaistu: 7.7.2025  
-Aiheet: Suomi, Naali  
-Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/evaiden-jamat-suomen-uhanalaisimman-nisakkaan-uhkana-wwf-kampanjoi-naalin-puolesta/
+Julkaistu: 27.6.2025  
+Aiheet: WWF-lehti  
+Linkki: https://wwf.fi/app/uploads/9/y/v/xiu2cjtzhlsfwrj4n8ztsb/kortochgott_0225.pdf
 
-**WWF suojelee äärimmäisen uhanalaista naalia viestimällä jät teiden käsittelyn merkityksestä Tunturi-Lapissa.**
+Kort och gott på svenska
 
-WWF:n suojeluasiantuntija Anna Westerling kapuaa Saanan rinnettä ja pysähtyy tähyämään vieressä kumpuileville tuntureille. Kaukana laaksossa jolkottaa porotokka, kun taas Saanan huippua kohti huhkii toinen lauma: retkeilijöiden ehtymätön virta.
+© CHARLOTTE COWELL / UNSPLASH
 
-Westerling on Kilpisjärvellä naalin asialla. Suomen uhanalaisin nisäkäs on saanut näillä seuduilla poikasia jo kolmena vuotena peräkkäin. Se on luonnonsuojelun onnistuminen, sillä edellisen kerran naalin pesintä onnistui Suomessa 1990-luvun puolivälissä. Pohjoismainen naalikanta on kasvanut viime vuosina liki 600 yksilöön.
+Jari Luukkonen generalsekreterare
 
-Naalin tilanne on kuitenkin kaukana turvatusta. Metsästys hävitti lajin lähes kokonaan Suomesta 1900-luvun alkuun mennessä. Vaikka naaleja ei ole saanut pyytää sataan vuoteen, pohjoismainen kanta oli kutistunut vuosituhannen vaihteeseen tultaessa liki olemattomaksi.
+HJÄLPA POLLINATORER TEXT MINNA NYRHINEN-BLAZQUEZ
 
-Naalin suurin uhka on nykyään sen oma sukulainen, kettu, joka on levittäytynyt yhä pohjoisemmaksi. Ihminen on siivittänyt repolaisen voittokulkua monin tavoin.
+Pollinatorernas viktigaste livsmiljöer är utrotningshotade i Finland. Det är möjligt att erbjuda kompletterande näring till pollinerande insekter i stadsmiljön.
 
-Ilmastonmuutos hyödyttää kettua, joka suurempana ja erittäin sopeutuvaisena lajina on vallannut elintilaa arktisiin oloihin erikoistuneelta serkultaan. Se valtaa naalin pesimäpaikkoja ja voi tappaa naalin pentuja. Lisäksi kettu voi hyötyä retkeilijöistä. Vaikka naalikin hyödyntää haaskoja, sen elinalueille jätetyt ruoka- ja saalistähteet päätyvät todennäköisemmin ketun kitaan ja auttavat sitä levittäytymään yhä laajemmalle.
+CO
 
-Niinpä Westerling jatkaa taivaltamista kohti retkeilijöiden suosimaa kotaa toiveenaan tavoittaa tunturissa liikkujat.
+LI
 
-#### Tietoiskuja eränkävijöille
+Fiskehamnen i Helsingfors är, precis som namnet antyder, ett gammalt och maritimt hamnområde där det under drygt 15 år har byggts kvarter med bostadshus. I områdets våningshus kan man lägga märke till att nästan N varje lägenhet, även de minsta, har en egen balkong. Även doktoranden Elina Sirén noterade det stora antalet balkonger när hon promenerade i området. ”Fiskhamnen är ett exempel på ett mycket tätt bebyggt område där det finns begränsade möjligheter att göra stadsmiljön grönare. När jag tittade på balkongerna kom tanken att undersöka om de kunde vara till hjälp”, säger Sirén. Pollinatorer behöver kompletterande livsmiljöer och näring i stadsmiljöer, eftersom deras viktigaste livsmiljöer är utrotningshotade i Finland. Vegetationen i vårdbiotoper, såsom ängar och åkrar, kan föras in i våningshus genom att plantera till exempel backnejlika, blodnäva eller kungsmynta, som även används som kryddört, i balkongkrukor och planteringslådor. MA
 
-Eletään kesäkuuta, ja jos naali näyttäytyisi näillä rinteillä juuri nyt, olisi se todennäköisesti vaihtamassa vaaleaa talviturkkiaan ruskeaan suvipukuun.
+Trögkryparen är ett drygt millimeterstort djur med oöverträffad uthållighet. De tål köld på hundratals grader, högt tryck och radioaktiv strålning. Man har lyckats väcka trögkrypare som har varit frysta i tiotals år till liv. Ibland känns det som att även naturskyddare måste vara lika uthålliga som trögkrypare. På senare tid har vi fått utstå farligt reaktionära saker och fått tolerera ett fruset attitydklimat där naturen har getts en mycket marginell ställning inom politik och samhällsdebatt. I början av året fattade regeringen i Finland ett beslut om kriterier, på grundval av vilka gamla skogar som med tanke på naturen är ytterst värdefulla kan väljas till skyddsobjekt. Kriterierna blev så stränga att det i praktiken är omöjligt att hitta något nytt att skydda. Detta trots att vår skogsnatur utarmas på ett alarmerande sätt. Även inom EU finns det tecken som väcker oro. I värsta fall innebär planerna på en avreglering att lagarna som skyddar naturen försvagas. Naturskyddarnas uthållighet sätts på prov och vi behövs mer än någonsin. Till skillnad från trögkryparna klarar vi inte endast tuffa förhållanden – vi ändrar dem och gör dem bättre. Tack till dig som stöder WWF för att du deltar i ändringen tillsammans med oss.
 
-Samalla asialla ovat myös Käsivarren tunturit, joiden tummia rinteitä kirjovat edelleen vaaleat lumenviipymät. Pohjoinen luonto tuntuu pitävän tiukasti kiinni talven jäänteistä.
+Även en liten balkong kan
 
-Saanan kota pilkottaa lehdettömän tunturikoivikon lomasta noin kilometrin kipuamisen jälkeen. Tältä taukopaikalta alkaa puuton tunturipaljakka, naalin elinalue.
+© EM
 
-Kodalla kärisee makkara, ja ihmiset evästävät myös taukopaikan ulkopuolella. Viileä tuuli pyyhkii maiseman yli. Läheiseen varvikkoon laskeutuu kurnuttava riekko.
+MOT DET BÄTTRE MED TRÖGKRYPARENS UTHÅLLIGHET
 
-Westerling laskee kantamuksensa ja ryhtyy mallailemaan mukanaan kantamaansa taulua kodan seinämään. Taulu on teetetty tietoiskuksi retkeilijöille, joiden toivotaan kiinnittävän huomiota jätehuoltoon naalin auttamiseksi.
+Detta är också upplägget för Siréns pågående undersökning. Tillsammans med arkitekten och forskaren Lena Jegard undersöker Sirén på totalt 10–20 balkonger i Åbo och Tammerfors vilken potential balkonger har för att öka naturens mångfald. Undersökningen finansieras av Tammerfors universitets forskningsplattform för hållbar stadsforskning TURNS. ”Deltagarna får till sina balkonger växter, som främst växer i Finlands natur och som lockar pollinatorer, och tillbehör samt anvisningar för hur växterna ska skötas. Inledningsvis kartlägger vi även balkongens tidigare användningsändamål och motivationen att delta i undersökningen”, berättar Sirén. Även balkongens egenskaper, såsom bostadsvåning, väderstreck och storlek antecknas. Undersökningen börjar i maj och avslutas på hösten, då deltagarna får berätta om hur planteringarna lyckades och om sina observationer under växtsäsongen.
 
-”Kettuja liikkuu paljon autiotupien ja leiripaikkojen läheisyydessä, ja ne ovat oppineet hyödyntämään ihmisten läsnäoloa”, Westerling sanoo.
+”Naturförlust är ett enormt samhällsproblem, så vi måste vända på både små och stora stenar för att hitta lösningar”, säger hon.
 
-Westerling johtaa kampanjaa, jonka tavoitteena on lisätä retkeilijöiden, kalastajien ja metsästäjien tietoisuutta tunturiin jäävän bio- ja saalisjätteen haittavaikutuksista.
+”Var och en av invånarna tar hand om växterna enligt sina egna färdigheter. Om växterna dör är det också ett undersökningsresultat”, säger Sirén.
 
-”Kampanja on yksi osa monipuolista työtä naalin suojelemiseksi. Monesta erillisestä toimesta muodostuu vaikuttava kokonaisuus”, Westerling sanoo.
+Inglasning är en utmaning Siréns forskarpar Lena Jegard är som arkitekt särskilt intresserad av hur balkongernas fysiska egenskaper, såsom inglasning, påverkar balkongträdgården. Jegard nämner att inglasning är ett särdrag hos finländska balkonger som knappt används någon annanstans i världen. ”Inglasningar har installerats i Finland sedan 1980-talet. Idag anses det till och med vara standard och den främsta metoden för att till exempel minska bullerstörningar. Men det är inte helt problemfritt”, säger hon. Enligt Jegard orsakar inglasning till exempel att balkongerna blir alltför varma. ”Dessutom, om glasrutorna hålls stängda hela tiden, har pollinatorerna naturligtvis inte tillgång till nektarn och pollenet, även om det skulle finnas många pollinatorvänliga växter på balkongen.” I Siréns och Jegards undersökning ingår även inglasade balkonger. För dessa mäter man separat temperaturen och luftfuktigheten på balkongen och installerar en enhet som registrerar när rutorna är stängda och när de är öppna. Forskarna är intresserade av huruvida man genom att göra balkongen vildare kan stärka människornas relation till naturen på ett bredare plan. Kan man tänka sig balkongen och dess planteringar mer som
 
-Mustunut banaaninkuori pilkistää kahden kivenlohkareen välistä kodan takana. Viidentoista metrin päässä tummuneesta kuoresta nököttää huussi, johon ruuantähteet saisi viedä kompostoitumaan. Muuten retkietikettiä on noudatettu hyvin, ja taukopaikka on siisti.
+© WIRESTOCK / FREEPIK
 
-Kampanjan sanomaa välitetään monin tavoin. Metsähallitus vie informaatiotauluja tupiin ja vaellusreittien varsille myös kauemmas erämaa-alueille. WWF on teettänyt esitteitä ja tarroja, joita Käsivarren ja Utsjoen alueen matkailuyrittäjät voivat hyödyntää ja jakaa asiakkailleen. Lisäksi WWF on järjestänyt infotilaisuuksia kausityöntekijöille ja eräoppaille sekä suunnannut viestejä sosiaalisessa mediassa Lapin luonnossa liikkuville.
+© OLA JENNERSTEN / WWF-SWEDEN
 
-Myös muissa Pohjoismaissa on ollut kiinnostusta WWF Suomen teettämille materiaaleille.
+© WIRESTOCK / FREEPIK
 
-”Naalikanta on hajaantunut ja pirstoutunut Pohjoismaissa lukuisiin osapopulaatioihin. On paljon alueita, joille naali ei ole vielä palannut, eikä näille alueille haluta houkutella kettuja tarjoamalla niille ylimääräistä ravintoa”, Westerling sanoo.
+© KALLE SAARINEN / UNSPLASH
 
-Käsivarren pienen naalipopulaation suunta on hyvä, mutta haasteita on.
+Kampanjen Ala villiksi (Bli vildare) lyfter fram naturgärningar
 
-”Täällä Käsivarren alueella on muutamia naalipareja ja muutama yksinäinen nuorikin. Myyrävuosi on kuitenkin ollut huono, ja naalin on vaikeaa saada evästä. Pesintämenestys riippuu aika paljon ravintotilanteesta”, Metsähallituksen Luontopalvelujen suunnittelija Antti Ohenoja sanoo.
+en trädgård som inte ständigt blommar, men som får oss att tänka på naturen och att ta hand om den? ”När människor till exempel ser insekter på sin balkong kanske de blir mer intresserade av dem. Och en trädgård på balkongen är åtminstone ur ett tillgänglighetsperspektiv ett sätt att komma i kontakt med naturen”, funderar Sirén.
 
-Westerling nostaa repun selkäänsä. Myös retkeilijöiden tauko on ohitse, ja matka alas Saanan rinteitä alkaa. Evästauolla nautittujen ruokien jätteet on kierrätetty huolellisesti.
+En del av en större helhet Enbart balkonger räcker inte till och kan inte ersätta pollinatorernas livsmiljöer i naturen, men som en del av ett större nätverk av grönområden blir även en liten balkongs inverkan större. Till exempel en balkong i närheten av stadens parkområde kan förbättra näringsmöjligheterna för pollinatorer som trivs i parken, såsom humlor. ”En rastplats kan finnas i ängsblommorna i husbolagets odlingslådor och nästa i grannhusets trädgård. Därifrån kan humlans resa fortsätta till ett närliggande företags vildvuxna gård och därifrån tillbaka till boplatsen i närskogen”, berättar WWF:s skyddsexpert Eeva-Liisa Korpela. Exemplen visar hur många olika typer av områden som kan ingå i nätverket av grönområden – man kan ge naturen utrymme till exempel vid vägkanter eller omkring parkeringsplatser. ”Det viktiga är att anta attityden att vildvuxet kan vara vackert”, säger Korpela. Att låta ett område bli vildvuxet är att bekämpa naturförlusten i den egna närmiljön. Elina Sirén berättar att detta också ligger bakom balkongundersökningen.
 
-”Jätteiden vähentäminen on teko, johon kuka tahansa Lapin luonnossa liikkuva voi osallistua ja siten vaikuttaa”, Westerling sanoo ja harppoo kohti avotunturia kuvaamaan kampanjasta kertovaa somevideota.
+WWF gör amatörträdgårdsmästarens, kommunernas och företagens mångfaldsgärningar synliga med kampanjen Ala villiksi (Bli vildare). Kampanjen startade förra året och redan under den första säsongen gav finländarna mer än två miljoner kvadratmeter plats för naturen på sina egna gårdar och balkonger. Det fanns deltagare från alla landskap i Finland, från Åland ända till nordligaste Lappland. ”Människor är uppenbart beredda att agera för sin egen närnaturs bästa och behöver konkreta sätt att göra det på”, säger Korpela glatt. På kampanjwebbplatsen, på adressen alavilliksi.fi, kan man i räknaren ange antalet kvadratmetrar som man låtit bli vildvuxet och typen av område, det vill säga om det är fråga om en balkong, trädgård, gård vid sommarstuga eller annat område, såsom en företagstomt. ”I många trädgårdar finns det säkert redan element som ökar naturens mångfald som man kan lägga till i kvadratmetrarna. De som började förra året kan också anmäla sina nya kvadratmetrar, om det vildvuxna området är större än förra året”, säger Korpela. Kampanjens huvudsakliga samarbetspartner är OP Gruppen, som vill hjälpa pollinatorer och uppmuntra sina banker och sin personal att göra sin närmiljö lite vildare. Andelsbankerna har till exempel tagit fram anvisningar för att göra fastigheterna mer vildvuxna. ”Många andelsbanker har varit intresserade av att eventuellt göra bankägda fastigheter vilda, och vi vet redan att åtminstone ett gräsområde ska förvandlas till en äng. Flera banker har kontaktat oss och frågat om till exempel anläggande av ängar”, gläder sig OP Gruppens byggherredirektör Markku Estola.
 
-Kampanja on osa laajempaa naalinsuojeluhanketta (Felles Fjellrev – Together for the Arctic Fox), jota osarahoittaa Euroopan unionin Interreg Aurora -rahasto. Kampanjan opastaulut, esitteet ja tarrat on teetetty Finn Spring Oy:n juomabrändi Villin tuella.
+Varje kvadratmeter är värdefull Utöver kvadratmeterräknaren erbjuder Ala villiksi-kampanjens webbplats massor av tips om att låta områden bli vildvuxna som kan tillämpas på många olika objekt, från balkonger till stora tomter. Det enklaste sättet att gå med är att minska skötseln av ett område och se om det börjar växa upp ängsväxter som är viktiga för pollinatorer. Korpela påminner om att varje kvadratmeter som anges i räknaren är värdefull. ”Att låta ett område bli vildvuxet är ett sätt med låg tröskel att vara med och göra ett viktigt arbete för pollinatorerna. Och pollineringen gynnar ju också skörden från den egna gården eller balkongen, om man odlar nyttoväxter där”, säger Korpela.
 
-**Tietolaatikko:**
+Nya
 
-- Naalin suojelun muita keinoja Naalien lisäruokinta. Metsähallituksen Luontopalvelut ja WWF ylläpitävät naalin tärkeimmillä esiintymisalueilla ruokinta-automaatteja. Automaatit on rakennettu niin, ettei kettu pääse hyödyntämään niiden tarjontaa. Kettukannan rajoittaminen. Metsähallitus tukee kettujen metsästystä pohjoisilla tunturialueilla. Luonnonnaalien tarhaaminen. Norjassa vapautetaan tarhaoloissa syntyneitä luonnonnaalien pentuja luontoon. Pesäpaikkojen tarkastaminen. Metsähallituksen Luontopalvelut, WWF ja vapaaehtoiset tarkastavat naalin pesäpaikkoja, jotta mahdolliset pesinnät havaitaan.
-- Naalien lisäruokinta. Metsähallituksen Luontopalvelut ja WWF ylläpitävät naalin tärkeimmillä esiintymisalueilla ruokinta-automaatteja. Automaatit on rakennettu niin, ettei kettu pääse hyödyntämään niiden tarjontaa.
-- Kettukannan rajoittaminen. Metsähallitus tukee kettujen metsästystä pohjoisilla tunturialueilla.
-- Luonnonnaalien tarhaaminen. Norjassa vapautetaan tarhaoloissa syntyneitä luonnonnaalien pentuja luontoon.
-- Pesäpaikkojen tarkastaminen. Metsähallituksen Luontopalvelut, WWF ja vapaaehtoiset tarkastavat naalin pesäpaikkoja, jotta mahdolliset pesinnät havaitaan.
+TT
 
-**Tietolaatikko:**
+IH
 
-- Neljä vinkkiä tunturissa liikkujalle Älä jätä ruuantähteitä, saalisjätteitä tai kalanperkeitä tunturiin, vaan vie mukanasi kaikki, mitä toitkin. Suunnittele ruokamäärät ja annoskoot ennakkoon ja varaa ylimääräistä ruokaa kohtuudella. Biojätteen minimoimiseksi valmista kerralla vain sen verran kuin jaksat syödä. Ota mukaan tiiviitä pusseja jätteitä varten. Hyödynnä myös ulkohuussien kompostit, mutta noudata aina ohjeistusta. Jos et pysty kuljettamaan jätteitä mukanasi eikä kompostointimahdollisuuksia ole, hautaa tähteet maahan ja peitä muutamalla reilun kokoisella kivellä, jottei kettu pääse niihin käsiksi.
-- Älä jätä ruuantähteitä, saalisjätteitä tai kalanperkeitä tunturiin, vaan vie mukanasi kaikki, mitä toitkin.
-- Suunnittele ruokamäärät ja annoskoot ennakkoon ja varaa ylimääräistä ruokaa kohtuudella. Biojätteen minimoimiseksi valmista kerralla vain sen verran kuin jaksat syödä.
-- Ota mukaan tiiviitä pusseja jätteitä varten. Hyödynnä myös ulkohuussien kompostit, mutta noudata aina ohjeistusta.
-- Jos et pysty kuljettamaan jätteitä mukanasi eikä kompostointimahdollisuuksia ole, hautaa tähteet maahan ja peitä muutamalla reilun kokoisella kivellä, jottei kettu pääse niihin käsiksi.
+O/
 
-#### Kalastajat mukana kampanjassa
+WW
 
-Arktiset vedet -ohjelman juontaja ja tuottaja Juhani Henriksson istahtaa rovaniemeläisen hotellin aamupalalle ja tervehtii aurinkoisesti. Ohjelman kuvaukset ovat parhaillaan käynnissä, mutta pohjoinen luonto vetää miestä puoleensa myös vapaa-ajalla – Henriksson on palannut Inarista lomamatkalta myöhään edellisenä iltana.
+WC
 
-Arktiset vedet on 14 kautta pyörinyt kalastusohjelma, joka pyrkii Henrikssonin mukaan toimimaan myös laajemmin luonnon ja sen kestävän käytön äänitorvena.
+/W
 
-”Kun aloitimme, emme tienneet biologiasta, vaelluskaloista, patojen haitoista tai ylipäätään luonnonsuojelusta juuri mitään, vaan teimme ohjelmaa luonto- ja kalastusharrastus edellä. Nyt tieto on lisääntynyt huimasti”, Henriksson sanoo.
+W
 
-”Haluan omassa työssäni vaikuttaa tarinoiden kautta siihen, miten ihmiset näkevät ja arvostavat pohjoista luontoa ja erämaata.”
+F
 
-Naalin Henriksson näkee yhtenä pohjoisen luonnon symboleista.
+För första gången har en kartläggning av antalet snöleoparder slutförts i Nepal. Enligt en färsk beståndsuppskattning lever totalt 397 snöleoparder i Nepal. Våra kollegor i Nepal hjälpte myndigheterna med räkningen. I beståndsuppskattningen användes till exempel data från viltkameror och avföringsprover. Enligt de färska uppgifterna lever en betydande del av Nepals snöleoparder utanför de skyddade områdena. Även i dessa områden behövs skyddsåtgärder. Vi stöder skyddsarbetet för snöleoparder i Nepal med Finlands utrikesministeriums utvecklingssamarbetsmedel och med faddrarnas understöd.
 
-”Kävimme taannoin Kilpisjärvellä kuvausreissulla katsomassa paikkaa, jossa naali oli pesinyt vuonna 1996. Siitä reissusta meni pari vuotta, kun kuulimme positiivisia uutisia naalin pesinnästä Suomessa. Kyllä se ilahdutti kovasti.”
+AL
 
-Suomessa Henriksson ei ole vielä nähnyt naalia, vaikka kuvausryhmä sen elinalueilla liikkuukin. Arktiset vedet tukee kampanjaa naalin puolesta.
+F
 
-”Pyrimme aina kuvauksiin lähtiessämme siihen, ettemme jätä luontoon jälkiä. Kannamme itse jätteen ja roskat mukanamme ja hautaamme biojätteet ja kalanperkeet. Tämä on perusperiaatteemme.”
+© EA
 
-Kalastajia Henriksson vinkkaa retkilapion ottamisesta tunturiin, jotta perkeet voi haudata helposti.
+RTH
 
-”Ja jos on majoitus lähellä, kalan voi käsitellä vasta mökillä, missä jätehuolto toimii.”
+HO
 
-Henrikssonin mukaan kalastajat osaavat huomioida ympäröivän luonnon yhä paremmin.
+UR
 
-”Ei eräetikettiä tunnettu parikymmentä vuotta sitten yhtään niin hyvin kuin nyt. Ihmisten ajattelussa ja toiminnassa tapahtunut iso muutos parempaan.”
+JA
+
+YA
+
+AN
+
+IST
+
+ON
+
+ILV
+
+AS INJ
+
+I mars slutfördes hopsamlingen av de fettklumpar som upptäcktes i Hangö i slutet av januari. Man hittade fettklumpar i Hangö både på fastlandet och på öar, och också i Raseborg städade man bort fettklumpar på enskilda platser, bland annat i Ekenäs nationalpark. Det var viktigt att få bort fettblandningen från naturen innan vädret blev varmare, eftersom den hade kunnat skada den vattenfrånstötande egenskapen i vattenfåglarnas fjäderdräkt när fettblandningen smälte. Totalt samlades cirka 25 000 kilo fettblandning upp från naturen. Rengöringen av Hangös stränder från fettklumpar visade frivilligarbetets styrka och människornas vilja att hjälpa till. Våra frivilliggruppers arbetsinsats i städningen var betydande, sammanlagt nästan 300 dagsverken.
+
+E
+
+25 000 kilo fettblandning städades bort från Hangös stränder och skärgård
+
+©P
+
+©
+
+V AA
+
+EP
+
+NP
+
+Tack för ditt stöd! Dessa aktuella framgångar skulle inte vara möjliga utan våra stödjare och vårt långsiktiga naturskyddsarbete. Fler framgångshistorier hittar du på wwf.fi/suojelusaavutukset
+
+N
+
+©D
+
+FRAMGÅNGAR
+
+Nästan 400 snöleoparder i Nepal
+
+N
+
+/W
+
+W
+
+F
+
+PU
+
+RA
+
+Över 1,2 miljoner finländare deltog i WWF:s Earth Hour Lördagen den 22 mars firades återigen världens största miljöevenemang, WWF:s Earth Hour. Enligt en enkätundersökning som vi har beställt från YouGov deltog i år över 1,2 miljoner finländare i åldern 15–79 år i evenemanget. Under Earth Hour kl. 20.30–21.30 släcktes lamporna i många hem, offentliga byggnader och kända landmärken i en timme som en symbolisk gest för klimatet och naturen.
+
+Tusentals finländare förespråkar kolsänkor Redan över 11 000 finländare har undertecknat vårt upprop där vi kräver att regeringen agerar för att stärka skogarnas kolsänkor. I uppropet krävs att beslutsfattarna uppdaterar klimatplanen för markanvändningssektorn och säkerställer att Finlands klimatneutralitetsmål uppnås senast år
+2035. Skogsvård och skogsbruk spelar en avgörande roll för att uppnå målet. Man bör försöka minska avverkningen måttligt och särskilt utsläppen från dränering av torvmarker måste fås under kontroll. Läs mer om uppropet på adressen wwf.fi/metsienhiilinielu.
+
+Fadderhörnan
+
+Stödjarservice
+
+© ALEXANDRA ANTELL / WWF
+
+Var det något i tidningen som du tyckte var extra roligt att läsa eller blev någon fråga obesvarad? Har du ett tips om artikel till oss? Ge respons! Du når oss via e-post på adressen toimitus@wwf.fi.
+
+Telefon: 040 192 3112, vardagar kl. 9–16 E-post: donator@wwf.fi, wwf.fi/kummipalvelu Adress: WWF Finland, stödjarservice, Fågelviksgatan 10, 00500 Helsingfors Donationskonto: FI41 1572 3000 0111 89 BIC (Swift) NDEAFIHH MobilePay-donationsnummer: 24620
+
+Vi ringer till en fadder! I telefonen svarade Terttu, som varit WWF:s Östersjöfadder sedan 2009. Siru Muttilainen och Pilvi Pulma hjälper faddarna i Stödjarservicen.
+
+Du har länge varit Östersjöfadder. Vad fick dig att bli fadder? ”Naturskyddet är mycket viktigt för mig. Jag gillar att det finns mycket natur omkring mig, såsom hav och skog. Jag uppskattar möjligheten att gå ut i naturen.” Vad är din favoritsysselsättning i naturen? ”Jag gillar att vandra i skogen bland alla träd. Att tillbringa tid ute i naturen är det bästa jag vet!” Vilka saker är enligt dig de viktigaste inom naturskyddet under de kommande åren? ”Att skydda olika miljöer så att vi även i framtiden har natur att röra oss i.”
+
+Hälsningar från Stödjarservicen! Pilvi Pulma har arbetat i WWF:s Stödjarservice i 15 år och trivs bra i sitt arbete. ”Det är inspirerande att prata med människor som möjliggör vårt naturskyddsarbete. De bästa diskussionerna är de där människor berättar hur viktigt det är för dem att donera och skydda naturen”, berättar Pilvi. Under årens lopp har främst tekniken och ändringar i olika betalningsmetoder orsakat huvudbry. Problemen har dock alltid kunnat lösas. Siru Muttilainen är ett nyare ansikte inom Stödjarservicen. När tidningen kommer ut har hon arbetat i ett par månader.
+
+TA EN TITT I BUTIKEN!
+
+”För närvarande är de flesta som kontaktar oss faddrar som vill byta från papperstidning till digital tidning. Det är bra, eftersom övergången till digital tidning är en miljövänlig lösning”, påminner Siru. Stödjarservicens tips för faddrar under sommaren är att uppdatera kontaktuppgifterna via webbformuläret på adressen wwf.fi/tukijapalvelu. Ändringarna kan göras till exempel från sommarstugans brygga. Med samma formulär kan man även uppdatera tidningsprenumerationen till den digitala versionen. Stödjarservicen har jour hela sommaren. Tveka inte att kontakta Siru och Pilvi via e-post eller telefon!
+
+Nyhet i WWF:s webbutik:
+
+Populär t-shirt i ny färg
+
+T-shirten med pandalogotyp finns nu i en fräsch grön nyans. T-shirten pryds av en liten svart tryckt logotyp på bröstet och är tillverkad i ekologisk bomull. Genom att köpa praktisk, ansvarsfull och tidlös stil i WWF:s webbutik understöder du WWF:s viktiga arbete för att skydda utrotningshotade arter och livsmiljöer. kauppa.wwf.fi. © HANNA TYRVÄINEN / WWF
 
 ---
 
-## Kesäkuu 2025
+### Kort och Gott på Svenska 2/2024
+
+Julkaistu: 27.6.2025  
+Aiheet: WWF-lehti  
+Linkki: https://wwf.fi/app/uploads/2/4/8/u94v32liahjrdjesn7ntk5/kortochgott_0224.pdf
+
+© SHUTTERSTOCK / DES82 / WWF
+
+Kort och gott på svenska
+
+BLI VILDARE Naturen utarmas i alarmerande takt och antalet pollinatörer har minskat globalt. Pollinatörer och andra flygande insekter lider av att deras livsmiljöer minskar. Som tur är kan var och en av oss dra sitt strå till stacken. Man kan till exempel göra mycket i sin egen trädgård utan att göra något. Överdriven prydlighet är ingen dygd för en naturvän när det gäller trädgårdsskötsel, och ett kontrollerat fuskverk lockar massor av liv till platsen. Vad sägs om att låta bli att klippa en del av gräsmattan i år och låta maskrosor och vitklöver frodas? Vilt, inte sant? Och det bästa är att du inte ens behöver en egen trädgård för att hjälpa naturen. Man kan rädda pollinatörer på husbolagets gemensamma gårdsplan eller på en liten balkong genom att plantera växter och blommor som insekterna älskar. Majoriteten av jordens odlingsväxter behöver insektspollinering för att säkerställa skörden. Tack vare pollinatörerna har vi bland annat gott om olika bär, frukter och grönsaker. Vi vill vara en hjälpande hand för pollinatörerna som i sin tur hjälper oss människor. Därför startade vi på våren kampanjen Ala villiksi (Bli vildare) i samarbete med OP Gruppen. Allt du behöver veta om att bli vildare hittar du nu på alavilliksi.fi. På sidorna hittar du massor av praktiska tips och vi uppmuntrar dig att ange antalet kvadratmeter som du låter bli vildare i räknaren Vårt ambitiösa mål är en miljon vildvuxna kvadratmeter första året! Ju större yta vi ger tillbaka till naturen, desto större påverkan har den på mångfalden.​ Så bli vild i sommar!
+
+Jari Luukkonen generalsekreterare
+
+Trädgårdar och balkonger blir
+
+POLLINATÖRERNAS PARADIS TEXT MINNA NYRHINEN-BLAZQUEZ • ILLUSTRATIONER KATRI VIRTALAAKSO
+
+Naturen och pollinatörerna behöver mer livsrum, annars är vi i knipa. Som tur är kan man alldeles i närheten hjälpa ängsblommor och fjärilar och humlor som är beroende av dem, i de egna trädgårdarna och på balkongerna. Växer det klöver, maskros eller brunört på din gräsmatta? Hängde du upp ett fågelholk i trädgården eller låter du en del av dina balkongörter gå i blom? Fint, du har gjort precis rätt för den biologiska mångfalden! I sommar bjuder WWF in alla trädgårdsentusiaster, gör-det-självare och balkongodlare att erbjuda naturen kvadratmetrar i sin egen trädgård, vid sommarstugan eller på balkongen. Du kan delta med små och stora gärningar, allt från att välja pollinatörvänliga växter till att låta hela trädgården förvildas. Oavsett om du är nybörjare eller proffs kan du delta. Kampanjen heter ”Ala villiksi” (Bli vildare) och idén är enkel: ge naturen yta på olika
+
+sätt och delta genom att dela med dig av kvadratmeter till naturen. På webbplatsen Alavilliksi.fi finns en räknare som uppdateras varje gång det kommer fler kvadratmeter. På webbplatsen hittar du också massor av tips på hur du kan göra trädgården eller balkongen vildare. ”Kort sagt är det enklaste sättet att göra trådgården vildare att låta den vara oskött på ett kontrollerat sätt, eftersom det på så sätt blir plats för naturens mångfald. Du kan till exempel låta gräsmattan stå oklippt och låta blommorna växa. Lövhögar, komposter och döda träd är bra platser för insekter att bygga bo och övervintra”, sammanfattar WWF:s skyddsexpert Eeva-Liisa Korpela.
+
+Idén till kampanjen startade i Danmark, där man sedan fyra år tillbaka är ”vild” med WWF. Avsikten var att starta ett litet experiment i 60 olika trädgårdar där deltagarna för dagbok över mångfaldsgärningarna och hur de fungerar. Redan från början hade man velat ha tusentals personer med. ”På fyra år har det lilla experimentet vuxit till en hel nation, och med den kraften har danskarna låtit sina trädgårdar och balkonger bli vildare på nästan 8 miljoner kvadratmeter”, berättar Korpela. Efter Danmark var det Norges tur att bli vildare, sedan Sverige – och nu deltar också Finland. ”Under den första säsongen är målet att naturen ska få en miljon kvadratmeter mer utrymme. Det är bara positivt om målet visar sig vara för litet och antalet kvadratmetrar fördubblas eller till och med tredubblas”, säger Korpela.
+
+av människor om det inte längre finns några naturliga pollinatörer för växten. Att pollinera med mänsklig kraft är arbetsdrygt, eftersom pollineringen måste ske exakt när blomman slår ut. I Finland svarar naturens pollinatörer för mer än hälften av pollineringen av odlingsgrödor. ”Här är många åkerväxter beroende av insektspollinering, såsom bokhvete, raps och bondböna. Det finns ännu fler arter bland trädgårdsväxterna som är beroende av insektspollinering. Genom pollinering ökar kvaliteten och storleken på de många bär vi plockar avsevärt”, berättar Korpela. Att låta trädgården eller balkongen bli lite vildare hjälper naturen mer än bara ur pollinatörernas perspektiv. Även andra insekter, små däggdjur såsom igelkottar, fladdermöss och fåglar tackar för att det finns fler boplatser för dem.
+
+Tjänst för pollinatörer
+
+OP Gruppen är med och blir vildare
+
+Att låta grönområden bli vildare har redan börjat vinna mark, till exempel i offentliga områden. Många städer har avsiktligt lämnat gräsmattor oklippta och sått nya ängar. Att återställa ytor till ett mer naturligt tillstånd är en efterlängtad nyhet för insekter som pollinerar växter, eftersom antalet pollinatörer har minskat globalt. De viktigaste livsmiljöerna i Finland är naturliga miljöer såsom ängar, åkrar och beteshagar, som alla är hotade naturtyper. ”Genom att göra trädgården vildare utvidgar vi pollinatörernas livsrum. Det är dessutom värdefullt i sig att vårda ängsväxter som är i nöd, även om det till exempel inte finns några vackra dagfjärilar i trädgården”, påminner Korpela. Att bevara pollinatörer är nödvändigt för oss människor. Om det inte finns några pollinatorer är konsekvenserna för till exempel livsmedelssäkerheten dramatiska: cirka 75 procent av världens viktigaste livsmedelsgrödor är beroende av pollinatörernas arbete för att skörden ska säkerställas. Världen över har man till och med försökt ersätta pollinatörer med pollinering utförd
+
+WWF:s huvudsamarbetspartner i kampanjen är OP Gruppen, som uppmuntrar sina banker, anställda och kunder att göra närmiljön lite vildare. Konkreta gärningar i partnerskapet är bland annat utbildning av personalen i mångfaldsteman och talkoarbete där OP:s anställda avlägsnar skadliga invasiva arter från värdefulla naturobjekt. Det finns potential för effektfulla åtgärder, eftersom Finlands största aktör inom finansbranschen har cirka 13 000 anställda, över två miljoner ägarkunder och cirka 100 andelsbanker. Kunderna önskar också gärningar för natures bästa. Förra året valde 14 procent av OP:s ägarkunder i undersökningen ”Alla tiders gärningar” att göra det som är bra för den närliggande naturen som det viktigaste lokala hållbarhetsarbetet. ”Tillsammans kommer vi igång med praktiska åtgärder för att förverkliga den vägkarta för biologisk mångfald som vi publicerade förra året. Som en stor aktör har vi en viktig roll i finländarnas vardag och därför är det vår uppgift att sporra företag, sammanslutningar och människor. Vi vill
+
+agera som föregångare inom hållbar ekonomi med tanke på naturen och klimatet, och vi hoppas att så många som möjligt följer med oss på den här resan”, säger Kaarina Saramäki, OP Gruppens ESG Lead.
+
+Vilt är vackert Eftersom det i många trädgårdar säkert redan finns element som ökar den biologiska mångfalden, är det bra att räkna med dem när man anger sina kvadratmetrar i räknaren. Nya kvadratmetrar som planeras kan i sin tur anges beroende på hur mycket man avser göra vildare. ”Till exempel kan bärbuskar, fruktträd och oklippt gräsmatta räknas som kvadratmetrar. Om man däremot bygger ett fågelholk eller en drickplats för pollinatörer kan man räkna kvadratmetrarna så att en gärning motsvarar en kvadratmeter”, säger Korpela. För att det inte ska kännas ensamt kan deltagarna mötas virtuellt i WWF:s Facebook-grupp där man kan dela med sig av tips och foton från sina egna erfarenheter och fråga andra hur olika mångfaldsgärningar har fungerat. Tillsammans är det också trevligt att se hur årstiderna framskrider och hur väderförhållandena påverkar olika platser. Korpela hoppas att kampanjen ska ge näring åt tanken om att även vilt kan vara vackert. ”Enbart en millimeterklippt gräsmatta och tujabuskar ger i praktiken ingenting åt pollinatörerna eller den övriga naturen. Men att vara lat, skjuta upp saker och ting och naturlighet ger i sin tur mycket. Jag uppmanar alla trädgårdsvänner att undvika överdriven prydlighet och att ta till sig tanken på ”kontrollerad oskötsamhet.” Enligt Statistikcentralen finns det cirka 1,3 miljoner småhus och cirka 500 000 stugor i Finland, och det finns balkonger i över en miljon finska lägenheter. Vilken effekt skulle det få om vi gav naturen mer utrymme i alla dessa?
+
+Nya
+
+FO
+
+X
+
+OJ
+
+DIS
+
+H
+
+AR
+
+CT
+
+IC
+
+FRAMGÅNGAR
+
+PR
+
+©
+
+CH
+
+RIS
+
+TOP
+
+HER C
+
+OCKERILL /
+
+SWE
+
+Tack för ditt stöd! Dessa aktuella framgångar skulle inte vara möjliga utan våra stödjare och vårt långsiktiga naturskyddsarbete. Fler framgångshistorier hittar du på wwf.fi/suojelusaavutukset
+
+IR
+
+JU
+
+N
+
+/ WW
+
+F NEPA
+
+L
+
+© PI
+
+NJA
+
+SIL
+
+VO
+
+NE
+
+N
+
+/
+
+M
+
+APA
+
+/D OM
+
+L.C REP
+
+Under år 2023 skyddades totalt över en miljon hektar skog i våra partnerländer i Asien, Östafrika och Sydamerika och cirka 1,7 miljoner hektar övergick till hållbart bruk. På många platser har arbetet pågått under lång tid med faddrarnas och utrikesministeriets stöd, till exempel i Nepal, där Terai Arc Landscape-programmet i början av året fick FN:s erkännande för återställande av naturen. Genom att återställa livsmiljöer har man uppnått fantastiska framgångar, inklusive genom att öka antalet tigrar från 121 till 355 individer. Några av årets framgångar är den omfattande planen för bekämpning av skogsbränder i Itenez skyddsområde i Amazonas i Bolivia och planen för hållbar markanvändning på ön Borneo som bidrog till att skydda en miljon hektar värdefulla skogar.
+
+EN
+
+Vi skyddade över en miljon hektar skog
+– och det långsiktiga arbetet belönades
+
+© NATU
+
+©
+
+SA
+
+H GT
+
+I
+
+S-
+
+O HU
+
+T/
+
+WW
+
+F
+
+W
+
+W
+
+F
+
+EC
+
+EU-finansiering för skydd av fjällräv EU beviljade 2,3 miljoner euro för att skydda fjällräven. Interreg-Aurora-finansieringen säkerställer att skyddsarbetet utfört av myndigheter, universitet och organisationer i Finland, Sverige och Norge fortsätter fram till slutet av 2026. Med hjälp av detta stöd börjar vi informera vandrare om hur skräp påverkar den akut hotade fjällräven. Dessutom kan andra aktörer med hjälp av stödet fortsätta att fylla på foderautomater för fjällräv i vildmarken, jaga fjällrävens värsta konkurrent räven i fjällområdet och släppa ut fjällrävar som växt upp i farmer tillbaka till naturen. Utan skyddsåtgärder riskerar fjällräven att försvinna från Fennoskandia.
+
+Helsingfors är Östersjöns första Plastic Smart City Vi uppmanar städer runt om i världen till att minska plastkonsumtionen och avfallet. Nu deltar även Helsingfors. Plastic Smart Cities stödjer och engagerar städer till åtgärder, dialog och utbyte av bästa praxis för att minska användningen av plast och stoppa plastföroreningar. Stadsrörelsen främjar vårt mål om en plastfri natur till år 2030. Det finns 47 Plastic Smart Cities i världen, varav 36 i Asien, tre i Afrika och åtta i Europa.
+
+Ny information om snöleoparder Indiens första landsomfattande kartläggning av snöleoparder har gett uppmuntrande resultat: man uppskattar att det finns 718 snöleoparder i landet. Vi var med i en treårig undersökning där vi installerade över 2 000 viltkameror som samlade in över två miljoner bilder. Bilderna hjälpte forskarna att identifiera snöleoparder med hjälp av de individuella prickarna på deras päls. Viltkamerorna har tagit många bilder av hotade arter i deras naturliga livsmiljö. Bilderna kan användas för att öka förståelsen för artens individantal och i Indien.
+
+SINIKO
+
+SKI /W
+
+W F
+
+© JUSSI RISTONMAA
+
+Vi betjänar våra stödjare som vanligt under sommaren. Via oss kan du till exempel göra adressändring, höja faddersumman eller göra ändringar som gäller betalkontot. På wwf.fi/tukijapalvelu kan du också själv uppdatera dina kontaktuppgifter. Kontrollera framförallt din e-postadress för att få våra aktuella faddernyheter.
+
+EKKA
+
+Vår stödjartjänst är öppen hela sommaren
+
+I-P
+
+Telefon: 040 192 3112, vardagar kl. 9–16 E-post: donator@wwf.fi wwf.fi/kummipalvelu
+
+Adress: WWF Finland, stödjarservice, Fågelviksgatan 10, 00500 Helsingfors Donationskonto: FI41 1572 3000 0111 89 BIC (Swift) NDEAFIHH MobilePay-donationsnummer: 24620
+
+AK
+
+Stödjarservice
+
+©
+
+Fadderhörnan
+
+Vi ringer till en fadder! Samtalet besvarades av Raija, som i 15 år varit WWF:s Saimenvikarfadder. Varför valde du att bli just en Saimenvikarfadder? ”Min mamma kommer från Saimens stränder och när hon var liten var det en saimenvikare som alltid hoppade från klippan i vattnet när de gick för att simma. Jag deltog som fadder till minnet av min mamma.” Vilken är din favoritplats i naturen och varför? ”Vatten, vattendrag och stränder.” Varför tycker du att det är viktigt att stödja naturskyddet? ”Om det inte finns någon natur finns det ingenting. I ett skede på 1970-talet var vattendragen i vikarna förorenade. Det är en stor glädje att de nu i stor utsträckning har blivit rengjorda.” Vilken typ av hälsningar skulle du vilja skicka till de andra faddrarna? ”Låt oss hålla naturen ren. Jag hoppas att alla skulle lära sig att inte slänga allt vi har.”
+
+GENOM ATT KÖPA WWF-PRODUKTER STÖDER DU VÅRT ARBETE FÖR NATUREN.
+
+För att fira Ilveskeskus 30-årsjubileum grundades Ilves 30v. - Med hjälp av egeninsamlingen Yhdessä ilvesten kanssa stöds skyddet av Finlands enda vilda kattdjur och naturens mångfald. Insamlingsmålet är 5 000 euro. Ilveskeskus grundare Jussi Ristonmaas enorma intresse för lodjur har inte avtagit under årtiondena. ”Ju mer jag fördjupar mig i lodjuret och dess artspecifika beteende, desto mer fascinerande blir den. WWF har under årens lopp understödt Ilveskeskus och nu vill vi för vår del ge något tillbaka.”
+
+Köp en WWF-t-skjorta Har du redan en somrig WWF-t-skjorta? T-skjortan med en panda är tillverkad i 100 % ekologisk bomull. Skjortan finns i olika färger för herrar och damer. Välj din favorit! Genom att köpa en t-skjorta stödjer du också WWF:s värdefulla naturskyddsarbete: kauppa.wwf.fi
+
+Ur skyddssynpunkt har lodjurets historia visat en stigande trend och på 30 år har lodjursbeståndet femdubblats. Att öka kunskapen och förståelsen är enligt Ristonmaa verkligt viktigt. ”Att leva sida vid sida med stora rovdjur kräver artkännedom och rådgivning. Ilveskeskus ger information och vägledning till exempel när en lo upptäcks i närheten av bosättning.” Stort tack för ert stöd, Ilveskeskus!
+
+© EMMI KARHIAHO / WWF
+
+TA EN TITT I BUTIKEN!
+
+30 ÅR SOM BESKYDDARE AV LODJUR
+
+---
 
 ### Norppa, kamera, käy!
 
 Julkaistu: 18.6.2025  
 Aiheet: Saimaannorppa, Luontolive  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/norppa-kamera-kay/
 
 **WWF:n Norppaliveä on katsottu vuosien varrella 11 miljoonaa kertaa. Kymmenen tuotantokauden aikana lähetys on säilynyt pitkälti muuttumattomana, mutta saimaannorppien tilanne on kohentunut.**
@@ -1355,7 +1596,6 @@ Epäselväksi jää, onko kyseessä Pullervo vai sen tunnistamattomaksi jäävä
 Julkaistu: 6.6.2025  
 Aiheet: Itämeri, Suomi  
 Kirjoittaja: Teemu Niinimäki  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/vieraspetopyynti-auttaa-saariston-lintuja/
 
 **Kemiönsaarelainen Tommy Arfman on seurannut tuttujen saaristolintujen vähenemistä kotivesillään Saaristomerellä jo vuosikymmenten ajan. Hän ei jäänyt seuraamaan lintujen häviämistä sivusta, vaan tarttui toimeen.**
@@ -1387,7 +1627,6 @@ Saaristoluonnon hoito- ja suojeluyhdistys pitää vieraspetoja poissa Saaristome
 Julkaistu: 6.6.2025  
 Aiheet: WWF-lehti, Borneo, Luonnon köyhtyminen, Metsäkato, Sademetsät, Ylikulutus  
 Kirjoittaja: Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/teknologian-pimea-puoli-suomeen-tuotavat-mineraalit-tuhoavat-luontoa-tropiikissa/
 
 **Mineraaleja louhitaan tropiikissa alueilla, jotka ovat täynnä elämää. WWF:n tuore raportti paljastaa, että Suomeen tuodaan mineraaleja maista, joissa kaivosteollisuus tuhoaa luontoa ja loukkaa ihmisoikeuksia.**
@@ -1454,7 +1693,6 @@ Vain sillä tavalla tulevaisuus on oikeasti vihreä, siis monimuotoinen ja eläv
 
 Julkaistu: 6.6.2025  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/pinnalla-nyt-nappaa-vinkit-kesaan/
 
 **WWF-lehden Pinnalla nyt -palstalla WWF:n työntekijät kertovat omat vinkkinsä kesäiseen tekemiseen. Tekisikö mieli rentoutua riippumatossa ja vain nauttia olosta, vierailla WWF:n luontopolulla Sastamalassa tai reippailla lähiluonnossa?**
@@ -1485,7 +1723,6 @@ Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/pinnalla-nyt-nappaa-vinkit-kes
 
 Julkaistu: 6.6.2025  
 Aiheet: WWF-lehti, Earth Hour, Lumileopardi, Merten muoviroska, Öljyntorjuntajoukot, Suomen metsät, Talkoot  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/nepalissa-400-lumileopardia-ja-muita-tuoreita-onnistumisia/
 
 **Luonnonsuojelu on pitkäjänteistä työtä. Nämä ajankohtaiset onnistumiset eivät olisi mahdollisia ilman tukijoitamme – kiitos teistä jokaiselle!**
@@ -1515,7 +1752,6 @@ Metsähallituksen Luontopalvelujen koordinoima Rannikko-LIFE-hanke on malliesime
 ### Kohti parempaa karhukaisen sinnikkyydellä
 
 Julkaistu: 6.6.2025  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/kohti-parempaa-karhukaisen-sinnikkyydella/
 
 **Karhukainen on reilun millimetrin kokoinen eläin, jonka sinnikkyys hakee vertaistaan. Ne kestävät satojen asteiden pakkasta, suurta painetta ja radioaktiivista säteilyä. Jopa kymmeniä vuosia jäädytettyinä olleita karhukaisia on onnistuttu herättämään henkiin.**
@@ -1537,7 +1773,6 @@ Jari Luukkonen, pääsihteeri
 Julkaistu: 6.6.2025  
 Aiheet: Ruoka, WWF-lehti  
 Kirjoittaja: Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/kesan-ruoka-on-helposti-herkullista/
 
 **Kesä on ruuanlaittajalle auvoisaa aikaa, kun moni raaka-aine on maukas raakanakin. Kysyimme kahdelta ruokavaikuttajalta, mikä tänä kesänä on erityisen hyvää.**
@@ -1582,7 +1817,6 @@ Esimerkiksi:”Grillattuja naattiporkkanoita, tuoreita mansikoita, chermoula-yrt
 
 Julkaistu: 6.6.2025  
 Aiheet: WWF-lehti, Ilmastonmuutos, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/kahvintuoksuisella-kenttamatkalla-vietnamissa-ilmastonmuutos-hankaloittaa-viljelijoiden-arkea/
 
 **Vietnamissa kahvin pienviljelijät kärsivät ilmastonmuutoksen seurauksista. Paikan päällä työskennellyt WWF Suomen projektikoordinaattori Le Vo kertoo, miten haasteita yritetään taklata.**
@@ -1615,7 +1849,6 @@ Tuemme kestävää kahvintuotantoa Vietnamissa paikallisen WWF-toimiston ja kahv
 
 Julkaistu: 6.6.2025  
 Aiheet: WWF-lehti, Arktinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/johannes-roviomaan-kolumni-suomi-katsoo-arktista-aluetta-tirkistelyaukosta/
 
 **Olen kotoisin Urjalasta, jossa kasvoin vekarasta täysi-ikäiseksi. Meillä oli tapana pyöräillä kylältä lähistön Pourunlammille uimaan. Sen pukukopissa oli tiirailureikä, josta huhun mukaan saattoi silmiä siristämällä tietyssä kulmassa nähdä jotain.**
@@ -1655,7 +1888,6 @@ Johannes Roviomaa on vapaa toimittaja ja Arktisen keskuksen vieraileva tutkija, 
 Julkaistu: 6.6.2025  
 Aiheet: WWF-lehti, Ilmastonmuutos, Ruoka, Suomi, Ylikulutus  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/hintojen-nousua-ja-huonompaa-laatua-ilmastonmuutos-nakyy-kaupan-hyllyilla/
 
 **Kun kaupan hyllyllä on ilmoitus”Pahoittelemme tuotteen loppumista tavarantoimittajan ongelmista johtuen”, on taustalla usein isompi ongelma: ilmastokriisi. Kysyimme WWF:n kansainvälisen kehityksen asiantuntija Visa Tuomiselta, miten ilmaston kuumeneminen vaikuttaa suomalaisten kuluttamiin elintarvikkeisiin ja millaisia mahdollisuuksia kuluttajilla on tilanteen parantamiseen.**
@@ -1739,7 +1971,6 @@ WWF osallistui talkoiden järjestämiseen osana RANKKU 2 -hanketta, joka on saan
 
 Julkaistu: 7.5.2025  
 Aiheet: WWF-lehti, Perinneympäristöt, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/villiinnyttaminen-on-kasvattanut-suosiotaan-kaupungeissa-nain-nurmialueita-muutetaan-niityiksi-tampereella/
 
 **Kaupunkien puistoissa ja viheralueilla on mahdollisuuksia villiinnyttää isossa mittakaavassa. Aarien ja hehtaarien ennallistaminen vie kuitenkin aikaa ja vaatii asiantuntemusta, san oo Tampereen kaupunginpuutarhuri Timo Koski.**
@@ -1775,7 +2006,6 @@ Koski muistuttaa, että laajojen pinta-alojen villiinnyttäminen ei ole aivan yh
 Julkaistu: 7.5.2025  
 Aiheet: WWF-lehti, Perinneympäristöt, Suomi  
 Kirjoittaja: Minna Nyrhinen-Blazquez  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/pienellakin-parvekkeella-voi-auttaa-polyttajia/
 
 **Pölyttäjien tärkeimmät elinympäristöt ovat Suomessa uhanalaisia. Pölyttäville hyönteisille on mahdollista tarjota täydentävää ravintoa kaupunkiympäristössä.**
@@ -1861,7 +2091,6 @@ Korpela muistuttaa, että jokainen laskuriin ilmoitettu neliömetri on arvokas.
 Julkaistu: 7.5.2025  
 Aiheet: WWF-lehti, Perinneympäristöt, Suomi  
 Kirjoittaja: Minna Nyrhinen-Blazquez  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2025/jenni-kokander-kaipaa-lisaa-pihaystavia/
 
 **Näyttelijä Jenni Kokander haluaa oman puutarhan näyttävän siltä, että se on rakastettu. Viime kesänä takapihalle saapui erityisvieras, jonka paluuta Kokander odottaa jo kovasti.**
@@ -2156,7 +2385,6 @@ Pisavaaralla ilveksen tappamia poroja oli lupapäätöksen mukaan löytynyt ja i
 Julkaistu: 19.3.2025  
 Aiheet: Mekong, Ilmastonmuutos, Kentällä, Luonnon köyhtyminen, Metsäkato, Sademetsät  
 Kirjoittaja: Paula Kallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2025/mekongin-salatut-elamat-nain-uusia-lajeja-loydetaan-yha/
 
 **Mekongin alueelta löytyy joka vuosi satoja uusia lajeja. Jokainen löytö tarkentaa kuvaa planeettamme suurimmasta aarteesta, monimuotoisesta luonnosta.**

@@ -1,9 +1,9 @@
 # WWF Suomi – Lausunnot 2025
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 67 (uusin 18.12.2025).
+Kohteita: 70 (uusin 18.12.2025).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 58 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -58,11 +58,13 @@ Huom: 58 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 26.6.2025 – WWF:n lausunto karhukiintiöasetuksesta metsästysvuodelle 2025–2026
 - 25.6.2025 – WWF:n lausunto valtionvarainministeriölle liittyen lahjoitusten verovähennysoikeuteen
+- 24.6.2025 – Ympäristöjärjestöjen eriävä mielipide METSO-seurantatyöryhmän esitykseen
 - 23.6.2025 – WWF:n lausunto fossiilittoman jouston tukimekanismista
 - 19.6.2025 – WWF:n lausunto vesienhoidon järjestämisestä annetun valtioneuvoston asetuksen muuttamisesta
 - 19.6.2025 – WWF:n lausunto ympäristövaikutusten arvioinnista potentiaalisista talousvyöhykkeen merituulivoima-alueista
 - 18.6.2025 – WWF:n lausunto kalastuskiintiöistä eduskunnan maa- ja metsätalousvaliokunnalle
 - 18.6.2025 – WWF:n lausunto kansallisen ennallistamissuunnitelman ympäristöarviointia koskevasta suunnitelmasta
+- 18.6.2025 – WWF:n vastaus maa- ja metsätalousministeriölle liittyen komission tiedonantoon: “Kestävää kalastusta EU:ssa, tilannekatsaus ja suuntaviivat vuodeksi 2026”
 - 18.6.2025 – WWF:n lausunto kalastuskiintiöistä eduskunnan ympäristövaliokunnalle
 - 16.6.2025 – WWF:n lausunto rakennuksissa käytettävien energiamuotojen kertoimien lukuarvoista
 - 16.6.2025 – WWF:n lausunto uuden päästöttömän rakennuksen energiatehokkuudesta
@@ -73,6 +75,7 @@ Huom: 58 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 **Toukokuu 2025**
 
 - 30.5.2025 – WWF:n lausunto ympäristöministeriölle jätelain muuttamisesta nikotiinipussien osalta
+- 28.5.2025 – Luontohyötyjä laitumelta -aamiaisseminaarin ohjelma 11.6.2025
 - 22.5.2025 – WWF:n lausunto eduskunnan valtiovarainvaliokunnan verojaostolle tuloverolain muuttamisesta
 - 20.5.2025 – WWF:n lausunto maa- ja metsätalousministeriön luonnoksesta Suomen karhukannan hoitosuunnitelmaksi
 - 15.5.2025 – WWF:n lausunto eduskunnan ympäristövaliokunnalle luonnonlaidunnuksesta
@@ -118,7 +121,6 @@ Huom: 58 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 Julkaistu: 18.12.2025  
 Aiheet: Susi, Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/9/f/gxhvx9xwgkds4uxe8gky0s/wwfn-lausunto-mmm-susikiintioasetus-251218.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -157,7 +159,6 @@ Blanco JC and Sundseth K (2023). The situation of the wolf (Canis lupus) in the 
 
 Julkaistu: 15.12.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/g/d/3osgai7g2mafktt3s9tx12/wwf_2-lausunto_vastauksia-ymparistovaliokunnassa-esitettyihin-kysymyksiin_venajan-hyokkayssodan-ymparistotuhot-ukrainassa.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -226,7 +227,6 @@ WWF kiittää mahdollisuudesta antaa lisäselvityksiä ympäristövaliokunnan ku
 
 Julkaistu: 12.12.2025  
 Aiheet: Suomi, Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/g/o/jo8k427ob2xtfgyf2p1zzr/wwf-lausunto-mmm-vn-asetukset-susi-251212.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -267,7 +267,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 
 Julkaistu: 5.12.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/4/f/mrwukt07y7ag2m58ol3sqc/wwf-suomen-lausunto-luonnoksesta-valtioneuvoston-asetukseksi-ymparistokorvauksesta-annetun-valtioneuvoston-asetuksen-muuttamiseksi.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -297,7 +296,6 @@ Eeva-Liisa Korpela Suojeluasiantuntija
 ### WWF Suomen lausunto talousvyöhykkeen merituulivoima-alueista ja sen SOVA-lain mukaisesta ympäristöselostuksesta
 
 Julkaistu: 1.12.2025  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/f/3/4/n6e8znevxlkwruzioebip3/sova_selostus_merituulivoima_wwf.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -333,7 +331,6 @@ Vanessa Ryan Meriasiantuntija
 Julkaistu: 27.11.2025  
 Asiakirjan päiväys: 24.11.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/j/0/9pc2171usv7j0vjrbijprd/wwf-lausunto-luonnos-hallituksen-esitykseksi-laeiksi-kirjanpitolain-ja-tilintarkastuslain-3-luvun-muuttamisesta.pdf
 
 WWF Suomi Lausunto 24.11.2025
@@ -367,7 +364,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 27.11.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/6/v/r6cal3eg507bvu4lu9uzge/wwfn-lausunto-eduskunnan-suurelle-valiokunnalle-eu-mff-e-73_2025-vp.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -395,7 +391,6 @@ Raija-Leena Ojanen Oikeudellinen neuvonantaja
 ### WWF:n lausunto hallituksen esityksestä eduskunnalle laiksi metsästyslain muuttamisesta
 
 Julkaistu: 27.11.2025  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/1/9/j/mt64xf0ebc6adzpbkswwgf/wwf-lausunto-mmv-251127-he-173_2025-vp-.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -435,7 +430,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 ### WWF:n lausunto pitkän aikavälin ilmastosuunnitelman luonnoksesta
 
 Julkaistu: 21.11.2025  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/r/e/klkojb28ulw9ohx6ub0alc/20251121_lausuntopyynto-pitkan-aikavalin-ilmastosuunnitelman-luonnoksesta.pdf
 
 WWF Suomi Lausunto 21.11.2025
@@ -519,7 +513,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 18.11.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/y/e/nnyj4yr915nxmhyitl4q2m/wwf_lausunto-ymparistovaliokunta_ukrainan-sodan-vahingot-14-11-2025.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -568,7 +561,6 @@ WWF haluaa korostaa, että Venäjän hyökkäyssodan aiheuttamien massiivisten y
 
 Julkaistu: 13.11.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/l/n/2bra7mlpoyw5owcsmhkj1u/wwfn-lausunto-valtioneuvoston-asetuksesta-lupa-ja-valvontaviraston-maksuista-vuonna-2026.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -601,7 +593,6 @@ Lisätietoja: Raija-Leena Ojanen, raija-leena.ojanen@wwf.fi , p. 0505990232
 
 Julkaistu: 17.10.2025  
 Aiheet: Susi, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/0/i/6pefi44phj914la0qpq06x/wwf-lausunto-hallituksen-esitys-eduskunnalle-metsastyslain-muuttamisesta-251017.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -644,7 +635,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 
 Julkaistu: 13.10.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/y/g/non074dmoygjp7xmu4pxhj/wwfn-lausunto-e-812025-vp-valtioneuvoston-selvitys-komission-tiedonanto-euroopan-vesiresilienssistrategiasta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -679,7 +669,6 @@ Jenny Jyrkänkallio-Mikkola Sisävesivastaava
 
 Julkaistu: 13.10.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/1/0/x/q691dmhsyhtqc50396zw6d/wwf-lausunto-ymparistovaliokunta-tulevaisuusselonteko-vns-7-2025.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -704,7 +693,6 @@ Lisätietoja: Raija-Leena Ojanen, raija-leena.ojanen@wwf.fi , p. 0505990232
 
 Julkaistu: 10.10.2025  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/y/j/1dzevsjlwc86cw1xmlkwtq/metso-ohjelma-2026-2040-lausunto-wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -743,7 +731,6 @@ Mai Suominen Johtava metsäasiantuntija
 
 Julkaistu: 10.10.2025  
 Aiheet: Ruoka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/e/t/04tgdpifi62oquitlt6c8/20251010_lausunto-kansallisesta-ruokastrategiasta-2040.pdf
 
 WWF Suomi Lausunto
@@ -840,7 +827,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 3.10.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/h/8/irvaobwwav6auoh6zf75h7/wwf-suomen-lausunto-asetusluonnoksesta-tulosperusteisen-tuen-pilotoinnista-maatalouden-vesiensuojelussa_1.pdf
 
 Ympäristöministeriölle
@@ -865,7 +851,6 @@ Jenny Jyrkänkallio-Mikkola Sisävesivastaava
 
 Julkaistu: 2.10.2025  
 Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/9/c/cvatgxza7rw7m951yyfusk/wwflausunto_e70_2025vp_kalastuskiintiot_ymv_18092025.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -912,7 +897,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 2.10.2025  
 Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/q/v/3370trlsjho1g15jvhdk6y/wwflausunto_mmv_e70_2025vp_kalastuskiintiot_26092025.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -959,7 +943,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 2.10.2025  
 Aiheet: Luonnon köyhtyminen, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/1/i/i/nfg740f0ybc0uyhy420kiw/wwf-lausunto_hallinto-ja-turvallisuusjaosto_valtion-budjetti2026.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -984,7 +967,6 @@ Lisätietoja: Anne Tarvainen, Anne.Tarvainen@wwf.fi, 0407568326 2
 
 Julkaistu: 30.9.2025  
 Aiheet: Suomi, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/g/9/33ccs48jt0c2u0ef29775x/wwf-lausunto-ymparisto-ja-mmm-valiokunta-talousarvio2026-he-99-2025vp.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1011,7 +993,6 @@ Lisätietoja: Raija-Leena Ojanen, raija-leena.ojanen@wwf.fi , p. 0505990232
 
 Julkaistu: 16.9.2025  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/1/x/wugeinovz4f7r3vcmyav0z/wwf-lausunto-mmv-16-9-2025-.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1049,7 +1030,6 @@ Bernt Nordman Ilmasto-ohjelman johtaja
 
 Julkaistu: 10.9.2025  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/a/9/b5kx6mq2pvxyq1zcsetrht/wwf-lausunto-suv-10-9-2025-.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1086,7 +1066,6 @@ Bernt Nordman Ilmasto-ohjelman johtaja
 
 Julkaistu: 8.9.2025  
 Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/w/b/pgr5amvn9o8or9x5y3j4b2/lausunto_scandinavian_ocean_minerals_wwf.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1117,7 +1096,6 @@ Vanessa Ryan, meriasiantuntija
 
 Julkaistu: 29.8.2025  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/t/l/os684v669ku892qo5qh454/wwf_lausunto_kalankasvatuksen_sijainninohjaussuunnitelma.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1150,7 +1128,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 21.8.2025  
 Aiheet: Ilmastonmuutos, Energiatehokkuus, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/g/l/8rf0h6agsfjgj3sbfygzww/20250821_wwf_lausunto_kansallisen_energia_ja_ilmastostrategian_luonnoksesta.pdf
 
 WWF Suomi Lausunto 21.08.2025
@@ -1235,7 +1212,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 20.8.2025  
 Aiheet: Suomi, Energiatehokkuus, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/r/2/dp9uimfqbosr3ayna05hgn/20250820_lausuntopyynto-keskipitkan-aikavalin-ilmastosuunnitelmasta-kaisu3.pdf
 
 WWF Suomi Lausunto 20.08.2025
@@ -1347,7 +1323,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 18.8.2025  
 Aiheet: Ilmastonmuutos, Itämeri, Meret, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/5/e/v9m3037lnr5n916eew9grm/20250818_luonnos-valtioneuvoston-asetukseksi-merituulivoimasta-talousvyohykkeella.pdf
 
 WWF Suomi Lausunto 18.08.2025
@@ -1387,7 +1362,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 11.7.2025  
 Aiheet: Itämerennorppa  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/4/h/y/58bl7oqny1car8vp3oqtnd/wwf-lausunto-itamerennorppa-mmm-2025.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1434,7 +1408,6 @@ Petteri Tolvanen ohjelmajohtaja, suomalainen luonto, WWF Suomi
 
 Julkaistu: 26.6.2025  
 Aiheet: Karhu, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/m/4/r64ph3bf3t50hhj57njz6n/wwf-lausunto-mmm-karhukiintioasetus-metsastysvuodelle-2025_2026-250626.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -1485,7 +1458,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 
 Julkaistu: 25.6.2025  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/f/s/f66uumgs27dywlujfgxuyu/wwf-lausunto-valtiovarainministerion-luonnos-lahjoitusten-verovahennysoikeudesta-.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1506,11 +1478,57 @@ Lisätietoja: Raija-Leena Ojanen, raija-leena.ojanen@wwf.fi , p. 0505990232
 
 ---
 
+### Ympäristöjärjestöjen eriävä mielipide METSO-seurantatyöryhmän esitykseen
+
+Julkaistu: 24.6.2025  
+Aiheet: Suomen metsät, Ennallistaminen, Luonnon köyhtyminen, Suomi  
+Linkki: https://wwf.fi/app/uploads/b/r/2/xsq23mph5yip3s93kfei7n/ymparistojarjestojen-eriava-mielipide-metso-tyoryhman-esitykseen-11-6-2025.pdf
+
+11.6.2025
+
+Ympäristöjärjestöjen eriävä mielipide METSO-seurantatyöryhmän esitykseen
+
+Me esitystä laatineessa seurantatyöryhmässä mukana olleet ympäristöjärjestöt Greenpeace, Suomen luonnonsuojeluliitto ja WWF Suomi jätämme eriävän mielipiteen METSO-työryhmän esitykseen, sillä katsomme, että nyt esitetty ohjelmaluonnos ei vastaa Suomen kansainvälisiin sitoumuksiin eikä hallitusohjelman tavoitteisiin luontokadon pysäyttämisestä. METSO-ohjelman kautta tulee olla mahdollista tehdä paljon nyt esitettyä enemmän metsäluonnon hyväksi.
+
+Metsiensuojelun tavoitetaso ei riitä luontokadon pysäyttämiseen Luvun 4.4.1 toimenpide A Luontokato jatkuu ilman merkittävää suojelupinta-alan lisäystä1. Ennen vuoden 2023 eduskuntavaaleja puolueet olivat lähes yksimielisiä siitä, että Etelä- ja Keski-Suomen metsien osalta tulisi tavoitella 10 % suojelutasoa, eli yli kolminkertaistamista nykytasosta, kuten lakisääteinen Suomen Luontopaneeli suosittaa2. Työryhmän 1 https://luontopaneeli.fi/ajankohtaista/luontokato-jatkuu-ilman-merkittavaa-suojelupinta-alan-lisaysta-
+
+suomen-luontotavoitteisiin-tarvitaan-konkretiaa-ja-selkeat-mittarit/ 2 "Kymmenen prosenttia Etelä-Suomen metsistä suojeltava, vaativat kaikki muut puolueet paitsi perus-suomalaiset". HS 10.3.2023
+
+esittämä tavoite jää kuitenkin kauas tästä. Muistiossa tyydytään ainoastaan vahvistamaan jo edellisellä hallituskaudella HELMI-periaatepäätöksessä linjattu 40 000 ha suojelutavoite ja korottamaan sitä yksityismaiden vanhojen metsien osalta vaatimattomalla 10 000 hehtaarilla. Näillä luvuilla paljon arvokasta vanhaa metsää Pohjois-Suomessa jäisi ilman suojelun korvausta, ja Etelä-Suomen metsien suojeluaste nousisi parhaimmillaankin vain muutamalla prosentin kymmenyksellä, jääden yhä reilun 3 % tuntumaan3. Tällaisella lisäystahdilla (n. 8000 ha / vuosi) 10 % suojelutason saavuttaminen Etelä-Suomessa veisi lähes sata vuotta, mikä on räikeässä ristiriidassa luontokadon pysäyttämistavoitteen aikataulun kanssa4, ja moni suojelun arvoinen metsä ehdittäisiin hakata.
+
+Myös Pohjois-Suomen arvometsät ansaitsevat mahdollisuuden päästä suojeluun Luku 4.4.1 Pohjois-Suomessa suojelutilanne on lähtökohtaisesti Etelä-Suomea parempi. Samalla Suomen jäljellä olevat, kaikkein luonnontilaisimmat metsät sijaitsevat juuri pohjoisessa, eikä niistä ole varaa menettää enää yhtään vain siksi, että suojelusta kiinnostuneille metsänomistajille ei ole tarjolla rahoitusta. METSO:n tulisi mahdollistaa EU:n biodiversiteettistrategian tarkoittamien vanhojen metsien suojelu myös PohjoisSuomessa. Nyt näin ei tapahdu, sillä Pohjois-Suomessa metsien suojeluperusteeksi esitetään ainoastaan Petteri Orpon hallituksen kriteerejä, jotka nostavat vanhan metsän suojelukynnystä huomattavasti aiemmissa inventoinneissa käytettyä korkeammalle ja rajaavat siten arvokkaita vanhoja metsiä suojelukynnyksen ulkopuolelle. Kriteereillä ei ole minkäänlaista hyväksyntää Suomen tiedeyhteisöltä, eikä suojeluperusteissa tulisi siksi rajautua niihin567. Vapaaehtoisen suojelun rahoituksen ulkopuolelle jäisi 3 Etelä-Suomen metsistä hakkuilta pysyvästi suojassa on 2,9 % metsämaasta ja 3,1 %, jos mukaan
+
+lasketaan myös kitumaat, kattaen suojeluluokan 1A (Luonnonsuojelualueet ja luonnonsuojelualueeksi varatut alueet) ja 1B (Muut lakisääteiset suojelualueet, ei hakkuita). Jos oletetaan, että 50 000 hehtaarin kokonaistavoitteesta 10 000 ha varataan käytännössä Pohjois-Suomen vanhoille metsille, jää EteläSuomeen korkeintaan 40 000 ha. 40 000 ha lisäys metsämaahan kohdistettuna nostaisi suojeluprosentin 2,9 %:sta 3,3 %:iin. Jos arvioon otetaan mukaan kitumaat, voisi suojeluprosentti nousta 3,3 %:sta 3,7%:iin. 4 Etelä-Suomessa 10 % suojelutason saavuttaminen vaatisi n. 783 400 ha lisäsuojelua, jos tavoite rajataan metsämaahan, tai 773 500 ha lisäsuojelua, jos mukaan lasketaan myös kitumaat. 10 % suojelutason saavuttaminen 8000 ha vuositahdilla veisi siis lähes 100 vuotta. Arvioiden pohjana ovat suojeluluokat 1A (Luonnonsuojelualueet ja luonnonsuojelualueeksi varatut alueet) ja 1B (Muut lakisääteiset suojelualueet, ei hakkuita). 5 430 tutkijan allekirjoittama vetoomus https://koneensaatio.fi/metsanpuolella/tutkijavetoomus/ 6 Suomen ympäristökeskuksen lausunto eduskunnan ympäristövaliokunnalle EDK-2024-AK-33184.pdf 7 Ympäristöministeriön lausuntoyhteenveto luonnoksesta Vanhojen metsien kriteerit Suomessa https://api.hankeikkuna.fi/asiakirjat/b3a8d5eb-a7cf-4ba2-a1cc-b40a2abfcc6d/68266366-e934-436f-bef7960a3155cc97/KIRJE_20240904074527.PDF
+
+käytännössä myös muita monimuotoisuudelle arvokkaita metsäkohteita, kuten lehtoja ja reheviä jokivarsien metsiä. Tätä emme voi hyväksyä.
+
+Valtion maiden toimenpiteissä itsestäänselvät linjauksetkin jäävät tekemättä
+
+Lukujen 4.4.2 ja 4.4.3 toimenpiteet Erityisen vaatimaton esitys on valtion maiden osalta, sillä esitetyt toimenpiteet eivät tuo mitään uutta jo aiemmin päätettyyn. Muistio esittää toimenpiteenä, että Metsähallitus jatkaisi alue-ekologisen suunnittelun kehittämistä Luonnonvarakeskuksen arviointiraportin kehittämisehdotusten pohjalta, mutta ei tarkenna miten. Ko. raportin kehittämisehdotukset koskivat myös suojelutoimia, joista olisi tullut linjata nyt konkreettisesti. Alue-ekologisen verkoston luontokohteiden aarniometsäkuviot, muut luonnontilaisten ja vanhojen metsien kohteet sekä pienvesikohteet kattavat lähes 400 000 hehtaaria8. Nämä alueet on jo asetettu puuntuotannon ulkopuolelle ja ne ovat Metsähallituksen omalla päätöksellä suojelemia. Ne kuuluvat kuitenkin Metsätalous Oy:n taseeseen eikä niillä ole luonnonsuojelulain tuomaa pysyvän suojelun turvaa. Näemme, että näiden valtion mailla sijaitsevien vanhojen metsien ja luonnontilaisten metsien pysyvän suojelun pitäisi olla kansainvälisten velvoitteiden näkökulmasta nyt itsestäänselvää, kuten työryhmän työssä toimme esiin. Luku 4.4.2 Saamelaisten kotiseutualueen osalta työryhmän esitys toteaa Saamelaiskäräjälain 9 § mukaisen neuvottelut, jotka alueella on inventoinneista ja itse suojelupäätöksistä käytävä. Muistio ei kuitenkaan tarkenna prosessille tavoitteita tai aikataulua, jolloin kirjaus jää varsin tyhjäksi. Me ympäristöjärjestöt esitimme, että muistiossa olisi tullut huomioida Saamelaiskäräjien virallinen kanta alueelle soveltuvista kriteereistä sekä tarkentaa neuvottelujen aikataulu.
+
+Ennallistamisasetuksen toimeenpano ei voi alkaa vasta 2030-luvulla Luvut 4.4 ja 4.5 EU:n ennallistamisasetus on jo voimassa olevaa yhteisön lainsäädäntöä, jonka ensimmäinen tavoitevuosi on 2030. Kun METSO-ohjelma on tärkeimpiä väyliä toteuttaa asetuksen toimeenpanoa yksityismailla, on toimia siis saatava käyntiin jo ennen vuotta
+2030. Työryhmän muistion esitys siitä, että ohjelman tavoitteet tarkastellaan yhteen 8 Metsähallituksen alue-ekologisen suunnittelun arviointi 2023, Luonnonvarakeskus,
+
+https://jukuri.luke.fi/handle/10024/554162, Taulukot 18 ja 19.
+
+ennallistamisasetuksen tavoitteiden kanssa vasta jaksolle 2031-2040 tulee liian myöhään. METSO:n tavoitteet tulee yhdenmukaistaa kansallisen ennallistamissuunnitelman kanssa välittömästi suunnitelman valmistuttua.
+
+Riittävä rahoitus ja resurssit edellyttävät isompaa korjausliikettä Luku 4.7 Vaikka työryhmässä tunnistettiin, että pysyvän suojelun kysyntä ylittää selvästi suojelun toteutukseen käytettävissä olevat resurssit se ei esitä ratkaisuja metsien suojelun riittävän rahoituksen turvaamiseksi. Tätä emme voi hyväksyä. Me ympäristöjärjestöt olemme esittäneet, että METSO-ohjelmaa kehitettäisiin huomattavasti nykyistä vaikuttavammaksi työkaluksi, jolla metsänomistajien suojeluhaluihin ja neuvontatarpeisiin pystyttäisiin vastaamaan ilman kohtuuttoman pitkiä jonotusaikoja. METSO-suojelua on jonottanut paikoin jopa kymmenkertainen hehtaarimäärä, mihin hallitus on myöntänyt rahoitusta9. Esimerkiksi Etelä-Pohjanmaan ELY-keskuksessa vuosittain kyetään toteuttamaan vain muutama kymmenen kohdetta, kun vireillä on jopa yli 300 hakemusta. Ongelmana on paitsi riittämätön suojelurahoitus, myös pula hakemusten käsittelijöistä. Hallitusohjelman mukaan “Yksityisten metsänomistajien tietoisuutta erityisen suojeluarvon omaavien metsien suojelumahdollisuuksista lisätään.” Jotta tämä toteutuisi, tarvittaisiin ELY-keskuksiin ja Metsäkeskukseen moninkertainen määrä henkilöstöä ja resurssointi sen mukaiseksi. Nyt vain oletetaan, että yksityinen sektori paikkaa hallinnon leikkaukset, ilman mitään velvoittavuutta, että näin todella tapahtuu. Me ympäristöjärjestöt näemme, että METSO-ohjelman jatkokauden lähtökohtana tulee olla tasokorotus valtion budjettirahoitukseen, rahoituksen kasvattaminen aiheuttajaperiaatteen mukaisesti sekä yksityisen rahoituksen mekanismit, jotka mahdollistavat METSO-ohjelman mukaisen suojelun osana yritysten liiketoimintaa.
+
+Yhteenveto Me allekirjoittaneet ympäristöjärjestöt näemme METSO:n tärkeänä ohjelmana ja on hienoa, että se on laajenemassa kattamaan koko maan. METSO:lla on kuitenkin mahdollista tehdä paljon nyt esitettyä enemmän suomalaisen metsäluonnon hyväksi ja metsänomistajien tarpeisiin vastaamiseksi. METSO-seurantatyöryhmän työskentelyn 9 "Moni mieluummin suojelisi arvokkaat metsänsä kuin hakkaisi – valtio tarjoaa vähemmän rahaa kuin
+
+turkistarhaukseen" (YLE 22.7.2024)
+
+aikana on tuotu esille eri tutkimuslaitosten esityksiä mekanismeista, joilla METSOohjelmasta voisi tehdä huomattavasti nykyistä vaikuttavamman, mutta nämä eivät päätyneet työryhmän esitykseen asti. Ympäristöministeriössä on luonnonsuojelulakiin valmisteilla muutoksia, joilla mahdollistetaan rahoituksen uudenlainen kohdentaminen myös METSO-ohjelman toimeenpanossa. Seuraavalle toimintakaudelle on vielä täysin mahdollista valmistella näiden keinojen käyttöönottoa. Suomessa on jo pitkä kokemus suojelun ja ennallistamisen toimeenpanosta. Vakiintuneen ja laajasti hyväksytyn METSO-ohjelman puitteissa tämän työn vaikuttavuutta on syytä lähteä kasvattamaan nyt ehdotettua rohkeammin.
+
+Kaisa Kosonen Greenpeace Liisa Toopakka Suomen luonnonsuojeluliitto Mai Suominen WWF Suomi
+
+---
+
 ### WWF:n lausunto fossiilittoman jouston tukimekanismista
 
 Julkaistu: 23.6.2025  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/k/k/i9z8ct01mcwch6lhuyj0vz/20250623_lausunto_fossiiliton_jousto.pdf
 
 WWF Suomi Lausunto 23.06.2025
@@ -1553,7 +1571,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 19.6.2025  
 Aiheet: Suomi, Itämeri, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/q/2/1dxg60oo9yv2jrrv4wpn9h/wwf-suomen-lausunto-ehdotuksesta-valtioneuvoston-asetukseksi-vesienhoidon-jarjestamisesta-annetun-valtioneuvoston-asetuksen-muuttamisesta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1588,7 +1605,6 @@ Jenny Jyrkänkallio-Mikkola Sisävesivastaava
 
 Julkaistu: 19.6.2025  
 Aiheet: Itämeri, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/1/7/zh5behw6q9of2ptxwsfmvv/sova_arviointisuunnitelma_merituulivoima_wwf.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1619,7 +1635,6 @@ Vanessa Ryan Meriasiantuntija
 
 Julkaistu: 18.6.2025  
 Aiheet: Itämeri, Lohi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/8/n/dg4quokleq7wo8zox1davh/wwflausunto_kalastuskiintiot_mmv_11062025.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1664,7 +1679,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 18.6.2025  
 Aiheet: Ennallistaminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/b/8/c7iolf6pnrhghe496zqgy2/wwf-lausunto-ennallistaminen-sova.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1685,11 +1699,38 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto 3
 
 ---
 
+### WWF:n vastaus maa- ja metsätalousministeriölle liittyen komission tiedonantoon: “Kestävää kalastusta EU:ssa, tilannekatsaus ja suuntaviivat vuodeksi 2026”
+
+Julkaistu: 18.6.2025  
+Aiheet: Itämeri, Lohi, Suomi  
+Linkki: https://wwf.fi/app/uploads/6/u/m/hoon5pcs5fxkf1wqdaaufu/wwf_eu17_kirjallinen_menettely_10062025.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 Faksi: (09) 7740 2139 www.wwf.fi, www.panda.org
+
+Maa- ja metsätalousministeriö 10.6.2025 VIITE:
+
+ASIA:
+
+EU17 Kalastusjaoston kirjallinen menettely 9.-10.6.2025 - Perusmuistio; Komission tiedonanto: Kestävää kalastusta EU:ssa, tilannekatsaus ja suuntaviivat vuodeksi 2026. WWF Suomen kirjalliset kommentit
+
+WWF kiittää lausuntomahdollisuudesta ja toteaa lausuntonaan seuraavaa: WWF painottaa, että Itämeren kalakantojen monivuotinen hoitosuunnitelma ei ole toiminut toivotulla tavalla. Tämä näkyy kalakantojen taantumisena, siitä huolimatta, että kalastuksen säätelyssä on pääosin noudatettu hoitosuunnitelman periaatteiden mukaista tieteellistä neuvonantoa. Kalakantojen taantuminen ja pysyminen MSY-tason alapuolella ilmentää sitä, että nykyinen neuvonanto, hoitosuunnitelma ja päätöksenteko eivät riittävässä määrin huomioi meriympäristössä tapahtuvia nopeita muutoksia, eivätkä ohjaa kantojen elpymiseen. Neuvonanto ja päätöksenteko eivät myöskään heijasta kaikkia yhteisen kalastuspolitiikan oikeudellisia vaatimuksia ja tavoitteita, kuten ekosysteemilähtöistä kalastuksensäätelyä (art. 2.3), varovaisuusperiaatetta (art. 2.2) sekä monivuotisessa hoitosuunnitelmassa määriteltyjä turvarajoja (MAP:n art. 4.6). WWF on erityisen huolissaan valtioneuvoston yksioikoisesta kannasta olla noudattamatta Itämeren kalakantojen monivuotisessa hoitosuunnitelmassa määriteltyjä turvarajoja (art. 4.6, ns. 5%-sääntö) ilman sen tarkempia perusteita. Hoitosuunnitelmassa määritellyt turvarajat ovat tärkeä osa olemassa olevaa lainsäädäntöä, jonka laiminlyömisellä voi olla vakavia biologisia, juridisia ja taloudellisia vaikutuksia. WWF katsoo, ettei valtioneuvoston kanta sellaisenaan ole Suomen kokonaisedun ja kestävän kalastuksen mukaista, eikä tarjoa riittäviä perusteluita tai vaihtoehtoja päätöksenteon tueksi. WWF ymmärtää ja allekirjoittaa, että monivuotisen hoitosuunnitelman turvarajoihin ja niiden soveltamiseen liittyy tulkintaeroja ja epäselvyyksiä. Sen vuoksi olisi tärkeää, että Suomi pyrkisi omilla toimillaan selkiyttämään tulkintaeroja ja toimimaan siten, että monivuotinen hoitosuunnitelma vastaisi nykyistä paremmin kalakantojen elvyttämisen ja kalastuksen säätelyn tarpeita. WWF korostaa, että Itämeren kalakantojen taantuminen on seurausta voimakkaan kalastuksen ja Itämeren ekosysteemissä ja ravintoverkoissa tapahtuneiden muutosten yhteisvaikutuksesta. Taantuneiden ja vaarassa olevien kalakantojen runsautta tulee kasvattaa, jolloin kantojen puskurikyky ympäristömuutoksia vastaan kasvaa. Kalakantojen heikko tilanne edellyttää nykyistä maltillisempia saaliskiintiöitä sekä kalastuksen tarkempaa alueellista ohjaamista. On
+
+välttämätöntä säädellä kalastusta niin, että kalastuskiintiöitä ei katsota vain säätelyaluekohtaisesti, vaan kalastuksen vaikutukset osapopulaatioihin, muihin lajeihin ja koko ekosysteemiin otetaan huomioon. Helsingissä 10.6.2025 Maailman Luonnon Säätiö (WWF) Suomen Rahasto
+
+Elina Erkkilä Suojelujohtaja
+
+Matti Ovaska Johtava kalastuksen asiantuntija
+
+Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
+
+---
+
 ### WWF:n lausunto kalastuskiintiöistä eduskunnan ympäristövaliokunnalle
 
 Julkaistu: 18.6.2025  
 Aiheet: Itämeri, Lohi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/s/z/mibbtpshgimrbvh1pbntbt/wwflausunto_kalastuskiintiot_ymv_12062025.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1739,7 +1780,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 Julkaistu: 16.6.2025  
 Asiakirjan päiväys: 13.6.2025  
 Aiheet: Energiatehokkuus, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/r/8/okwemx3niduexf5d33svd5/20250616_wwf_lausunto_rakennusten_energiamuotojen_kertoimien_lukuarvoista.pdf
 
 WWF Suomi Lausunto 13.06.2025
@@ -1761,7 +1801,6 @@ Lausuntopalvelu.fi
 Julkaistu: 16.6.2025  
 Asiakirjan päiväys: 13.6.2025  
 Aiheet: Energiatehokkuus, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/g/m/e776bkdre5jy7hcdbdyau6/20250616_wwf_lausunto_uuden_paastottoman_rakennuksen_energiatehokkuudesta.pdf
 
 WWF Suomi Lausunto 13.06.2025
@@ -1841,7 +1880,6 @@ Lausuntopalvelu.fi
 Julkaistu: 16.6.2025  
 Asiakirjan päiväys: 13.6.2025  
 Aiheet: Energiatehokkuus, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/u/6/yhgaz26jtdmllxwpu4057a/20250616_wwf_lausunto_rakennuksen_energiatehokkuuden_parantamisesta_korjausjamuutostoissa.pdf
 
 WWF Suomi Lausunto 13.06.2025
@@ -1874,7 +1912,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 3.6.2025  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/t/d/yem2rmcfjxj0czr6jsjlsa/wwf_lausunto_jarvitaimen_toimenpideohjelma_30052025.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1909,7 +1946,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 2.6.2025  
 Aiheet: Suomi, Ahma, Arktinen, Ilmastonmuutos, Ilves, Karhu, Luonnon köyhtyminen, Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/4/3/b/1xippv0ec3j0pkti76ppv4/wwf-lausunto-mmm-poronhoitolain-muuttaminen-vn-7326-2024.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1942,7 +1978,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 ### WWF:n lausunto ympäristöministeriölle jätelain muuttamisesta nikotiinipussien osalta
 
 Julkaistu: 30.5.2025  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/8/8/b3i18z6uqk0e5rp74aotar/wwf-suomen-lausunto-jatelain-muuttaminen-nikotiinipussit-2025-05-30.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1963,11 +1998,28 @@ Jussi Nikula suojelun neuvonantaja
 
 ---
 
+### Luontohyötyjä laitumelta -aamiaisseminaarin ohjelma 11.6.2025
+
+Julkaistu: 28.5.2025  
+Aiheet: Perinneympäristöt, Ruoka, Suomi  
+Linkki: https://wwf.fi/app/uploads/6/q/6/921nwhj5o9h1cj6iukowj2/ohjelma_luonnonlaidunliha-aamiaisseminaari-2025-v9.pdf
+
+WWF Suomen ja maa- ja metsätalousministeriön aamiaisseminaari
+
+Luontohyötyjä laitumelta
+
+Miten luonnon monimuotoisuutta edistävän luonnonlaidunlihan tuotanto ja kulutus saadaan kasvuun Suomessa? Musiikkitalon Terassilämpiössä 11.6.2025 klo 9.00-11.30 Luonnonlaidunlihaa saadaan eläimistä, jotka laiduntamalla estävät niittyjä ja muita uhanalaisia perinneympäristöjä kasvamasta umpeen. Hoidettujen perinneympäristöjen pinta-alaa tulee lisätä Suomessa huomattavasti, ja luonnonlaidunliha tarjoaa markkinoille tavan osallistua tähän työhön. Olette tervetullut ympäristöjärjestö WWF:n ja maa- ja metsätalousministeriön järjestämään aamiaisseminaariin kuulemaan luonnonlaidunnuksen ympäristöhyödyistä sekä luonnonlaidunlihan tuotannon ja kulutuksen tulevaisuudennäkymistä Suomessa. Miksi ilmastopäästöistään kuuluisat naudat ovatkin luonnonlaitumilla ympäristöteko? Miten tällaista lihaa saataisiin Suomessa kaupan hyllyille ja lisää myös ravintoloiden listoille? Entä miten asiassa on onnistuttu Ruotsissa?
+
+Ohjelma 9.00-9.30 Aamun kahvitori Musiikkitalon Parvilämpiössä (Mannerheimintie 13 A): Kahvi, tee ja jäävesi, vegaaninen kahvileipä, jonka lisukkeeksi erikseen tarjolla luonnonlaidunlihaa (naudan paahtopaisti), vegaaninen smoothie 9.30-11.30 Avaussanat Markku Sipi, toimittaja, Yle Luonto Perinneympäristöjen ja luonnonlaidunnuksen tilanne Suomessa Eeva-Liisa Korpela, suojeluasiantuntija, WWF Suomi Tuloksia sertifioidun luonnonlaidunlihan tuottamisen ja myynnin edistämisestä Suomessa -hankkeen selvityksestä Tuuli Orasmaa, maa- ja metsätalousministeriö ja Laura Varjotie, Pyhäjärvi-instituutti How Swedish certified Pasture Beef made it on to the supermarket shelves? Anna Jamiesson, Verksamhetsledare, Naturbeteskött i Sverige (etänä)
+
+Paneelikeskustelu: Luonnonlaidunlihan tuotannon ja kulutuksen mahdollisuudet ja haasteet Keskustelijat Ari Ruoho (keittiöpäällikkö, ravintola Nokka), Fredrik von Limburg Stirum (Kosken kartano, tuottaja, nauta), Jarmo Latvanen (Tolvilan kartano, tuottaja, lammas), Kim Roslund (toimitusjohtaja, lihakauppa Roslund). Paneelikeskustelun vetää Markku Sipi. Loppupuheenvuoro Markku Sipin haastateltavana Pekka Pesonen, kansliapäällikkö, maa- ja metsätalousministeriö. Tilaisuuden päätteeksi esiintyjät median haastateltavissa (n. 30 min)
+
+---
+
 ### WWF:n lausunto eduskunnan valtiovarainvaliokunnan verojaostolle tuloverolain muuttamisesta
 
 Julkaistu: 22.5.2025  
 Aiheet: Suomi, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/0/i/wotanmgu03iexkrz71v84s/lausunto-wwf-20-5-2025.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1992,7 +2044,6 @@ Bernt Nordman Ilmasto-ohjelman johtaja
 
 Julkaistu: 20.5.2025  
 Aiheet: Karhu, Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/4/h/c146re2723mexnie7kbre8/wwf-lausunto-mmm-karhun-hoitosuunnitelma-250520_666512195.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2040,7 +2091,6 @@ Flagstadt, O., Flagstadt,Ø. 2021: Restoration of transborder connectivity for F
 
 Julkaistu: 15.5.2025  
 Aiheet: Perinneympäristöt, Ennallistaminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/l/1/ex1zvly91c05efgxj3gu6o/ymparistovaliokunta_lausunto_150525_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2085,7 +2135,6 @@ Eeva-Liisa Korpela Suojeluasiantuntija WWF Suomi Puhelin: 044 5655 165 Sähköpo
 
 Julkaistu: 15.5.2025  
 Aiheet: Suomi, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/4/t/c/std18ct2qfb7d8rb7yrqz2/wwf-lausunto-mmm-haahka-250515-valmis.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2108,7 +2157,6 @@ Petteri Tolvanen ohjelmajohtaja
 
 Julkaistu: 12.5.2025  
 Aiheet: Virtavedet, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/2/7/e912wlkegppico2cs990zg/wwf_lausunto_esavi_43156_2024_imatrankoski.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2163,7 +2211,6 @@ Lähteet:
 
 Julkaistu: 12.5.2025  
 Aiheet: Virtavedet, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/1/d/jmrd8r767py7wwiuuvctrd/wwf_lausunto_esavi_43147_2024_tainionkoski.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2218,7 +2265,6 @@ Lähteet:
 
 Julkaistu: 8.5.2025  
 Aiheet: Itämeri, Lohi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/1/v/btgwcx3fogjp6u69shdaqo/wwf_lausunto_vn11358_2025_lohenkalastuksen_rajoitukset.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2259,7 +2305,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 7.5.2025  
 Aiheet: Suomi, Luonnon köyhtyminen, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/7/c/uxtviqz10lycr03og0g957/wwf-lausunto-eduskunta-suuri-valiokunta-omnibus-u13-2025.pdf
 
 ---
@@ -2271,7 +2316,6 @@ Linkki: https://wwf.fi/app/uploads/e/7/c/uxtviqz10lycr03og0g957/wwf-lausunto-edu
 Julkaistu: 28.4.2025  
 Asiakirjan päiväys: 25.4.2025  
 Aiheet: Energiatehokkuus, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/8/k/jnxoq3dixdg0zin3m9eytp/wwf-lausunto_rakentamislaista_paastoton_rakennus.pdf
 
 WWF Suomi Lausunto 25.04.2025
@@ -2306,7 +2350,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 25.4.2025  
 Aiheet: Suomi, Ilves, Karhu  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/q/k/iiivqkijv8xatgdibna7fs/wwf-lausunto-mmv-hallituksen-esityksesta-metsatyslain-41-n-muuttamisesta-250423.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2341,7 +2384,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto
 
 Julkaistu: 25.4.2025  
 Aiheet: Susi, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/4/n/d/jbnlhbd4h1f9ci9mwjhvcc/wwf-lausunto-ymparistovaliokunnalle-suden-suojelustatuksen-muuttamisesta-250423.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -2410,7 +2452,6 @@ Jari Luukkonen WWF Suomi, pääsihteeri
 
 Julkaistu: 9.4.2025  
 Aiheet: Suomi, Ilmastonmuutos, Suomen metsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/w/n/cat21po61xvck0ex07egeh/20250409_lausunto_tuloverolain_muuttamisesta_metsavahennys.pdf
 
 WWF Suomi Lausunto 09.04.2025
@@ -2441,7 +2482,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 2.4.2025  
 Aiheet: Suomi, Ruoka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/s/p/p/9cu3s4aux3hwub44pclb9/wwfn-lausunto-e-62025-vp-valtioneuvoston-selvitys-komission-tiedonanto-maatalouden-ja-ruoan-visiosta_suuri-valiokunta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2476,7 +2516,6 @@ Jansik, C., Kaukovirta, A., Knuuttila, M., Kohl, J., Koivisto, A., Lehtonen, H.,
 
 Julkaistu: 2.4.2025  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/9/p/c/wijpm16akxw986ls55tfyv/wwfn-lausunto-maatalouden-tuotannosta-irrotetuista-suorista-tuista-annetun-valtioneuvoston-asetuksen-muuttamisesta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI

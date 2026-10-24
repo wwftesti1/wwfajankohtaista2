@@ -35,7 +35,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 10.10.2024 – Onni Borgin perhe suojelee luontoa jo kolmannessa sukupolvessa
 - 10.10.2024 – Kuuntele lokakuun WWF-lehden jutut!
 - 10.10.2024 – Ennallistamalla elvytämme luontoa
-- 7.10.2024 – Luontopakopeli metsän kätkössä:”Pääsemmekö ikinä pois!”
+- 7.10.2024 – Luontopakopeli metsän kätkössä: “Pääsemmekö ikinä pois!”
 - 7.10.2024 – Luonto on sodan hiljainen uhri – WWF Ukrainan työ jatkuu sodasta huolimatta
 - 7.10.2024 – Linnustokartoituksia luonnon puolesta
 - 1.10.2024 – Outi Pyyn kolumni: Kuluttajan syyllistyminen on kulutuskeskustelun savusilli
@@ -55,7 +55,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 6.6.2024 – Kapula vaihtoon naalinsuojelussa – Metsähallituksen Tuomo Ollila jäi eläkkeelle
 - 6.6.2024 – Julia Thurénin kolumni: Ihmiset provosoituvat, kun annan metsän olla
 - 6.6.2024 – Eläinkuvaaja Ossi Saarinen haluaa olla myös luonnonsuojelija
-- 6.6.2024 – 16 vuotta suojelutyötä orankien kotisaarella –”Toivon, että metsät säilyvät tuleville sukupolville”
+- 6.6.2024 – 16 vuotta suojelutyötä orankien kotisaarella – “Toivon, että metsät säilyvät tuleville sukupolville”
 
 **Maaliskuu 2024**
 
@@ -69,7 +69,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 15.3.2024 – Meriajokasniityissä on valtameren rytmi
 - 15.3.2024 – Jäljet kertovat
 - 15.3.2024 – Ismo Marttinen on saimaannorpan luottosuojelija
-- 13.3.2024 – ”Kun sataa syntymälumi” – uhanalainen saimaannorppa inspiroi kirjailija Henriikka Tavia
+- 13.3.2024 – “Kun sataa syntymälumi” – uhanalainen saimaannorppa inspiroi kirjailija Henriikka Tavia
 - 13.3.2024 – Kaivuriurakoitsijasta kuoriutui kosteikkotaiteilija
 - 13.3.2024 – Emma Karin kolumni: Yritysten on ryhdyttävä ympäristöaktivisteiksi
 - 11.3.2024 – Viherpesu kieltoon EU-maissa, naalinsuojelulle tunnustusta ja muita tuoreita onnistumisia
@@ -888,7 +888,7 @@ Työtä riittää, mutta niin riittää toivoakin ennallistamisasetuksen kaltais
 
 ---
 
-### Luontopakopeli metsän kätkössä:”Pääsemmekö ikinä pois!”
+### Luontopakopeli metsän kätkössä: “Pääsemmekö ikinä pois!”
 
 Julkaistu: 7.10.2024  
 Aiheet: WWF-lehti, Ympäristökasvatus  
@@ -1342,7 +1342,7 @@ Samaisella puolen vuoden tauolla hän on yhä, viisi vuotta myöhemmin.
 
 ---
 
-### 16 vuotta suojelutyötä orankien kotisaarella –”Toivon, että metsät säilyvät tuleville sukupolville”
+### 16 vuotta suojelutyötä orankien kotisaarella – “Toivon, että metsät säilyvät tuleville sukupolville”
 
 Julkaistu: 6.6.2024  
 Aiheet: WWF-lehti, Borneo, Oranki, Sademetsät  
@@ -1753,7 +1753,7 @@ Suojelutoimet ovat turvanneet sitä, että erittäin uhanalaisen saimaannorpan k
 
 ---
 
-### ”Kun sataa syntymälumi” – uhanalainen saimaannorppa inspiroi kirjailija Henriikka Tavia
+### “Kun sataa syntymälumi” – uhanalainen saimaannorppa inspiroi kirjailija Henriikka Tavia
 
 Julkaistu: 13.3.2024  
 Aiheet: Saimaannorppa, Suomi  

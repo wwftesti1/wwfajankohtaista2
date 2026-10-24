@@ -1,9 +1,9 @@
 # WWF Suomi – Lausunnot 2014
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 34 (uusin 12.12.2014).
+Kohteita: 39 (uusin 12.12.2014).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 34 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 13 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -16,13 +16,17 @@ Huom: 34 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 21.11.2014 – WWF:n lausunto hallituksen esityksestä kalastuslaiksi (21.11.2014)
 - 21.11.2014 – WWF:n lausunto luonnoksesta Euroopan meri- ja kalatalousrahaston Suomen toimintaohjelmaksi (21.11.2014)
+- 13.11.2014 – WWF:n suositus ministereille: Vientiluotot hiili-intensiivisille hankkeille tulee lakkauttaa ennen ensi vuoden Pariisin ilmastokokousta (13.11.2014)
 
 **Lokakuu 2014**
 
+- 24.10.2014 – WWF:n kommentti kalataloushallinnon organisointiin liittyen (14.10.2014)
 - 24.10.2014 – WWF:n lausunto Euroopan meri- ja kalatalousrahastosta (7.10.2014)
 - 24.10.2014 – WWF:n lausunto Itämeren alueen ajoverkkokiellosta (7.10.2014)
 - 24.10.2014 – WWF:n lausunto Itämeren turska-, silakka- ja kilohailikantojen monivuotisesta hoitosuunnitelmasta (24.10.2014)
 - 24.10.2014 – WWF:n lausunto komission ehdotuksesta Itämeren kalastusmahdollisuuksista vuodelle 2015 (19.9.2014)
+- 21.10.2014 – WWF:n kirje Suomen pääministerille EU:n ilmasto- ja energiapolitiikasta (20.10.2014)
+- 6.10.2014 – WWF Suomen kirje Suomen eduskunnalle: Ei toisteta energiapolitiikan vanhoja virheitä (6.10.2014)
 
 **Elokuu 2014**
 
@@ -40,6 +44,7 @@ Huom: 34 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 13.6.2014 – WWF:n lausunto luonnoksesta MMM:n asetukseksi koskien metsähanhen metsästyksen kieltämistä (13.6.2014)
 - 13.6.2014 – WWF:n lausunto luonnoksesta MMM:n asetukseksi, joka koskee karhun suurimman saalismäärän asettamista metsästysvuodelle 2014-2015 (13.6.2014)
 - 13.6.2014 – WWF Suomen lausunto luonnoksesta ruokaketjun toiminnan edistämisen avustamisesta (13.6.2014)
+- 10.6.2014 – WWF Suomen suositukset koskien hiilihankkeita ja vientiluottoja (6.6.2014)
 
 **Toukokuu 2014**
 
@@ -79,7 +84,6 @@ Huom: 34 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 Julkaistu: 12.12.2014  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/5/2/qqbo24jafvgunxm5rhhm6rb/wwf-lausunto-luonnonsuojelurikos.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -146,7 +150,6 @@ FI/Kartat_ja_tilastot/Ympariston_tilan_indikaattorit/Luonnon_monimuotoisuus/Laho
 
 Julkaistu: 21.11.2014  
 Aiheet: Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/v/v/y/vl4su5fgujibrivjzlzkvke/ymv_kalastuslaki_211114_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -185,7 +188,6 @@ Lähteet:
 
 Julkaistu: 21.11.2014  
 Aiheet: Liikakalastus, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/r/i/j/fcv4ywjc65bdmrdgvzcn5yh/wwf_lausunto_emkr_211114.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -210,13 +212,60 @@ Matti Ovaska Suojeluasiantuntija
 
 ---
 
+### WWF:n suositus ministereille: Vientiluotot hiili-intensiivisille hankkeille tulee lakkauttaa ennen ensi vuoden Pariisin ilmastokokousta (13.11.2014)
+
+Julkaistu: 13.11.2014  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/c/v/y/7le2zefc5tjtwhanrnpmune/wwf-suositukset-koskien-hiilihankkeita-ja-vientiluottoja-marraskuu2014.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+12.11.2014 Arvoisat pääministeri Alexander Stubb, elinkeinoministeri Jan Vapaavuori ja ympäristöministeri Sanni Grahn-Laasonen WWF:n suositus: Vientiluotot hiili-intensiivisille hankkeille tulee lakkauttaa ennen ensi vuoden Pariisin ilmastokokousta – nyt on aika toimia Ensi viikolla OECD:n kokouksessa on jälleen mahdollista edistää vientiluottojärjestelyjen kehittämistä ilmastolle myönteiseen suuntaan. WWF toivoo Suomen edustavan edistyksellistä linjaa ja kannattavan energiahankkeiden ehtojen tiukentamista. Suomi on perustellusti tukenut Maailmanpankin, Euroopan investointipankin (EIB), Euroopan jälleenrakennus- ja kehityspankin päätöstä lakkauttaa kivihiilienergian tuet sekä tehnyt samansisältöisen kansallisen sitoumuksen. Nämä ennakkopäätökset osoittavat, että parempia energiaratkaisuja on olemassa kehitysmaiden kehittämiseksi. Kivihiileen perustuvan energiantuotannon julkisen taloudellisen tuen lopettaminen ei ole kuitenkaan vielä toteutunut. Esimerkiksi OECD-maiden vientiluottolaitoksien (OECD Export Credit Agencies) tuet hiiliprojekteille ulkomailla olivat 2,5-kertaa suuremmat kuin monenkeskisten kehityspankkien (Multilateral Development Banks) vastaavat tuet vuosina 2007–2013. OECD-maat ovat sitoutuneet edistämään julkisten vientiluottojen positiivisia ilmastovaikutuksia. Tämä on merkittävä mahdollisuus lopettaa OECD-vientiluottojärjestelyjen tuki kivihiilihankkeille ennen YK:n ilmastokokousta Pariisissa 2015, missä maailma arvioi kehittyneiden maiden johdonmukaisuutta ja kunnianhimoa. Olemme huolestuneita kuullessamme, että osa OECD-maista väittää tietynlaisten hiilivoimateknologioiden hillitsevän ilmastonmuutosta ja harkitsee runsaampia tukia näille teknologioille. Tämä on harhaanjohtava väite, ja se antaa vääränlaisen signaalin teollisuudelle, investoijille ja kehitysmaille – etenkin aikana, jolloin uusiutuvan energian ratkaisut kukoistavat kehitysmaissa. Oheisessa briefing-paperissa esitetään WWF:n analyysi seitsemästä konkreettisesta etenemisvaihtoehdosta ja niiden todennäköisistä vaikutuksista ilmastonmuutoksen torjuntaan. Paperissa todetaan, että runsaampi tuki tietyntyyppiselle hiilivoimalateknologialle on suuri ilmastoriski, minkä vuoksi tuet on hylättävä. Sen sijaan on olemassa useita myönteisiä vaihtoehtoja, kuten kunnianhimoinen Emission Performance Standard, joka olisi paras ratkaisu (kuten Euroopan investointipankki, IsoBritannia, Yhdysvallat ja Kanada ovat jo tehneet). Toivomme, että otatte suosituksemme huomioon asioista päättäessänne. Ystävällisin terveisin,
+
+Liisa Rohweder pääsihteeri WWF Suomi p. 040 840 7461
+
+© naturepl.com / Edwin Giesbers / WWF
+
+lisätiedot: Jussi Nikula ohjelmapäällikkö WWF Suomi p. 040 5959002 jussi.nikula@wwf.fi
+
+---
+
 ## Lokakuu 2014
+
+### WWF:n kommentti kalataloushallinnon organisointiin liittyen (14.10.2014)
+
+Julkaistu: 24.10.2014  
+Aiheet: Itämeri, Liikakalastus, Suomi  
+Linkki: https://wwf.fi/app/uploads/p/h/e/23o5jkfbxjje7v27nvtktya/kommentit_kalataloushallinnon-_organisointi_wwf-suomi.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Maa- ja metsätalousministeriö
+
+Puh: (09) 7740 100 Faksi: (09) 7740 2139 www.wwf.fi, www.panda.org
+
+14.10.2014
+
+VIITE: Kommenttipyyntö kalataloushallinnon organisointiin liittyen (2.10.2014) ASIA: WWF Suomen kommentit WWF kiittää kommentointimahdollisuudesta ja toteaa asiasta seuraavaa: WWF pitää keskeisenä, että kalataloushallinnon organisointia mietitään ennen kaikkea ELYkeskuksille suunnattujen tehtävien tuloksellisen ja tehokkaan hoitamisen kannalta. Kalatalous ELYjen määrän voimakasta vähentämistä on perusteltu eläköitymisellä ja resurssien pienenemisellä, mutta mm. kalastuslain uudistus ja kansallisten toimenpideohjelmien, kuten kalatiestrategian, tehokas toimeenpano tullee lisäämään kalataloushallinnon tehtäviä nykyisestä. Lisäksi Suomi on sitoutunut lopettamaan lajien biodiversiteetin vähenemisen vuoteen 2020 mennessä, mikä lisää tarvetta elvyttää uhanalaisia kalakantojamme. Näin ollen myös uusien henkilöiden palkkaaminen kalataloushallintoon on välttämätöntä. WWF näkee perusteltuna, että kalatalous ELYjen määrää vähennetään nykyisestä, mutta katsoo, että ehdotettu kolmen ELYn malli ei ole optimaalinen vaihtoehto kalataloushallinnon toimivuuden näkökulmasta. Myös muutoksen nopea aikataulu voi johtaa ongelmiin mm. kalastuslain uudistuksen toimeenpanon suhteen. Ehdotetussa mallissa WWF näkee ongelmallisena erityisesti suuret toimialueet, jotka voivat johtaa paikallisen tietotaidon sekä hallinnon tunnettavuuden heikkenemiseen. Tällä hetkellä ELY-keskusten vahvuus on oman alueensa vahva paikallistuntemus, joka on ensiarvoisen tärkeää mm. järkevän ja tarkoituksenmukaisen kalastuksensäätelyn sekä sujuvan sidosryhmäyhteistyön toteuttamiseksi. Uusia rekrytointeja tehtäessä tuleekin varmistaa, että ELY-keskusten vahva tuntemus eri maantieteellisten alueiden erityispiirteistä säilyy. Ehdotuksen mukaan valtakunnallisesti keskitettävät tehtävät sekä eräät Euroopan meri- ja kalatalousrahaston toimeenpanoon liittyvät tehtävät hoidettaisiin Uudenmaan ELYkeskuksessa. WWF tukee tätä ehdotusta ja katsoo, että valtakunnallisten tehtävien keskittäminen Helsinkiin parantaa hallinnon sujuvuutta ja helpottaa asioimista myös muiden kalatalousalan sidosryhmien, kuten valtakunnallisten ympäristöjärjestöjen kanssa. WWF katsoo tarpeelliseksi harkita Suomenlahden erottamista muusta rannikkoalueesta omaksi kokonaisuudekseen. Suomenlahti poikkeaa sekä elinkeinorakenteeltaan että kalatalousedun valvonnan tarpeiden suhteen muista rannikkoalueista. Suomenlahden alueella korostuvat mm. suuri vapaa-ajankalastuksen osuus, uhanalaiset kalakannat (meritaimen) sekä tuloksekas ja pitkäjänteinen yhteistyö virtavesien kunnostamisessa vapaaehtoispohjalta toimivien järjestöjen kanssa. Suomenlahdella on myös suuret vesistöihin kohdistuvat paineet asutuksen ja talouden keskittymisen vuoksi. Samalla elinkeinokalatalouden päätoimipaikka voitaisiin elinkeinon edustajien toivomuksen mukaisesti sijoittaa Turkuun, jolloin palvelut olisivat lähellä elinkeinokalatalouden asiakkaita.
+
+Maailman Luonnon Säätiö (WWF) Suomen Rahasto
+
+Jari Luukkonen Suojelujohtaja
+
+Sampsa Vilhunen Meriohjelman päällikkö
+
+Matti Ovaska Suojeluasiantuntija
+
+Lisätietoja: Matti Ovaska, Suojeluasiantuntija, p. 040 7273149, matti.ovaska@wwf.fi
+
+---
 
 ### WWF:n lausunto Euroopan meri- ja kalatalousrahastosta (7.10.2014)
 
 Julkaistu: 24.10.2014  
 Aiheet: Liikakalastus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/g/j/u/432bktvcmlch2iqd74tgpca/mmv_071014_wwf_he118_2014.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -245,7 +294,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 24.10.2014  
 Aiheet: Itämeri, Liikakalastus, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/g/k/dbtvwyvardlpqvisin6nbta/mmv_071014_wwf_e-90_2014_jatkokirjelma.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -272,7 +320,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 24.10.2014  
 Aiheet: Itämeri, Liikakalastus, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/i/2/hxszrdjhpnercj2l5347gqf/lausunto_monilajisuunnitelma_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -305,7 +352,6 @@ WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmis
 
 Julkaistu: 24.10.2014  
 Aiheet: Itämeri, Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/c/r/kt2y63zc3xpfd7xrfmcxcjb/lausunto_tac2015_wwf_19092014.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -338,13 +384,64 @@ Matti Ovaska Suojeluasiantuntija
 
 ---
 
+### WWF:n kirje Suomen pääministerille EU:n ilmasto- ja energiapolitiikasta (20.10.2014)
+
+Julkaistu: 21.10.2014  
+Aiheet: Ilmastonmuutos, Suomi  
+Linkki: https://wwf.fi/app/uploads/r/6/d/sxba75rb6dmkdejdrm2y2rb/wwf-kirje-eu-ilmasto-ja-energiapolitiikka.pdf
+
+WWF Lintulahdenkatu 10 FIN-00500 Helsinki
+
+Vastaanottaja: Tiedoksi:
+
+Pääministeri Alexander Stubb Ympäristöministeri Sanni Grahn-Laasonen Elinkeinoministeri Jan Vapaavuori
+
+Puh. 09 7740100 Faksi: 09 77402139 www.wwf.fi info@wwf.fi
+
+20.10.2014
+
+Aihe: Eurooppa-neuvoston kokous 23.-24.10.2014 / EU:n ilmasto- ja energiapolitiikka
+
+Hyvä Alexander Stubb, Eurooppa-neuvoston kokouksessa 23.-24. lokakuuta EU-jäsenvaltioiden johtajat kokoontuvat sopimaan vuoden 2020 jälkeisestä yhteisestä ilmasto- ja energiapolitiikasta. WWF uskoo, että kolmen toisiaan tukevan, sitovan ja kunnianhimoisen tavoitteen yhdistelmä pitää EU:n ilmastopolitiikan eturintamassa. Jotta tämä toteutuu, EU:n sisäisen päästövähennystavoitteen tulisi mielestämme olla vähintään 55 prosenttia, energiatehokkuustavoitteen vähintään 40 prosenttia ja uusiutuvan energian tavoitteen vähintään 45 prosenttia vuodelle 2030. Olemme todella syvästi huolissamme tällä hetkellä keskusteltavista tavoitteista, jotka ovat vain 40 prosenttia päästövähennyksille, 30 prosenttia energiatehokkuudelle ja 27 prosenttia uusiutuvalle energialle. Kunnianhimoinen ilmasto- ja energiapolitiikka on elintärkeää Suomen talouden uuden kivijalan, cleantech-sektorin ja sen viennin edistämisen kannalta. Suomen cleantech-sektorin tärkeimmät toimialat ovat energiatehokkuus ja uusiutuva energia. Jos näille toimialoille ei aseteta kunnianhimoisia, jäsenvaltiokohtaisia tavoitteita, on niiden kysynnän ennustettavuus heikkoa ja näin alan kasvu ja investoinnit kärsivät. Toisaalta liian löyhä, nyt ehdotettu 40 prosentin päästövähennystavoite, aiheuttaisi sen, että päästöluvalle ei olisi odotettavissa ainakaan seuraavaan kymmeneen vuoteen hintaa, joka ohjaisi pois kivihiili-investoinneista. Sinä, Alexander Stubb, lupasit tänä syksynä että nykyinen hallitus puhaltaa yhteen hiileen, mutta ei kivihiileen. Nyt on aika lunastaa tämä lupaus.
+
+Maailman luonnon säätiö (WWF) Suomen rahasto
+
+Jari Luukkonen Suojelujohtaja
+
+Hanna-Liisa Kangas Ilmastovastaava
+
+---
+
+### WWF Suomen kirje Suomen eduskunnalle: Ei toisteta energiapolitiikan vanhoja virheitä (6.10.2014)
+
+Julkaistu: 6.10.2014  
+Aiheet: Energiatehokkuus, Suomi  
+Linkki: https://wwf.fi/app/uploads/n/l/x/3vse22fb73fglzfkbe36nmg/wwf_kirje_energiapolitiikan_kokonaisuus.pdf
+
+WWF Lintulahdenkatu 10 FIN-00500 Helsinki
+
+Eduskunnalle
+
+Puh. 09 7740100 Faksi: 09 77402139 www.wwf.fi info@wwf.fi
+
+6.10.2014
+
+WWF Suomen kirje Suomen eduskunnalle: Ei toisteta energiapolitiikan vanhoja virheitä Pääministeri Alexander Stubb antaa huomenna tiistaina 7.10.2014 pääministerin ilmoituksen energiapolitiikan kokonaisuudesta eduskuntaan keskusteltavaksi. Suomessa onkin vihdoin aika keskustella energiapolitiikasta kokonaisuutena, jotta vältämme menneet virheet ja suuntaamme tulevaisuuteen. Suomessa on tähän mennessä käsitelty energiapolitiikkaa lähinnä yksi aihe tai investointi kerrallaan, jolloin kokonaisuus on unohtunut. Energiapolitiikan virheiden seurauksena Suomi on jäänyt jälkeen nopeasti kasvavilla uusiutuvan energian markkinoilla. Tutkimusten mukaan Suomi on yksi maailman parhaista maista puhtaan teknologian innovaatioiden tuottamisessa. Sijoituimme tuoreessa WWF:n ja Cleantech Groupin vertailussa toiselle sijalle 40 maan joukossa. Samalla Suomi on yksi maailman huonoimmista maista houkuttelemaan uusiutuvan energian investointeja. EY:n syyskuussa julkaisemassa vertailussa jäimme sijalle 37, kun mukana oli 40 maata. Vain Ukraina, Indonesia ja Venäjä pärjäsivät meitä huonommin. Olemme siis tehneet paljon oikein tutkimuksen ja kehityksen puolella, mutta samalla olemme monessa mielessä epäonnistuneet cleantech-kotimarkkinoiden luomisessa. Suomi tuottaa jo nyt merkittävän osan energiatarpeestaan uusiutuvalla energialla, käytännössä bioenergialla ja vesivoimalla. Näiden energiamuotojen käyttömahdollisuudet ovat kuitenkin rajallisia. Kasvumahdollisuuksia löytyy kuitenkin muualta. Suurimmat ja nopeimmin kasvavat maailmanmarkkinat ovat aurinkoenergialla (vuonna 2013 investoinnit 114 miljardia dollaria). Toiseksi suurimmat markkinat ovat tuulivoimalla (vuonna 2013 investoinnit 80 miljardia dollaria). Molempien kapasiteetti on Suomessa vielä hyvin pientä. Vientipotentiaalin vuoksi aurinko- ja tuulivoimaan ja näiden tasapainottamiseen, siirtoon ja varastointiin liittyvät teknologiset innovaatiot ja palvelukonseptit ovat järkevä kansallinen panostuskohde. Aurinkopaneelien kustannukset ovat tippuneet viimeisten viiden vuoden sisällä 75 prosenttia. Tuoreimman asiantuntija-arvion mukaan Suomessa on tällä hetkellä noin 3 MW verkkoon kytkettyä aurinkosähkökapasiteettia. Saksassa vastaava luku on yli 10 000-kertainen. Suomessa ja Saksassa on vuositasolla yhtä hyvät mahdollisuudet tuottaa aurinkoenergiaa. Aurinkosähkön lisäksi myös aurinkolämmön käyttöönottopotentiaali on Suomessa suuri. Tuulivoimarakentaminen on lähtenyt Suomessa vihdoin käyntiin. Silti olemme edelleen aivan eri mittaluokassa kuin naapurimaamme. Esimerkiksi Tanskassa oli Suomen nykykapasiteetin verran tuulivoimaa jo vuonna 1990 ja Ruotsissa on nyt noin kymmenkertainen tuulivoimakapasiteetti Suomeen verrattuna. Tuulivoiman osuus Suomen sähköntuotannosta on tällä hetkellä prosentin luokkaa. Käytännön politiikan nojatessa suurhankkeisiin on vaihtoehtoisten sähköntuotantomuotojen ja energiatehokkuuden edistyminen hidastunut esimerkiksi byrokratiaviidakon ja puutteellisen poliittisen ohjauksen vuoksi. Rakenteilla olevat suurhankkeet vaikuttavat myös markkinoihin syöden tilaa muulta tuotannolta. Suomella on nyt mahdollisuus tarkastella energiapolitikkaa kokonaisuutena. Mikä voisi olla optimaalinen sähkön- ja lämmöntuotannon rakenne maassamme? Miten suunnittelemme kesä- ja talviaikaisen tuotannon tukemaan toisiaan mahdollisimman hyvin? Millaisia sähkön siirto- ja varastointimenetelmiä meidän kannattaa ottaa käyttöön ja kehittää vientimarkkinoille? Miten saamme tehtyä Suomesta cleantechin näyteikkunan? Mitä poliittisia päätöksiä meidän pitää tehdä nyt, jotta etenemme kohti täysin uusiutuvan energian tulevaisuutta? Teknologia on jo olemassa, nyt meidän tulee ottaa se käyttöön.
+
+Maailman luonnon säätiö (WWF) Suomen rahasto
+
+Jari Luukkonen Suojelujohtaja
+
+Hanna-Liisa Kangas Ilmastovastaava
+
+---
+
 ## Elokuu 2014
 
 ### WWF:n lausunto luonnoksesta koskien rakennusten energiatehokkuutta (11.8.2014)
 
 Julkaistu: 11.8.2014  
 Aiheet: Energiatehokkuus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/x/p/v/cflwmezam7kthesrop6dubb/wwf_laehes_nollaenergia_ym_0814.pdf
 
 WWF
@@ -369,7 +466,6 @@ Hanna-Liisa Kangas Ilmastovastaava
 
 Julkaistu: 11.8.2014  
 Aiheet: Itämeri, Liikakalastus, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/j/q/2a66ombh4nitqmtih54y6lb/ymv_100614_wwf_e76_2014.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -412,7 +508,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 11.8.2014  
 Aiheet: Itämeri, Liikakalastus, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/f/u/cq6quijhdpdvh6wdnmlqfjf/mmv_060614_wwf_kiintiot.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -456,7 +551,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 15.7.2014  
 Aiheet: Itämerennorppa, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/n/4/i/7mg3kxfa3bnjivtxxrnuvtf/wwf-lausunto-hylkeet-majava-saukko-mmm-140715.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -495,7 +589,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 11.7.2014  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/t/w/ca4nuzfhytgjdscbyrxe4rb/wwf-lausunto-metsaehanhi-hoitosuunnitelma-mmm-140711.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -526,7 +619,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 13.6.2014  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/y/5/a/zcvd6sfebddu5py3a52z3bg/wwf-lausunto-metsaehanhi-mmm-140618.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -549,7 +641,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 13.6.2014  
 Aiheet: Karhu, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/h/7/n6syxybfkjgynnpz6yzl65b/wwf-lausunto-karhu-mmm-140702.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -572,7 +663,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 13.6.2014  
 Aiheet: Ruoka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/h/6/eiuepjrcxlembfudgujfuwf/wwf-lausunto-ravinto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -591,13 +681,46 @@ Jussi Nikula Ohjelmapäällikkö
 
 ---
 
+### WWF Suomen suositukset koskien hiilihankkeita ja vientiluottoja (6.6.2014)
+
+Julkaistu: 10.6.2014  
+Aiheet: Energiatehokkuus, Ilmastonmuutos, Suomi  
+Linkki: https://wwf.fi/app/uploads/b/7/z/yc7lujbcdjpisleozxrxejf/wwf-suositukset-koskien-hiilihankkeita-ja-vientiluottoja-kesaekuu2014.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Arvoisat ministerit Vapaavuori ja Niinistö,
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+6.6.2014
+
+Vientiluotot hiili-intensiivisille hankkeille tulee lakkauttaa ennen ensi vuoden Pariisin ilmastokokousta – nyt on aika toimia Suomi on kansainvälisten tavoitteiden mukaisesti sitoutunut estämään vaarallisen ilmastonmuutoksen siten, että ilmaston lämpeneminen ei ylitä kahden asteen rajaa. Kansainvälisen energiajärjestön IEA:n mukaan sitoumuksen toteuttamiseksi kaksi kolmasosaa tunnetuista fossiilisista polttoainevaroista on jätettävä käyttämättä. Kivihiiltä energian lähteenä käyttävä energiantuotanto, oli kyseessä sitten perinteiset tai energiatehokkaimmat teknologiat, on ylivoimaisesti haitallisin energiantuotantomuoto ilmaston kannalta. Tämän vuoksi vientiluottolaitosten mahdollisuus rahoittaa kivihiilen käyttöön perustuvia energiahankkeita tulisi lakkauttaa tärkeänä osana laajempaa pyrkimystä poistaa julkinen rahoitus fossiilisille polttoaineille sekä hiili-intensiivisille hankkeille. WWF Suomi esittää, että, OECD-maiden tulee sitoutua lakkauttamaan julkinen tuki hiilihankkeille ja laajemmin kaikille hiili-intensiivisille hankkeille ennen YK:n COP21 ilmastokokousta Pariisissa 2015. Kannustamme Suomen hallitusta seuraaviin kiireellisiin toimenpiteisiin: •
+
+•
+
+Suomen hallituksen tulee välittömästi ja julkisesti sitoutua sulkemaan kaikki hiiliintensiiviset hankkeet, mukaan lukien hiilivoimalat, hiilikaivokset sekä niihin liittyvä infrastruktuuri, vientiluottorahoituksen ulkopuolelle. Suomen hallituksen tulee myös tukea yhteistä OECD-sopimusta hiiliintensiivisten hankkeiden, mukaan lukien hiilivoimaloiden, kaivosten sekä niihin liittyvän infrastruktuurin tukemisen lakkauttamiseksi OECD-maiden vientiluottolaitosten kautta. Tämä auttaisi varmistamaan yhtenäisen linjauksen OECD-maissa.
+
+Lähipäivinä (16.6.2014) järjestetään OECD-kokous Pariisissa, jossa OECD ECG (OECD, Export Credits Group) tulee mitä todennäköisimmin harkitsemaan Yhdysvaltojen ja Iso-Britannian ehdotusta avata prosessi hiili-intensiivisten hankkeiden (pääosin hiilivoimaloiden) rahoittamisen rajoittamisesta. Lisäksi EU-komissiossa valmistellaan EU:n ehdotusta koskien OECD:n vientiluottojen rahoitussääntöjä.
+
+© naturepl.com / Edwin Giesbers / WWF
+
+WWF Suomi toivoo, että Suomen hallitus
+• OECD-kokouksessa 16.6. tukee Yhdysvaltojen ja Iso-Britannian ehdotusta, joka koskee hiili-intensiivisten hankkeiden rahoittamisen rajoittamista käsittelevän prosessin avaamista. Suomen kanta on erityisen tärkeä, koska Finnveran Pekka Karkovirta toimii OECD ECG -työryhmän puheenjohtajana.
+• esittää peruslähtökohdaksi hiili-intensiivisten hankkeiden rahoituksen sulkemista vientiluottorahoituksen ulkopuolelle, kun komission ehdotus OECD:n vientiluottojen rahoitussäännöistä tulee ajankohtaiseksi. Tietojemme mukaan ministeriöiden välinen valmisteleva vientiluottotyöryhmä kokoontuu 10.6. keskustelemaan Suomen alustavista linjauksista koskien edellä mainittuja asioita. Toivomme, että edellä esittämämme toiveet otetaan keskusteluissa huomioon. Oheinen dokumentti, jonka on allekirjoittanut 38 järjestöä 14:sta maasta, selvittää miksi kattava sopimus hiilen sekä fossiilisten polttoaineiden tukien lopettamiseksi on ratkaisevan tärkeää. Kuten tiedetään, fossiilisten polttoaineiden varannot ovat huomattavasti suuremmat kun ilmastomme kannalta voidaan hyödyntää. Lisäksi IEA on todennut, että pysyäksemme 2°C globaalissa lämpötilan nousussa 50 % todennäköisyydellä, vuoden 2017 jälkeen on mahdollista kehittää vain hiilivapaata energiantuotantoa ja infrastruktuuria. Jopa 80 % vuoteen 2035 mennessä budjetoiduista päästöistä on jo lukittu nykyisiin voimalaitoksiin, tehtaisiin, rakennuksiin sekä palveluihin. Ilmastotieteen kannalta tarpeelliset toimet julkisen rahoituksen suhteen ovat selvät: julkinen rahoitus tulee välittömästi siirtää fossiilisilta polttoaineilta tukemaan energiansäästöä ja uusiutuvaa energiaa. Vuosina 2007 - 2013 julkiset rahoituslaitokset tukivat hiilihankkeita ulkomailla $51 miljardilla. Suurin osa tästä summasta on OECD-maiden vientiluottolaitosten rahoituksia, joiden osuus julkisesta tuesta tällä aikavälillä oli 63 % ( $32 miljardia). Kuluneen vuoden aikana Maailmanpankki, Euroopan investointipankki sekä Euroopan jälleenrakennus- ja kehityspankki ovat sitoutuneet lakkauttamaan tuet hiilihankkeille muissa kuin poikkeuksellisissa tilanteissa. Yhdysvallat, Iso-Britannia, Alankomaat sekä Pohjoismaat ovat tehneet samankaltaiset sitoumukset lakkauttaa julkiset tuet hiilihankkeille ulkomailla. Tämä sitoumus tulisi ulottaa koskemaan myös vientiluottoja. Suomen kohdalla vastuullisen linjausten tekemisen pitäisi olla erityisen helppoa, koska suomalaisilla yrityksillä ei ole merkittävissä määrin edellä mainittujen hiili-intensiivisten
+
+hankkeiden kaltaista vientitoimintaa tai ainakaan Finnvera ei ole tähän mennessä käytännössä myöntänyt vientiluottoja tai -takuita suomalaisten yritysten vastaavan tyyppisille vientihankkeille. Keskustelemme mielellämme näistä asioista lisää Teidän ja avustajienne kanssa. Ystävällisin terveisin,
+
+Liisa Rohweder pääsihteeri WWF Suomi p. 040 840 7461 lisätiedot: Jussi Nikula ohjelmapäällikkö WWF Suomi p. 040 5959002 jussi.nikula@wwf.fi
+
+---
+
 ## Toukokuu 2014
 
 ### WWF Suomen lausunto Helenin ympäristövaikutusten arviointiselostuksesta (7.5.2014)
 
 Julkaistu: 26.5.2014  
 Aiheet: Energiatehokkuus, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/q/r/s/fxhpao5f2blay6fdgvl73cb/helen_yva_wwf_hlk_ah.pdf
 
 WWF Lintulahdenkatu 10 FIN-00500 Helsinki
@@ -631,7 +754,6 @@ Aleksi Heiskanen Asiantuntija
 
 Julkaistu: 24.5.2014  
 Aiheet: Itämeri, Meret, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/x/m/j/id3ojbvfu7ilbfr2w246wtg/lausunto_wwf_23-5-2014.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -664,7 +786,6 @@ Sampsa Vilhunen Meriohjelman päällikkö
 
 Julkaistu: 22.5.2014  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/z/j/i5zh7obezpgsflhwyvihq7b/ym28_00_2014-lausunto_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -689,7 +810,6 @@ Sampsa Vilhunen Meriohjelman päällikkö
 
 Julkaistu: 7.5.2014  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/m/y/w6jprbjfxjd66wnvql3pzcc/wwf-suomen-lausunto-luonnoksesta-ilmastonmuutoksen-kansalliseksi-sopeutumisstrategiaksi-2022.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -714,7 +834,6 @@ Sanna Kuningas Meriasiantuntija
 
 Julkaistu: 6.5.2014  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/a/x/ln34ifvbgxna5esy5acxxvh/wwf-lausunto-etelaekonnevesi-140505.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -867,7 +986,6 @@ _(Ulkoinen linkki tai muu kuin tekstitiedosto – sisältöä ei poimittu.)_
 
 Julkaistu: 24.1.2014  
 Aiheet: Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/c/v/4s4uhjfdyjjrwao42xluxoa/kalastuslakilausunto_wwf_240114.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI

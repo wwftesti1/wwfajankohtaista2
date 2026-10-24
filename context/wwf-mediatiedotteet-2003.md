@@ -3,7 +3,6 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Mediatiedotteet). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 59 (uusin 12.12.2003).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 58 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -110,7 +109,6 @@ Huom: 58 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 Julkaistu: 12.12.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/12/milanon-ilmastokokous-loi-uskoa-kioton-poytakirjaan/
 
 **Tänään päättyneissä YK:n kansainvälisissä ilmastoneuvotteluissa saavutettiin yhteisymmärrys merkittävimmissä avoinna olleissa asiakohdissa.**
@@ -139,7 +137,6 @@ Sami Wilkman, Suomen WWF, +358 400 849 477
 
 Julkaistu: 27.11.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/11/wwfn-pandapalkinto-2003-heinolan-lintutarhalle-luonnonvaraisten-lintujen-hoitoon/
 
 **WWF:n 15.000 euron suuruinen Pandapalkinto on tänä vuonna myönnetty Heinolan lintutarhalle. Tarhalla hoidetaan luonnonvaraisia loukkaantuneita lintuja, ja hoidokit pyritään palauttamaan takaisin luontoon.**
@@ -176,7 +173,6 @@ Heinolan lintutarhasta sähköisesti WWF:stä tiedottaja Laura Saarilahdelta, pu
 
 Julkaistu: 27.11.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/11/jaatikoiden-sulaminen-voi-saada-miljardit-ihmiset-karsimaan-vesipulasta/
 
 **Jäätiköiden nopea sulaminen saattaa tulevaisuudessa aiheuttaa miljardeille ihmisille ympäri maailmaa pulaa vedestä, elleivät valtiot ryhdy pikaisiin toimenpiteisiin ilmaston lämpenemisen estämiseksi.**
@@ -205,7 +201,6 @@ Lisätietoja: WWF/Jari Luukkonen, puh. (09) 7740 1045, gsm 040 585 0020, [email 
 
 Julkaistu: 6.11.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/11/prestigen-aiheuttama-ymparistotuho-ei-ole-ohi/
 
 **Öljytankkeri Prestigen vuoden takaisen haverin aiheuttama kriisi ei ole ohi: sekä meriluonto että kalastus kärsivät edelleen öljyvahingosta. Tämä käy ilmi WWF:n tänään Lontoossa julkaisemasta raportista, jossa tarkastellaan Prestige-aluksen haverin aiheuttamia vahinkoja.**
@@ -238,7 +233,6 @@ Suomen WWF, meriasiantuntija Anita Mäkinen, [email protected], 040 527 1425, vi
 
 Julkaistu: 31.10.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/10/saimaannorpan-tutkimuksen-jatkuvuus-ja-rahoitus-turvattava/
 
 **WWF ja Joensuun yliopiston biologian laitos aloittivat maailman uhanalaisimman hylkeen saimaannorpan (Phoca hispida saimensis) suojelun ja tutkimuksen 1970-luvun lopussa. Työssä on saatu käytännön tutkimustietoa norpan ekologiasta, elinympäristövaatimuksista ja uhkatekijöistä norpan suojelutyön perustaksi.**
@@ -285,7 +279,6 @@ Tänään tarkastetaan Helsingin yliopiston Ekologian ja systematiikan laitoksel
 
 Julkaistu: 28.10.2003  
 Kirjoittaja: Meri Savonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/10/uhanalaisen-jokihelmisimpukan-suojelussa-viela-vakavia-puutteita/
 
 **”Jokihelmisimpukkaa sisältävien jokiekosysteemien entisöinti” -projektin tulokset julkistettiin tänään Helsingissä. Vuonna 1997 aloitetussa LIFE-Luonto -projektissa suojeltiin jokihelmisimpukkakantoja sekä niiden elinympäristöjä, luonnontilaisia ja osittain luonnontilaisia jokialueita.**
@@ -320,7 +313,6 @@ Materiaalipyynnöt: WWF/tiedottaja Laura Saarilahti; gsm 040 5569 860; [email pr
 
 Julkaistu: 21.10.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/10/wwfn-raportti-laittomat-hakkuut-suuri-ongelma-baltian-maissa-ja-venajalla/
 
 **Laittomat hakkuut ovat merkittävä ongelma Venäjällä ja Baltian maissa, käy ilmi WWF:n tänään julkaisemasta raportista. WWF vaatii, että EU:n on ryhdyttävä pikaisiin toimiin uusissa jäsenmaissa laittomien hakkuiden kuriin saattamiseksi ja niitä koskevan valvonnan tehostamiseksi.**
@@ -349,7 +341,6 @@ Lisätietoja: Suomen WWF, metsäpäällikkö Harri Karjalainen, GSM 040 563 7179
 
 Julkaistu: 13.10.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/10/inkoon-oljyturman-neljas-joutsen-kuoli/
 
 **WWF vaatii valtakunnallista suunnitelmaa mm. öljyonnettomuuksissa vahingoittuneiden luonnonvaraisten eläinten hoidon järjestämiseksi.**
@@ -372,7 +363,6 @@ viestintäpäällikkö Päivi Rosqvist, WWF, [email protected], 0400 425 666
 
 Julkaistu: 9.10.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/10/metso-kannustaa-turvaamaan-metsaisia-perinneymparistoja/
 
 **Maatalouden maankäytön muovaamat hakamaat, metsälaitumet, lehdesniityt ja kaskimetsät kasvavat ympäristöministeriön perinnemaisemaraportin mukaan kovaa vauhtia umpeen.**
@@ -411,7 +401,6 @@ Metsä vastaa –verkkosivuilla http://www.metsavastaa.net/index.cfm?docID=7793 
 
 Julkaistu: 25.9.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/09/pohjois-suomen-vanhojen-metsien-suojelu-etenee/
 
 **Suomessa jäi vuonna 1996 tehdyn Pohjois-Suomen vanhojen metsien suojelupäätöksen ulkopuolelle arvokkaita vanhoja metsiä. Niiden suojelua pyritään nyt parantamaan Suomen WWF:n, Suomen luonnonsuojeluliiton ja Metsähallituksen keskisessä neuvotteluprosessissa.**
@@ -440,7 +429,6 @@ Suomen WWF, Harri Karjalainen, GSM 040 5637179, [email protected]
 
 Julkaistu: 25.9.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/09/inkoossa-oljyyntyneet-joutsenet-vapauteen/
 
 **WWF vapauttaa tänään Inkoon viimeviikkoisessa öljyturmassa öljyyntyneet joutsenet. Joutsenet ovat tänään olleet perusteellisessa eläinlääkärin tarkastuksessa, jossa niiden kunto todettiin riittävän hyväksi. Joutsenperhe – vanhemmat ja yksi poikanen – pääsee takaisin kotiseudulleen Inkooseen.**
@@ -467,7 +455,6 @@ Lisätietoja: viestintäpäällikkö Päivi Rosqvist, Suomen WWF, 0400 425 666, 
 
 Julkaistu: 24.9.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/09/wwfn-vapaaehtoiset-lahtevat-auttamaan-tammisaaren-oljyturman-torjunnassa/
 
 **WWF lähettää vapaaehtoisia öljyntorjujiaan puhdistamaan Tammisaaressa eilen havaitun öljyvuodon seurauksena tahriintuneita rantoja. Inkoon viimeviikkoisessa öljyvuodossa tahriintuneet kyhmyjoutsenet viedään huomenna eläinlääkärin tarkastukseen.**
@@ -488,7 +475,6 @@ Lisätietoja öljyyntyneiden joutsenten hoidosta ja vapautuksesta: viestintäpä
 
 Julkaistu: 18.9.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/09/wwf-valmiina-auttamaan-inkoon-oljyonnettomuuden-vahinkojen-torjunnassa/
 
 **WWF on valmiudessa auttamaan Inkoossa sattuneen öljyonnettomuuden vahinkojen torjunnassa. WWF:n edustajat ovat onnettomuuspaikalla Inkoossa, tarkoituksenaan lähteä keräämään öljyyn tahriintuneita lintuja.**
@@ -509,7 +495,6 @@ WWF, suojelujohtaja Jari Luukkonen, gsm 040 585 0020
 
 Julkaistu: 17.9.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/09/kestavan-kehityksen-seminaari-keskiviikkona-17-9-2003/
 
 **Suomen WWF, ulkoasiainministeriö ja Suomen Kestävän kehityksen toimikunta järjestävät tänään 17.9.2003 klo 14.00 – 16.30 seminaarin The Role of Finland in Promoting Sustainable Development (Suomen merkitys kestävän kehityksen edistäjänä). Seminaarissa tarkastellaan, miten Suomi on aloittanut vuosi sitten pidetyn Johannesburgin kestävän kehityksen huippukokouksen ohjelman täytäntöönpanon.**
@@ -586,7 +571,6 @@ Chair of the Seminar: Sauli Rouhinen, Secretary General, The Finnish National Co
 
 Julkaistu: 10.9.2003  
 Kirjoittaja: Meri Savonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/09/itamerennorppa-on-saaristomerella-uhanalainen/
 
 **WWF selvitti viime keväänä ja kesänä yhdessä Saaristomeren kansallispuiston kanssa itämerennorpan (Phoca hispida botnica) esiitymistä Saaristomeren alueella. Kartoitus oli jatkoa viime vuonna aloitetulle hankkeelle.**
@@ -635,7 +619,6 @@ För mera information: Mikael Nordström, gsm 0400 445 234
 
 Julkaistu: 3.9.2003  
 Kirjoittaja: Meri Savonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/09/wwfn-pandapalkinto-haettavana-viidetta-kertaa/
 
 **WWF julistaa haettavaksi vuoden 2003 Pandapalkinnon, jonka tarkoituksena on palkita ja edistää aktiivisia luonnon- ja ympäristönsuojeluhankkeita. Palkintoja voidaan antaa yksi tai useampia, summaltaan yhteensä 15.000,00 euroa. Hakijana voi olla yksi tai useampi henkilö, yritys tai yhteisö.**
@@ -656,7 +639,6 @@ Lisätietoja: Pääsihteeri Timo Tanninen, puh. (09) 7740 1052, sähköposti [em
 
 Julkaistu: 1.9.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/09/tiedemiehet-varoittavat-itameren-tilasta/
 
 **Viime viikolla Helsingissä pidetyssä Itämeren merentutkijoiden kongressissa vahvistettiin monessa raportissa, että Itämeri on lähempänä vakavia ekosysteemin vaurioita kuin on oletettu.**
@@ -713,7 +695,6 @@ Helsingissä 28. elokuuta vuonna 2003 Baltic Sea Science Congress 2003 osanottaj
 
 Julkaistu: 27.8.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/08/lisaantynyt-salametsastys-ajaa-zimbabwen-sarvikuonot-ahdinkoon/
 
 **Ainakin 16 suippohuulisarvikuonoa ja useita norsuja on tapettu Zimbabwessa Matusadonan ja Hwangen kansallispuistoissa maaliskuun 2002 jälkeen. Zimbabwen kansallispuisto- ja luonnonsuojeluviranomaiset ovat lisänneet vartiointia, mutta työvoima-, polttoaine- ja varustepula vaikeuttavat toimintaa.**
@@ -742,7 +723,6 @@ WWF Southern Africa Regional Programme Office, puh. +263 4 703902
 
 Julkaistu: 22.8.2003  
 Kirjoittaja: Sari Keskinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/08/wwfn-vapaaehtoisten-oljyntorjuntajoukkojen-koulutus-alkaa/
 
 **WWF aloittaa 22.8. vapaaehtoisten öljyntorjuntajoukkojensa koulutuksen. Vapaaehtoisjoukot osallistuvat öljyonnettomuuden sattuessa mm. rantojen puhdistamiseen. Ensimmäisessä koulutustilaisuudessa Kotkassa julkistetaan myös WWF:n Öljyntorjuntaopas.**
@@ -777,7 +757,6 @@ WWF / tiedottaja Tuuli Äikäs, puh. (09) 774 010 51 tai 040 592 6532
 
 Julkaistu: 21.8.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/08/wwfn-kansainvalinen-itameren-suojeluohjelma-julkistettiin-tanaan-tukholmassa/
 
 **Itämeren suojelussa ei ole edistytty toivotulla tavalla. Siksi WWF on tehnyt Itämeren suojelemiseksi yhteisen toimintaohjelman kaikille Itämeren yhdeksälle rantavaltiolle.**
@@ -876,7 +855,6 @@ The Action Plan is revised annually to report on successes and to identify weakn
 
 Julkaistu: 31.7.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/07/wwfn-talkoovaki-kunnostaa-rantaniittyja-ja-hakamaata-highland-karjalle-hankoniemella/
 
 **WWF:n talkookesän kolmannella, Henriksbergissä pidettävällä talkooleirillä kunnostetaan rantaniittyjä ja niitä reunustavia hakamaita EU:n tuella laidunmaiksi. Uudenmaan ympäristökeskuksen kanssa järjestettävä viikon mittainen leiri alkoi viime lauantaina, ja kunnostustöissä ahkeroi lähes 20 vapaaehtoista 3.8. asti.**
@@ -909,7 +887,6 @@ WWF / projektipäällikkö Mikko Tiira, puh. 040 707 6668 Uudenmaan ympäristök
 
 Julkaistu: 4.7.2003  
 Kirjoittaja: Sari Keskinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/07/wwfn-vapaaehtoiset-ja-vammalan-soroptimistit-viikonlopputalkoissa-vammalan-vehmaanniemessa/
 
 **WWF:n vapaaehtoiset talkooleiriläiset työskentelevät Vehmaanniemen luonnonsuojelualueen niittyjen hyväksi jälleen tänäkin kesänä. Valtakunnallisesti arvokasta perinnemaisemaa kunnostetaan viikonlopun ajan 4.-6.7. yhdessä paikallisen Soroptimistiklubin jäsenten kanssa. Työt alkavat perjantaina puolenpäivän aikaan ja päättyvät sunnuntaina noin klo 15.00.**
@@ -940,7 +917,6 @@ WWF/ suojelujohtaja Jari Luukkonen, gsm 040 585 0020
 
 Julkaistu: 3.7.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/07/wwfn-vapaaehtoiset-kunnostavat-harvinaisia-lehdesniittyja-saaristomerella/
 
 **WWF:n kesän ensimmäisellä Saaristomerellä pidettävällä talkooleirillä jatketaan harvinaisten ja erittäin arvokkaiden lehdesniittyjen kunnostamista EU:n tuella Iniössä Salmisholmenin saarella. Yhdessä Metsähallituksen Etelä-Suomen luontopalveluiden kanssa järjestettävä viikon mittainen leiri alkoi viime perjantaina, ja kunnostustöissä ahkeroi lähes 20 vapaaehtoista.**
@@ -971,7 +947,6 @@ WWF / projektipäällikkö Mikko Tiira, puh. 040 707 6668
 
 Julkaistu: 1.7.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/07/merikotkien-poikastuotto-lahes-sama-kuin-viime-vuonna/
 
 **WWF:n merikotkaryhmä on saanut valmiiksi alustavan raporttinsa kuluvan vuoden merikotkien poikastuotosta. Poikasia tavattiin tänä vuonna 195, joista valtaosa rengastettiin värirenkain. Edellisenä vuonna tulos oli 192 poikasta. Tiedossa olevien pesivien parien määrä on vakiintunut runsaan 200:n paikkeille. Onnistuneita pesintöjä oli tänä vuonna 124 (118 vuonna 2002).**
@@ -994,7 +969,6 @@ WWF:n merikotkaryhmä on saanut valmiiksi alustavan raporttinsa kuluvan vuoden m
 
 Julkaistu: 27.6.2003  
 Kirjoittaja: Sari Keskinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/wwf-ja-metsahallitus-valkoselkatikoilla-hyva-pesintavuosi/
 
 **Metsähallituksen ja WWF:n seurantatutkimuksissa varmistettiin tänä kesänä 33 erittäin uhanalaisen valkoselkätikan pesintää, jotka tuottivat yhteensä 80-90 kuoriutunutta poikasta. Vuonna 1994 pesivä kanta oli pohjalukemissa; tuolloin pesiä löytyi vain 11. Tutkimusta koordinoiva valkoselkätikkatyöryhmä arvioi, että välitön kannan taantuminen on pysähtynyt.**
@@ -1255,7 +1229,6 @@ YHTEENSÄ
 
 Julkaistu: 25.6.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/wwf-venaja-torpedoi-muiden-itameren-maiden-hakemuksen-erityisen-herkasta-merialueesta/
 
 **Bremenissä Saksassa kokoontuneet Itämeren suojelukomission (HELCOM) ympäristöministerit eivät päässeet yksimielisyyteen siitä, että Kansainväliselle merenkulkujärjestölle (IMO) esitettäisiin Itämeren hakemista ns. PSSA-alueeksi (Particularly Sensitive Sea Area) eli erityisen herkäksi merialueeksi. Ehdotus kaatui Venäjän vastustukseen. WWF on jo pitkään vaatinut, että koko Itämeri pitäisi saada PSSA-alueeksi.**
@@ -1278,7 +1251,6 @@ WWF, meriasiantuntija Anita Mäkinen, gsm 040 5271 425
 
 Julkaistu: 25.6.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/wwf-ja-ccb-itamerelle-saatava-erityisen-herkan-merialueen-status/
 
 **WWF ja Coalition Clean Baltic vetoavat Bremenissä koolla oleviin Itämeren alueen ympäristöministereihin: Itämeren suojelua on tehostettava ja Itämerelle saatava erityisen herkän merialueen status – lue koko englanninkielinen vetoomus.**
@@ -1347,7 +1319,6 @@ Notes to editors:
 
 Julkaistu: 24.6.2003  
 Kirjoittaja: Sari Keskinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/wwf-euroopan-meriymparistot-huonosti-hoidettuja/
 
 **Euroopan maat eivät ole tehneet tarpeeksi Itämeren ja Koillis-Atlantin mereisten alueiden suojelemiseksi. Tehtyjä lupauksia siitä, että suojelua tehostettaisiin, ei ole lunastettu, ilmenee WWF:n tekemästä raportista North East Atlantic and Baltic Health Check. Raportti julkistettiin tällä viikolla Bremenissä pidettävässä ministerikokouksessa.**
@@ -1386,7 +1357,6 @@ WWF, meriasiantuntija Anita Mäkinen, gsm 040 5271 425
 
 Julkaistu: 18.6.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/nokia-ja-kansainvalinen-wwf-aloittavat-maailmanlaajuisen-ymparistoyhteistyon/
 
 **Nokia ja kansainvälinen WWF ovat allekirjoittaneet sopimuksen sidosryhmäkeskustelujen sekä Nokian työntekijöille suunnatun uuden ympäristökoulutuksen käynnistämisestä maailmanlaajuisesti. Sopimus on allekirjoitettu kolmeksi vuodeksi.**
@@ -1435,7 +1405,6 @@ WWF is the one of the world’s largest and most experienced independent conserv
 
 Julkaistu: 18.6.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/itameren-juhannusrauhalla-monta-uhkaa/
 
 **WWF julisti tänään 18.6. Jussarössä perinteisen juhannusrauhan lintuluodoille. WWF vetoaa juhannusjuhlijoihin, jotta he välttäisivät liikkumista lintujen pesimäluodoilla. Lintujen pesintä ja juhannuksen vietto osuvat samaan ajankohtaan, mutta hauskanpito onnistuu ilman luonnolle aiheutettua haittaa. Suomenlahden rannikolla juhannusrauhaa uhkaavat myös öljykuljetukset ja laittomat pilssivesipäästöt.**
@@ -1470,7 +1439,6 @@ Midsommarfrid skall du sjöfåglar unna, vid holmar och stränder undvika stoj. 
 
 Julkaistu: 16.6.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/allekirjoita-vetoomus-myrkyttoman-tulevaisuuden-puolesta/
 
 **Synteettisiä kemikaaleja on joka puolella ympärillämme. Vaikka olemme eläneet kemikaalien kanssa pitkään, niiden vaikutuksia ei tunneta tarpeeksi eikä niiden käyttöä valvota kattavasti. Euroopan unionin uusi lainsäädäntö voi kuitenkin muuttaa tilanteen. Nyt onkin aika vaikuttaa!**
@@ -1495,7 +1463,6 @@ Lisätietoja: Suojelujohtaja Jari Luukkonen, WWF puh. (09) 7740 1045 ja 040 585 
 
 Julkaistu: 12.6.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/suomeen-yritetaan-tuoda-yha-enemman-uhanalaisia-koralleja/
 
 **Euroopan komission uudet uhanalaisten eläinten ja kasvien kauppaa käsittelevät Internet-sivut on avattu EU:n kaikilla 11 virallisella kielellä, myös suomeksi ja ruotsiksi, osoitteessa http://www.eu-wildlifetrade.org. EU on Yhdysvaltojen ohella lemmikkeinä pidettävien lintujen, matelijoiden ja nisäkkäiden huomattavin maahantuoja maailmassa.**
@@ -1518,7 +1485,6 @@ Internet: EU:n sivut: http://www.eu-wildlifetrade.org WWF:n raportti “Henkens�
 
 Julkaistu: 12.6.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/highland-karja-hoitaa-perinneymparistoa-hangossa/
 
 **Highland-hiehot tekevät tärkeää työtä Hangon niityillä WWF:n kansainvälisessä, EU:n Luonnon Life -rahoitusta saavassa hankkeessa, jossa kunnostetaan arvokkaita perinneympäristöjä Suomessa, Ruotsissa ja Virossa.**
@@ -1551,7 +1517,6 @@ www.wwf.fi/life
 
 Julkaistu: 6.6.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/keskon-pirkka-team-vei-helsingin-ymparistosoutumestaruuden-2003/
 
 **Akademiska Roddklubben (ARK) ja WWF järjestivät soututapahtuman Itämeren puolesta Maailman ympäristöpäivänä 5.6. Helsingin soutustadionilla. Parhaiten soutu kirkkoveneillä sujui jo alkuerissä vakuuttavasti edenneeltä Keskon Pirkka-Teamilta, toiseksi sijoittui Hartwall ja kolmanneksi Fortumin joukkue.**
@@ -1574,7 +1539,6 @@ www.ark-rowing.fi
 
 Julkaistu: 4.6.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/pyoriaisesta-tehtiin-viime-kesanakin-havaintoja/
 
 **Viime kesänä pyöriäisestä saatiin kolme havaintoilmoitusta Suomen rannikkoalueilta. Vesillä liikkujia kehotetaan tänäkin kesänä ilmoittamaan mahdollisista pyöriäishavainnoistaan.**
@@ -1621,7 +1585,6 @@ Lisää pyöriäisestä internetissä
 
 Julkaistu: 3.6.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/06/wwf-ja-birdlife-kartoittivat-baltian-arvokkaat-metsat/
 
 **Suomen WWF ja Suomen BirdLife ovat yhteistyössä Baltian maiden luonnonsuojelujärjestöjen kanssa kartoittaneet Baltian arvokkaat metsät kaksi vuotta kestäneessä hankkeessaan. Baltic Forest Mapping -kartoituksen tulokset on kirjattu sähköisiin karttoihin ja tietokantaan, joiden toivotaan ohjaavan metsien suojelua, ekologista tutkimusta ja metsätalouden ja metsiensuojelun yhteensovittamista.**
@@ -1652,7 +1615,6 @@ Suomen WWF, projektikoordinaattori Petteri Tolvanen, 0400 168 939, metsäpääll
 
 Julkaistu: 20.5.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/05/perintometsat-lisaavat-vapaaehtoista-metsien-suojelua/
 
 **WWF, Stora Enso ja UPM-Kymmene julkistivat tänään Hirvensalmella yhteistyönsä Perintömetsätoiminnan edistämiseksi. Perintömetsä on WWF:n ohjelma, jonka tavoitteena on lisätä vapaaehtoista metsiensuojelua eri maanomistajaryhmien metsissä.**
@@ -1689,7 +1651,6 @@ WWF, viestintäpäällikkö Päivi Rosqvist,
 
 Julkaistu: 13.5.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/05/wwfn-kukanpaivan-tunnustus-rehtori-alfred-varkille/
 
 **WWF:n kasvityöryhmä palkitsi perinteisellä Kukanpäivän kunniakirjalla tänään rehtori Alfred Varkin ansiokkaasta työstään Kainuun ja erityisesti Vaalan sekä koko Pohjois-Suomen kasviston, uhanalaisten lajien ja soiden suojelun hyväksi.**
@@ -1712,7 +1673,6 @@ Lisätietoja: WWF:n kasvityöryhmän puheenjohtaja Tapio Rintanen, puh. (05) 357
 
 Julkaistu: 8.5.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/05/suomen-wwfn-hallintoneuvoston-tunnustuspalkinnot-2003/
 
 **Suomen WWF:n hallintoneuvosto on myöntänyt vuoden 2003 tunnustuspalkintonsa. Hallintoneuvoston puheenjohtaja Elisabeth Rehn luovutti tunnustuksen tänään 8.5.2003 WWF:n merikotkatyöryhmälle ja MTV3:n uutistoimitukselle.**
@@ -1781,7 +1741,6 @@ WWF, viestintäpäällikkö Päivi Rosqvist, 0400 425 666, (09) 7740 1040, [emai
 
 Julkaistu: 29.4.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/04/wwf-perusti-vapaaehtoiset-oljyntorjuntajoukot/
 
 **Suomen WWF on perustanut vapaaehtoiset öljyntorjuntajoukot. Fortum Oyj:n tuella perustettuihin joukkoihin koulutetaan ja varustetaan 50 ryhmänjohtajaa, jotka onnettomuustilanteessa voivat työllistää vapaaehtoisia viranomaisten määräysten mukaan. Lisäksi joukkoihin voi ilmoittautua muita vapaaehtoisia, joita voidaan onnettomuustilanteessa hälyttää torjuntatöihin. Öljyntorjuntajoukkojen perustaminen ja seminaari”Öljyonnettomuuden seuraukset” käynnistivät tänään Operaatio Merenneidon, WWF:n Itämeren suojelun suuroperaation, kolmannen toimintavuoden.**
@@ -1820,7 +1779,6 @@ Lisätietoa öljyntorjunnasta: WWF:n “Öljyonnettomuuden jäljet” -seminaari
 
 Julkaistu: 28.4.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/04/uusi-wwfn-metsatiedote-on-ilmestynyt/
 
 **WWF:n uusi metsätiedote on ilmestynyt. Tiedotteen aiheita ovat mm. Euroopan metsäministerien konferenssi, Suomen metsien suojelu eurooppalaisessa vertailussa, mielipidetutkimus eurooppalaisten metsiensuojelunäkemyksistä sekä Luoteis-Venäjän laittomat hakkuut.**
@@ -1837,7 +1795,6 @@ Suomen WWF, metsäpäällikkö Harri Karjalainen, (09) 7740 1055, 040 563 7179.
 
 Julkaistu: 22.4.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/04/wwf-vetosi-ministereihin/
 
 **Kalbådagrundin öljyvuotojen paljastuttua WWF nosti eilen esiin tarpeen kiirehtiä talousvyöhykkeen perustamista Suomen aluevesien ulkopuolelle. Tänään WWF vetosi niihin hallituksen ministereihin, jotka ovat asian tiimoilta avainasemassa, että hallitus saattaa pikaisesti eduskunnan käsittelyyn lakiesityksen talousvyöhykkeen julistamiseksi nykyisen aluevesirajan ulkopuolelle.**
@@ -1860,7 +1817,6 @@ Suomen WWF, pääsihteeri Timo Tanninen, 040 574 9266, meriasiantuntija Anita M�
 
 Julkaistu: 21.4.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/04/uuden-hallituksen-on-tehostettava-ja-kiirehdittava-laittomien-oljypaastojen-kuriinsaattamista/
 
 **WWF vaatii, että Suomen on pikaisesti tehostettava toimia, joilla laittomia öljypäästöjä voidaan valvoa, ja jotka mahdollistavat syytteiden nostamisen. Yksi tärkeä keino on niin sanotun talousvyöhykkeen perustaminen, jolloin Suomi voi puuttua aluevesiensä ulkopuolellakin tapahtuneisiin öljypäästöihin. Myös viranomaisten valvonta- ja tarkistusedellytyksiä on parannettava sekä aluevesillämme että niiden ulkopuolella. Suomi on Ruotsia jäljessä laittomien öljypäästöjen kuriin saattamisessa.**
@@ -1883,7 +1839,6 @@ WWF, meriasiantuntija Anita Mäkinen, GSM 040 527 1425, viestintäpäällikkö P
 
 Julkaistu: 2.4.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/04/sinilevamyrkyt-varastoituvat-itameren-ravintoverkkoon/
 
 **Jokakesäisissä sinileväkukinnoissa syntyvä sinilevämyrkky nodulariini varastoituu Itämeren ravintoverkon eri osiin. Kesän sinileväkukintojen aikana sitä kertyy etenkin Itämeren sinisimpukoihin ja sitä kautta simpukoita syövien kampeloiden ja haahkojen maksoihin. Tulokset käyvät ilmi Merentutkimuslaitoksen ja Åbo Akademin biokemian ja farmasian laitoksen yhteistutkimuksista, joissa vuonna 2002 olivat mukana WWF ja Helsingin yliopiston orgaanisen kemian laboratorio.**
@@ -1918,7 +1873,6 @@ WWF: meriasiantuntija Anita Mäkinen, 040 527 1425,
 
 Julkaistu: 1.4.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/04/uusi-kirja-itameresta-wwfn-ja-wsoyn-yhteistyona/
 
 **WWF ja WSOY julkistivat tänään 1.4.2003 uuden Itämeri-kirjan. Itämeren suojelu on viime vuosina ollut yhteinen asia koko Suomelle päättäjistä yrityksiin ja yksittäisiin kansalaisiin. Silti edellisen Itämeri -aiheisen kirjan ilmestymisestä on vuosia.**
@@ -1945,7 +1899,6 @@ Päivi Rosqvist, viestintäpäällikkö/WWF, [email protected], 0400-425 666
 
 Julkaistu: 25.3.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/03/wwf-ymparisto-on-alandsbankenille-aito-arvo/
 
 **Ålandsbankenin Luontotili on erinomainen esimerkki pankin mahdollisuuksista toteuttaa yhteiskuntavastuutaan, korostaa WWF. Ålandsbanken on jakanut Luontotilin bonusta jo viitenä vuotena. Näiden vuosien yhteenlaskettu bonussumma nousee jopa 224 300 euroon. Ålandsbankenin Helsingin, Ahvenanmaan, Turun ja Paraisten vuoden 2002 luontotilien bonus lahjoitettiin WWF:n Operaatio Merenneidolle, suurkampanjalle Itämeren puolesta.**
@@ -1990,7 +1943,6 @@ WWF, generalsekreterare Timo Tanninen, tfn (09) 7740 1052, 040 574 9266
 
 Julkaistu: 19.3.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/03/maailman-ymparistopaivana-5-6-soudetaan-itameren-puolesta/
 
 **Akademiska Roddklubben (ARK) ja WWF järjestävät soututapahtuman Itämeren puolesta torstaina 5.6. Helsingin soutustadionilla. Ympäristösoutu on yrityksille, yhteisöille ja muille porukka-joukkueille tarkoitettu leikkimielinen kilpailu, joka käydään kirkkoveneillä.**
@@ -2021,7 +1973,6 @@ Akademiska Roddklubben, Kjell Karlsson, 050 572 2318; WWF, viestintäpäällikk�
 
 Julkaistu: 11.3.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/03/wwf-euroopan-unionin-uudet-kalastussopimukset-afrikan-maiden-kanssa-yha-kyseenalaisia/
 
 **WWF:n tänään julkistama raportti osoittaa, että uudet sopimukset, joilla EU:n kalastuslaivasto saa oikeuden kalastaa Afrikan vesillä, ovat yhä vahvasti kyseenalaisia. Niin kalakannat kuin kalastajayhteisöt ovat vaarassa.**
@@ -2050,7 +2001,6 @@ Internet: “Kalastussopimukset kolmansien maiden kanssa – onko EU matkalla ke
 
 Julkaistu: 6.3.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/03/wwfn-raati-valitsi-vuoden-luontokirja-2002-on-lepakot-salaperaiset-nahkasiivet/
 
 **WWF on valinnut Vuoden Luontokirjaksi 2002 Markku Lappalaisen teoksen Lepakot – salaperäiset nahkasiivet. Sen on kustantanut Kustannusosakeyhtiö Tammi. Teoksen on taittanut Heikki Kalliomaa ja piirroskuvat ovat Ari Karhilahden käsialaa.**
@@ -2165,7 +2115,6 @@ Internet: www.panda-myynti.net, www.wwf.fi/ulkomaisetlajit
 
 Julkaistu: 28.2.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/02/wwfn-kysely-puolueet-haluavat-yksimielisesti-taata-itameren-hyvinvoinnin/
 
 **Suomen WWF:n tammi-helmikuussa tekemän kyselyn perusteella ehdokaspuolueet pitävät tärkeimpänä ympäristöteemana Itämeren suojelua. Lisäksi puolueet nostivat seuraavan vaalikauden tärkeiksi ympäristöteemoiksi ilmastomuutoksen hidastamisen. Etelä-Suomen metsien suojelua korostivat SDP, Vihreät, Vasemmistoliitto ja Kristillisdemokraatit. Kestävät tuotanto- ja kulutustavat olivat läheisiä SDP:lle, Vasemmistoliitolle ja SKP:lle.**
@@ -2194,7 +2143,6 @@ Meriasiat: meriasiantuntija Anita Mäkinen, 040 527 1425
 
 Julkaistu: 14.2.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/02/suomen-wwf-tekee-saastotoimia-tulojen-vajeen-takia/
 
 **Talouden tasapainottamiseksi Suomen WWF lomauttaa henkilökuntansa kuukaudeksi tänä keväänä. Lomautuksiin joudutaan, koska tulokertymä on jäänyt suunniteltua pienemmäksi. Suomen WWF:n menot kuluvalla tilikaudella ovat pysyneet budjetin mukaisena. Säästötarpeeksi on arvioitu noin 50 000 euroa.**
@@ -2219,7 +2167,6 @@ pääsihteeri Timo Tanninen, (09) 7740 1052, 040 574 9266
 
 Julkaistu: 11.2.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/02/pssa-statuksen-tarvitsevat-merialueet-ja-erityiskeinot-niiden-suojelemiseksi/
 
 **WWF ja Östersjöfonden esittävät, että Itämeren tai ainakin Suomenlahti, Saaristomeri ja Merenkurkku saavat erityisen herkän merialueen aseman. Tämän PSSA-aseman lisäksi näille merialueille on annettava erityissuojelumääräyksiä kuten yksirunkotankkerien kielto ja yhteinen jääluokitus. Tämä edellyttää aktiivisuutta Suomelta, jotta muut alueiden ympärysvaltiot saadaan mukaan yhteiseen anomukseen Kansainväliselle merenkulkujärjestölle IMO:lle.**
@@ -2282,7 +2229,6 @@ WWF, havsexpert Anita Mäkinen, 040-527 1425, Östersjöfonden, verksamhetsledar
 
 Julkaistu: 7.2.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/02/naturewatch-stipendi-vuoksenniskan-ja-palokan-kouluille/
 
 **WWF ja Lapsi ja Luonto Säätiö jakavat vuosittain 840 euron suuruisen stipendin WWF:n Naturewatch-ympäristökasvatustoiminnassa mukana olevalle koululle tunnustuksena aktiivisesta ympäristökasvatustyöstä. Vuoden 2002 Naturewatch-stipendi jaetaan kahden koulun kesken. Koulut ovat Vuoksenniskan koulu Imatralla ja Palokan koulu Palokassa.**
@@ -2321,7 +2267,6 @@ www.wwf.fi/naturewatch
 
 Julkaistu: 3.2.2003  
 Kirjoittaja: Päivi Rosqvist  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/02/sailykepurkit-pysyvat-poissa-suomenlahdelta-vain-pssa-luokituksen-ja-siihen-liittyvien-lisamaaraysten-avulla/
 
 **Ympäristöjärjestö WWF vaatii Suomelta suurempaa aktiivisuutta, jotta Suomenlahden kansainvälisille aluevesille saadaan PSSA-luokitus eli erityisen herkän merialueen asema ja siihen liittyvät tiukat erityismääräykset. Vain siten Stemnitsan kaltaiset talvioloihin sopimattomat alukset ja yksirunkotankkerit voidaan kieltää Suomenlahdella nopeutetulla aikataululla. WWF käynnisti aiheesta Pandapassi-kampanjan internetissä.**
@@ -2356,7 +2301,6 @@ meriasiantuntija Anita Mäkinen, (09) 7740 1035, 040 527 1425, viestintäpääll
 
 Julkaistu: 30.1.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/01/perinneymparistoja-kunnostetaan-hevosvoimin-sipoonkorvessa/
 
 **Metsähallitus raivaa Byabäckenin purolaakson laitumia, niittyjä ja lehtoja Sipoonkorvessa, lähellä Hindsbyn kylää osana ympäristöjärjestö WWF:n perinneympäristöhanketta. Maastossa uurastaa 13-vuotias suomenhevosruuna Seurapoika Jerikon työhevosista Metsähallituksen metsurien kanssa.**
@@ -2381,7 +2325,6 @@ Internet: Tietoa LIFE-hankkeesta osoitteessa www.wwf.fi/life, Sipoonkorven Byab�
 
 Julkaistu: 27.1.2003  
 Kirjoittaja: Laura Saarilahti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/01/wwf-kestavan-tuotannon-ja-kulutuksen-toimintaohjelma-sisallytettava-hallitusohjelmaan/
 
 **Ympäristöjärjestö WWF kehottaa puolueita ja kansanedustajaehdokkaita ottamaan ympäristöasiat tosissaan. WWF julkisti tänään seuraavan hallituskauden tavoitteensa, joissa kiinnitetään huomiota kestävään tuotantoon ja kulutukseen, energiaratkaisuihin, Etelä-Suomen metsiin sekä Itämereen.**
@@ -2416,7 +2359,6 @@ Yleisesti WWF:n tavoitteista: suojelujohtaja Jari Luukkonen, 040 585 0020,
 
 Julkaistu: 21.1.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/01/wwf-toivoo-saimaannorpille-pesimarauhaa/
 
 **Perinteinen saimaannorpan pesimärauha julistettiin Ristiinassa 21.1. Maailman uhanalaisimman hylkeen lisääntymistä uhkaavat monet tekijät, joista pesintäaikainen häiriö eli ihmisten liikkuminen Saimaan rannoilla on yksi suurimmista. Se on lisääntynyt moottorikelkkojen ja talviasuttavien kesämökkien myötä.**
@@ -2449,7 +2391,6 @@ tiedottaja Tuuli Äikäs, (09) 7740 1051
 
 Julkaistu: 16.1.2003  
 Kirjoittaja: Tuuli Äikäs  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2003/01/saimaannorpan-pesimarauhan-julistus-ja-norppailta-ristiinassa-21-1/
 
 **Perinteinen saimaannorpan pesimärauha julistetaan tiistaina 21.1.2003 klo 17.30 Ristiinassa Linnaniemen kuntoradan taukopaikalla. Pesimärauhan julistaa Radio Novan toimittaja Ile Jokinen.**

@@ -3,7 +3,7 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 52 (uusin 22.10.2026).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 50 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -24,7 +24,6 @@ Huom: 50 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 29.9.2026 – WWF:n lausunto maa- ja metsätalousministeriölle komission ehdotuksesta Itämeren kalastusmahdollisuuksista vuodelle 2027
 - 29.9.2026 – WWF:n lausunto luonnoksesta hallituksen esitykseksi kalastuslain muuttamisesta (VN/24159/2026)
 - 8.9.2026 – WWF:n lausunto Valtioneuvoston ilmastovuosikertomuksesta 2026
-- 3.9.2026 – Itämeren pelastaminen on Suomen seuraavan hallituksen harteilla – järjestöjen vetoomus
 
 **Elokuu 2026**
 
@@ -55,6 +54,7 @@ Huom: 50 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 28.5.2026 – WWF:n lausunto luonnonsuojelulain muuttamisesta
 - 22.5.2026 – WWF:n lausunto valtioneuvoston ajankohtaisselonteosta ulko- ja turvallisuuspoliittisen toimintaympäristön muutoksesta
 - 20.5.2026 – WWF:n lausunto ympäristövaliokunnalle päästöoikeuksien mitätöinnistä
+- 20.5.2026 – Yksinkertaisilla ratkaisuilla mittavia säästöjä parantuneesta kansanterveydestä: ruoka- ja terveysalan toimijat peräävät mahdollisuuksiin tarttumista
 - 8.5.2026 – WWF:n lausunto metsästyslaista sekä laista rauhoitettujen eläinten aiheuttamista vahingoista (valkoposkihanhi ja merimetso)
 - 5.5.2026 – WWF Suomen lausunto luonnoksesta hallituksen esitykseksi yhdyskuntarakentamislaiksi sekä eräiksi siihen liittyviksi laeiksi
 
@@ -247,7 +247,6 @@ Raija-Leena Ojanen Oikeudellinen neuvonantaja
 
 Julkaistu: 14.10.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/p/5/lz6f6k710r32bmq1glvkzcs/wwf-lausunto-talousarvio2027-uav.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -273,7 +272,6 @@ Lisätietoja: Anne Tarvainen, Anne.Tarvainen@wwf.fi, 040 756 8326.
 Julkaistu: 12.10.2026  
 Asiakirjan päiväys: 9.10.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/j/z/f/r5ehkcpusdgq7ufwvw2vkk/20261009_lausuntopyynto-luonnoksesta-hallituksen-esitykseksi-eduskunnalle-laiksi-sahkomarkkinalain-muuttamisesta.pdf
 
 WWF Suomi Lausunto 09.10.2026
@@ -308,7 +306,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 7.10.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/w/7/w/ppdcp2gfp4efruei3104ygz/wwfn-lausunto-luonnoksesta-hallituksen-esitykseksi-eduskunnalle-laiksi-ymparistonsuojelulain-60--muuttamisesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -336,7 +333,6 @@ Raija-Leena Ojanen Oikeudellinen neuvonantaja
 
 Julkaistu: 5.10.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/l/1/0ztf8nwbhwswhjh10atdtujh/wwf-lausunto-talousarvio2027-hallinto-ja-turvallisuusjaosto-.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -371,7 +367,6 @@ Lisätietoja: Anne Tarvainen, Anne.Tarvainen@wwf.fi, 040 756 8326.
 
 Julkaistu: 5.10.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/t/x/dr9105vsch0hyuk6urb37bd/wwf-lausunto-eduskunnan-valiokunnat-talousarvio2027-he-157-2026vp.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -416,7 +411,6 @@ Lisätietoja: Raija-Leena Ojanen, raija-leena.ojanen@wwf.fi , p. 0505990232
 
 Julkaistu: 29.9.2026  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/i/j/5/itidw43gyfhysy076iyrc/wwflausunto_e48_2026vp_kalastuskiintiot_ymv_22092026.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -476,7 +470,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 29.9.2026  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/g/5/swkzm48pycg73d96q99pm5/wwflausunto_eu_915_2026_kalastuskiintiot_2027.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -526,7 +519,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 29.9.2026  
 Aiheet: Virtavedet, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/e/p/fd5yjqtt0kb4xid0s83ca0/wwf_lausunto_he_kalastuslain_muuttaminen_vn24159_2026.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -551,7 +543,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 8.9.2026  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/g/j/l7tu3za9a2mddricaowlv/wwf-lausunto-valtioneuvoston-ilmastovuosikertomuksesta-2026.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -591,51 +582,12 @@ Bernt Nordman, ilmasto-ohjelman johtaja 0505250348 bernt.nordman@wwf.fi
 
 ---
 
-### Itämeren pelastaminen on Suomen seuraavan hallituksen harteilla – järjestöjen vetoomus
-
-Julkaistu: 3.9.2026  
-Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/app/uploads/e/8/7/8pdi9bnhvx9zhc7b3fupmy/itamerivetoomus.pdf
-
-ITÄMEREN PELASTAMINEN ON SUOMEN SEURAAVAN HALLITUKSEN HARTEILLA Suomi on merkittävästi jäljessä kansainvälisistä merensuojeluvelvoitteistaan. Viivyttely aiheuttaa peruuttamatonta vahinkoa Itämeren herkälle meriluonnolle. Suomi ei ole saavuttamassa vesien- ja merenhoidon toimenpideohjelmien (2022–2027) tavoitteita, eli merialueiden hyvää tilaa, määräaikaan mennessä. Seuraavan hallituksen on toimittava: tulevan toimikauden aikana (2028–2033) on asetettava riittävät tavoitteet sekä meren tilan parantamiseksi että luontokadon pysäyttämiseksi ja toteutettava ne täysimääräisesti. Osana Biodiversea Life IP hanketta laadittiin Suomen merensuojelualueverkoston kehittämisen tiekartta, joka tunnistaa 34 konkreettista toimenpidettä suojelun parantamiseksi vuoteen 2030 mennessä. Meriluonnon pelastamiseksi nämä on laitettava toimeen välittömästi.
-
-Nykytilanne: Vakava suojeluvaje ja vesien- ja merenhoidon tehottomuus •
-
-Suojelutavoitteista on jääty: Suomi ei ole saavuttanut kansainvälisten sopimusten velvoittamaa 30 prosentin merensuojelutavoitetta ja tästä ⅓ tiukan suojelun alueita. Erityisesti tiukan suojelun lisäämistä tarvitaan välittömästi.
-
-•
-
-Lajit ja elinympäristöt hätätilassa: Suomen Luontopaneelin vuonna 2024 julkaiseman raportin mukaan vedenalaisen rannikkoluonnon monimuotoisuus heikkenee kaikilla Suomen merialueilla
-
-•
-
-Vesien- ja merenhoidon toimien riittämättömyys: rahoituksen puute, koordinaation ja instrumenttien hajanaisuus sekä vesilainsäädännön nykytiedon valossa vanhentuneet ja riittämättömät säädökset
-
-Esitykset hallitukselle meriluonnon suojelemiseksi:
-1. Merensuojelualueiden tiukan suojelun määritelmää selkeytetään ja kalastusrajoituksia laajennetaan kalojen lisääntymisalueilla ja vaellusreiteillä. Kansalliseen suojelualueluokitteluun lisätään (meriluonnonsuojelualueille) erillinen MPA-luokka (Marine Protected Area) suojelualuetyypistä riippumatta, olemassa olevien luokkien rinnalle.
-2. Suomeen perustetaan seuraavalla hallituskaudella vähintään yksi merellinen luonnonpuisto tiukan suojelun varmistamiseksi ja uhanalaisten lajien sekä luontotyyppien säilyttämiseksi.
-3. Kansallinen meriluonnonsuojeluohjelma luodaan sekä käynnistetään kiireellisesti. Ohjelma kattaa koko merialueen Perämereltä Suomenlahdelle ja huomioi ilmastonmuutoksen vaikutukset meriluontoon.
-4. Valtion merialueiden luonnonsuojelualueiden säädösvalmistelu saatetaan loppuun EU:n biodiversiteettistrategian 2030 mukaisesti.
-5. Arvokkaan saaristoluonnon suojelemiseksi luodaan vapaaehtoisen suojelun ohjelma, joka tarjoaa maanomistajille taloudellisia kannustimia merialueidensa suojelemiseen.
-
-Esitykset hallitukselle rannikkovesien hyvän tilan palauttamiseksi:
-
-1. Valuma-alueella toteutetaan kriittisiä toimenpiteitä meriluonnon elvyttämiseksi. Valtaosa rannikkovesiä rehevöittävistä päästöistä on peräisin maa- ja metsätaloudesta. Kuormitusta voidaan hillitä mm. ennallistamisen, luonnonmukaisen vesienhallinnan, kasvipeitteisyyden, maanparannusaineiden ja lantaravinteiden kierrätyksen avulla.
-2. Kielletään metsien ja soiden uudisojitukset ja tehdään kunnostusojituksista ilmoitusvelvolliset. Tarpeettomien ojien tukkimiseen luodaan kannustimet ja vesilakiin lisätään ojitustoimitusten määräaikaiset uudelleentarkastukset.
-3. Tehdään kokonaispäivitys vesilainsäädännölle vastaamaan nykytietoa. Lisätään purot ja lähteiköt vesilakiin suojeltuihin luontotyyppeihin ja rajataan vesistöjen varsille metsälaissa suojavyöhykkeet, joilla ei toteuteta hakkuita, tai tehdään vain poimintahakkuita.
-4. Vaelluskalakantojen elvyttämiseksi vesivoimaloiden kalatalousvelvoitteiden päivittäminen viedään vesilakiin EU:n vesipuitedirektiivin (11 §) vaatimusten mukaisesti. Vesivoiman laittomaan lyhytaikaissäännöstelyyn puututaan.
-5. Kattavilla ja kokonaisvaltaisilla valuma-aluetoimilla ennallistetaan vedenalaisia luontotyyppejä. Tämän lisäksi toteutetaan aktiivisia ennallistamistoimia erityisesti hitaasti palautuvien avainlajien, kuten meriajokkaan osalta.
-
----
-
 ## Elokuu 2026
 
 ### WWF:n lausunto Suomen ennallistamissuunnitelmaluonnoksesta
 
 Julkaistu: 27.8.2026  
 Aiheet: Ennallistaminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/0/i/o5pqp030hrrc3yin5cwezw/wwfn-lausunto-suomen-ennallistamissuunnitelmaluonnoksesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1082,7 +1034,6 @@ Mai Suominen Johtava metsäasiantuntija Valmisteluun ovat osallistuneet laajasti
 ### Lausunto ilmastotoimien sosiaalisen tuen suunnitelmasta
 
 Julkaistu: 26.8.2026  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/q/6/j1yilhpovpo7wm9e89px3j/20260826_lausuntopyynto-ilmastotoimien-sosiaalisen-tuen-suunnitelmasta.pdf
 
 WWF Suomi Lausunto 26.08.2026
@@ -1105,7 +1056,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 10.8.2026  
 Aiheet: Metsäkato  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/r/i/6buxmfgb6rxpt0v5i15se6/wwfn-lausunto-hallituksen-esityksesta-eduskunnalle-laiksi-eun-metsakatoasetuksen-velvoitteiden-valvonnasta-ja-seuraamuksista.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1212,7 +1162,6 @@ Lausunnon valmisteluun ovat myös osallistuneet kansainvälinen metsäasiantunti
 
 Julkaistu: 6.8.2026  
 Aiheet: Karhu, Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/a/w/bw60a89z3ol5m752ykqdqy/wwfn-lausunto-metsastyslaissa-saadetyista-poikkeusluvista-annetun-valtioneuvoston-asetuksen-3-ja-8-n-muuttamisesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1243,7 +1192,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 
 Julkaistu: 3.8.2026  
 Aiheet: Ilmastonmuutos, Suomen metsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/t/0/9kluppultsf4a90oetmmja/20260803_wwf_lausunto_metsityksen_maaraaikaisesta_tukemisesta.pdf
 
 WWF Suomi Lausunto 03.08.2026
@@ -1307,7 +1255,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 3.7.2026  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/h/k/zvl8l9c7bhejuxrkctgzqe/wwfn-lausunto-luonnoksesta-hallituksen-esitykseksi-laiksi-metsalain-muuttamisesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1338,7 +1285,6 @@ Mai Suominen Johtava metsäasiantuntija
 
 Julkaistu: 30.6.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/m/i/b5xaad7t3kmhp2sqf412fr/wwfn-lausunto-oikeusministeriolle-valiaikainen-poikkeaminen-vesivoimalaitoksen-lupamaarayksista-sahkojarjestelman-tasapainottamiseksi.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1387,7 +1333,6 @@ Lausunnon valmisteluun on osallistunut myös avustava ympäristöoikeuden asiant
 
 Julkaistu: 24.6.2026  
 Aiheet: Karhu, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/4/c/qr2aa9joy9d1wk42p7m8mf/wwf-lausunto-mmm-poronhoitoalueen-karhukiintio-kesakuu-2026.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1418,7 +1363,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 
 Julkaistu: 24.6.2026  
 Aiheet: Yritykset, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/3/y/a9ct790piwh9csl32pxkfj/wwfn-lausunto-temille-hallituksen-esityksesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1443,7 +1387,6 @@ Raija-Leena Ojanen Oikeudellinen neuvonantaja
 
 Julkaistu: 16.6.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/9/i/f/e3opd9t1sxlgxg2zkp632n/wwfn-lausunto-metsastyslain-seka-rauhoitettujen-elainten-aiheuttamien-vahinkojen-ennalta-ehkaisemisesta-ja-korvaamisesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -1472,7 +1415,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 
 Julkaistu: 15.6.2026  
 Aiheet: Ruoka  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/u/k/s2jmuiqnlleokqckigd08f/lausunto-lapsiperheiden-ruokasuosituksesta-wwf.pdf
 
 WWF Suomi Lausunto
@@ -1530,7 +1472,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 8.6.2026  
 Aiheet: Perinneympäristöt, Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/h/h/h3w3tdrbacqjq9w7c80och/pemayhdistys_wwf_vetoomus_2026-2.pdf
 
 Vetoomus MMM:lle, YM:lle ja Eduskunnan maa- ja metsätalousvaliokunnalle sekä ympäristövaliokunnalle
@@ -1550,7 +1491,6 @@ WWF Suomi suojelujohtaja Elina Erkkilä elina.erkkila@wwf.fi
 
 Julkaistu: 2.6.2026  
 Aiheet: Ruoka, Ilmastonmuutos, Itämeri, Perinneympäristöt, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/0/n/ox95d1aci547cf0iolnmo7/wwfn-lausunto-maa-ja-metsatalousvaliokunnalle-ruokapoliittisesta-selonteosta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1595,7 +1535,6 @@ Stella Höynälänmaa Ohjelmajohtaja, ruoka
 
 Julkaistu: 28.5.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/0/g/dwnqpxwoy0vidild35h1lq/wwf-lausunto-fosforia-sisaltavien-lannoitevalmisteiden-ja-lannan-kaytosta-annetun-valtioneuvoston-asetuksen-muuttaminen.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1622,7 +1561,6 @@ Jenny Jyrkänkallio-Mikkola Sisävesivastaava
 
 Julkaistu: 28.5.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/h/v/bk5q1yrp8hsgkdtmnv5447/wwf-suomen-lausunto-maataloudentuotannosta-irrotetuista-suorista-tuista-annetun-valtioneuvoston-asetuksen-muuttamisesta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1649,7 +1587,6 @@ Y-tunnus 0215186-5
 
 Julkaistu: 28.5.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/k/q/i50o0k4ax9pvhgrztbejpf/wwfn-lausunto-maa-ja-metsatalousvaliokunta-luonnonsuojelulaki-he-91-2026-ennallistamissuunnitelma-ja-luonnonarvomarkkinoiden-edistaminen.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1676,7 +1613,6 @@ Raija-Leena Ojanen Oikeudellinen neuvonantaja
 
 Julkaistu: 22.5.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/w/d/r9d7kcl3f9w2p59cds6s74/wwf_suomi_lausunto_vns_2_2026_utp-ajankohtaisselonteko.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -1727,7 +1663,6 @@ WWF kiittää mahdollisuudesta lausua ulkoasiainvaliokunnalle ajankohtaisselonte
 
 Julkaistu: 20.5.2026  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/6/6/3i2bkukpnoj5d39llwksd/wwf-lausunto-ymparistovaliokunnalle-paastooikeuksien-mitatointi-u-29-2026-vp.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1746,11 +1681,68 @@ Lisätietoja: Bernt Nordman (bernt.nordman@wwf.fi), 050 525 0348
 
 ---
 
+### Yksinkertaisilla ratkaisuilla mittavia säästöjä parantuneesta kansanterveydestä: ruoka- ja terveysalan toimijat peräävät mahdollisuuksiin tarttumista
+
+Julkaistu: 20.5.2026  
+Aiheet: Ruoka  
+Linkki: https://wwf.fi/app/uploads/c/r/5/ku69blh8lbr3l65fon42re/ravitsemusaloite_web.pdf
+
+ALOITE
+
+Osaamista ja ohjaamista kestävien valintojen edistämiseksi Suomessa julkisten ruokapalvelujen toiminta on lähes 400 miljoonalla vuosittaisella annoksellaan laajaa, ja sitä edelleen vahvistamalla voimme tukea siirtymää
+
+Yksinkertaisilla ratkaisuilla mittavia säästöjä parantuneesta kansanterveydestä: ruoka- ja terveysalan toimijat peräävät mahdollisuuksiin tarttumista
+
+kasvi- ja kalapainotteiseen ruokavalioon. Tarvitaan ammattikeittiöhenkilökunnan osaamisen kehittämistä. Valtion kannattaa tehdä osaamisen kehittämistä koordinoidusti, jotta se voidaan toteuttaa tehokkaasti. Ruokakasvatuksen roolia kouluympäristössä täytyy kasvattaa, niin opetus- kuin ateriapalveluhenkilöstön osalta. Pitkäjänteinen ja moniammatillisella yhteistyöllä tehty ruokakasvatus takaa kouluruokailun merkityksen hyvinvointioppimiselle, jolloin tuetaan myös tulevaisuuden aikuisten hyvinvointia.
+
+Laaja joukko terveys- ja ruoka-alan toimijoita haluaa tuoda esiin tarpeen edistää kansanterveyttä joukkoruokailun ja terveydenhuollon palveluiden avulla. Ravitsemussuosituksia julkaiseva Valtion ravitsemusneuvottelukunta on toukokuussa 2026 julkaissut omat kärkiviestinsä päättäjille. Kansalliset ravitsemussuositukset päivitettiin vuonna 2024. Ne on suunnattu muun
+
+Ravitsemussuositusten mukainen ruokailu on kasvipainotteista. Tarjolla voi edelleen olla kohtuullisesti eläinperäisiä raaka-aineita, kuten maitoa ja lihaa. Kasviproteiinia ja lihaa yhdistelevien annoksien tarjonta on lisääntynyt selkeästi viimeisen vuoden aikana, ja ne ovat olleet hyvin mieluisia monilla paikkakunnilla. Myös kestävästi pyydetyn kalan määrää tulisi lisätä julkisissa hankinnoissa.
+
+muassa julkisille ruokapalveluille ja elintarviketeollisuudelle, mutta Suomessa myös kansalaiset tuntevat suositukset melko hyvin. Suositukset ovat vaikuttaneet kuluttajakäyttäytymiseen ja vuonna 2025 esimerkiksi säilykepalkokasveja myytiin 14 prosenttia edellisvuotta enemmän, mikä on perinteiselle ja vakiintuneelle tuote-
+
+K E S K E I S E T VA AT I M U K S E T •
+
+Ravitsemussuositusten mukaisen ruokailun edistämiseen tulee ohjata rahoitusta, jotta julkiset ruokapalvelut voivat kustannustehokkaasti siirtyä kohti tarjontaa, joka on kasvipainotteisempi ja sisältää enemmän kestävästi pyydettyä kalaa.
+
+•
+
+Kouluruokailun tulee noudattaa ajantasaisia ravitsemussuosituksia. Tämä tulee lisätä perusopetuslakiin.
+
+•
+
+Tulevassa kouluruokailusuosituksissa tulee suositella, että kasviproteiineja (esimerkiksi palkokasveja) sisältävä ruoka tulee olla valittavana päivittäin ensimmäisenä vaihtoehtona julkisissa ruokapalveluissa. Lisäksi palkokasveja tulee olla tarjolla päivittäin, vähintään lisukkeena.
+
+•
+
+Kasvipohjaisen ruuan tuotantoa tulee edistää toimenpideohjelmalla.
+
+ryhmälle huomattava hyppäys. Lähes 30 allekirjoittajaa – Apetit Oyj, Asikkalan kunta, Espoo catering Oy, Happy Plant Protein Oy, Jalofoods / Oy Soya Ab, Kymijoen ravintolapalvelut Oy, Lääkäriliitto, Maa- ja kotitalousnaiset, Marttaliitto ry, Meeat Food Tech Oy, Midsona Finland Oy, Mö Foods Oy, Oatly Oy, Pirkanmaan Voimia Oy, Plant Planet Oy Ab, Pro Vege ry, Puolet Parempi Oy, Ruokailo, Ravitsemusterapeuttien yhdistys ry, Ruokakasvatus Ruukku ry, Unicafe / Ylva palvelut Oy, Vegem Oy, Vihreä härkä kasviproteiinit, Voima-papu Finland Oy / Karviaisten tila, Vöner Oy, Ympakti Oy, Weefy Oy ja WWF sekä Suomen ympäristökeskuksen ja Luonnonvarakeskuksen ACE-hanke – esittävät, että ravitsemussuositusten mukaista ruokailua helpotetaan edelleen julkisissa ruokapalveluissa.
+
+Ruokapalveluiden henkilöstölle tarkoitettuja kouluttautumismahdollisuuksia on kehitettävä ja lisättävä entisestään. Käytännönläheisen koulutuksen lisäksi on huomioitava myös kasvipainotteiseen ruokailuun ohjaavat parhaat käytännöt. Nämä liittyvät esimerkiksi ruoan nimeämiseen, esillepanoon ja erilaisiin sisältö- ja vaikutusmerkintöihin. Julkisin varoin kehitettyä reseptiikkaa tulee saada hyödynnettäväksi mahdollisimman laajasti julkisissa ruokapalveluissa.
+
+Kouluihin ja terveydenhuoltoon ajantasaisia käytäntöjä Allekirjoittaneet pitävät nykyisessä kouluruokailusuosituksessa hyvänä sitä, että kasvipohjaisen ruuan tarjoamista suositellaan vapaasti valittavana päivittäin. Uusien ravitsemussuosituksien mukaiseksi päivitettävässä kouluruokailusuosituksessa tulisi kuitenkin suositella, että kasvisruoka tai kasviproteiinia ja lihaa/kalaa yhdistävä ruoka olisi esillä nimenomaan ensimmäisenä valintana. Se on monille kustannukseton tapa edistää kestäviä valintoja. Lisäksi nämä kasvipohjaiseen ruokaan liittyvät suositukset pitäisi saattaa valvottavien asioiden piiriin kohtuullisella siirtymäajalla. Ajantasaisten ravitsemussuositusten noudattaminen kouluruokailussa pitäisi saada myös perusopetuslakiin. Tällä hetkellä jossakin kunnassa yritetään ottaa jopa voin käyttö takaisin kouluruokailuun, vaikka sen käytön poistoa on terveyssyistä suositeltu jo pitkään. Julkisten ruokapalveluiden lisäksi täytyy kehittää terveydenhoitohenkilökunnan, kuten terveydenhoitajien ravitsemusosaamista, jotta esimerkiksi lapsiperheet saavat ajanmukaista tietoa terveellisestä ravitsemuksesta.
+
+Tanskassa edistetään vahvasti terveellisiä ruokavalioita ja myös kestävämpää ruuan tuotantoa. Siellä luotiin maailman ensimmäinen kasvipohjaisen ruuan kansallinen toimintasuunnitelma vuonna 2023 ja siellä on myös kasvipohjaisen ruuan rahasto. Myös Suomen tulee tehdä strateginen valinta kehittää kasvipohjaisen ruuan tuotantoa ja elintarvikejalostusta, jotta saamme lisää kotimaisia kasviproteiini- ja kasvimeijerituotteita. Allekirjoittaneet ehdottavat kasvipohjaisen ruuan toimenpideohjelman kirjaamista ensi kevään eduskuntavaalien jälkeen seuraavaan hallitusohjelmaan.
+
+L I S ÄT I E T O J A : Asikkalan kunnan ateria- ja puhtauspalvelupäällikkö Minna Pettinen, p. 044 7780215 Happy Plant Protein Oy:n perustaja ja toimitusjohtaja Jari Karlsson, jari@happyplantprotein.com, p. 040 196 1744 Maa- ja kotitalousnaisten keskus ry:n kehityspäällikkö Marita af Klercker, marita.afklercker@mkn.fi, p. 040 526 4619 Plant Planet Oy Ab / Green Planet Astronauts perustaja / toimitusjohtaja, Milla Westerling, milla@greenplanetastronauts.com, p. 0500 538075 Pro Vege ry:n toiminnanjohtaja Jukka Kajan, jukka.kajan@provege.fi, puh. 050 467 4740 Ruokailon ruokapalvelujen asiantuntija Charlotta Hyttinen, charlotta@ruokailo.fi Puolet Parempi Oy:n Co-founder Kaisa Somerpalo, kaisa@sopuruoka.fi, p. 040 7233 868. Ruokakasvatus ruukku ry:n toiminnanjohtaja Aliisa Hyvönen, aliisa@ruokakasvatus.fi, puh. 044 339 9344
+
+Mallia Tanskasta
+
+Suomen ympäristökeskus, Ace Life -hanke, tutkimusprofessori Minna Kaljonen, minna.kaljonen@syke.fi, p. 029 5251 252
+
+Ravitsemussuosituksien mukaisien ruokavalioiden avulla voidaan saada huomattavia säästöjä. Terveelliset ruokavaliot ehkäisevät sydän- ja verisuonitauteja, ylipainoa ja tyypin 2 diabetesta. Tanskan kansallisessa terveydenhuollossa on arvioitu säästettävän vuosittain 2 mrd. €, jos ravitsemussuosituksia noudatettaisiin. Norjassa laskelmiin otettiin huomioon myös ruokavalion myötä parantunut työkyky ja vähentyneet työpoissaolot, jolloin vaikutus on yli 10 mrd € vuosittain. Molempien maiden väkiluku on samaa kokoluokkaa kuin Suomessa eli vastaavia säästöjä voitaisiin saada myös täällä.
+
+UniCafen/Ylva Palvelut Oy:n liiketoimintajohtaja Anne Immonen, anne.immonen@ylva.fi, p. 040 512 5008. Voima-papu Finland Oy / Karviaisten tilan yrittäjä Katriina Klinckowström, katriina.klinckowstrom@gmail.com, p. 040 803 2235 WWF:n ruokaohjelman asiantuntija Elisa Niemi, elisa.niemi@wwf.fi, p. 040 7233 868 Tämän esityksen koordinointiin ja viestintään liittyvät kysymykset WWF:n Elisa Niemelle.
+
+M E Y H D E S S Ä A L L E K I R J O I TA M M E TÄ M Ä N A L O I T T E E N VA AT I M U K S E T
+
+---
+
 ### WWF:n lausunto metsästyslaista sekä laista rauhoitettujen eläinten aiheuttamista vahingoista (valkoposkihanhi ja merimetso)
 
 Julkaistu: 8.5.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/e/3/ye2n8tve2m1vc90gujmy9l/wwf-lausunto-mmm-valkoposkihanhi-merimetso-toukokuu-2026.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1805,7 +1797,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 
 Julkaistu: 5.5.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/f/3/j/tr8bx180z4yb102tyikpv7/wwf-lausunto-luonnoksesta-hallituksen-esitykseksi-yhdyskuntarakentamislaiksi.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1829,7 +1820,6 @@ Raija-Leena Ojanen Oikeudellinen neuvonantaja 2
 Julkaistu: 24.4.2026  
 Asiakirjan päiväys: 30.3.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/1/z/w/j0wejf8fz7dfie9caifcqp/20260330_lausuntopyynto-luonnoksesta-hallituksen-esitykseksi-eduskunnalle.pdf
 
 WWF Suomi Lausunto 30.03.2026
@@ -1935,7 +1925,6 @@ Lausuntopalvelu.fi
 Julkaistu: 24.4.2026  
 Asiakirjan päiväys: 23.4.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/1/5/5/q7495avdfhunjbxj1vwo7s/20260423_luonnos-hallituksen-esitykseksi-ymparistonsuojelulain-lupamaaraysten-tarkistamisesta.pdf
 
 WWF Suomi Lausunto 23.04.2026
@@ -1964,7 +1953,6 @@ Lausuntopalvelu.fi
 
 Julkaistu: 31.3.2026  
 Aiheet: Itämeri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/6/y/m04i5em8jteisqh81076np/wwf-suomen-lausunto-vesien-ja-merenhoidon-toimenpidekirjastosta-2028-2033.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2011,7 +1999,6 @@ Jenny Jyrkänkallio-Mikkola Sisävesivastaava
 
 Julkaistu: 31.3.2026  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/n/6/9t2a6odkdbdlaunkpvfrmp/wwf-lausunto-ulkoilulaki-260331.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2043,7 +2030,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto
 
 Julkaistu: 31.3.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/4/8/5/uppm8vh4pe7b7mayu9g245/wwf-suomen-lausunto-luonnoksesta-happamien-sulfaattimaiden-ja-mustaliuskeiden-strategiaksi-2036.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2078,7 +2064,6 @@ Jenny Jyrkänkallio-Mikkola Sisävesivastaava
 
 Julkaistu: 26.3.2026  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/6/3/w7t9e8l2hyqvzunzrhs6yu/lausunto_merenhoidon_seurantaohjelma_2026.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2133,7 +2118,6 @@ Lausunnon kirjoittamiseen ovat osallistuneet: Petteri Tolvanen, Ohjelmajohtaja J
 
 Julkaistu: 18.3.2026  
 Aiheet: Saimaannorppa, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/3/y/wmg4bf1jnw1cdlab9sroba/wwf-lausunto-mmm-saimaannorppa-maaliskuu-2026.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2168,7 +2152,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto
 
 Julkaistu: 17.3.2026  
 Aiheet: Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/9/z/c/jwc49qrr1r95fwmznqh4uk/wwf_3_2026_lisalausunto_ymparistovaliokuntaan_ukrainan-sodan-ymparistovahingot.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2261,7 +2244,6 @@ WWF kiittää mahdollisuudesta antaa lisäselvityksiä ympäristövaliokunnan ku
 
 Julkaistu: 12.3.2026  
 Aiheet: Virtavedet, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/e/e/9xbfazvgtpxyxxcuuvf7er/wwf-lausunto-oikeusministeriolle-vesilaki-kalatalousvelvoitteet.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2290,7 +2272,6 @@ Sampsa Vilhunen Ohjelmajohtaja
 
 Julkaistu: 6.3.2026  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/l/s/3/23npplv5mwmw8qwyw4pd1/wwf_u16_2026.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2327,7 +2308,6 @@ Bernt Nordman Ilmasto-ohjelman johtaja
 
 Julkaistu: 6.3.2026  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/j/x/0fa9o6sl7aix96cyaplomx/wwf_u15_2026.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2366,7 +2346,6 @@ Bernt Nordman Ilmasto-ohjelman johtaja
 
 Julkaistu: 19.2.2026  
 Aiheet: Luonnon köyhtyminen, Ilmastonmuutos, Metsäkato, Ylikulutus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/3/c/z1j8m4dgtubr7igtm71lxi/wwf-lausunto-ymparistovaliokunta-ymparisto-omnibus-u-12-ja-u-13-20206.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2401,7 +2380,6 @@ Lisätietoja: Raija-Leena Ojanen, raija-leena.ojanen@wwf.fi , p. 0505990232
 
 Julkaistu: 17.2.2026  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/x/d/pcqpf4melyjwz6gkdtgjyj/wwf-lausunto-vns_11_2025_vp.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2438,7 +2416,6 @@ Bernt Nordman Ilmasto-ohjelman johtaja
 
 Julkaistu: 13.2.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/y/9/ma1rurz2hzwywdjfft68wn/wwf-lausunto-mmv-poronhoitolaki-260209.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2461,7 +2438,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto
 
 Julkaistu: 13.2.2026  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/m/j/721jz1j101dzg3jq3rc8ie/wwf-lausunto-luonnoksesta-hallituksen-esitykseksi-metsalain-ja-luonnonsuojelulain-70-ja-82--muuttamisesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2514,7 +2490,6 @@ Petteri Tolvanen Ohjelmajohtaja, suomalainen luonto Lausunnon valmisteluun on os
 
 Julkaistu: 5.2.2026  
 Aiheet: Suomi, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/j/8/xi6ub9yy4soa5wistf0q30/wwf-lausunto-vns_9_2025_vp.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2559,7 +2534,6 @@ Bernt Nordman Ilmasto-ohjelman johtaja
 
 Julkaistu: 5.2.2026  
 Aiheet: Suomi, Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/1/6/b/bolcb26ent4z26tcy3ydv7/wwf-lausunto-asiasta-vns_8_2025_vp-.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -2613,7 +2587,6 @@ Bernt Nordman Ilmasto-ohjelman johtaja
 ### WWF:n lausunto luonnoksesta luonnonsuojelulain muuttamiseksi – ennallistamissuunnitelma ja luonnonarvomarkkinoiden edistäminen
 
 Julkaistu: 30.1.2026  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/6/h/b8w9k1998b8sg1dhkrorr5/wwfn-lausunto-luonnoksesta-luonnonsuojelulain-muuttamiseksi-ennallistamissuunnitelma-ja-luonnonarvomarkkinoiden-edistaminen.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -2639,7 +2612,6 @@ Raija-Leena Ojanen Oikeudellinen neuvonantaja
 ### WWF:n lausunto jakeluvelvoiteohjeen päivityksen luonnoksesta
 
 Julkaistu: 12.1.2026  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/d/7/b39t6hkhefx97ldf96zz3i/wwf-lausunto-wwfn-lausunto-jakeluvelvoiteohjeen-paivityksen-luonnoksesta-12-1-2026.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI

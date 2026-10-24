@@ -1,7 +1,7 @@
 # WWF Suomi – Mediatiedotteet 2023
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Mediatiedotteet). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 59 (uusin 20.12.2023).
+Kohteita: 63 (uusin 20.12.2023).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
 Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
@@ -25,6 +25,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 - 13.11.2023 – WWF:n raportti: Muovin todelliset kustannukset ovat aiemmin luultua korkeammat – neuvottelut kansainvälisestä muoviroskasopimuksesta alkavat tänään
 - 10.11.2023 – WWF:n Vuoden luontokirja -kilpailun tämän vuoden finalistit ovat nyt selvillä
 - 8.11.2023 – WWF:n suosittu live tekee paluun – kansallispuiston kupeesta tehtävään suoraan lähetykseen odotetaan uhanalaisia lintuja
+- 2.11.2023 – WWF, Stora Enso ja Tornator paransivat metsäpurojen monimuotoisuutta liki 90 vapaaehtoisen voimin vuonna 2023
 
 **Lokakuu 2023**
 
@@ -38,6 +39,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 - 28.9.2023 – WWF:n Kalaopas päivittyi – merkittävä muutos silakan suosituksiin
 - 18.9.2023 – Itämeren kalakannat ovat kriisissä –”Kalastusta on leikattava merkittävästi”
 - 14.9.2023 – WWF:n kysely: Metsänomistajille tarjotaan edelleen avohakkuita, luontoystävällisemmät vaihtoehdot jäävät paitsioon
+- 12.9.2023 – WWF, Stora Enso ja Tornator tekevät yhteistyötä vesiensuojelun puolesta – tavoitteena kannustaa metsänomistajat mukaan vähentämään metsätalousalueiden vesistökuormaa
 - 7.9.2023 – WWF ja maanomistajat yhteistyössä paremman vesienhallinnan puolesta – Länsi-Uudellemaalle kaksi uutta kosteikkoa
 
 **Elokuu 2023**
@@ -50,10 +52,12 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 - 10.8.2023 – WWF, Tornator ja Stora Enso parantavat virtavesiä Vaalimaanjoella
 - 10.8.2023 – Valtamerien pintalämpötila ennätyskorkealla –”Ihmiskunnan on vastattava merien hätähuutoon”
 - 4.8.2023 – WWF: Itämerennorpan metsästyskiintiö ei voi olla Suomessa 375 vaan korkeintaan 100 yksilöä
+- 1.8.2023 – Maailman ylikulutuspäivä on keskiviikkona 2.8.
 
 **Heinäkuu 2023**
 
 - 29.7.2023 – Tiikerien määrä on kasvanut Bhutanissa
+- 26.7.2023 – WWF ja Länsi-Uudenmaan maanomistajat etsivät ratkaisuja tulvaongelmiin ja rehevöitymiseen – Inkooseen toteutetaan laaja vesienhallintakokonaisuus
 
 **Kesäkuu 2023**
 
@@ -70,7 +74,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 **Toukokuu 2023**
 
 - 29.5.2023 – Metsäpurojen puolesta -yhteistyö jatkuu – kesän ensimmäisissä talkoissa parannetaan Kuopion Palosenjoen lajiston elinolosuhteita
-- 3.5.2023 – WWF aloitti suoran lähetyksen lapinpöllön pesältä –”Poikaset varsinaisia menninkäisiä”
+- 3.5.2023 – WWF aloitti suoran lähetyksen lapinpöllön pesältä – “Poikaset varsinaisia menninkäisiä”
 
 **Huhtikuu 2023**
 
@@ -634,6 +638,54 @@ Lisätietoja: Viestintäjohtaja, Lisätietoja
 
 ---
 
+### WWF, Stora Enso ja Tornator paransivat metsäpurojen monimuotoisuutta liki 90 vapaaehtoisen voimin vuonna 2023
+
+Julkaistu: 2.11.2023  
+Aiheet: Talkoot, Ennallistaminen, Kentällä, Virtavedet  
+Linkki: https://wwf.fi/uutiset/2023/11/wwf-stora-enso-ja-tornator-paransivat-metsapurojen-monimuotoisuutta-liki-90-vapaaehtoisen-voimin-vuonna-2023-2/
+
+**WWF, Stora Enso ja Tornator rakensivat vuoden 2023 aikana 30 kutupaikkaa uhanalaiselle taimenelle ja ennallistivat satoja metrejä virtavesielinympäristöä. Kaakkois-Suomessa, Pohjois-Savossa ja Pohjois-Karjalassa järjestettyihin talkoisiin osallistui liki 90 vapaaehtoista.**
+
+Stora Enso, Tornator ja WWF järjestivät tänä vuonna talkootapahtumia neljällä eri paikkakunnalla: Kuopion Palosenjoella, Miehikkälän Vaalimaanjoella, Varkauden Ämmäkoskella sekä Juuan Vepsänjoella.
+
+”Kunnostuksissa keskityttiin paikallisesti tärkeiden virtavesielinympäristöjen ennallistamiseen, kuten kutusoraikkojen rakentamiseen ja vaelluskaloille haitallisten vaellusesteiden poistamiseen. Yhteistyön tuloksena saatiin ennallistettua kuivuneita virtavesiuomia taas soliseviksi puroiksi. Niihin tehtiin uusia elinympäristöjä virtavesissä viihtyville lajeille, kuten erittäin uhanalaiselle taimenelle ja jokiravulle”, WWF:n suojeluasiantuntija Manu Vihtonen sanoo.
+
+Metsäpurot ovat ainutlaatuinen ja tärkeä elinympäristö virtavesilajeille, mikä korostuu erityisesti ilmaston lämmetessä ja kesän hellepiikkien yleistyessä. Esimerkiksi uhanalaiset vaelluskalat viihtyvät viileämmissä vesissä.
+
+“Kunnostuksissa talkoolaiset pääsivät konkreettisesti näkemään ja kokemaan, kuinka metsäpuroja varjostava puusto vaikuttaa ilman ja veden lämpötilaan. Kuumilla kesähelteillä varjoisat alueet tarjoavat virtavesien eliöstölle viileämmän pienilmaston ja ympäristön”, Vihtonen toteaa.
+
+#### Metsäpurojen puolesta -yhteistyö on osa Stora Enson ja Tornatorin monimuotoisuusohjelmia
+
+Myös WWF:n yritysyhteistyön johtaja Annemi Usva-Vänttinen on tyytyväinen Stora Enson ja Tornatorin kanssa tehtyyn yhteistyöhön virtavesien tilan parantamiseksi. Metsäpurojen puolesta -yritysyhteistyö on osa WWF:n laajempaa ja pitkäjänteistä työtä, jonka tavoitteena on vuoteen 2030 mennessä saavuttaa virtavesien hyvä ekologinen tila Suomessa.
+
+Yhteistyössä kumppanit kartoittavat Tornatorin omistamilta alueilta ennallistamiseen soveltuvia kohteita. Stora Enson ja Tornatorin henkilökuntaa osallistuu käytännön talkootyöhön yhdessä WWF:n asiantuntijoiden kanssa.
+
+“On tärkeää, että voimme työskennellä yhdessä kahden suuren suomalaisen metsäyhtiön kanssa virtavesien monimuotoisuuden parantamiseksi. Yhteistyössä meillä on enemmän mahdollisuuksia luoda ympäristöömme positiivisia muutoksia”, Usva-Vänttinen kiittelee.
+
+Metsäluonnon monimuotoisuudesta huolehtiminen on osa Stora Enson ja Tornatorin jokapäiväistä toimintaa, ja yhteistyö WWF:n kanssa sisältyy Stora Ens on ja Tornatorin monimuotoisuusohjelmiin. *
+
+”Yhteistyö hankekumppanien kanssa on sujunut erinomaisesti. Virtavesikunnostukset ovat tehneet Tornatorin monimuotoisuusohjelmasta vaikuttavamman yhdessä sen muiden tavoitteiden, kuten soiden ennallistamisen ja metsätalouden vesiensuojelutoimenpiteiden kanssa”, sanoo Tornatorin ympäristöpäällikkö Heikki Myöhänen.
+
+”On ollut antoisaa päästä tekemään yhdessä konkreettista hyvää metsäluonnon eteen. Talkookohteet ovat sopineet mainiosti omalle henkilöstöllemme, joista suurella osalla myös vapaa-ajan harrastukset liittyvät luonnossa liikkumiseen. Talkoot ovat myös vahvistaneet yhteishenkeä. Yhteistyön kautta olemme saaneet paljon tietoa metsäpuroista eri lajien elinympäristönä, mitä hyödynnämme jatkossa myös keskusteluissa metsänomistajien kanssa”, kiteyttää yritysvastuujohtaja Pekka Kallio-Mannila Stora Enson Suomen puunhankinnasta.
+
+#### Metsäpurojen puolesta -yhteistyö
+
+Kolmen organisaation Metsäpurojen puolesta -yhteistyö alkoi toukokuussa 2022 ja jatkuu vuoden 2024 loppuun. Viime vuonna WWF:n, Stora Enson ja Tornatorin työntekijät rakensivat 12 kutusoraikkoa uhanalaiselle taimenelle, kunnostivat virtavesiuomia 400 metrin matkalta ja urakoivat yhden tierummun esteettömäksi. Yhteistyön tavoitteena on vahvistaa suomalaisen luonnon monimuotoisuutta ennallistamalla pääasiassa metsässä sijaitsevia pienvesiä.
+
+Vapaana virtaavista vesistä ovat riippuvaisia muun muassa vaelluskalat, vesihyönteiset, vesisammaleet, jokiravut ja simpukat. Virtavesien paremmasta tilasta hyötyvät myös virtavesiä reunustavat metsälajit eliöstöineen.
+
+Lisätietoja:
+
+Annemi Usva-Vänttinen Johtaja, yritysyhteistyö, WWF Suomi [email protected] 050 5642756
+
+Pekka Kallio-Mannila Yritysvastuujohtaja, Stora Enso Metsä [email protected] +358 407 540 243
+
+Heikki Myöhänen Ympäristöpäällikkö, Tornator Oyj [email protected] 050 441 2253
+
+* Lue lisää Tornatorin monimuotoisuusohjelmasta sekä Stora Enson monimuotoisuusohjelmasta.
+
+---
+
 ## Lokakuu 2023
 
 ### WWF:n raportti: Veden ja makean veden ekosysteemien tuottama taloudellinen arvo on 60 prosenttia maailman bruttokansantuotteesta – silti Suomessakin puhdasta vettä pidetään itsestäänselvyytenä
@@ -901,6 +953,40 @@ WWF:n esite: Metsänhoitoa ilman avohakkuita – 9 syytä siirtyä jatkuvaan kas
 WWF:n Metsänhoito-opas
 
 Lisätietoja: Mai Suominen, Johtava metsäasiantuntija
+
+---
+
+### WWF, Stora Enso ja Tornator tekevät yhteistyötä vesiensuojelun puolesta – tavoitteena kannustaa metsänomistajat mukaan vähentämään metsätalousalueiden vesistökuormaa
+
+Julkaistu: 12.9.2023  
+Aiheet: Suomi, Suomen metsät, Virtavedet  
+Linkki: https://wwf.fi/uutiset/2023/09/stora-enso-tornator-ja-wwf-tekevat-yhteistyota-vesiensuojelun-puolesta-tavoitteena-kannustaa-metsanomistajat-mukaan-vahentamaan-metsatalousalueiden-vesistokuormaa/
+
+**Stora Enso, Tornator ja WWF tekevät yhteistyötä Metsälähde-hankkeen puitteissa. Tornatorin vesiensuojelukohteilta kerätään metsänomistajille vinkkejä ja kuvamateriaalia suojavyöhykkeiden tärkeydestä ja jatkuvan metsänkasvatuksen vaihtoehdoista.**
+
+WWF:n vetämässä Metsälähde-hankkeessa halutaan innostaa metsänomistajia harkitsemaan vesiensuojelun parantamisen mahdollisuuksia omissa metsissään. Hankkeessa tehdään yhteistyötä Stora Enson ja Tornatorin kanssa. Yhteistyön taustalla on viime vuosina tehdyt havainnot siitä, että metsätalousalueilta vesistöihin päätyvän kuormituksen määrä on luultua suurempaa. Metsätalousalueella tehdyt toimet, kuten turvemaiden kunnostusojitus ja vesielinympäristöjen muokkaaminen uomia suoristamalla ja perkaamalla ovat lisänneet vesistöihin päätyvää kuormitusta.
+
+Metsätaloudesta aiheutuva vesistökuormitus ei aina jää metsään, vaan sen vaikutus näkyy useissa vesistöissä aina Itämeressä asti. Ravinnekuormitus aiheuttaa mökkirantojen umpeenkasvua, kiintoainekuormitus liettää vaelluskalojen kutualueita ja vesien tummuminen heikentää uposkasvien ja pohjakalojen elinolosuhteita. Metsätalouden vesistökuormitus kannattaa pitää kurissa ja pienvedet hyvässä kunnossa, sillä ne tarjoavat elinympäristöjä monille eliöille. Suomen uhanalaisista lajeista noin 6 prosenttia elää pienvesissä. Tähän joukkoon kuuluu esimerkiksi selkärangattomia eliöitä, sammalia sekä erittäin uhanalainen jokihelmisimpukka eli raakku.
+
+Stora Enson, Tornatorin ja WWF:n yhteisenä tavoitteena on kannustaa metsänomistajia mukaan näyttämällä hyviä esimerkkejä ja onnistumisia metsätalouden vesiensuojelusta. Tornator on toteuttanut omilla maillaan vesiensuojeluratkaisuja, kuten jatkuvaa kasvatusta turvemailla, vaihtelevan levyisiä suojavyöhykkeitä sekä purokunnostuksia. Esimerkkeinä toimivilta kohteilta tuotetaan kuva- ja videomateriaalia, joiden avulla voidaan näyttää konkreettisesti vesiensuojelun vaihtoehtojen monipuolisuus sekä pienillä toimilla saadut positiiviset vaikutukset ympäristöön.
+
+”Jos haluamme parantaa vesiemme tilaa ja suojella vesistöistä riippuvaista lajistoa, vesiensuojelua täytyy kehittää kaikilla maankäyttösektoreilla ja kaikkien toimijoiden keskuudessa. Yhdessä pystymme tavoittamaan suuremman joukon ihmisiä ja kommunikoimaan heille miksi tämä on tärkeää. Puhtaat vedet ovat lopulta meidän kaikkien etu”, WWF:n suojeluasiantuntija Meri Ensiö toteaa.
+
+#### Onnistuneista ympäristöteoista kannustusta myös yksityisille maanomistajille
+
+Vastuu vesien hyvästä tilasta ja uusien oppien viemisestä käytäntöön on kaikilla metsäsektorin toimijoilla. Suomen suurin yksityinen metsänomistaja Tornator sekä uusiutuvien materiaalien yhtiö Stora Enso ovat mukana edistämässä ympäristötyötä. Yhtiöt näkevät vesiensuojelun kehittämisen tärkeänä osana ekologisesti kestävää metsätaloutta, ja se halutaan myös huomioida yhä paremmin yritysten arjessa.
+
+”Tornatorin metsissä vesiensuojelu otti aimo harppauksen eteenpäin jo vuosikymmen sitten, kun otimme käyttöön FSC:n mukaiset suojavyöhykkeet. Vuonna 2021 aloitimme monimuotoisuusohjelmassa laajamittaisen soiden ennallistamisen ja nyt metsäpuro- ja metsälähdeyhteistyöt WWF:n kanssa vauhdittavat Tornatorin vesiensuojelutyötä entisestään”, toteaa Tornatorin ympäristöpäällikkö Heikki Myöhänen.
+
+”Vesiensuojelu on keskeinen osa vastuullista puunkorjuuta. Se on samalla tärkeä osa Stora Enson monimuotoisuusohjelman käytännön toimenpiteitä. Koulutamme henkilöstöämme, yrittäjiä ja kuljettajia säännöllisesti vesiensuojelun kysymyksiin. Seuraamme vesiensuojelun onnistumista, kuten vesistöjen suojavyöhykkeiden leveyksiä, osana luonnonhoidon laadun seurantaa. Metsänomistajien neuvonta on niin ikään oleellinen osa arjen vesiensuojelutyötä”, sanoo kehityspäällikkö Ringa Tuikka Stora Enson Suomen puunhankinnasta.
+
+Metsälähde-yhteistyö on osa WWF:n laajempaa ja pitkäjänteistä vesistöjen tilan parantamiseen tähtäävää työtä, jonka tavoitteena on vuoteen 2030 mennessä saavuttaa pien- ja virtavesien hyvä ekologinen tila Suomessa.
+
+Metsälähde-hankkeen rahoittaa Vesiensuojelun tehostamisohjelma.
+
+Lisätietoja:
+
+Mai Suominen Johtava metsäasiantuntija, WWF Suomi [email protected] 050 322 4363
 
 ---
 
@@ -1230,6 +1316,54 @@ Lisätietoja: Ohjelmajohtaja, Lisätietoja
 
 ---
 
+### Maailman ylikulutuspäivä on keskiviikkona 2.8.
+
+Julkaistu: 1.8.2023  
+Aiheet: Ylikulutus, Ilmastonmuutos, Luonnon köyhtyminen  
+Linkki: https://wwf.fi/uutiset/2023/08/maailman-ylikulutuspaiva-on-keskiviikkona-2-8/
+
+**Luonnonvarojen ylikulutus kiihdyttää ilmastokriisiä ja luontokatoa, ja voi johtaa myös konflikteihin. Maapallon ihmiset ovat kuluttaneet seitsemässä kuukaudessa ne luonnonvarat, joiden tulisi riittää koko vuodeksi.**
+
+Maailman ylikulutuspäivä merkitsee ajankohtaa, jolloin ihmisten kulutus ylittää laskennallisesti maapallon vuotuisen kyvyn tuottaa uusiutuvia luonnonvaroja.
+
+”Nykyisellä tasolla ihmisten kuluttamien luonnonvarojen tuottamiseen tarvittaisiin 1,7 maapalloa. Suurimman osan maapallon luonnonvaroista kuluttavat korkeamman tulotason maissa elävät ihmiset, kuten me suomalaiset”, sanoo WWF:n suojelun neuvonantaja Jussi Nikula.
+
+Ylikulutus on yksi keskeisimmistä syistä ilmastokriisin ja luontokadon taustalla. Niiden kautta se lisää esimerkiksi sään ääri-ilmiöitä, jotka vaarantavat globaalia ruokaturvaa.
+
+”Ylikulutusta jatkamalla teemme tietoisen valinnan heikentää edellytyksiä tulevaisuuden hyvinvoinnille Suomessa ja koko maailmassa”, Nikula toteaa.
+
+#### Suomella suuri vastuu
+
+Suomen osuus globaalista ylikulutuksesta on huomattavasti maailmanlaajuista keskiarvoa suurempi. Suomalaisten asukasta kohden laskettu kulutus ylittää maapallon rajat noin nelinkertaisesti. Kulutuksemme kiihdyttää ilmastonmuutosta ja aiheuttaa luontokatoa paitsi Suomessa myös ympäri maailman, ja siksi Suomella on vastuu paitsi globaalin ylikulutuksen vähentämisestä, myös kulutuksestamme aiheutuvien vahinkojen korvaamisesta.
+
+”Kuluttamalla luonnonvaroja kestämättömällä tavalla kasvatamme ekologista velkaa, joka johtaa tulevaisuudessa yhä suurempiin kustannuksiin”, Nikula sanoo.
+
+Luonto- ja ilmastokriisien kiihdyttämisen kautta ylikulutus johtaa myös konflikteihin. YK:n ympäristöohjelman (UNEP) arvion mukaan vähintään 40 prosenttia sisällissodista vuosina 1950–2010 oli yhteydessä luonnonvarojen hyväksikäyttöön. Samaan aikaan Orpon hallitus leikkaa sekä ihmisiä että luontoa hyödyttävästä kehitysyhteistyöstä.
+
+”Hallituksen kehitysyhteistyöhön kohdistuvat leikkaukset ovat räikeässä ristiriidassa sosiaalisen ja globaalin oikeudenmukaisuuden periaatteiden kanssa”, Nikula toteaa.
+
+#### Hallituksen tehostettava taloudellista ohjausta
+
+Tämän vuoden ylikulutuspäivä on ensimmäinen sitten viime joulukuun Montrealin luontokokouksen, jossa maailman valtiot sitoutuivat pysäyttämään luontokadon ja vahvistamaan luonnon tilaa vuoteen 2030 mennessä. Myös Suomi on allekirjoittanut nämä tavoitteet, jotka velvoittavat valtioita vähentämään luonnonvarojen ylikulutusta oikeudenmukaisella tavalla. Suomen kohdalla tämä tarkoittaa luonnonvarojen kulutuksen vähentämistä nykyisestä vuoteen 2030 mennessä. Tehokkaita keinoja kansallisesti olisivat esimerkiksi maa-aineisvero, tuki kasvipohjaisille elintarvikkeille sekä hakkuu- ja maankäyttömaksut.
+
+”Hallituksen ohjelmassa ylikulutusta hillitsevät taloudelliset ohjauskeinot loistavat lähinnä poissaolollaan. Hallitusohjelma ennemminkin tukee ylikulutuksen jatkamista lupaamalla, ettei esimerkiksi metsien käyttöä rajoiteta ja polttoaineiden hintoja kompensoidaan”, Nikula toteaa.
+
+Globaalin oikeudenmukaisuuden ohella ylikulutusta hillitsevät toimet on kohdennettava oikeudenmukaisesti myös kotimaassa.
+
+”Valtaosasta luonnonvarojen kulutusta vastaavat korkean tulotason kotitaloudet, joilla on parhaat edellytykset muokata toimintaansa vähemmän kuluttavaan suuntaan ja kantaa ylikulutuksen kustannuksia. Samalla on pidettävä huoli matalamman tulotason kotitalouksien toimeentulosta.”
+
+Global Footprint Network laskee maailman ylikulutuspäivät joka vuosi uudestaan tuoreimpien tietojen perusteella. Kansalliset ylikulutuspäivät Global Footprint Network laskee vain YK:n tilastotietojen perusteella ilman täydennettyjä tietoja, joten maailman ylikulutuspäivä ja kansalliset ylikulutuspäivät eivät ole suoraan vertailukelpoisia. Viime vuosien keskenään vertailukelpoiset maailman ylikulutuspäivät ovat 1.8.2018, 3.8.2019, 16.8.2020, 3.8.2021 ja 1.8.2022. Vuoden 2020 muita myöhäisempi ylikulutuspäivä johtuu pandemian aiheuttamasta luonnonvarojen kulutuksen väliaikaisesta vähentymisestä.
+
+Lisätiedot ja haastattelupyynnöt:
+
+Jussi Nikula, suojelun neuvonantaja, WWF Suomi, p. 040 595 9002, [email protected]
+
+Totti Toiskallio, viestinnän asiantuntija, WWF Suomi, p. 044 723 5424, [email protected]
+
+wwf.fi/uhat/ylikulutus
+
+---
+
 ## Heinäkuu 2023
 
 ### Tiikerien määrä on kasvanut Bhutanissa
@@ -1265,6 +1399,50 @@ Koko maailmassa on silti edelleen vain noin 4500 villinä elävää tiikeriä (a
 Lisätiedot
 
 Jari Luukkonen, suojelujohtaja, WWF Suomi, [email protected], 040 585 0020
+
+---
+
+### WWF ja Länsi-Uudenmaan maanomistajat etsivät ratkaisuja tulvaongelmiin ja rehevöitymiseen – Inkooseen toteutetaan laaja vesienhallintakokonaisuus
+
+Julkaistu: 26.7.2023  
+Aiheet: Suomi, Ennallistaminen  
+Linkki: https://wwf.fi/uutiset/2023/07/wwf-ja-lansi-uudenmaan-maanomistajat-etsivat-ratkaisuja-tulvaongelmiin-ja-rehevoitymiseen-inkooseen-toteutetaan-laaja-vesienhallintakokonaisuus/
+
+**WWF ja Länsi-Uudenmaan maanomistajat etsivät yhdessä ratkaisuja parempaan vesienhallintaan luonnonmukaisin keinoin. Vesienhallinnan ratkaisuilla pyritään vähentämään yleistyneitä tulvaongelmia ja rehevöitymistä, sekä turvaamaan luonnon monimuotoisuutta. WWF on toteuttanut vesiensuojelutyötä Länsi-Uudellamaalla jo viiden vuoden ajan, ja merkittävä työ jatkuu myös lähivuosina.**
+
+Erilaisilla vesienhallinnan ratkaisuilla, kuten tulvatasanteiden, kaksitasouomien ja kosteikkojen rakentamisella sekä soiden ennallistamisella voidaan hillitä vesistöjen ja meren rehevöitymistä. Luonnonmukaiset vesienhallintaratkaisut lisäävät alueen vedenpidätyskykyä, ja mutkittelevien ojien ja uomien rakentaminen hidastaa veden liikkumista, jolloin virtaamahuiput tasaantuvat ja tulviminen vähenee.
+
+WWF:n suojeluasiantuntija Meri Ensiön mukaan tehokkainta vesiensuojelu on silloin, kun voidaan suunnitella ja toteuttaa suurempia kokonaisuuksia yhteistyössä useiden maanomistajien kanssa.
+
+Ensiö nostaa hyväksi esimerkiksi laajasta, maanomistajien kanssa yhteistyössä suunnitellusta ja toteutetusta kokonaisuudesta, Inkoossa toteutetun Långbroån alueen vesienhallintakokonaisuuden.
+
+Långbroå on peltoalueiden läpi virtaava avouoma, jonka vesi laskee Inkoonjokeen ja myöhemmin Suomenlahteen. Långbroånin valuma-alue on kaikkiaan 287 hehtaaria, josta noin kaksi kolmasosaa on metsää ja loput pääosin peltoa.
+
+“Usein kuulee puhuttavan maatalouden ja metsätalouden vesistökuormituksesta eri yhteyksissä ja erillisinä kokonaisuuksina. Todellisuudessa kuitenkin sekä metsistä että pelloilta valuvat ravinteet aiheuttavat yhtä lailla rehevöitymistä ja päätyvät lopulta samaan loppusijoituspaikkaan, eli Itämereen.”
+
+”Längbroanin kokonaisuuden suunnittelu lähti liikkeelle uoman alaosien vaikeasta tulvatilanteesta. Vesienhallintatoimenpiteillä halutaan parantaa valumavesien laatua sekä vähentää tulvimisongelmia”, Ensiö kertoo.
+
+Tulvaongelmien taltuttamiseksi Långbroånin uoman alaosaan kaivetaan tulvatasanne, sekä rakennetaan kuusi pohjakynnystä, joiden tarkoituksena on tasata veden virtausnopeutta ja luoda maisemaan monimuotoisuutta. Metsän ja pellon rajaan rakennetaan lisäksi kaksiosainen kosteikko, jonka avulla valumavesistä pidätetään kiintoainesta ja ravinteita.
+
+”Eri rakenteet täydentävät toisiaan ja muodostavat yhdessä upean kokonaisuuden maisemaan. Osa työstä on jo tehty, mutta urakka viimeistellään alkusyksystä peltotöiden jälkeen”, Ensiö lisää.
+
+Långbroån kohteen toimenpiteet ovat erinomaisia esimerkkejä luonnonmukaisesta vesienhallinnasta. Luonnonmukaisilla ratkaisuilla alueilla voidaan edistää vesistöjen hyvää ekologista tilaa, parantaa veden laatua ja tukea monimuotoisuutta. Sen lisäksi vesienhallintaratkaisuilla voidaan myös ylläpitää tarvittavaa peruskuivatusta eli varmistaa ettei vesi seiso pellolla ja heikennä viljelyedellytyksiä.
+
+”Aikoinaan on raivattu paljon luontaisia vettä pidättäviä kohteita, kuten soita ja lampia, pois peltojen tieltä. Luonnonmukaisilla ratkaisuilla voidaan paikata näitä kadonneita ympäristöjä ja tasoittaa virtaamia.”
+
+#### Ympäristötyö etenee vauhdilla – kesän kohteina myös Norrbybäcken ja Myllykylä
+
+Langbroånin kokonaisuus on WWF:n tämän kesän isoin ponnistus, mutta sen lisäksi kesän aikana on rakennettu ja rakennetaan muitakin vesiensuojelukohteita Siuntionjoen valuma-alueelle.
+
+Norrbybäcken on Siuntionjoen Kirkkojoen haarassa sijaitseva sivu-uoma, jonka valuma-alue on noin 670 hehtaaria. WWF rakensi uoman varrelle vuonna 2021 kaksi pientä vesienhallintaa edistävää kohdetta, ja nyt työ saa jatkoa. Norrbybäckenin alaosaan rakennetaan noin 600 metriä pitkä kaksitasouoma.
+
+Siuntion Myllykylässä puolestaan rakennetaan kahdesta altaasta koostuva pieni kosteikko paikkaan, jossa sulamisvedet ja kovat sateet ovat aiheuttaneet huomattavaa eroosiota uomassa. Pahimmillaan vesi valuu alaspäin suoraan pellon läpi, keräten mukaansa ravinteita ja kiintoainesta. Kosteikolla ja kiveämisellä halutaan ensisijaisesti vakiinnuttaa uoma ja estää eroosio tulevaisuudessa, sekä pidättää vesiä kosteikossa, jotta vältytään pellon tulvimiselta.
+
+Lisätiedot ja kuvapyynnöt:
+
+Meri Ensiö, suojeluasiantuntija, WWF Suomi 050 3021568, [email protected]
+
+Metsälähde-hankkeen ja VALUTA2-hankkeen rahoittaa WWF Suomi ja ympäristöministeriö osana vesiensuojelun tehostamisohjelmaa. Hankkeissa tehdään yhteistyötä maa- ja metsäalueiden omistajien, sekä muiden sidosryhmien kanssa. Kiviaineksen vesienhallintakohteiden toteuttamiseen lahjoitti Rudus Oy.
 
 ---
 
@@ -1654,7 +1832,7 @@ Markus Haapamäki, viestintäpäällikkö, Stora Enso Metsä, 045 235 7124
 
 ---
 
-### WWF aloitti suoran lähetyksen lapinpöllön pesältä –”Poikaset varsinaisia menninkäisiä”
+### WWF aloitti suoran lähetyksen lapinpöllön pesältä – “Poikaset varsinaisia menninkäisiä”
 
 Julkaistu: 3.5.2023  
 Aiheet: Uncategorized @fi  

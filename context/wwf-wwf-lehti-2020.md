@@ -9,7 +9,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 
 **Joulukuu 2020**
 
-- 2.12.2020 – Vaelluskaloja auttava suojeluasiantuntija:”Talkoopäivä on odotettu palkinto”
+- 2.12.2020 – Vaelluskaloja auttava suojeluasiantuntija: “Talkoopäivä on odotettu palkinto”
 - 1.12.2020 – Ronja Salmen kolumni: Rakkaudesta muuttumisleikkeihin
 - 1.12.2020 – Ruuantuotanto on suurin yksittäinen syy luonnon monimuotoisuuden köyhtymiseen – ympäristön huomioivat ravitsemussuositukset voisivat ratkaista ongelman
 - 1.12.2020 – Kolmen tähden Michelin-ravintolassa kokannut suomalainen:”Ympäristöystävällisyys kasvaa ruoka-alalla”
@@ -18,7 +18,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 - 1.12.2020 – Miksi WWF:llä on verkkokauppa, vaikka järjestön tavoitteena on vähentää kulutusta?
 - 1.12.2020 – Miksi turpeesta pitää luopua ja millä se korvataan? Asiantuntijamme vastaa kysymyksiin turpeen energiakäytöstä
 - 1.12.2020 – Madagaskarilta löytyi uusi makilaji ja muita tuoreita luonnonsuojelun onnistumisia
-- 1.12.2020 – Koomikko Iikka Kivi taistelee uhanalaisten lajien metsästystä vastaan:”Se on järjetön käytäntö”
+- 1.12.2020 – Koomikko Iikka Kivi taistelee uhanalaisten lajien metsästystä vastaan: “Se on järjetön käytäntö”
 - 1.12.2020 – Ilmastotoivoa löytyy ruokapöydästä
 - 1.12.2020 – Helle pudottaa hedelmälepakot puista ja metsäkato uhkaa norsuja – Nämä ovat viisi suurinta syytä villin luonnon ahdinkoon
 
@@ -76,7 +76,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 
 ## Joulukuu 2020
 
-### Vaelluskaloja auttava suojeluasiantuntija:”Talkoopäivä on odotettu palkinto”
+### Vaelluskaloja auttava suojeluasiantuntija: “Talkoopäivä on odotettu palkinto”
 
 Julkaistu: 2.12.2020  
 Aiheet: WWF-lehti, Luonnon köyhtyminen, Suomen uhanalaiset kalat, Talkoot, Virtavedet  
@@ -357,7 +357,7 @@ Kaikki Suomen vaelluskalat, esimerkiksi lohi ja taimen, ovat uhanalaisia, koska 
 
 ---
 
-### Koomikko Iikka Kivi taistelee uhanalaisten lajien metsästystä vastaan:”Se on järjetön käytäntö”
+### Koomikko Iikka Kivi taistelee uhanalaisten lajien metsästystä vastaan: “Se on järjetön käytäntö”
 
 Julkaistu: 1.12.2020  
 Aiheet: WWF-lehti, Luonnon köyhtyminen, Suomi  

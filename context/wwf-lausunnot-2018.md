@@ -1,9 +1,8 @@
 # WWF Suomi – Lausunnot 2018
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 31 (uusin 3.12.2018).
+Kohteita: 37 (uusin 3.12.2018).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 31 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -20,6 +19,7 @@ Huom: 31 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 **Lokakuu 2018**
 
 - 31.10.2018 – WWF:n lausunto luonnoksesta HE riistavahinkolain muuttamiseksi (31.10.2018)
+- 24.10.2018 – Tiivistelmä Arctic Youth Summitin osallistujien julkilausumasta arktisen alueen ympäristöministereille (11.10.2018)
 - 17.10.2018 – WWF Suomen lausunto Suomen EU-puheenjohtajuuden painopistealueista (17.10.2018)
 - 16.10.2018 – WWF:n lausunto ehdotuksesta neuvoston asetukseksi eräiden kalakantojen ja kalakantaryhmien Itämerellä sovellettavien kalastusmahdollisuuksien vahvistamisesta vuodeksi 2019 (5.10.2018)
 - 4.10.2018 – WWF:n lausunto luonnoksesta ilveksen metsästystä koskevaksi kiintiöksi metsästysvuonna 2018–2019 (4.10.2018)
@@ -41,9 +41,13 @@ Huom: 31 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 28.6.2018 – WWF Suomen lausunto saimaannorpan lisäämisestä Puruveden Natura 2000 -alueen suojeluperusteisiin (28.6.2018)
 - 19.6.2018 – WWF:n lausunto eduskunnan valiokunnille Itämeren kalastuskiintiöistä vuodelle 2019 (14.6.2018)
+- 19.6.2018 – WWF:n kommentit maa- ja metsätalousministeriölle kuhan kalastuksen säätelystä (19.6.2018)
+- 13.6.2018 – WWF Suomen kanta ekologisiin kompensaatioihin (1.5.2018)
+- 6.6.2018 – Europe Beyond Coal -kampanjan kirje ministeri Tiilikaiselle kivihiilen käytön lopettamisesta (6.6.2018)
 
 **Toukokuu 2018**
 
+- 14.5.2018 – Ympäristöjärjestöjen esitys Euroopan komissiolle ankeriaskannan elvyttämiseksi (11.5.2018)
 - 8.5.2018 – WWF:n lausunto kestävän kasvun rahoitusta koskevasta toimintasuunnitelmasta (8.5.2018)
 - 4.5.2018 – WWF:n lausunto öljy- ja kemikaalivahinkojen torjuntavastuun siirrosta sekä öljysuojamaksusta luopumisesta (4.5.2018)
 
@@ -66,6 +70,7 @@ Huom: 31 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 20.2.2018 – WWF:n lausunto Pohjanlahden silakan kalastuskuolevuudesta ja suojatasoista (9.2.2018)
 - 16.2.2018 – WWF:n lausunto päivitettävänä olevasta ilveksen hoitosuunnitelmasta (16.2.2018)
 - 14.2.2018 – WWF:n lausunto Suomen meriympäristön tilasta (9.2.2018)
+- 7.2.2018 – Järjestöjen avoin kirje Fortumin Pekka Lundmarkille koskien Uniperin kivihiililaitoksia (7.2.2018)
 
 **Tammikuu 2018**
 
@@ -79,7 +84,6 @@ Huom: 31 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 Julkaistu: 3.12.2018  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/n/4/k/sakre55apzjloucrsbzv24e/mmm_kaupallisen-kalastuksen-asetus_2018_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -112,7 +116,6 @@ Olli Sivonen Suojeluasiantuntija
 
 Julkaistu: 29.11.2018  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/x/d/6/sdoxovzcm5hcnin737deaug/kansallinen-metsaestrategia_wwf-lausunto-28-11-2018_final.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -211,7 +214,6 @@ Aleksi Heiskanen kansainvälisen kehityksen asiantuntija Maailman Luonnon Säät
 
 Julkaistu: 15.11.2018  
 Aiheet: Itämeri, Meret  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/0/2/40qr0fu1b11pf9upxmbgjn/wwf-lausunto-meripolitiikka.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -236,7 +238,6 @@ kehittäminen”. Tässä kohdassa on valitettavasti jätetty huomiotta se, ett�
 
 Julkaistu: 5.11.2018  
 Aiheet: Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/s/a/e/ek5tk2vavhaks5voo2vtpqf/kalastuslain-muutos-wwf-suomi_lausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -290,7 +291,6 @@ WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmis
 
 Julkaistu: 31.10.2018  
 Aiheet: Ahma, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/i/3/h/2w3xm2jhr7atm4fckkeqzjb/wwf-lausunto-mmm-riistavahinkolaki-181031.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -315,11 +315,30 @@ Persson, J., Rauset, G. R. and Chapron, G. (2015): Paying for an Endangered Pred
 
 ---
 
+### Tiivistelmä Arctic Youth Summitin osallistujien julkilausumasta arktisen alueen ympäristöministereille (11.10.2018)
+
+Julkaistu: 24.10.2018  
+Aiheet: Arktinen, Ilmastonmuutos, Ympäristökasvatus  
+Linkki: https://wwf.fi/app/uploads/k/j/4/b23yqjrd77clikdsc2qf3pe/ays-declaration-summary-for-policymakerseditedversion.pdf
+
+Arctic Youth Summit
+
+ROVANIEMI DECLARATION October 11, 2018
+
+We, the youth of the Arctic, believe more actions are needed to protect the Arctic and to move closer to the new sustainable paradigm.
+
+OUR MISSION ?If we lose the Arctic, we will lose the Globe.? Sauli Niinistö, President of the Republic of Finland
+
+Working with leaders to create opportunities for youth to impact today?s and tomorrow?s decision-making for sustainable development, conserving Arctic biodiversity, ensuring cultural equality, and mitigating anthropogenic climate change.
+
+OUR CALL TO ACTION For leaders to integrate the youth voices into decision making in all discussions and contexts. We are raising awareness that young people are not only future leaders but are current leaders. Youth of the Arctic are valuable parts of the current political paradigm: we are leaders who advocate for climate action, indigenous culture, and sustainable development. We are a resource at your disposal. Climate change is no longer a future issue. It is a current issue. Arctic Youth Summit | Rovaniemi Declaration | Adopted October 11, 2018 | sanna.koskinen@wwf.fi | kari@caff.is
+
+---
+
 ### WWF Suomen lausunto Suomen EU-puheenjohtajuuden painopistealueista (17.10.2018)
 
 Julkaistu: 17.10.2018  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen, Metsäkato, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/s/p/y/mldyx6rbjhngnjcinmwdm7g/wwf-suomen-lausunto-suomen-eu-puheenjohtajuuden-painopistealueista.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -563,7 +582,6 @@ For further information: Rebecca Humphries Public Affairs Officer, WWF European 
 
 Julkaistu: 16.10.2018  
 Aiheet: Itä-Afrikka, Liikakalastus, Suomen uhanalaiset kalat, Virtavedet, Ylikulutus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/h/q/bzddfonfanfmoo2p6ibtf4h/ymv_e-74_2018-vp_kalastuskiintiot_wwf_05102018-korjattu.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -655,7 +673,6 @@ Lähteet: Komission ehdotus: https://ec.europa.eu/fisheries/commission-proposes-
 
 Julkaistu: 4.10.2018  
 Aiheet: Ilves, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/t/4/whduzvbhqdlytwx6pf3riwc/wwf-lausunto-ilves-mmm-lokakuu-2018.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -688,7 +705,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 20.9.2018  
 Aiheet: Liikakalastus, Luonnon köyhtyminen, Suomen uhanalaiset kalat  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/x/s/767xxsjednghshp32skwu3a/ankerias-lausuntopyyntoe-valtioneuvoston-asetuksesta-kalastuksesta-annetun-asetuksen-muuttamiseksi-1498_01-02_2018_wwf-suomi.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -739,7 +755,6 @@ Kuva 3. Vääksynjoelta mereen ylisiirrettyjen ankeriaiden määrät 2014–2017
 
 Julkaistu: 12.9.2018  
 Aiheet: Itämeri, Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/4/m/22wad2vauvnaeczfbk5wgcg/20180801_joint-ngo-recommendations-on-baltic-tacs-2019_final.pdf
 
 Joint NGO recommendations on Baltic Sea fishing opportunities for 2019 In October 2018, EU fisheries ministers are scheduled to agree on fishing opportunities in the Baltic Sea for 2019. The following text outlines the joint NGO recommendations on Baltic Sea fishing opportunities for 2019 in the context of EU fisheries legislation, scientific advice on catch limits and the sharing of stocks with third countries.
@@ -907,7 +922,6 @@ ottilia.thoreson@wwf.se
 
 Julkaistu: 11.9.2018  
 Aiheet: Suomen uhanalaiset kalat, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/r/t/r/6wez4yvepfh2d4otmdur45d/mmm2018-00578_kalastuskiintiot_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -991,7 +1005,6 @@ Olli Sivonen Suojeluasiantuntija
 
 Julkaistu: 11.9.2018  
 Aiheet: Liikakalastus, Suomen uhanalaiset kalat, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/i/g/3/7jqj4grdhxo3wnope7v5hdg/mmv_110918_he85_2018-vp_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1042,7 +1055,6 @@ Lisätietoja: Olli Sivonen, Suojeluasiantuntija, olli.sivonen@wwf.fi, +358 50 30
 
 Julkaistu: 27.7.2018  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/o/x/g/yksyi2vfolbhuw3d4cfgwae/wwfn-lausunto-luonnoksista-asetuksiksi-eraeiden-vesilintujen-metsaestyksen-rajoittamisesta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1075,7 +1087,6 @@ Petteri Tolvanen ohjelmapäällikkö, WWF Suomi
 
 Julkaistu: 23.7.2018  
 Aiheet: Itämerennorppa, Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/z/a/q/tt65llvew3ozic6c4dd6wda/wwf-lausunto-hylkeet-majava-mmm-180723.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1122,7 +1133,6 @@ Petteri Tolvanen ohjelmapäällikkö, WWF Suomi
 
 Julkaistu: 3.7.2018  
 Aiheet: Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/s/q/g/7dgh27fb7deyezeg62kyy7a/lausunto-vesienhoidon-kuulemisesta-3-7-2018.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1171,7 +1181,6 @@ WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmis
 
 Julkaistu: 28.6.2018  
 Aiheet: Saimaannorppa, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/4/y/l65xevzexpjngaehfuqby5c/wwf-suomen-lausunto-saimaannorpan-lisaeaemisestae-puruveden-natura-2000-alueen-suojeluperusteisiin.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1200,7 +1209,6 @@ Jari Luukkonen Suojelujohtaja (jari.luukkonen@wwf.fi)
 
 Julkaistu: 19.6.2018  
 Aiheet: Itämeri, Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/l/n/5/x5xel3radfj2tayhdjfc2jh/mmv_140618_e44_2018vp_kalastuskiintiot_wwf.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1239,13 +1247,156 @@ Matti Ovaska Suojeluasiantuntija
 
 ---
 
+### WWF:n kommentit maa- ja metsätalousministeriölle kuhan kalastuksen säätelystä (19.6.2018)
+
+Julkaistu: 19.6.2018  
+Aiheet: Liikakalastus, Suomi, Virtavedet  
+Linkki: https://wwf.fi/app/uploads/6/k/i/2j6ct4zclpd7s3bxhma3xmd/kuha_sidosryhmatilaisuus_19062018_wwf.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 Faksi: (09) 7740 2139 www.wwf.fi, www.panda.org
+
+Maa- ja metsätalousministeriö Kuhakantoja ja kuhan kalastusta koskeva sidosryhmätilaisuus 19.6.2018 WWF Suomen näkemykset kuhan kalastuksen säätelystä WWF kiittää kommentointimahdollisuudesta ja toteaa kuhan kalastuksen säätelystä seuraavaa: -
+
+-
+
+-
+
+-
+
+-
+
+Kuhan kalastuksen ekologisen kestävyyden parantamiseksi alamitta tulee säätää lähtökohtaisesti 45cm:iin sekä sisävesillä että kaikilla merialueilla. Vähimmäistoimenpiteenä kalastusasetuksen mukainen uusi alamitta (40 cm Suomenlahden ulkopuolisilla merialueilla ja 42 cm Suomenlahdella) tulee asettaa viipymättä voimaan vuoden 2019 alusta. Ylikalastettujen kuhakantojen osalta on äärimmäisen tärkeää vähentää kokonaispyyntiponnistusta nykyisestä. Alamitan noston yhteydessä olennaisen tärkeää on korottaa myös verkkojen silmäkokorajoituksia. Tärkeimpiä kuhan lisääntymisalueita tulisi rauhoittaa kuhan kudun ajaksi. Ajoittamalla kalastusta syyskauteen, saataisiin paremmin myös hyödynnettyä kesän aikainen kasvupotentiaali. Alamitan nosto tulee vääjäämättä aiheuttamaan saaliskuopan Saaristomeren kaupallisessa kalastuksessa, jota voitaisiin kuitenkin lieventää kalastuskuolevuutta pienentämällä. Alamitan noston lykkääminen myöhemmäksi siirtäisi ainoastaan saaliskuopan syntyajankohtaa. Saaliskuopan jälkeen kuhasaaliit tulisivat kuitenkin kasvamaan, sillä kalastus kohdistuisi keskimäärin aiempaa vanhempiin yksilöihin sekä saalis koostuisi useamman ikäryhmän yksilöistä. Kuhan kalastuksesta riippuvaisille I-luokan kaupallisille kalastajille voitaisiin laatia kalastuksen kehittämisohjelma, jossa kuhan kaupallista kalastusta kehitettäisiin nykyistä kestävämpään suuntaan yhteistyössä tutkimuksen ja viranomaisten kanssa. Osallistumalla kehittämisohjelmaan, kalastajille voitaisiin kompensoida menetettyjä saalistuloja esimerkiksi Euroopan meri- ja kalatalousrahaston kautta. Sisävesillä kuhan kalastuksen säätelyä tulee tarkastella ja optimoida erityisesti alueellisia käyttö- ja hoitosuunnitelmia laadittaessa.
+
+Kuhakantojen tila Suomalaiset kuhakannat ovat tällä hetkellä pääosin hyvässä tilassa sisävesillä mutta merialueilla kuhakantojen tila vaihtelee. Erityisesti Saaristomerellä kuhakantojen tilanne on tällä
+
+hetkellä huolestuttava ja kuhakannan koko vuonna 2014 on ollut pienin yli 20 vuoteen. Sekä sisävesillä että merialueilla kuha on toiseksi arvokkain laji sekä kaupallisen kalastuksen korkeahintaisin kalalaji. Kuhan tuottajahinnat ovat lähes kaksinkertaistuneet vuosituhannen vaihteesta. Kuhakantojen vahvuus vaihtelee luontaisestikin voimakkaasti, johtuen suurelta osin kesän lämpötiloista. Vuoden 2018 kuhasaaliin merialueella on ennakoitu olevan heikko, johtuen kylmistä kesistä 2012-2013. Osaltaan kuhakantojen tila on tiheysriippuvaista siten, että keskimääräinen kutukanta tuottaa parhaiten rekryyttejä. Liian suuri tiheys ei kuitenkaan tällä hetkellä ole merialueilla kannan kokoa ja koostumusta rajoittava tekijä. Pääosa (noin 69 prosenttia) kuhan kaupallisesta saaliista saadaan nykyisin sisävesiltä. Sisävesien kuhasaalis on nelinkertaistunut vuodesta 2004 vuoteen 2014 (444 tonnia). Myös vapaa-ajankalastuksen kuhasaalis on kasvanut tasaisesti viime vuosina sisävesillä, ollen 3600 tonnia vuonna 2016. Sisävesien kuhakannat ovat pääosin kestävällä tasolla, eikä kalastus nykyisellään uhkaa suuremmin kantojen lisääntymiskykyä, vaikkakin järvien välillä esiintyy suurta vaihtelua kuhan kasvunopeudessa. Kuhan alamitan nostoa vuoden 2016 alusta ei ole myöskään sisävesien kaupallisessa kalastuksessa koettu ongelmalliseksi, ja monin paikoin on ollut voimassa jo ennestään korkeammat alamitat. Merialueiden kaupallinen kuhankalastus tapahtuu Suomenlahdella ja Saaristomerellä, joista saadaan yli 80 % saaliista. Pohjanlahdella ja Selkämerellä kuha on pääosin sivusaalislaji. Suomenlahden ja Saaristomeren kaupallisen kalastuksen kuhasaaliit ovat vähentyneet vuodesta 2011 lähtien. Samanaikaisesti myös II-ryhmän kalastajien määrät (sekä siten pyyntiponnistus) ovat vähentyneet, I-luokan kaupallisten kalastajien määrän pysyessä melko samalla tasolla. Vapaa-ajan verkkokalastussaaliisosuudet ovat vastaavasti nousseet vuodesta 2012 vuoteen 2016 Saaristomerellä. Kuhan kaupallisen kalastuksen kokonaissaaliista sisävesillä noin 75 % pyydetään verkoilla ja merialueella yli 80 %. Verkkoyksikkösaaliit ovat olleet Saaristomerellä vuosituhannen alkupuolella 0,3-0,4 kg ja vuosina 2005-2016 0,2-0,3 kg, kun taas Suomenlahdella yksikkösaaliit ovat olleet koko tarkastelujakson ajan tasolla 0,2-0,3 kg. Sisävesien tärkeimmällä kuhajärvellä, Oulujärvellä, verkkoyksikkö saalis on huippuvuosina 2000-luvun alkupuolella ollut keskimäärin 0,8 kg, mutta tippunut kalastuksen lisääntymisen ja kuhakannan heikentymisen myötä alle 0,5kg vuonna 2014.
+
+Kuhan kalastuksen ekologinen kestävyys Vuoden 2016 alusta astui voimaan uusi kalastuslaki ja -asetus, jossa kuhan alamitaksi määritettiin vapaa-ajankalastajille ja II-luokan kaupallisille kalastajille 42 cm sekä sisävesillä että merialueella. Sosio-ekonomisista syistä 1-luokan kaupallisille kalastajille asetettiin Suomenlahdella ja sisävesillä kuhan alamitaksi 40 cm ja 37 cm Suomenlahden ulkopuolisilla merialueilla vuoden 2018 loppuun asti. Vuoden 2019 alamittojen tulisi nousta vastaavasti 42 ja 40 senttimetriin. Saaristomeren kuhakannat koostuvat nykyisin suurimmaksi osaksi hidaskasvuisista ja myöhään sukukypsiksi tulevista yksilöistä. Kalastus kohdistuu pääasiassa nopeasti kasvaviin yksilöihin, jotka joutuvat saaliiksi heti alamitan ylitettyään. Saaliin ikäjakaumien perusteella on Saaristomerellä havaittu olevan myös merkittävästi neljävuotiaita ei-lisääntymisikäisiä kuhia kalastuksen kohteena. Jopa 10-vuotiaiden ikäluokassa on vielä yksilöitä, jotka ovat alle 37 cm:n alamitan. Varsinkin Saaristomeren pohjoisosissa on havaittu kuhan pituusjakaumassa siirtymää pienempiin yksilöihin viime vuosina, josta kertovat osaltaan myös vapakalastajien saaliskirjanpidot. Saaristomeren kuhakantojen heikkoon tilaan on vaikuttanut pitkään kestänyt liian kova kalastuspaine. Luontainen vaihtelu yhdistettynä suureen kalastuskuolevuuteen ja pieneen alamittaan kärjistää saaliin vaihteluita, koska pyynnissä oleva kanta koostuu vain muutamista ikäluokista. Vahvat vuosiluokat ja nopeasti kasvavat yksilöt kalastetaan nopeasti pois, jolloin jää vain hitaammin kasvavia ja myöhemmin sukukypsiksi tulevia yksilöitä. Saaristomeren populaatiossa on kuitenkin vielä jäljellä nopeakasvuisia yksilöitä nuorissa ikäryhmissä. Saaristomerellä kuhaa kalastetaan pääosin tiheämmillä verkoilla kuin Suomenlahdella ja sisävesillä. Verkkosaaliissa on mukana paljon myös alamittaista kuhaa, joka ei selviä vapautuksesta hengissä. Saaristomerellä alamittaisten kuhien osuus saaliista on korkea, jopa 20-25 prosenttia. Alamittaista kuhaa tulee saaliiksi myös muiden lajien pyynnin sivusaaliina. Sisävesillä ja Suomenlahdella sen sijaan kuhan kaupallisessa pyynnissä on yleisimmin käytetty 50 tai 55 mm:n solmuvälillä olevia verkkoja, jolloin alamittaisten osuus saaliissa ei ole ollut yhtä suuri kuin Saaristomerellä. Kuhan kalastus ja kalastusrajoitukset eivät nykyisellään ole kestävällä tasolla Saaristomeren alueella, vaan kaikkea kalastusta tulisi rajoittaa. Populaatiokoko on arvioitu vuonna 2014 olevan pienin 20 vuoteen. Kuhan alamitta on tällä hetkellä Saaristomerellä liian pieni, eikä se takaa riittävän suurta ja monipuolista, ja kalastuksen kestävää kantaa tulevaisuudessa. Alamitan nostolla saataisiin kuitenkin kalakantaa ja saalista muutettua siten, että keskimääräinen saaliskalojen ikä ja koko kasvaisivat, ja populaatiossa ja saaliissa olisi siten aiempaa useampia ikäryhmiä sekä laajempi pituusjakauma. Tämä tasaisi siten jatkossa myös
+
+vuosiluokkien runsaudesta johtuvia saaliiden vaihteluita. Alamitan noston yhteydessä olennaisen tärkeää on korottaa myös verkkojen silmäkokorajoituksia (50 tai 55 millimetriin), jotta alamittamuutoksista olisi hyötyä. Lisäksi alamitan korottamisella saataisiin paremmin hyödynnettyä nopeakasvuisten yksilöiden kasvupotentiaali, ja ne ehtisivät todennäköisemmin kutea myös edes kerran ennen saaliiksi joutumista. WWF:n näkemyksiä kuhankalastuksen säätelyyn Kalastusasetuksen mukainen alamitan siirtymäaika I-luokan kaupallisille kalastajille on umpeutumassa vuoden 2018 lopussa. WWF katsoo, että kuhan kalastuksen ekologisen kestävyyden parantamiseksi alamitta tulee säätää lähtökohtaisesti 45cm:iin sekä sisävesillä että kaikilla merialueilla. Vähimmäistoimenpiteenä kalastusasetuksen mukainen uusi alamitta (40 cm Suomenlahden ulkopuolisilla merialueilla ja 42 cm Suomenlahdella) tulee asettaa viipymättä voimaan vuoden 2019 alusta. WWF huomauttaa, että pelkästään alamittasäädöksiin perustuva kalastuksen säätely ei välttämättä takaa kantojen elinvoimaisuutta pitkällä aikavälillä, mikäli kokonaispyyntiponnistus pysyy liian korkeana. Näin ollen ylikalastettujen kuhakantojen osalta on äärimmäisen tärkeää vähentää kokonaispyyntiponnistusta nykyisestä. Lisäksi WWF korostaa, että alamitan noston yhteydessä olennaisen tärkeää on korottaa myös verkkojen silmäkokorajoituksia, jotta alamittamuutoksista olisi hyötyä. Kuhakantojen vahvistamisessa ja kalastuksen säätelyssä tulisi ottaa huomioon myös ajalliset ja alueelliset rauhoitukset. Tärkeimpiä lisääntymisalueita tulisi rauhoittaa kuhan kudun ajaksi. Ajoittamalla kalastusta syyskauteen, saataisiin paremmin myös hyödynnettyä kesän aikainen kasvupotentiaali. Alamitan nosto tulee vääjäämättä aiheuttamaan saaliskuopan kaupallisessa kalastuksessa, jota voitaisiin kuitenkin lieventää kalastuskuolevuutta pienentämällä. Kuopan suuruuteen vaikuttaa osaltaan eri vuosiluokkien runsaus, alamitan noston ajankohta sekä hidas- ja nopeakasvuisten yksilöiden määrä. Saaliskuopan jälkeen kuhasaaliit tulisivat kuitenkin kasvamaan, sillä kalastus kohdistuisi keskimäärin aiempaa vanhempiin yksilöihin sekä saalis koostuisi useamman ikäryhmän yksilöistä. Alamitan noston lykkääminen myöhemmäksi siirtäisi ainoastaan saaliskuopan syntyajankohtaa. Sosiaalisten ja taloudellisten vaikutusten lieventämiseksi WWF katsoo, että kuhan kalastuksesta riippuvaisille I-luokan kaupallisille kalastajille voitaisiin laatia kalastuksen kehittämisohjelma, jossa kuhan kaupallista kalastusta kehitettäisiin nykyistä kestävämpään suuntaan yhteistyössä tutkimuksen ja viranomaisten kanssa. Osallistumalla kehittämisohjelmaan, kalastajille voitaisiin kompensoida menetettyjä saalistuloja esimerkiksi Euroopan meri- ja kalatalousrahaston kautta. Samalla saataisiin tärkeää tietoa esimerkiksi
+
+kuhan kalastuksen sivusaaliista sekä kiistanalaisista hylkeiden ja merimetsojen aiheuttamista vahingoista. Alamitan noston aiheuttamaa taloudellista kuoppaa voisi lieventää kohdistamalla kalastusta väliaikaisesti myös muihin lajeihin. Myös kalastusmatkailu ja kalastusopastoiminta voisi hyötyä alamitan nostosta, kun enemmän isompaa kuhaa olisi kalastettavissa. Sisävesillä kuhakantojen tilaa ja tuottavuutta voitaisiin parantaa järvi-/vesistökohtaisella säätelyllä. WWF katsoo, että sisävesillä kuhan kalastuksen säätelyä tulee tarkastella ja optimoida erityisesti alueellisia käyttö- ja hoitosuunnitelmia laadittaessa. Lisäksi kuhan istutuksiin ja istukkaiden alkuperään tulee kiinnittää huomiota. WWF korostaa, että tietoon perustuvan kalastuksen säätelyn toteutumiseksi sisävesien kuhakantojen tilaa ja säätelytoimenpiteiden vaikutusta tulee seurata nykyistä tarkemmin. WWF toteaa yhteenvetona, että kuhan alamitan nostaminen kalastusasetuksen mukaisesti on nykytilanteessa välttämätöntä. Kuhan alamitan pitäminen I-luokan kaupallisille kalastajille nykyisellään (37 cm Suomenlahden ulkopuolisilla merialueilla) vuoden 2019 alusta on myös vastoin kalastuslain ensimmäistä pykälää, jonka mukaan kalavarojen ekologisesti, taloudellisesti ja sosiaalisesti kestävän käytön ja hoidon järjestämisen tulee perustua parhaaseen käytettävissä olevaan tietoon siten, että turvataan kalavarojen kestävä ja monipuolinen tuotto, kalakantojen luontainen elinkierto sekä kalavarojen ja muun vesiluonnon monimuotoisuus ja suojelu.
+
+Maailman Luonnon Säätiö (WWF) Suomen Rahasto
+
+Jari Luukkonen Suojelujohtaja
+
+Matti Ovaska Suojeluasiantuntija
+
+Lisätiedot: Olli Sivonen, olli.sivonen@wwf.fi
+
+Olli Sivonen Suojeluasiantuntija
+
+---
+
+### WWF Suomen kanta ekologisiin kompensaatioihin (1.5.2018)
+
+Julkaistu: 13.6.2018  
+Aiheet: Luonnon köyhtyminen, Suomi  
+Linkki: https://wwf.fi/app/uploads/a/r/y/reg3vavejzobrvc2kjzsuih/wwf-suomen-kanta-ekologisiin-kompensaatioihin-toukokuu-2018.pdf
+
+WWF Lintulahdenkatu 10 00500 HELSINKI
+
+Puh: (09) 7740 100 info@wwf.fi www.wwf.fi, www.panda.org
+
+WWF Suomen kanta ekologisiin kompensaatioihin Toukokuu 2018 Ekologisella kompensaatiolla tarkoitetaan järjestelmää, jossa luontoa heikentävään rakentamis‐ tai muuhun maankäyttötoimeen ryhtyvä toimija hyvittää hankkeesta aiheutuvan ekologisen haitan tekemällä kompensoivia suojelu‐ tai ennallistamistoimia muualla kuin hankealueella omalla kustannuksellaan. Kompensaatiot eivät voi täysin korvata luontoarvoja, jotka hyvitettävässä hankkeessa hävitetään. WWF näkee oikein toteutetut kompensaatiot kuitenkin mahdollisuutena korvata hankkeista aiheutuvia negatiivisia vaikutuksia. Toisaalta WWF näkee suurena riskinä sen, että kompensaatioiden hyödyt voivat jäädä käytännössä vähäisiksi tai niitä voidaan jopa väärinkäyttää, ellei järjestelmälle aseteta riittävän tarkkoja, luonnontieteellisesti perusteltuja ja kunnianhimoisia sääntöjä. Muissa maissa jo toiminnassa olevista kompensaatiojärjestelmistä saatujen kokemusten perusteella näyttää siltä, että ne eivät useinkaan ole käytännössä korvanneet aiheutettuja haittoja. WWF korostaa, että kompensaatiojärjestelmä on lisäväline ympäristönsuojelun kehikkoon: järjestelmä ei saa johtaa ympäristöä koskevan lainsäädännön ja sen toteuttamiseen osoitettujen resurssien heikentämiseen tai kehittämättä jättämiseen. Kompensaatiojärjestelmä tarvitsee myös tehokkaan valvonnan. WWF Suomi pitää seuraavia näkökulmia ja reunaehtoja keskeisinä, jotta ekologisen kompensaation järjestelmä voisi toimia uskottavasti:
+1. Ekologisen kompensaation on aidosti tuotettava parantumista kohteena olevan elinympäristön tai luontotyypin kokonaistilanteeseen. Keskeisenä lähtökohtana on oltava ns. no net loss ‐periaate, eli että kompensaation kohteena olevan elinympäristön tai luontotyypin kokonaistilanne pysyvästi paranee kompensaatiotoimenpiteen ansiosta alkutilanteeseen nähden. Haittojen osittainen kompensoiminen ei riitä: jos esimerkiksi rakennushanke hävittää kokonaan ja pysyvästi tietyn kokoisen luonnontilaisen alueen, hyvitykseksi ei riitä vastaavan saman kokoisen, jo aiemmin luonnontilaltaan heikennetyn alueen ennallistaminen, koska silloin kokonaistulos on heikompi kuin lähtötilanne. Samasta syystä esimerkiksi lajiesiintymien siirto rakennushankkeen tieltä väliaikaisesti muualle ja myöhemmin takaisin alkuperäiselle paikalleen, ei ole täysi kompensaatio, vaan hankkeen haittavaikutusten lieventämiseen pyrkivä toimi tai osittainen kompensaatio, jos osa siirretystä lajistosta vakiintuu väliaikaiselle kasvupaikalleen.
+2. Ekologinen kompensaatio ei sovellu arvokkaimpiin luontokohteisiin: ne ovat korvaamattomia, eikä niitä saa heikentää kompensaatiojärjestelmän avulla. Kompensaatiota ei tule voida käyttää luonnonsuojelualueiden, kaavojen suojeluvarausalueiden, lailla suojeltujen lajien esiintymien luontotyyppien, muiden kansallisesti tai kansainvälisesti arvokkaiksi määriteltyjen luontoalueiden (esim. BirdLifen IBA‐/FINIBA‐alueet) tai uhanalaisten lajien esiintymien heikentämiseen.
+3. Ensisijaisesti on selvitettävä muut keinot minimoida luontohaitat. Kompensaation on oltava luontoalueen heikentämistä koskevan päätöksenteon hierarkiassa viimeinen keino, jota käytetään
+
+vasta, kun muut keinot välttää tai vähentää hankkeen aiheuttamia luontoarvojen heikennyksiä on jo käyty läpi.
+4. Ekologinen kompensaatio ei saa muodostua takaportiksi, jolla ympäristönsuojelua koskevilta velvoitteilta voidaan välttyä. Kompensaation on tuotava lisäarvoa muihin lakisääteisiin velvoitteisiin. Kompensaatio ei saa ohittaa tai korvata lainsäädännössä olevia säädöksiä luontotyyppien, lajien ja alueiden suojelusta, eikä myöskään ohittaa ekologisesti kestävän maankäytön suunnittelun periaatteita.
+5. Ekologisen kompensaation on oltava toimenpide, joka tehdään juuri siihen tarkoitukseen. Se ei siis voi olla toimenpide, joka: -
+
+-
+
+kohdistuu alueeseen, joka ei ole ennallistamisen tarpeessa tai vaarassa heikentyä kohdistuu alueeseen, joka sisältyy suojeluohjelmaan, joka olisi toteutettu muutenkin; kompensaatio‐alueet tulee lukea suojelupinta‐alaan vain jos niistä perustetaan lain mukainen suojelualue olisi tehty tai olisi pitänyt tehdä muutenkin (esim. sellaisen alueen ennallistaminen, joka olisi pitänyt ennallistaa kansallisten säädösten tai kansainvälisten sitoumusten takia ei sovellu hyvitykseksi)
+
+6. Ekologisen kompensaation soveltamisala pitää määritellä. Se soveltuu todennäköisesti vain tietyille luontotyypeille. Tällaisia voivat olla esim. paahdeympäristöt, perinneympäristöt sekä ojituksella heikennetyt suot ja kosteikot. Sen sijaan esim. vanhojen metsien heikentämiseen kompensaatio ei todennäköisesti sovi, sillä metsien biologinen kehitys ja dynamiikka on niin hidasta, että kompensaatiota on käytännössä hyvin vaikea toteuttaa ja valvoa.
+7. Ekologisen kompensaation tulee ensisijaisesti kohdistua samaan elinympäristöön tai luontotyyppiin samalla luonnonmaantieteellisellä alueella kuin heikennys. Kuitenkin myös kompensaatio luonnonmaantieteelliseltä alueelta toiselle on hyväksyttävissä suuremmalla hyvityskertoimella. Myös kompensaatio luonnonsuojelullisesti arvokkaammassa elinympäristössä tai luontotyypissä voi olla hyväksyttävää.
+8. Ekologisen kompensaation toteuttamiselle ja sen valvonnalle pitää määritellä selkeä aikataulu. Kompensaatiotoimet tulee pääsääntöisesti aloittaa etukäteen, ennen kompensoitavan hankkeen toteuttamista. Jos kompensoidaan viiveellä, on sovellettava suurempaa hyvityskerrointa.
+9. Ekologisen kompensaation on oltava kestoltaan vähintään yhtä pitkä kuin hyvitettävä haitta. Käytännössä, koska haitat useimmissa hankkeissa ovat pysyviä, kompensaationkin on oltava pysyvä.
+10. Kompensaatiojärjestelmässä on oltava tarkasti määritelty, läpinäkyvä ja uskottava valvonta. Valvonnalla pitää voida varmistaa, että kompensaatiot toteutetaan, ja että ne ovat pysyvyydeltään sovitun laisia. Edellä olevat kriteerit huomioiva ekologisen kompensaation järjestelmä voisi WWF:n mielestä olla tervetullut lisä ympäristönsuojelun keinovalikoimaan.
+
+---
+
+### Europe Beyond Coal -kampanjan kirje ministeri Tiilikaiselle kivihiilen käytön lopettamisesta (6.6.2018)
+
+Julkaistu: 6.6.2018  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/e/r/g/hto5wx5donc22jq752c3a6g/ebc_letter-to-ppca_tiilikainen-180605-002.pdf
+
+Kimmo Tiilikainen Minister of the Environment, Energy and Housing
+
+Kathrin Gutmann Campaign Director, Europe Beyond Coal Marienstr. 19-20, 10117 Berlin kathrin@beyond-coal.eu
+
+5 June 2018
+
+RE:
+
+Four priority actions for the European members of the Powering Past Coal Alliance
+
+Dear Mr. Tiilikainen, We write to welcome your political leadership in support of Finland’s transition away from coalfired power generation and to share our perspective on the next steps you can take to accelerate further action across Europe and the rest of the world. As representatives of civil society groups and citizens across Europe, we recognise how important it is to work together to help heal coal’s social, health, environmental, and economic damage. Given the unprecedented scale of the problems we face and the short timeframe we have to fix them, we are pooling our own time, energy, and resources in an exceptional campaign across Europe to dramatically accelerate the transition to a better future for all, for a Europe Beyond Coal. We therefore particularly want to emphasise our positive support for Finland’s membership of the Powering Past Coal Alliance (PPCA). By working together, national and sub-national governments have a unique opportunity to accelerate the transition away from coal and towards a healthy, 100% renewables-based energy system, both within Europe and globally. Collectively, PPCA members have already committed to phasing out 25% of the coal power capacity in the EU before 2030, as detailed in our accompanying briefing paper. This is a great start, but much more must be done in order to deliver on Europe’s commitments to the UN Paris Climate Agreement and secure the benefits of the energy transition. As a member of the PPCA, we count on your government to prioritise cooperation with its peers to maximise your combined impact and influence. In particular, the Europe Beyond Coal campaign believes that European members of the PPCA should prioritise action in four areas over the coming year, which we describe in more detail in an accompanying note:
+1. Strongly advocate for the development of timely coal phase out plans by all EU Member States
+2. End subsidies to coal power generation, including through capacity mechanisms
+3. Provide peer support and challenge towards Germany and other European laggards
+4. Catalyse the international shift of finance from coal and other fossil fuels to renewable energy The partners in the Europe Beyond Coal campaign will continue to advocate for all governments, sub-national actors, utilities and investors to develop their own ambitious, socially just coal
+
+Four priority actions for the European members of the Powering Past Coal Alliance
+
+phase out commitments, so that Europe will be coal free by 2030. PPCA members can be assured of our proactive engagement and support as you take forward your collective efforts to accelerate the transition from coal to clean energy. We will be pleased to discuss the priorities identified here further, and to maintain an ongoing dialogue. Yours sincerely,
+
+Kathrin Gutmann Campaign Director, Europe Beyond Coal On behalf of:
+
+Four priority actions for the European members of the Powering Past Coal Alliance
+
+Four priority actions for the European members of the Powering Past Coal Alliance:
+1. Strongly advocate for the development of coal phase out plans by all EU Member States All EU Member States are in the process of developing a National Energy and Climate Plan (NECP) as part of delivering on the EU’s 2030 climate and energy targets and in line with 2050 decarbonisation goals. We call on members of the PPCA to ensure that proactive coal phase out pathways are identified in their own NECP, with an aim to bring forward the closure date of coal power plants as soon as feasibly possible in advance of 2030. These plans should serve as a positive example for other governments and sub-national actors who are seeking to organise a just transition process for their own regions. In addition, EU Member States will undertake peer review of the NECPs under development in neighbouring countries. We expect PPCA members to argue for robust coal phase out plans from other EU member states, positioning this as a critical test of NECPs and their ability to shift public and private finance towards clean energy investment.
+
+2. End subsidies to coal power generation, including through capacity mechanisms Europe’s ageing and polluting coal power plants are now increasingly uneconomic, resulting in utility companies desperately seeking subsidies in order to extend their operating lifetimes. Capacity remuneration mechanisms are being used as a lifeline for the operators of coal power plants seeking public money to cover for their poor investment decisions and polluting practices. Where needed, capacity mechanisms should be used to support Europe’s transition to a clean, smart, and efficient electricity network for the future, not to delay the retirement of coal power plants. In this context, we are concerned about the Council’s position on Capacity Mechanisms that was reached in December 2017. This would allow subsidies to be paid to coal power plants even beyond 2030 with little obligation on Member States to justify these payments through a robust scrutiny process. This would be in clear contradiction with the EU’s commitment to phase out environmentally harmful subsidies by 2020; incompatible with the EU’s climate commitments; and result in a shocking misuse of public money. We call on PPCA members to work together to secure a deal that will significantly tighten the restrictions on capacity payments for coal power generation. We urge you to ensure that no
+
+Four priority actions for the European members of the Powering Past Coal Alliance
+
+new capacity mechanism payments are awarded to new nor existing coal power plants and that existing schemes and payments for operating coal power plants are phased out prior to 2025.
+
+3. Provide peer support and challenge towards Germany and other European laggards Germany and Poland are home to half of the remaining coal power capacity in the EU, and both governments should be moving much faster to enable the transition from coal to clean energy. In particular, Germany’s poor performance on coal is a serious impediment to its climate leadership credentials and a critical risk to global action on climate change. OECD peers such as Japan and South Korea look to Germany, as do emerging economies in Asia. A phase out of coal in Germany well beyond 2030 (as currently argued for by parts of the German government) is too slow. This would have a negative influence on the global transition and undermine Europe’s pursuit of the UN Paris Climate Agreement objectives. At the same time, the potential for a positive, proactive transition in Spain, Poland, Greece and many CEE countries as well as Turkey and Western Balkans is being held back by incumbent industrial interests that are fighting to maintain the past, not shape the future. We therefore call on you to prioritise engagement on the necessity of a timely phase out of coal in your political, diplomatic, technical and policy exchanges with Germany and your other European counterparts. By offering positive support and the exchange of best practice, PPCA governments can help unlock barriers to action. PPCA members can likewise set the tone for a more positive discussion at COP24 in Katowice by sharing insights on a just transition and the benefits of action on coal for fighting air pollution and improving human health. We believe that the European Commission’s new Coal Regions in Transition Platform provides a potential means of assisting coal producing and consuming regions to accelerate their transition away from coal to clean energy. But in order to succeed (and make good use of public funds), the Platform must avoid being captured by incumbent interests that are seeking subsidies for undeliverable and expensive projects, such as coal gasification or carbon capture and storage. We call on PPCA members to support this initiative by sharing your practical insights and by ensuring that there is strict conditionality in using EU funds to deliver a sufficiently rapid economic transformation of regions away from coal. In parallel to this positive engagement, PPCA members must also be prepared to push for the full implementation of EU power plant pollution standards under the Industrial Emissions Directive’s technical BREF standards (and relevant accession requirements). Limiting pollution on the road to a full coal phase out should be a priority, in light of the 19,500 premature deaths and more than 50 billion EUR health costs caused by the EU’s coal power plants in 2015. We call on PPCA members lead by example in IED BREF implementation, by applying the tighter end of the range of the agreed limits and refraining from using exemptions. Coal power plants that are not compliant with air pollution requirements must be shut down, not thrown a lifeline.
+
+Four priority actions for the European members of the Powering Past Coal Alliance
+
+4. Catalyse the international shift of finance from coal and other fossil fuels to renewable energy We welcome the commitment of PPCA members to restrict finance for coal power generation. As significant providers of climate finance and international development aid, European members of the PPCA can play a leading role in assisting emerging economies and developing countries to transition from coal to the clean and smart energy systems of the 21st century. We request that you work with your peers to align your financial support and diplomatic efforts to catalyse this structural shift in energy investment. At the same time, European governments play a leading role on the boards of Multilateral Development Banks including the European Investment Bank and European Bank for Reconstruction and Development. Continued funding for high carbon infrastructure fundamentally undermines efforts to increase funding for climate change mitigation and adaptation. Instead, MDBs must align their project funding and country strategies with the UN Paris Climate Agreement, starting with the energy strategies of the EIB and EBRD this year. We therefore call on European PPCA members to ensure that there is no further financial support for coal power plants or related infrastructure from MDBs (either directly or through intermediaries); from your own international development funding; or from your respective export credit agencies. Companies planning new coal plants or mining expansions should not be publicly financed at all. Those not planning new power plants but still with coal in their portfolio should be eligible for financing only on the condition that they produce a decarbonisation plan, committing to phase out the use of coal according to a trajectory in line with the Paris Agreement.
+
+Four priority actions for the European members of the Powering Past Coal Alliance
+
+---
+
 ## Toukokuu 2018
+
+### Ympäristöjärjestöjen esitys Euroopan komissiolle ankeriaskannan elvyttämiseksi (11.5.2018)
+
+Julkaistu: 14.5.2018  
+Aiheet: Liikakalastus, Suomen uhanalaiset kalat, Virtavedet, Ylikulutus  
+Linkki: https://wwf.fi/app/uploads/w/x/c/wxijazjb3fdsg3l2ezw7mgd/180510-ngo-letter-on-com-eel-evaluation-feedback-final.pdf
+
+11 May 2018 Re: Evaluation of Council Regulation (EC) No 1100/2007 of 18 September 2007 establishing measures for the recovery of the stock of European eel. We strongly support the upcoming evaluation and welcome this opportunity to provide feedback on the effectiveness and implementation of the EU Eel Regulation. The population of European eel has declined dramatically since the 1970s1. Recruitment of juvenile eels is extremely low, and despite the joint EU management framework, which has now been in place for 10 years, there has only been a slight improvement in recruitment. The state of European eel remains critical and further action is urgently needed. Earlier evaluations indicate that the current EU management framework is insufficient and show that implementation of the regulation and of the national eel management plans has been delayed, piecemeal and focused on efforts that have little discernible impact on the recovery of the European eel population. Notably, it has been very difficult to measure progress against the main target – escapement to the sea of at least 40 % of the estimated ‘unimpacted’2 silver eel biomass. While a strong focus of resources has been placed on restocking of eel, there is no evidence that this effectively contributes to future recruitment. Most countries maintain a directed fishery, and illegal catches and trafficking of glass eels remain a major problem. Habitat loss and deteriorating water quality also affect eel. The latest assessment of the implementation of the Water Framework Directive shows poor status for around 60 % of surface water bodies and a massive presence of migration barriers3. Since the Eel Regulation came into force, some major changes in related EU policies have taken place. Notably, the reform of the Common Fisheries Policy agreed in 2013 resulted in the new commitment to restoring the biomass of all harvested fish stocks above levels capable of producing Maximum Sustainable Yield (MSY). MSY is also used as a key criterion to assess Good Environmental Status under the Marine Strategy Framework Directive. We are therefore particularly pleased to see the evaluation’s focus on coherence with other EU legislation, as well as with international instruments. We ask the European Commission to ensure that this evaluation of the effectiveness and coherence of the measures taken to aid the recovery of European eel assesses all aspects of eel management and potential options for the future, including: • • 1
+
+The overall objective for the EU framework – at least 40 % escapement to the sea of silver eels – and whether it is in coherence with the precautionary principle and the MSY objective. The incongruity of the current levels of exploitation of a critically endangered species.
+
+ICES Advice on fishing opportunities, catch, and effort Ecoregions in the Northeast Atlantic for European eel (Anguilla anguilla) throughout its natural range. (2017; DOI: 10.17895/ices.pub.3440). 2 Council Regulation (EC) No 1100/2007 of 18 September 2007 establishing measures for the recovery of the stock of European eel, Article 2(4). 3 More information: www.eea.europa.eu/themes/water/status-and-monitoring/state-of-surface-waters
+
+• • • • • • • • • • •
+
+The effectiveness of fisheries closures/restrictions for all life stages. The targets and indicators set in the national eel management plans, as well as the national monitoring to measure progress. Reporting and data collection obligations, as one of the main problems when assessing fishing effort and management progress is a lack of consistent reporting from the Member States. Restocking practices (which rely on wild eel catches) and the associated overall effectiveness in terms of conservation. Progress on measures to address other major anthropogenic impacts on eel, primarily habitat restoration and removal of migration barriers. The use of public funds (EMFF) and whether it has aided eel recovery. The still substantial illegal trade of European eel outside of and inside the EU and its effect on eel conservation. The legal trade of European eel and its potential role in enabling illegal trade. Control and enforcement issues related to the entire chain, from glass eel fisheries to consumption of eel products, including more coordinated action between the Member States’ enforcement agencies. The implementation of EU commitments within the framework of CMS and CITES. Contamination levels of wild European eels at different life stages and related health aspects linked to consumption.
+
+Bearing all of the above in mind, we look forward to a thorough evaluation of all aspects of the European eel management framework, and to future opportunities to engage with this process. It is our hope that through implementation of urgent measures and better management and protection in the future, we can enable long-term recovery and sustainable exploitation of European eel, but we note that we are a very long way from there today. Yours sincerely,
+
+---
 
 ### WWF:n lausunto kestävän kasvun rahoitusta koskevasta toimintasuunnitelmasta (8.5.2018)
 
 Julkaistu: 8.5.2018  
 Aiheet: Ilmastonmuutos, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/t/v/lbijhsvf4zjqqxyqmka67dh/wwfn-lausunto-kestaevaen-kasvun-rahoitusta-koskevasta-toimintasuunnitelmasta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1287,7 +1438,6 @@ Liite: Raportin “European Asset Owners: 2°C Alignment and Misalignment of Pub
 
 Julkaistu: 4.5.2018  
 Aiheet: Itämeri, Öljyntorjuntajoukot, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/v/k/4/6i3orffdixbzkvznmyyxw2d/wwf-lausunto-oeljyvahinkojen-torjuntavastuusta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1321,7 +1471,6 @@ Lisätiedot: Teemu Niinimäki, 0505243206, teemu.niinimaki@wwf.fi
 
 Julkaistu: 27.4.2018  
 Aiheet: Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/s/z/6/xnr7iyvdwhlw27r5kfyqj3h/jaerjestoejen_vesilakiesitys_paivitetty24042018.pdf
 
 Päivitetty 24.4.2018
@@ -1394,7 +1543,6 @@ Matti Ovaska Suojeluasiantuntija WWF Suomi matti.ovaska@wwf.fi, p. 040 727 3149
 
 Julkaistu: 24.4.2018  
 Aiheet: Perinneympäristöt, Suomi, Vieraslajit  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/o/6/l/p2q54ifaubhjoziei4wi2ng/vieraslajiasetus_wwf-suomen-lausunto_13042018.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -1427,7 +1575,6 @@ WWF Suomi
 
 Julkaistu: 23.4.2018  
 Aiheet: Liikakalastus, Suomen uhanalaiset kalat  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/g/c/4cmuzpnc4dogoquforvdscb/wwflausunto_kaupallisen_kalastuksen_kiintiojarjestelma_19042018-002.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1452,7 +1599,6 @@ Matti Ovaska Suojeluasiantuntija
 
 Julkaistu: 12.4.2018  
 Aiheet: Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/j/d/o/vvimhmjgtdhuvh2difadipa/lausunto_ympaeristoevaliokunta-wwf-valtion-lupa-ja-valvontavirasto.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1479,7 +1625,6 @@ Lisätiedot: Raija-Leena Ojanen, puh. 050 5990232, raija-leena.ojanen@wwf.fi WWF
 
 Julkaistu: 6.4.2018  
 Aiheet: Itämerennorppa, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/k/h/h/biqm5xzedfhvrmjjjubmcjf/wwf-lausunto-mmm-metsaestysasetus-180406.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1512,7 +1657,6 @@ Petteri Tolvanen ohjelmapäällikkö
 
 Julkaistu: 22.3.2018  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/s/a/tflsmfzgjllrvekqrdprthd/wwf-lausunto-ympaeristoellisten-lupamenettelyiden-yhdistaemisestae.pdf
 
 WWF Suomi Lintulahdenkatu 10 00500 HELSINKI
@@ -1538,7 +1682,6 @@ Jari Luukkonen Raija-Leena Ojanen Suojelujohtaja Oikeudellinen neuvonantaja WWF 
 
 Julkaistu: 22.2.2018  
 Aiheet: Itämeri, Luonnon köyhtyminen, Ruoka, Suomi, Ylikulutus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/n/x/d/hpeniy5a2tj5jf23xvaf46a/lausunto-komission-esitykselle-yhteisen-maatalouspolitiikan-uudistamisesta.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1571,7 +1714,6 @@ Jenny Jyrkänkallio-Mikkola Suojeluasiantuntija
 
 Julkaistu: 20.2.2018  
 Aiheet: Liikakalastus, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/u/j/q/ecbhtnvbbnokmevracwcpgd/mmv_he_204_2017_wwflausunto.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1600,7 +1742,6 @@ Lisätiedot: Matti Ovaska, p. 040-7273149, matti.ovaska@wwf.fi
 
 Julkaistu: 20.2.2018  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/d/x/6gkky5fbczojpwaxi5d7w5h/mmv_e118_2017vp_wwflausunto2.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1627,7 +1768,6 @@ Lisätiedot: Matti Ovaska, p. 040-7273149, matti.ovaska@wwf.fi
 
 Julkaistu: 16.2.2018  
 Aiheet: Ilves, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/f/x/c/hekfu7jdnndxueoo6j2fncb/wwf-lausunto-ilves-hoitosuunnitelma-2018-mmm-180216.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1660,7 +1800,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 14.2.2018  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/u/x/j/makzbkjfndlzq3menwgqypd/wwf-lausunto-suomen-meriympaeristoen-tilasta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1691,13 +1830,32 @@ Jari Luukkonen, suojelujohtaja (jari.luukkonen@wwf.fi)
 
 ---
 
+### Järjestöjen avoin kirje Fortumin Pekka Lundmarkille koskien Uniperin kivihiililaitoksia (7.2.2018)
+
+Julkaistu: 7.2.2018  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/w/d/v/23mpyrna65e4n4b7tiyovnc/environmental-ngos-call-on-fortum-to-act-responsibly-with-respect-to-unipers-coal-assets-07022018.pdf
+
+Mr Pekka Lundmark President & CEO, Fortum Corporation 7.2.2018 Environmental NGOs call on Fortum to act responsibly with respect to Uniper’s coal assets
+
+Dear Mr Pekka Lundmark, Our organisations write to you, following your purchase of a considerable share of Uniper, to share our hopes and concerns regarding the immediate future of Uniper. We urge you to steer Uniper into a direction that demonstrates climate leadership. We believe that Fortum is well-poised to do just that. The coal fleet of Uniper alone is a major source of emissions accounting for the equivalent of more than half of Finland’s annual emissions and causing significant air pollution. Meanwhile, the Finnish state is preparing legislation to legally ban coal in the domestic energy mix, even as early as 2025. As a mostly state-owned company, Fortum’s plans regarding the future of Uniper’s enormous coal assets raise obvious concerns. It is increasingly clear that the era of coal will come to an end soon if the temperature limits of the Paris Agreement are to be met. This means an inevitable coal phase-out by 2030 across Europe at the latest. We know that you are well-aware of the urgency of climate change and the fast declining emissions trajectory required. Fortum’s strategy for the future has endorsed a business model rooted in low-carbon technologies, and your membership in the Climate Leadership Coalition speaks to that. Consequently, Fortum’s next moves regarding the future of these assets are being watched closely. Many of Fortum’s largest non-state shareholders consider themselves as responsible investors and demand such behaviour also from their investees. This is also the expectation of the public in Finland and beyond. Therefore, Fortum’s future certainly entails weighing the alternative ways forward. According to media reports you may be considering the option of selling Uniper assets. However, Fortum should embark on the development of a credible closure plan for the coal fleet instead - while taking just transition into account. It is likely that the only willing buyers are actively working to slow Germany’s and Europe’s electricity transition. Selling the assets to another company without any real intentions to reduce global emissions is not only a wasted opportunity - it betrays the ambition of the Paris Agreement. Coal phase-out has already become a political a reality in Europe with among otherst the UK, France and the Netherlands already having announced their departure from coal power - all countries where your newly acquired coal assets are located. Germany will decide on their future energy policy within a year and will be looking at putting a phase out timeline in place. While Uniper’s coal is mainly hard coal rather than the relatively dirtier lignite, the German phase out will apply also to those hard coal assets. To be on the right side of history, Fortum should embrace and speed up the transition away from coal. The "waterbed effect" in the EU ETS has frequently been raised as an excuse for inaction. The recent EU ETS reforms agreed mean that most of the excess permits will be stored in the Market Stability Reserve, and over time these will be cancelled to stop them coming back to market.
+
+We call Fortum upon to take the following steps: -
+
+To take responsibility and refrain from selling the newly acquired assets and coal fleet to any other company, German or otherwise. To embark on a socially just and managed coal phase-out in the nearest possible term.
+
+On behalf of the Europe Beyond Coal campaign secretariat and our members, supporters and activists around the world, we write to you to ask for seizing the opportunity to start the managed decline of Uniper’s coal fleet. Fortum has been given the unique opportunity to set an international example of responsible company behaviour. We call on you to lead the way.
+
+Yours faithfully, CAN Europe Changemaker EKOenergia Europe Beyond Coal Campaign Secretariat Friends of the Earth Finland Greenpeace Ilmastovanhemmat Luonto-Liitto Kepa Protect Our Winters Finland Sandbag Suomen luonnonsuojeluliitto Urgewald WWF 350 Finland
+
+---
+
 ## Tammikuu 2018
 
 ### WWF:n lausunto yleisen edun valvonnasta (19.1.2018)
 
 Julkaistu: 22.1.2018  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/n/s/g/ajsgedrevxprord6s5wlyba/0300_001-002.pdf
 
 ---

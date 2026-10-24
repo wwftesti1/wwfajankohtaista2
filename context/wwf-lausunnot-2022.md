@@ -3,7 +3,7 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 70 (uusin 14.12.2022).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 3 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 2 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -2320,7 +2320,6 @@ Lisätiedot: Matti Ovaska, matti.ovaska@wwf.fi, p. 040 7273149
 
 Julkaistu: 7.4.2022  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/materiaalit/wwfn-lausunto-kansainvalisen-merenkulun-kasvihuonepaastojen-ohjauskeinoista/
 
 #### Sinua saattaa kiinnostaa

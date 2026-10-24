@@ -1,7 +1,7 @@
 # WWF Suomi – Mediatiedotteet 2026
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Mediatiedotteet). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 24 (uusin 8.10.2026).
+Kohteita: 26 (uusin 8.10.2026).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
 
 ## Sisällysluettelo
@@ -43,11 +43,13 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 - 24.3.2026 – WWF:n Earth Hour on valomerkki luonnon puolesta – maailman suurimmassa ympäristötapahtumassa vaaditaan päättäjiltä toimenpiteitä, ei vain tavoitteita
 - 20.3.2026 – Pääsiäissuklaissa voi maistua metsäkato ja lapsityövoima – kestävämpi kaakaontuotanto edellyttää vahvaa sääntelyä ja vastuunkantoa myös kuluttajamaissa
+- 18.3.2026 – Vattendraget Paavola i S:t Karins restaureras för att begränsa övergödningen av Östersjön och öka den biologiska mångfalden
 
 **Helmikuu 2026**
 
 - 17.2.2026 – Saimaannorpalle kolattiin ennätykselliset 400 apukinosta – myös kolaajia oli enemmän kuin koskaan ennen
 - 16.2.2026 – Porvoonjoen valuma-alueella käynnistyy mittava vesienhoitohanke – maanomistajia haetaan mukaan
+- 5.2.2026 – WWF bygger en våtmark i Raseborg för att minska övergödningen i Östersjön och öka naturens mångfald
 - 3.2.2026 – WWF on kannellut EU:n komissiolle karhun, ilveksen ja saukon kiintiömetsästyksestä
 
 **Tammikuu 2026**
@@ -689,6 +691,34 @@ Ratkaisuja ovat esimerkiksi:
 
 ---
 
+### Vattendraget Paavola i S:t Karins restaureras för att begränsa övergödningen av Östersjön och öka den biologiska mångfalden
+
+Julkaistu: 18.3.2026  
+Aiheet: Ennallistaminen, Itämeri, Suomi, Virtavedet  
+Linkki: https://wwf.fi/uutiset/2026/03/vattendraget-paavola-i-st-karins-restaureras-for-att-begransa-overgodningen-av-ostersjon-och-oka-den-biologiska-mangfalden/
+
+**WWF restaurerar vattendraget Paavola i S:t Karins i samarbete med den lokala markägaren. Vattendraget kommer att återställas till sitt naturliga slingrande tillstånd och översvämningarna kommer att kontrolleras. Som ett resultat av arbetet kommer den biologiska mångfalden att förbättras och landskapet förskönas, och vattendragets känslighet för erosion kommer att minska, vilket i sin tur kommer att minska belastningen på Östersjön.**
+
+Vattenhushållningsstrukturer byggs för närvarande i Paavola-vattendraget i Kaarina som en del av VALUTA 3 Egentliga Finland-projektet. Paavola-vattendraget rinner genom Makarlafloden till Pikisviken.
+
+Paavola-vattendraget är en gammal bäck som rätades ut för flera decennier sedan för att dränera åkrarna. En del av kanalen rinner genom ett betongrör. I sitt nuvarande skick översvämmas kanalen och dess stränder rasar ibland, vilket ökar läckaget av näringsämnen och fasta ämnen till Östersjön.
+
+”Syftet med restaureringen är att förbättra vattendragets stabilitet och minska erosionen orsakad av översvämningar. Dessa åtgärder kommer att bromsa övergödningen i Östersjön och återställa Paavola-vattendragets naturliga egenskaper. Samtidigt kommer de att öka mångfalden i området och förbättra landskapet”, säger WWF:s skyddsexpert Viivi Kaasonen.
+
+Återställandet av flodbädden innebär att man bygger konstruktioner för att kontrollera vattenflödet och översvämningarna: bottentrösklar och ett tvåstegsdike, samt att man ökar flodbäddens slingrande. En bottentröskel är en tröskel byggd av jord och stenar på flodbäddens botten för att bromsa vattenflödet. Tvåstegsdiket skapar utrymme för översvämningsvatten: bredvid den egentliga kanalen finns en flodsterrass där vattnet kan stiga utan att orsaka översvämningar på åkrarna.
+
+Kanalens naturliga slingrande form, dess djupa bakvatten och smalare och bredare sektioner saktar ner vattenflödet och underlättar vattenhanteringen. Återställandet av bäcken skapar också viktiga livsmiljöer för vattenlevande organismer genom att återställa till exempel den naturliga variationen i djup och bredd hos strömmande vatten, samt variation mellan strömmar och bakvatten.
+
+Den långsammare vattenströmmen och minskade översvämningarna kommer att minska urlakningen av näringsämnen och fasta ämnen till vattendraget och därifrån till Pikisviken och Östersjön.
+
+Området ägs av Muuritutkimus Ab, ett företag från S:t Karins. Företagets direktör, Kari Uotila, säger att han under sitt arbete i skärgården har sett hur olika vattenskyddsstrukturer, såsom våtmarker, kan bidra till att bromsa övergödningen i Östersjön. Förutom vattendraget i Paavola, som nu håller på att återställas, har den biologiska mångfalden ökat i företagets område.
+
+”Vårt företag vill göra sin lilla del för att förbättra tillståndet i Pikisviken och Skärgårdshavet. Jag hoppas att mina barnbarn fortfarande kommer att kunna se Kustö sundet lika klart som jag en gång såg det”, säger Uotila.
+
+Projektet VALUTA 3 Egentliga Finland har fått finansiering från NMT-centralen i Egentliga Finland (numera Livskraftscentralen i Sydvästra Finland) inom miljöministeriets bidragsprogram för vatten- och havsförvaltning. Den totala finansieringen för projektet uppgår till 260 069 euro, varav NMT-centralen i Egentliga Finland bidrar med 156 300 euro. Alla projektpartner bidrar till finansieringen av projektet. Projektet har också fått finansiering från Skyddsfond för Skärgårdshavet.
+
+---
+
 ## Helmikuu 2026
 
 ### Saimaannorpalle kolattiin ennätykselliset 400 apukinosta – myös kolaajia oli enemmän kuin koskaan ennen
@@ -744,6 +774,24 @@ Kokonaisvaltaiselle vesienhallinnalle on kasvava tarve, kun ilmastonmuutoksen my
 Itä-Uudenmaan ja Porvoonjoen vesien- ja ilmansuojeluyhdistys ry selvittää kuluvan vuoden aikana Porvoonjoen valuma-alueen vesistöjen tilaa ja kartoittaa maanomistajien havaintoja sekä huomioita mahdollisista ongelmista ja kehittämiskohteista lähialueilla. Kyselyyn tai maastokäynteihin osallistuminen ei sido maanomistajia toteuttamaan toimia.
 
 ACWA LIFE -hankkeen aloitustilaisuus järjestetään Vaasassa 10. maaliskuuta. Aamupäivän tilaisuus on kaikille avoin, ja sitä voi seurata myös verkossa. Tilaisuuteen voi ilmoittautua verkkolomakkeella viimeistään perjantaina 27. helmikuuta.
+
+---
+
+### WWF bygger en våtmark i Raseborg för att minska övergödningen i Östersjön och öka naturens mångfald
+
+Julkaistu: 5.2.2026  
+Aiheet: Ennallistaminen, Itämeri, Suomi  
+Linkki: https://wwf.fi/uutiset/2026/02/wwf-bygger-en-vatmark-i-raseborg-for-att-minska-overgodningen-i-ostersjon-och-oka-naturens-mangfald/
+
+**WWF samarbetar med markägaren för att anlägga en våtmark i Karsby, Raseborg. Våtmarken är en del av RANKKU2-projektet, vars centrala mål är att minska näringsbelastningen i kustvattnen i västra Nyland.**
+
+I februari kommer en våtmark att färdigställas på privatägd mark i Karsby, Raseborg, vid källan till den bäck som rinner ut i Heimlaxen. Våtmarken får sitt vatten från ett cirka 80 hektar stort avrinningsområde som domineras av skogs- och jordbruksmark. Från våtmarken rinner vattnet ut i Heimlaxen, som lider av kraftig belastning. För att förbättra viken måste det ske en minskining av näringsämnen och fasta ämnen som spolas ut. Heimlax är en del av Naturaområdet Tapelsåsen–Lindöviken–Heimlax. Heimlax och Lindöviken är värdefulla fågelvatten, och Heimlax är särskilt känt som ett viktigt födoområde för gäss och svanar.
+
+WWF har byggt och restaurerat många våtmarker i samarbete med privata markägare i Västra Nyland. Våtmarkerna gynnar både de lokala markägarna och den biologiska mångfalden. De fördröjar vattenflödet och renar avrinningsvattnet genom att hålla kvar näringsämnen och fasta ämnen som orsakar övergödning. Våtmarker jämnar också ut översvämningstoppar vilket minskar översvämningar av åkrar och fungerar som vattenreservoarer under torra perioder. De är också livsmiljöer för många växt- och djurarter, vilket ökar den biologiska mångfalden.
+
+”Det är viktigt att vi inom RANKKU2-projektet har en möjlighet att genomföra vattenskyddsåtgärder i kustområden som är kända för att lida av överbelastning och som dessutom också är värdefulla fågelvatten. Detta arbete skulle inte vara möjligt utan aktiva och entusiastiska markägare, eftersom alla projektets vattenskyddsobjekt bygger på frivilligt deltagande och har genomförts i samarbete med privata markägare. Vi är mycket tacksamma för detta”, säger WWF:s havsexpert Iiris Kokkonen.
+
+Sjuttio procent av RANKKU 2-projektet finansieras av programmet för effektiverat vattenskydd. Utöver samarbetet med mark- och skogsägare i samarbetar man inom projektet även med bland annat kommuner, föreningar, intresseorganisationer och miljömyndigheter. Stenmaterialet till Ruddamens våtmark donerades av Rudus Oy.
 
 ---
 

@@ -3,7 +3,7 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Mediatiedotteet). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 83 (uusin 22.12.2021).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 2 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -112,7 +112,7 @@ Huom: 2 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 
 **Helmikuu 2021**
 
-- 25.2.2021 – Pli på övergödningen av Östersjön – 10 000 euro och titeln”Östersjöns miljövänligaste jordbrukare” utdelas i tävling
+- 25.2.2021 – Pli på övergödningen av Östersjön – 10 000 euro och titeln “Östersjöns miljövänligaste jordbrukare” utdelas i tävling
 - 25.2.2021 – Itämeren rehevöityminen kuriin – 10 000 euroa ja Itämeren ympäristöystävällisimmän viljelijän titteli jaossa kilpailussa
 - 23.2.2021 – Ympäristöjärjestöjen raportti: Kolmasosa maailman makean veden kalalajeista on vaarassa hävitä
 - 18.2.2021 – Järjestöt: Ilmastokriisi ja luontokato ratkaistaan kunnissa
@@ -2208,7 +2208,6 @@ www.kesko.fi/kalapolut wwf.fi/vapaaehtoistyo/virtavesitalkoot/
 
 Julkaistu: 4.6.2021  
 Aiheet: Onnistumistarina, Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2021/06/wwf-palkitsi-museosaation-23-000-euron-panda-palkinnolla/
 
 **WWF on myöntänyt Panda-palkinnon Suomen vapaa-ajankalastusmuseosäätiölle. Museosäätiö käyttää palkintorahan Asikkalassa sijaitsevan Kalkkistenkosken kunnostamiseen ja vaelluskalojen hyväksi tehtävän työn tunnetuksi tekemiseen. Erillisestä Anderssonin rahastosta myönnettävä Panda-palkinto jaettiin ensimmäisen kerran vuonna 1999.**
@@ -2827,7 +2826,7 @@ Lisätietoja: Ohjelmajohtaja, Lisätietoja
 
 ## Helmikuu 2021
 
-### Pli på övergödningen av Östersjön – 10 000 euro och titeln”Östersjöns miljövänligaste jordbrukare” utdelas i tävling
+### Pli på övergödningen av Östersjön – 10 000 euro och titeln “Östersjöns miljövänligaste jordbrukare” utdelas i tävling
 
 Julkaistu: 25.2.2021  
 Aiheet: Itämeri, Ilmastonmuutos, Luonnon köyhtyminen, Suomi, Virtavedet  

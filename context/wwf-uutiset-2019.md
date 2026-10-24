@@ -3,7 +3,7 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Uutiset). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 104 (uusin 31.12.2019).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 8 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 7 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -2797,7 +2797,6 @@ Liite:
 
 Julkaistu: 29.5.2019  
 Aiheet: Energiatehokkuus  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2019/05/kaupunki-osallistu-wwfn-one-planet-city-challenge-kilpailuun/
 
 **“Kestävän kehityksen puolesta käytävä taistelu voitetaan tai hävitään kaupungeissa.” – Jan Eliasson, YK:n entinen apulaispääsihteeri**

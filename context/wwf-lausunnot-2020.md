@@ -25,7 +25,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 **Lokakuu 2020**
 
-- 20.10.2020 – WWF lausunto”Verkkokalastus kiellettävä saimaannorpan levinneisyysalueella”-kansalaisaloitteesta maa- ja metsätalousvaliokunnalle 20.10.2020
+- 20.10.2020 – WWF lausunto “Verkkokalastus kiellettävä saimaannorpan levinneisyysalueella”-kansalaisaloitteesta maa- ja metsätalousvaliokunnalle 20.10.2020
 - 7.10.2020 – WWF Suomen lausunto ilvesten metsästykseen poikkeusluvalla maa- ja metsätalousministeriölle 7.10.2020
 - 7.10.2020 – WWF Suomen lausunto eurooppalaisesta ilmastolaista 5.10.2020
 
@@ -510,7 +510,7 @@ Raija‐Leena Ojanen oikeudellinen neuvonantaja
 
 ## Lokakuu 2020
 
-### WWF lausunto”Verkkokalastus kiellettävä saimaannorpan levinneisyysalueella”-kansalaisaloitteesta maa- ja metsätalousvaliokunnalle 20.10.2020
+### WWF lausunto “Verkkokalastus kiellettävä saimaannorpan levinneisyysalueella”-kansalaisaloitteesta maa- ja metsätalousvaliokunnalle 20.10.2020
 
 Julkaistu: 20.10.2020  
 Aiheet: Suomi, Luonnon köyhtyminen, Saimaannorppa  

@@ -1,9 +1,8 @@
 # WWF Suomi – Lausunnot 2019
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Lausunnot). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 27 (uusin 16.12.2019).
+Kohteita: 36 (uusin 16.12.2019).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -15,6 +14,7 @@ Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 **Marraskuu 2019**
 
 - 29.11.2019 – WWF:n lausunto ahmakiintiöasetuksesta metsästysvuodelle 2019–2020
+- 27.11.2019 – Järjestöjen odotukset Madridin ilmastokokoukseen
 - 22.11.2019 – WWF:n lausunto liittyen Climate Circle ry:n toiminnanjohtajan irtisanoutumiseen
 - 21.11.2019 – WWF:n lausunto liittyen Climate Circlen toiminnanjohtajan rikostuomioihin
 - 5.11.2019 – WWF:n kannanotto: EU:n taksonomia-asetuksen perustuttava tieteeseen
@@ -40,6 +40,12 @@ Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 - 20.6.2019 – WWF:n lausunto luonnoksista MMM:n asetuksiksi koskien hallin metsästystä metsästysvuosina 2019–2022 sekä itämerennorpan metsästystä metsästysvuonna 2019–2020
 
+**Toukokuu 2019**
+
+- 20.5.2019 – Miljöorganisationernas förslag till förnyelse av jordbruksstöden
+- 20.5.2019 – Ympäristöjärjestöjen ehdotukset maataloustukien uudistamiseksi
+- 20.5.2019 – Ihmisoikeusloukkaussyytöksiä selvittävä kansainvälinen paneeli nimetty
+
 **Huhtikuu 2019**
 
 - 12.4.2019 – Lausuntopyyntö”Luonnoksesta maa- ja metsätalousministeriön asetukseksi uhanalaisten ja taantuneiden kalojen arvosta”
@@ -47,19 +53,24 @@ Huom: 24 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 
 **Helmikuu 2019**
 
+- 27.2.2019 – Arviomuistio OMSO 36 2018 Kalatalousvelvoitteen määrääminen vesitalousluvan haltijalle
 - 22.2.2019 – WWF Suomen Lausunto luonnoksesta vapaa-ajan kalatalouden kehittämisstrategiaksi
 - 22.2.2019 – WWF:n lausunto Uudellemaalle perustettavia valtion luonnonsuojelualueita koskevista asetusluonnoksista
 - 19.2.2019 – WWF Suomen lausunto asiasta”E 120/2018 vp Valtioneuvoston selvitys: Suomen ennakkovaikuttaminen EU:n ilmastopolitiikkaan”
+- 18.2.2019 – Esitys maa- ja metsätalousministeriölle lohenkalastuksen säätelytoimenpiteiden muuttamiseksi
 - 7.2.2019 – WWF Suomen lausunto hallituksen esityksestä eduskunnalle laiksi kalastuslain muuttamisesta
 - 5.2.2019 – WWF Suomen lausunto komission ehdotuksesta Euroopan parlamentin ja neuvoston asetukseksi kestävää sijoittamista helpottavasta kehyksestä
 
 **Tammikuu 2019**
 
+- 28.1.2019 – Valitus vesiluvan määräaikojen jatkamisesta
 - 24.1.2019 – WWF Suomen lausunto asiasta”E 100/2018 vp Valtioneuvoston selvitys: EU:n strateginen pitkän aikavälin visio vauraasta, modernista, kilpailukykyisestä ja ilmastoneutraalista taloudesta”
 - 23.1.2019 – WWF Suomen lausunto saimaannieriän suojelusta Kuolimolla
 - 14.1.2019 – WWF Suomen lausunto Itämeren meritaimenen elvytys- ja hoitosuunnitelmista (14.1.2019)
 - 10.1.2019 – WWF Suomen lausunto ahmakiintiöasetuksesta metsästysvuodelle 2018–2019 (10.1.2019)
 - 10.1.2019 – WWF Suomen lausunto riistavahinkolain muuttamisesta (10.1.2019)
+- 8.1.2019 – WWF Suomen kommentit U-jatkokirjelmäluonnoksesta koskien kestävän rahoituksen taksonomiaa (16.11.2018)
+- 8.1.2019 – Suomen kommentit E-kirjeluonnoksesta koskien EU:n pitkän aikavälin ilmastostrategiaa (3.12.2018)
 
 ---
 
@@ -122,7 +133,6 @@ Lisätiedot: Matti Ovaska, p. 040-7273149, matti.ovaska@wwf.fi
 
 Julkaistu: 29.11.2019  
 Aiheet: Ahma  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/7/q/aouj7dhs0mr36jh63m7ilx/wwf-lausunto-mmm-ahma-191129.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -202,11 +212,54 @@ Petteri Tolvanen ohjelmapäällikkö
 
 ---
 
+### Järjestöjen odotukset Madridin ilmastokokoukseen
+
+Julkaistu: 27.11.2019  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/c/3/r/4opsqdixs8bp2nki51cnxn/jarjestojen-odotukset-madridin-ilmastokokoukseen.pdf
+
+Ympäristö- ja kehitys järjestöjen odotukset joulukuussa Madridissa pidettävälle COP25ilmastokokoukselle Ympäristö- ja kehitysjärjestöt odottavat 2.–13. joulukuuta Madridissa pidettävän YK:n kansainvälisen ilmastokokouksen osallistujamailta selkeitä vastauksia siihen, miten valtiot aikovat
+
+ff
+
+kuroa kiinni kuilun lupaamiensa ilmasto tekojen ja Pariisin sopimuksen tavoitteiden välillä niin, että maapallon lämpeneminen voitaisiin rajata 1,5 asteeseen
+
+ff
+
+taata, että muualla tehtyjen ilmasto hankkeiden laskeminen osaksi maiden omia päästövähennyksiä ei vaaranna ilmastotoimien riittävyyttä, uskottavuutta, ympäristötavoitteita tai sosiaalista oikeudenmukaisuutta
+
+ff
+
+tukea köyhimpiä maita ilmastonmuutoksen aiheuttamien vahinkojen ja menetysten korvaamisessa
+
+KUVA: FINGO
+
+1,5 asteen mukaiset sitoumukset Valtioiden tämänhetkisten ilmastotoimien ja Pariisin sopimuksen tavoitteiden välillä on iso kuilu. Nykyiset lupaukset johtaisivat yli kolmen asteen lämpenemi seen, vaikka Pariisin sopimuksen mukaisesti maiden tulisi pyrkiä pitämään lämpeneminen 1,5 asteessa. Tätä menoa 1,5 asteen tavoite on kovaa vauhtia kar kaamassa käsistä. YK:n pääsihteeri peräänkuulutti valtioilta nykyistä kunnianhimoisempia ilmastotavoitteita syyskuun ilmastohuippukokouksessaan, mutta vaatimuksiin reagoitiin olemattomasti niissä maissa, jotka tuot tavat valtaosan maailmanlaajuisista päästöistä. Kan salliset päästövähennystavoitteet eivät ole Madridin neuvotteluagendalla, mutta kokous tarjoaisi varsinkin suurimmille saastuttajamaille hyvän tilaisuuden ker toa, kuinka ne aikovat ilmastokriisiin reagoida. Odotamme, että Suomi EU:n puheenjohtajana vahvis taa maailmanlaajuisia pyrkimyksiä vähentää päästöjä niin, että 1,5 asteen tavoite on mahdollista saavuttaa. Pariisin sopimuksen osapuolten pitää ff antaa selkeä sitoumus siitä, että kansallisia pääs
+
+tövähennystavoitteita vuodelle 2030 kiristetään hyvissä ajoin ennen ensi vuoden COP26-ilmasto kokousta ff luoda kansallisten päästövähennystavoitteiden tar kastelulle läpinäkyvä ja osallistava prosessi, johon sitoutetaan laajasti eri sidosryhmiä ff varmistaa, että kansalliset tavoitteet ja strategiat ja niiden toteuttamiseksi tehtävät toimet perustu vat parhaaseen saatavilla olevaan tutkimustietoon, oikeudenmukaisuuteen ja reiluun siirtymään ff sisällyttää luonnon ilmastoratkaisut kansallisiin tavoitteisiin ja strategioihin sekä huomioida maaja meriekosysteemien suojelun ja ennallistamisen tärkeys luonnon monimuotoisuuden vähenemisen pysäyttämisessä, ilmastokestävyyden rakentami sessa ja hiilinielujen kasvattamisessa ff sopia kaikille osapuolille yhteisistä viisivuotisista päästövähennyskausista vuoden 2030 jälkeen niin, että seuraavat tavoitteet asetetaan vuodelle 2035
+
+Onko EU:sta vielä ilmastojohtajaksi? Ilmastokriisi ei ratkea ilman edelläkävijöitä, jol lainen EU voisi olla päivittämällä tavoitteensa Pariisin sopimuksen vaatimalle tasolle. Suomella onkin EU-puheenjohtajana paljon pelissä Madridin ilmastokokousviikkojen aikana. Samaan aikaan kun Suomi luotsaa EU:ta Madridin ilmastoneuvotte luissa, järjestetään ratkaiseva Eurooppa-neuvos ton kokous Brysselissä, jossa Suomen tulisi saada kaikki EU-maat tukemaan vuoden 2050 hiilineut raaliustavoitetta. Pitkän tähtäimen hiilineutraaliustavoitteet eivät kuitenkaan yksin riitä, sillä maailman päästöt pitää saada puolitettua seuraavan kymmenen vuoden aikana. Ratkaisevaa onkin, mitkä ovat päästövä hennystavoitteet ja -toimet vuodelle 2030. Jotta EU kantaisi oikeudenmukaisen vastuunsa maapal lon lämpenemisen rajoittamisesta 1,5 asteeseen, vuoden 2030 tavoite pitäisi nostaa nykyisestä 40 prosentista vähintään 65 prosenttiin. Samalla on vahvistettava luonnon hiilinieluja, jotka ovat EU-ta solla heikentyneet. Jos EU ei lunasta aiempia lupauksiaan Pariisin sopimuksen toimeenpanosta, ei sillä ole uskotta vuutta maailman suurimpana taloutena ja kolman neksi suurimpana kasvihuonekaasujen tuottajana vaatia muita suuria saastuttajamaita parantamaan toimintaansa.
+
+Selkeät säännöt Viime vuoden ilmastokokouksessa Katowicessa ei päästy sopuun Pariisin sopimuksen sääntökirjasta markkinamekanismien osalta (Artikla 6). Pariisin sopimus mahdollistaa muualla saavutettujen päästö vähennysten käyttämisen kansallisten sitoumusten toteuttamiseen. Maiden tulisi päästä nyt sopuun siitä, millaisilla laskenta- ja raportointisäännöillä kansain välistä mekanismia voidaan käyttää. On tärkeää, että säännöt ovat läpinäkyvät, selkeät ja vahvat. Madridin ilmastokokouksessa päätettävien Artikla 6:ta koskevien sääntöjen täytyy ff taata, että vastaavia järjestelyjä sovelletaan kaikkiin
+
+kansainvälisesti siirrettyihin hillintätoimien tuloksiin sekä muihin tarkoituksiin käytettyihin päästövähen nyksiin, esimerkkinä ICAO:n kansainvälisen lento
+
+liikenteen päästöjen hyvitys- ja vähennysjärjestelmä (CORSIA), jotta päästövähennysten kaksinkertainen laskenta voidaan välttää ff varmistaa, että osa päästövähennysyksiköistä mitätöidään automaattisesti eikä Kioton pöytä kirjan aikaisia yksiköitä tuoda Pariisin sopimuksen mukaisten velvoitteiden piiriin ff varmistaa, että kansainvälisesti siirretyt päästövä hennykset tehdään tiukan vastuuvelvollisuuden ja ympäristötavoitteiden mukaisesti niin, että niiden tuottaminen ei aiheuta vahinkoa paikallisväestölle eikä luonnolle, mikä on varmistettava kansallisessa kuulemismenettelyssä kansalaisyhteisölle ff johtaa todellisiin päästövähennysten lisäyksiin, jotka ovat mitattavissa, varmistettavissa, lisäisiä nykytoimiin nähden, pysyviä ja ajallisesti relevant teja ilmastonmuutoksen hillinnän kannalta
+
+KUVA: FINGO
+
+Vahinkojen ja menetysten korvaus kehittyville maille Ilmastonmuutoksen vauhdittamat äärimmäiset sää ilmiöt ja luonnonkatastrofit aiheuttavat peruuttamat tomia menetyksiä ja vahinkoja miljoonille ihmisille. Menetyksillä ja vahingoilla tarkoitetaan tilanteita, joissa ilmastonmuutoksen hillintä ei riitä estämään haitallisia vaikutuksia eikä ympäristön muutoksiin ole enää mah dollista sopeutua. Erityisen haavoittuvassa asemassa ovat vähiten kehittyneet maat ja pienet saarivaltiot. Ilmastonmuutoksen aiheuttamat menetykset ja vahin got ovat yksi pääneuvotteluaiheista Madridissa. Tätä varten luotiin jo vuonna 2013 Varsovan kansainvälinen mekanismi (Warsaw International Mechanism on Loss and Damage, WIM), jonka tavoite on kerätä tietoa siitä, miten alueet voivat valmistautua riskeihin ja vahinkoi hin, koordinoida toimintoja, tarjota rahoitusta ja tek nistä tukea sekä edistää koulutusta. Tietoa on kerätty, mutta maat eivät ole päässeet yhteisymmärrykseen rahoituksesta. Madridin ilmastokokouksessa pitää tehdä päätös ff Varsovan
+
+mekanismin mandaatin jatkamisesta pidemmäksi ajaksi, jotta voidaan varmistaa, että mekanismilla on riittävästi aikaa ja toimivaltaa puuttua sekä nykyisiin että tuleviin vahinkoihin ja menetyksiin ff rahoituksen etenemissuunnitelmasta vahinkojen ja menetysten torjumiseksi sekä prosessista, joka jatkuu COP26-kokoukseen asti ja johtaa yksityis kohtaisiin suosituksiin vahinkoja ja menetyksiä koskevan rahoitusvälineen vakiinnuttamisesta ja rahoituksen kasvattamisesta 50 miljardiin dollariin vuoteen 2022 mennessä
+
+Suomen ilmastorahoitus riittämättömällä tasolla Osana ilmastosopimuksia vauraat maat ovat sitou tuneet kasvattamaan kehitysmaiden ilmastotoi mia tukevan rahoituksen 100 miljardiin dollariin vuodessa vuoteen 2020 mennessä ja jatkamaan samalla tasolla vuoteen 2025 asti. Puolet rahoituk sesta on luvattu ohjata ilmastonmuutoksen hillin tään ja puolet ilmastonmuutokseen sopeutumiseen. Suomen oikeudenmukainen osuus olisi 200 mil joonaa euroa lahjamuotoista ilmastorahoitusta vuodessa, mutta tästä ollaan vielä kaukana. Ilmas torahoituksen taso vaihtelee vuosittain. Vuoden 2015 kehitysyhteistyöleikkaukset osuivat voimak kaasti myös ilmastorahoitukseen pudottaen tason 43 miljoonaan vuonna 2016. Vuonna 2017 rahoitus nousi 119 miljoonaan, mutta summasta yli puolet oli sijoituksia. Vuoden 2018 osalta rahoitus oli 47 miljoonaa. Tällä hetkellä budjettiperäinen rahoitus ohjataan valtaosin rahastojen ja kahdenvälisen yhteistyön kautta. Rahoituksen tulisi olla uutta ja lisäistä kehitysyh teistyön rahoitukseen nähden. Köyhyyden vähentä miseen tarkoitetusta potista ei pitäisi kattaa ilmas tonmuutoksen hillitsemiseen ja siihen sopeutumi seen tarvittavaa rahoitusta, niin kuin nyt tehdään. Suomen ja muiden teollisuusmaiden on nostettava rahoitus lupaamalleen tasolle ja varmistettava, että tuki saavuttaa kaikkein köyhimmät. Suomen tulee myös edistää yhtenäistä ilmastorahoituksen mää ritelmää sekä edistää raportointikäytäntöjen yhte näistämistä EU:ssa ja kansainvälisesti.
+
+---
+
 ### WWF:n lausunto liittyen Climate Circle ry:n toiminnanjohtajan irtisanoutumiseen
 
 Julkaistu: 22.11.2019  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/r/j/6vfpz7xwg4dlp92p7naq6a/lausunto-climatecycle-221119.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -225,7 +278,6 @@ Y-tunnus 0215186-5
 
 Julkaistu: 21.11.2019  
 Aiheet: Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/c/6/u/y52gvf0il0c0bgi1a34uvd/lausunto-climatecycle-211119.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -244,7 +296,6 @@ Y-tunnus 0215186-5
 
 Julkaistu: 5.11.2019  
 Aiheet: Ilmastonmuutos, Suomi, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/4/8/71arm0nwimk1m47cg0410x/wwf-nakokulmat-neuvottelijoille-kestavan-rahoituksen-taksonomia-asetuksesta.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -272,7 +323,6 @@ Raija-Leena Ojanen oikeudellinen neuvonantaja raija-leena.ojanen@wwf.fi puh. 050
 
 Julkaistu: 29.10.2019  
 Aiheet: Ilmastonmuutos, Suomi, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/u/w/8/liphrjr3pmo7x5aglpgxr/lausunto-ilmastokestavasta-omistajaohjauspolitiikasta.pdf
 
 Omistajaohjauksesta vastaava ministeri Sirpa Paatero Valtioneuvoston ilmasto- ja energiapoliittinen ministerityöryhmä
@@ -317,7 +367,6 @@ Valtion on vahvasti käytettävä omistajaohjauspolitiikan valtuuksia ja osakkee
 
 Julkaistu: 18.10.2019  
 Aiheet: Energiatehokkuus, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/2/1/k/0d7txz37gjok12m6dv5xbh/wwf-lausunto-asunto-ja-ymparistojaosto-talousarvio2020-2019-10-18.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -366,7 +415,6 @@ Jussi Nikula ohjelmapäällikkö
 
 Julkaistu: 16.10.2019  
 Aiheet: Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/e/t/x/gwzuquucckvtojcce1ulj6/wwf-lausunto-ymparistovaliokunta-talousarvio2020-15-10-2019.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -415,7 +463,6 @@ Jussi Nikula ohjelmapäällikkö
 
 Julkaistu: 11.10.2019  
 Aiheet: Ilmastonmuutos, Metsäkato  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/4/0/3tzen97xqhyz5di9bhk3pi/wwf-lausunto-maa-ja-metsatalousvaliokunta-metsakatotiedonanto-2019-10-10.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -470,7 +517,6 @@ Jussi Nikula ohjelmapäällikkö
 
 Julkaistu: 19.9.2019  
 Aiheet: Ilves, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/d/u/6/ft78l8nz87x6naq5agrkvr/wwf-lausunto-ilves-mmm-syyskuu-2019.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -501,7 +547,6 @@ Petteri Tolvanen ohjelmapäällikkö WWF Suomi
 
 Julkaistu: 6.9.2019  
 Aiheet: Suomi, Susi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/8/i/n3lqzhm7kjey7os4zpzcyo/wwf-lausunto-luonnoksesta-suden-hoitosuunnitelmaksi-190906.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -570,7 +615,6 @@ ohjelmapäällikkö
 
 Julkaistu: 23.8.2019  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/a/y/x/2xvscgz0s5q75yme33j5cn/wwf-lausunto-yritystuet-elokuu-2019.pdf
 
 WWF Suomen lausunto yritystukien vähentämistä käsittelevälle valtioministerityöryhmälle 23.8.2019
@@ -604,7 +648,6 @@ Tulee käynnistää vahva EU-tasoinen ja kansainvälinen yhteistyö haitallisten
 
 Julkaistu: 23.8.2019  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/x/2/uzs7ismpwrln4cbrb1vsy6/wwf-lausunto-metsakanalinnut-mmm-190823.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -715,7 +758,6 @@ Suomen lintuatlas / lajit/ riekko. http://atlas3.lintuatlas.fi/tulokset/laji/rie
 
 Julkaistu: 20.6.2019  
 Aiheet: Itämerennorppa, Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/9/2/t/dpr0ovc3e4k59you8h3jxb/wwf-lausunto-halli-norppa-mmm-190620.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -772,13 +814,107 @@ käsittelystä voisi saada tukea 450–650 euroa. https://www.satakunnankansa.fi
 
 ---
 
+## Toukokuu 2019
+
+### Miljöorganisationernas förslag till förnyelse av jordbruksstöden
+
+Julkaistu: 20.5.2019  
+Aiheet: Perinneympäristöt  
+Linkki: https://wwf.fi/app/uploads/6/c/k/8bbbqfj8vva1r0jgo2bx10/cap_paperi_sv_korj1704.pdf
+
+© KATJA NUORVALA / WWF
+
+Miljöorganisationernas förslag till förnyelse av jordbruksstöden Inledning VISION Ett hållbart jordbruk producerar näringsrika och hälsosamma livsmedel och råvaror för livsmedelstillverkning. Det sker med omsorg för produktionsdjurens välfärd, åkermarkens bördighet och utan att äventyra vattenförekomsternas goda tillstånd. Ett hållbart jordbruk ökar den biologiska mångfalden genom att erbjuda lämpliga livsmiljöer för växter, insekter och fåglar. Dessutom upprätthåller det ett vackert kulturlandskap. Jordbruket bromsar klimatförändringen genom att binda kol till jordmånen och genom att producera energiprodukter av förnyelsebara resurser. Jordbruksstöden styr och uppmuntrar jordbrukare att uppnå dessa målsättningar.
+
+REFORMEN AV DE EUROPEISKA JORDBRUKSSTÖDEN De finländska jordbruksstöden är en del av EU:s gemensamma jordbrukspolitik (CAP). En ny sjuårig CAP-period inleds år 2021. Då förnyas kriterierna för såväl de stöd som finansieras direkt av EU, till exempel det nuvarande grundstödet, som de stöd som hör till landsbygdsprogrammet, till exempel de nuvarande miljöersättningarna och kompensationsersättningen. Enligt EU-kommissionens förslag som publicerades i juni 2018 skulle varje medlemsland få större frihet att själv bestämma om nationella kriterier för jordbruksstöd. Miljöorganisationerna anser att reformen erbjuder en unik möjlighet att ändra stödsystemet så att det främjar genuint hållbara lösningar.
+
+STÖD FÖR VAD? Miljöorganisationerna förslår att jordbruksstöden främst skall styras till miljöåtgärder och ett hållbart jordbruk. Åtgärder som upprätthåller och förbättrar åkermarkens bördighet skall vara villkor för jordbruksstöden. Dessutom bör man reservera tillräckliga medel för att kunna ersätta jordbrukarnas kostnader för miljöåtgärder. Miljöåtgärderna bör allokeras bättre än hittills, genom att skräddarsy åtgärdspaket för särskilda områden, exempelvis sura sulfatjordar eller åkrar som är utsatta för erosion. Till erosionskänsliga områden styrs stöd för exempelvis skyddszoner, naturvårdsåkrar och växttäcke vintertid. För de olika typerna av ersättningar skall det finnas tydliga miljömål, till exempel mål gällande minskning av utsläpp. Resultatet av insatserna bör följas upp med hjälp av indikatorer. Myndigheterna bör reservera tillräckliga resurser för uppföljning av exempelvis fågelbestånden i jordbruksmiljöer.
+
+© KIRSI HELLAS / WWF
+
+Miljöteman DEN BIOLOGISKA MÅNGFALDEN Jordbruksmiljöerna är de viktigaste livsmiljötyperna för en betydande del av de rödlistade arterna i Finland. Nästan var fjärde av alla hotade arter behöver ängar, betesmarker eller andra av människan skapade omgivningar för sin överlevnad1. För att kunna stoppa den negativa trenden gällande hot om utrotning för arter och naturtyper borde minst 60 000 hektar vårdbiotoper2 skötas på lämpligt sätt. Det betyder en fördubbling av arealen jämfört med år 20173. Stöd skall riktas till att främja den biologiska mångfalden på såväl åkrarna som i kantzonerna. Dessutom bör mera uppmärksamhet fästas vid åtgärder som gynnar vattennaturens biologiska mångfald. ● Det skall vara attraktivt och lönsamt att röja, återställa och sköta vårdbiotoper och andra naturbetesmarker. Stödsummorna för alla värdefulla objekt höjs till en nivå som motsvarar rimliga kostnader för skötselåtgärder och ersätter inkomstbortfall. Staten bör reservera tillräckliga resurser för att fortsätta avtal på områden som redan omfattas av skötselåtgärder. ● Bete på åkrar skall uppmuntras, eftersom det är bra för både produktionsdjurens välfärd och för den biologiska mångfalden, i synnerhet för fåglar och insekter. ● Nya resultatbaserade stödformer borde utvecklas och testas. Det kan till exempel gå ut på att en jordbrukare får ersättning för att det på ägorna förekommer vissa indikatorarter. ● Vattennaturens mångfald ökas genom att göra vattenfårorna mera naturenliga. Stöd skall fortfarande riktas till att anlägga våtmarker och nya sätt att dränera åkermark på ett naturenligt sätt skall främjas. Sådana här åtgärder gynnar den biologiska mångfalden på bred front, eftersom dräneringen har minskat de fuktiga livsmiljöerna i jordbrukslandskapet. ● Det bör finnas tillräckliga budgetmedel för att nya områden ska kunna bli stödberättigade varje år under stödperioden ● Stöd skall fortsättningsvis riktas till olika typer av naturvårdsåkrar. Skötselanvisningarna gällande bland annat slåtter uppdateras så att biodiversitetsnyttan maximeras. ● Särskilda stöd för åkrar där stora fåglar som tranor, gäss och svanar söker föda och vilar skall finnas kvar och ytterligare utvecklas. ● Till exempel genom att stöda biologisk bekämpning, mångsidiga växtföljder och odling av fånggrödor kan man minska användningen av kemiska bekämpningsmedel inom jordbruket. Det här är viktigt för att skydda de pollinerande insekterna.
+
+© ARI HEINILÄ
+
+VATTENSKYDD Övergödningen är fortfarande ett av de största miljöproblemen i Östersjön och våra sjöar. En betydande del av näringsämnesbelastningen kommer från jordbruket. Jordbruksstöden skall utformas så att de sporrar till bättre vattenskydd. Resurserna för miljöersättningar skall allokeras till de områden och de typer av åtgärder där miljönyttan är störst. Stöden skall utformas så att de åtgärder som har konstaterats vara effektiva ur vattenskyddsperspektiv tas i bruk i stor omfattning: ● Ersättningsnivåerna för växttäcke vintertid skall höjas och åtgärden riktas till erosionskänsliga åkrar. ● Ersättningarna för skyddszoner borde allokeras bättre än hittills. Stöden borde uppmuntra jordbrukarna att inrätta i medeltal 20 meter breda skyddszoner vid alla vattenförekomster och utfallsdiken samt på känsliga grundvattenområden. ● Finansieringen för att anlägga våtmarker och att utföra naturenlig dränering borde öka. ● Stöden skall sporra jordbrukarna till att förbättra åkermarkens bördighet och att göra upp uträkningar av näringsämnesbalansen på åkernivå. ● Det bör finnas tillräckliga budgetmedel för vattenskyddsåtgärder på nya områden varje år under stödperioden. ● Stöden skall uppmuntra att dikning och åtgärder för översvämningsskydd utförs på ett naturenligt sätt, exempelvis genom flödesterrasser och genom att låta vattenfåran slingra sig genom landskapet.
+
+KLIMAT Klimatförändringen för med sig nya utmaningar för jordbruket, exempelvis i form av mera extrema väderförhållanden. En femtedel av utsläppen av växthusgaser från Finland härstammar från jordbruket4. Nu behövs effektiva åtgärder för att minska utsläppen och anpassa jordbruket till framtidens klimatförhållanden. ● Stöden för produktion av växtprotein för människoföda borde höjas i förhållande till stöden för mjölk- och köttproduktion. ● Det behövs stöd för åtgärder som ökar mängden bundet kol i jordmånen, till exempel en större andel vall i växtföljder eller odling av fånggrödor. När kol tas upp och binds i jordmånen får man både klimatnytta och en bördigare odlingsmark, eftersom det organiska materalet ger en bättre markstruktur. ● Inga jordbruksstöd ska betalas till nya åkrar som röjs på torvmarker. ● Stödsystemet skall utformas så att det sporrar till odling av mångårig vall på torvjordar, eftersom bearbetning av torvjordar leder till stora utsläpp av växthusgaser. ● Odlingsmetoder som förbättrar möjligheterna att få en god skörd även vid extrema väderförhållanden skall stödas. Exempel på sådana metoder är mångsidig växtföljd och förbättring av markens bördighet. ● Metoder för att räkna ut klimatbalansen på gårdsnivå skall utvecklas och testas. ● Uppgörande av gårdsvisa energiplaner, förbättrande av energieffektiviten och en ökad användning av energi från förnyelsebara källor på gårdarna ska stödas.
+
+CIRKULÄR EKONOMI Jordbruket har en nyckelroll i den cirkulära ekonomin. Jordbruksstöden skall ge incentiv att skapa effektiva kretslopp för livsviktiga näringsämnen som kväve och fosfor. Mineralfosfor är en ändlig naturresurs och det krävs stora mängder energi att producera kvävekonstgödsel. Samarbetet mellan växtodling och djurhållning borde främjas och den regionala uppsplittringen i produktionsinriktningar borde bromsas. ● Stöd till kretsloppsbaserade produktionsformer som exempelvis ekologisk produktion. ● Samarbetet mellan olika gårdar borde främjas genom projekt och särskilda stöd. Samarbetsnätverk bestående av flera jordbruk och andra aktörer borde också stödas. Exempelvis kunde en gård som odlar spannmål, en gård som är inriktad på djurhållning, en biogasanläggning, en växthusodlare och ett bageri bilda en lokal cirkulärekonomisk helhet. ● Genom stöd kan samhället främja investeringar i nya anläggningar som processerar djurgödsel till gödselprodukter som kan transporteras längre sträckor, till exempel från de djurtäta områdena i Österbotten till växtodlingsgårdar i södra Finland. ● Investeringsstöd borde riktas till processer och konkreta anläggningar där jordbrukets sidoströmmar används till att producera värme, el eller drivmedel för fordon. Källor -
+
+Hyvärinen, E., Juslén, A., Kemppainen, E., Uddström, A. & Liukko, U.-M. (red.) 2019. Suomen lajien uhanalaisuus – Punainen kirja 2019. Miljöministeriet & Finlands miljöcentral. Helsingfors. 704 s.
+
+-
+
+-
+
+-
+
+Kontula, T. & Raunio, A. (red.). 2018. Suomen luontotyyppien uhanalaisuus 2018. Luontotyyppien punainen kirja – Osa 1: Tulokset ja arvioinnin perusteet. Finlands miljöcentral och miljöministeriet, Helsingfors. Suomen ympäristö 5/2018. 388 s. Vuotuinen täytäntöönpanokertomus. Manner-Suomen maaseudun kehittämisohjelma 2014-2020. 2017. Jord- och skogsbruksministeriet. S. 22,38. Regina, K. m.fl. 2014. Maatalouden kasvihuonekaasupäästöt ja niiden vähentäminen. MTT raportti 127. © HANNA VIRTANEN
+
+---
+
+### Ympäristöjärjestöjen ehdotukset maataloustukien uudistamiseksi
+
+Julkaistu: 20.5.2019  
+Aiheet: Perinneympäristöt  
+Linkki: https://wwf.fi/app/uploads/3/1/3/yb9k8smokl03r9zrpq9l6n/cap_paperi_fi_korj1704.pdf
+
+© KATJA NUORVALA / WWF
+
+Ympäristöjärjestöjen ehdotukset maataloustukien uudistamiseksi Johdanto VISIO Kestävä maatalous tuottaa ravitsevia ja terveellisiä elintarvikkeita ja niiden raaka-aineita. Se huolehtii tuotantoeläinten hyvinvoinnista, maaperän kasvukunnosta sekä vesistöjen hyvästä tilasta. Se edistää luonnon monimuotoisuutta tarjoamalla sopivan elinympäristön mm. monille kasveille, hyönteisille ja linnuille. Lisäksi se ylläpitää kauniin kulttuurimaiseman. Maatalous hillitsee ilmastonmuutosta sitomalla hiiltä maaperään ja tuottamalla uusiutuvaa energiaa. Maataloustuet ohjaavat ja kannustavat toimimaan näiden tavoitteiden saavuttamiseksi.
+
+EUROOPAN MAATALOUSTUKIEN UUDISTUS Suomen maataloustuet ovat osa EU:n yhteistä maatalouspolitiikkaa (CAP). Seuraava seitsemänvuotinen CAP-kausi alkaa vuonna 2021. Silloin sekä EU:n suoraan maksamien maataloustukien, kuten nykyisen perustuen, että maaseudun kehittämisohjelmaan sisältyvien tukien, kuten nykyisen ympäristökorvauksen ja luonnonhaittakorvauksen, ehdot muuttuvat. EU-komission kesäkuussa 2018 julkaiseman ehdotuksen mukaan jokainen jäsenvaltio voisi päättää maataloustukien kansallisista ehdoista aiempaa itsenäisemmin. Ympäristöjärjestöt näkevät, että uudistus tarjoaa mahdollisuuden muuttaa Suomen maataloustukijärjestelmää aidosti kestäviä ratkaisuja suosivaksi.
+
+MITÄ TUETAAN? Ympäristöjärjestöt esittävät, että tulevan maataloustukijärjestelmän rahoitus tulee sitoa vahvasti ympäristötoimiin ja kestävään maatalouteen. Maataloustukien ehtojen tulee sisältää maan kasvukunnon ylläpitoon ja parantamiseen tähtääviä toimenpiteitä. Lisäksi varataan riittävät resurssit viljelijöille aiheutuvien kustannusten korvaamiseen ympäristötoimenpiteissä. Ympäristötoimien kohdentamista tulee kehittää. Kohdentamista tehostetaan räätälöimällä toimenpidevalikoima, jossa huomioidaan alueelliset erityispiirteet, kuten happamat sulfaattimaat tai huuhtoutumiselle alttiit pellot. Esimerkiksi eroosioherkille maille kohdennetaan suojavyöhykkeitä, luonnonhoitopeltoja ja erilaisia muita talviaikaisia kasvipeitteitä. Eri korvausmuodoille pitää määrittää selkeät ympäristönsuojelu- ja päästövähennystavoitteet. Pitää myös määrittää konkreettisia, edistyksestä kertovia mittareita. Lisäksi hallinnon on turvattava riittävät resurssit toimenpiteiden seurantaan, esimerkkinä maatalousalueiden lintukantojen kehitys.
+
+© KIRSI HELLAS / WWF
+
+Ympäristöteemat LUONNON MONIMUOTOISUUS Maatalousympäristö on ensisijainen elinympäristö merkittävälle osalle Suomen uhanalaisista lajeista. Lähes neljäsosa uhanalaisista lajeista vaatii elinympäristökseen niityn, laitumen tai jonkin muun ihmisen muuttaman ympäristön1. Lajien ja luontotyyppien uhanalaistumisen pysäyttämiseksi hoidon piiriin olisi saatava yhteensä vähintään 60 000 ha perinnebiotooppeja2 eli kaksinkertainen määrä verrattuna vuoteen 20173. Luonnon monimuotoisuuden edistämistä pellolla ja pellon reunoilla tulee tukea ja osoittaa luonnon monimuotoisuuden säilyttämiseen liittyvät toimenpiteet koskemaan myös vesiluontoa. ● Perinnebiotooppien ja muiden luonnonlaidunten raivauksesta, kunnostamisesta ja hoitamisesta tehdään houkuttelevaa ja kannattavaa. Tukitaso korotetaan kaikkien arvokkaiden kohteiden osalta niin, että se kattaa sopivasta hoidosta aiheutuvat kohtuulliset kustannukset ja tulonmenetykset. Hoidon jatkuvuus jo hoidossa olevilla alueilla turvataan myös riittävällä rahoituksella. ● Tuetaan eläinten laiduntamista pelloilla eläinten hyvinvoinnin lisäksi myös luonnon monimuotoisuuden säilyttämisen, erityisesti lintujen ja hyönteisten näkökulmasta. ● Kehitetään ja pilotoidaan tulosperusteisia tukimuotoja, joiden puitteessa maksetaan tukea viljelijälle esimerkiksi siitä, että maatalousmaalla esiintyy tiettyjä indikaattorilajeja. ● Maatalousympäristön vesiluonto huomioidaan uomien luonnonmukaistamistoimilla. Keinoja ovat kosteikkojen perustaminen ja hoito sekä luonnonmukainen peruskuivatus. Näillä keinoilla edistetään vesiensuojelun lisäksi luonnon monimuotoisuutta, sillä kuivatustoimenpiteiden myötä maatalousympäristön kosteat elinympäristöt ovat vähentyneet. ● Varmistetaan, että ohjelmakauden jokaisena vuotena on mahdollista saada uusia kohteita tuen piiriin. ● Tuetaan jatkossakin erityyppisiä luonnonhoitopeltoja. Hoito-ohjeita kehitetään niin, että ne edistävät vielä nykyistä paremmin luonnon monimuotoisuutta. Esimerkiksi niittovaatimuksia täsmennetään. ● Tukimuotoa, joka on suunnattu suurikokoisten lintujen eli kurkien, hanhien ja joutsenten esiintymiseen tärkeimmillä ruokailualueillaan tulee ylläpitää ja kehittää. ● Vähennetään riippuvuutta kemiallisista kasvinsuojeluaineista tukemalla vaihtoehtoisten kasvinsuojelumenetelmien käyttöönottoa, esimerkiksi biologista torjuntaa, monipuolista viljelykiertoa sekä aluskasvien viljelyä. Samalla parannetaan pölyttäjien elinolosuhteita.
+
+© ARI HEINILÄ
+
+VESIENSUOJELU Rehevöityminen on edelleen Itämeren ja sisävesiemme suurimpia ympäristöongelmia, ja merkittävä ravinnekuormituksen lähde on maatalous. Maatalouden ravinnekuormitukseen tulee puuttua huomattavasti tehokkaammin, ja myös tukien käyttöä tulee tehostaa kohdentamalla ympäristökorvausrahoja sekä alueellisesti että toimenpiteittäin riskialueille. Vesiensuojelussa tulee edistää tehokkaiksi havaittujen toimenpiteiden laajamittaisempaa käyttöönottoa: ● Talviaikaisen kasvipeitteisyyden käyttöönottoa ja määrää tulee edistää korvaustasoja korottamalla ja alueellisella kohdentamisella. ● Suojavyöhykkeiden korvaukset tulisi kohdistaa nykyisten kohdentamisalueiden sijaan ensisijaisesti kattamaan keskimäärin 20 m leveät vyöhykkeet vesistöjen ja valtaojien varsilla sekä erityisen herkille pohjavesialueille. Suojavyöhykkeiden määrää tulee lisätä merkittävästi eroosioherkillä kaltevilla peltolohkoilla sekä runsaasti fosforia sisältävillä tulvaherkillä peltolohkoilla. ● Kosteikkojen perustamista ja hoitoa sekä luonnonmukaista peruskuivatusta edistetään määrärahoja lisäämällä. ● Peltojen kasvukunnon parantamista ja ravinnetaseiden laskentaa ja seurantaa on tuettava. ● Vesiensuojelun rahoituksen tulee olla riittävää, jotta uusien toimenpiteiden tekeminen on mahdollista koko ohjelmakauden ajan. ● Peruskuivatuksessa ja tulvasuojelussa tulee painottaa luonnonmukaisuutta esimerkiksi tulvatasanteita ja uoman luontaista mutkittelua.
+
+ILMASTO Ilmastonmuutos ja sen myötä lisääntyvät sään ääri-ilmiöt tuovat maatalouden harjoittamiseen uusia haasteita. Maatalousperäiset kasvihuonekaasupäästöt muodostavat noin viidenneksen Suomen kokonaispäästöistä4. Tarvitaan tehokkaita toimia ilmastonmuutokseen sopeutumiseksi ja kasvihuonekaasupäästöjen vähentämiseksi. ● Ihmisravinnoksi tuotetun kasviproteiinin tuotannon tukia tulee korottaa suhteessa lihan- ja maidontuotannon tukiin. ● Tuetaan maaperän hiilipitoisuuden kasvattamista, esimerkiksi nurmen suurempaa osuutta viljelykierrosta ja aluskasvien viljelyä. Hiilen sitominen maaperään torjuu ilmastonmuutosta ja kohentaa samalla peltojen viljelyominaisuuksia parantamalla maan rakennetta ja ylläpitämällä monipuolista eliöstöä. ● Tukijärjestelmän ehdot muotoillaan siten, että uudet turvemaille raivatut pellot eivät ole tukikelpoisia. ● Tuetaan pitkäaikaisia, muokkaamattomia nurmia eloperäisillä mailla. ● Tuetaan sellaisia toimenpiteitä, jotka lisäävät satovarmuutta vaihtelevissa sääolosuhteissa. Tällaisia toimia ovat muun muassa monipuolinen viljelykierto ja pellon kasvukunnon parantaminen. ● Pilotoidaan tilakohtaista ilmastotaseen laskentaa. ● Edistetään maatilojen energiasuunnittelua, energian käytön tehostamista sekä uusiutuvan energian käyttöä.
+
+KIERTOTALOUS Maatalous on avainasemassa kiertotalousyhteiskunnassa. Maataloustuilla ja kannustimilla luodaan edellytykset elintärkeiden ravinteiden kuten typen ja fosforin tehokkaalle kierrolle. Mineraalifosfori on ehtyvä luonnonvara, ja typpilannoitteiden valmistamiseen kuluu paljon energiaa. Kasvinviljelyn ja eläintuotannon tiiviimpää yhteistyötä tulee tukea ja alueellinen eriytyminen pysäyttää. ● Tuetaan kiertotaloutta harjoittavia tuotantomuotoja kuten luomua. ● Edistetään hankkeilla ja tuilla yhteistyötä tilojen välillä, sekä erilaisia agroekologisia symbiooseja. Esimerkiksi viljatila, karjatila, biokaasulaitos, kasvihuone ja leipomo voivat muodostaa toisiaan tukevan paikallisen kiertotalousyhteistyön. ● Tuetaan lannan prosessointia helpommin kuljetettavaan muotoon, jotta esimerkiksi Pohjanmaan karjatuotannosta syntyvästä lannasta saadaan lannoitteita Etelä-Suomen viljatiloille. ● Edistetään hajautettua energiantuotantoa esimerkiksi investointituilla maatalouden sivuvirtojen hyödyntämiseen lämmön, sähkön ja liikennepolttoaineiden tuotantoon.
+
+Lähteet: -
+
+Hyvärinen, E., Juslén, A., Kemppainen, E., Uddström, A. & Liukko, U.-M. (toim.) 2019. Suomen lajien uhanalaisuus – Punainen kirja 2019. Ympäristöministeriö & Suomen ympäristökeskus. Helsinki. 704 s.
+
+-
+
+-
+
+-
+
+Kontula, T. & Raunio, A. (toim.). 2018. Suomen luontotyyppien uhanalaisuus 2018. Luontotyyppien punainen kirja – Osa 1: Tulokset ja arvioinnin perusteet. Suomen ympäristökeskus ja ympäristöministeriö, Helsinki. Suomen ympäristö 5/2018. 388 s. Vuotuinen täytäntöönpanokertomus. Manner-Suomen maaseudun kehittämisohjelma 2014-2020. 2017. Maa- ja metsätalousministeriö. S. 22,38. Regina, K. ym. 2014. Maatalouden kasvihuonekaasupäästöt ja niiden vähentäminen. MTT raportti 127.
+
+© HANNA VIRTANEN
+
+---
+
+### Ihmisoikeusloukkaussyytöksiä selvittävä kansainvälinen paneeli nimetty
+
+Julkaistu: 20.5.2019  
+Linkki: https://wwf.fi/app/uploads/2/q/i/5n20lr8ygk9rqgbqmgobp/tiedonanto-17052019.pdf
+
+Ihmisoikeusloukkaussyytöksiä selvittävä kansainvälinen paneeli nimetty
+
+20.5.2019
+
+Kansainvälinen WWF-verkosto teettää riippumattoman ja ulkopuolisen arvioinnin amerikkalaisen Buzzfeed-sivuston esittämistä ihmisoikeusloukkaussyytöksistä Aasiassa ja Afrikassa. Arviointia valvovan paneelin puheenjohtajana toimii entinen YK:n ihmisoikeuskomissaari, tuomari Navi Pillay. Muita paneelin jäseniä ovat professori John Knox ja IUCN:n suojelualueiden komission (WCPA) puheenjohtaja Kathy Mackinnon. ”WWF on sitoutunut turvaamaan sekä ympäristön että ihmisten hyvinvoinnin tulevaisuuden. Ihmisoikeuksien kunnioittaminen on työmme keskiössä kaikkialla ja otamme erittäin vakavasti kaikki ihmisoikeusloukkauksia koskevat syytökset. Olemme myös sitoutuneet toimiin, mikäli nyt nimitetty ulkopuolinen ja riippumaton paneeli havaitsee toiminnassamme puutteita tai vikoja,” sanoo kansainvälisen WWF:n hallituksen puheenjohtaja Pavan Sukhdev. WWF aloitti asian ja ihmisoikeusloukkaussyytösten selvittämisen, kun amerikkalainen Buzzfeed-sivusto julkaisi syytöksiä artikkeleissaan maaliskuussa 2019. Ihmisoikeusloukkaussyytökset eivät koske WWF:n työntekijöitä, vaan paikallisia hallitusten metsänvartijoita Nepalissa, Kamerunissa, Keski-Afrikan tasavallassa ja Kongon demokraattisessa tasavallassa. Vanhimmat ihmisoikeusloukkaussyytökset ovat yli 10 vuoden takaa. Myös WWF tekee salametsästyksen vastaista työtä näissä maissa. WWF Suomi on tehnyt kehitysyhteistyötä Nepalissa useita vuosia ja erityisesti kahden viime vuoden aikana olemme säännönmukaisesti painottaneet kehitysyhteistyössämme ihmisoikeuksien kunnioittamista. Tämä tarkoittaa sitä, että paikallisten ihmisten sekä alkuperäiskansojen oikeudet ja oikeudenmukainen kohtelu tulee varmistaa kaikessa tukemassamme työssä. Kehitysyhteistyömme Nepalissa keskittyy paikallisten hallinnoimiin kylämetsiin, suojelualueiden välisiin metsäkäytäviin, kestävien elinkeinojen kehittämiseen yhdessä paikallisten kanssa sekä ympäristökasvatukseen. WWF Suomen kehitysyhteistyöohjelmassa varojen käyttöä ja toimenpiteitä valvotaan tarkasti myös ulkopuolisten arvioijien toimesta. Näissä arvioissa ei ole tullut tietoon minkäänlaisia ihmisoikeusloukkauksia. Nyt julkaistujen syytösten tutkinnan jälkeen kuitenkin selvitämme, miten voimme vielä entisestään tiukentaa valvontaa ja parantaa avoimuutta hankkeissamme. Riippumattoman arviointipaneelin Statement of Objectives: http://wwf.panda.org/?344901 Liisa Rohweder pääsihteeri WWF Suomi
+
+---
+
 ## Huhtikuu 2019
 
 ### Lausuntopyyntö”Luonnoksesta maa- ja metsätalousministeriön asetukseksi uhanalaisten ja taantuneiden kalojen arvosta”
 
 Julkaistu: 12.4.2019  
 Aiheet: Suomen uhanalaiset kalat, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/4/m/9/mbahysj9q5qdah6oicx4tv/wwf-suomi_korvausarvot_mmm_asetus.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -813,7 +949,6 @@ Olli Sivonen Suojeluasiantuntija
 
 Julkaistu: 3.4.2019  
 Aiheet: Itämeri, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/5/d/x/fvs4uebe2f0zn9ylisrub0/wwf-lausunto-mmm-harmaahylje-190403.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -842,11 +977,48 @@ käsittelystä voisi saada tukea 450–650 euroa. https://www.satakunnankansa.fi
 
 ## Helmikuu 2019
 
+### Arviomuistio OMSO 36 2018 Kalatalousvelvoitteen määrääminen vesitalousluvan haltijalle
+
+Julkaistu: 27.2.2019  
+Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
+Linkki: https://wwf.fi/app/uploads/3/6/a/ym1zjsvmfyopob4mgcrn87/wwf-lausunto-oikeusministerion-muistio-omso-36-2018-kalatiet.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+Oikeusministeriölle
+
+27.2.2019 Viite:
+
+Lausuntopyyntö Dnro VN/335/2019
+
+Asia:
+
+ARVIOMUISTIO OMSO 36 2018 KALATALOUSVELVOITTEEN MÄÄRÄÄMINEN VESITALOUSLUVAN HALTIJALLE
+
+WWF toteaa lausuntonaan seuraavaa:
+
+Oikeusministeriön arviomuistio Arviomuistion taustalla on Suomen Luonnonsuojeluliitto ry:n, Suomen Vapaa-ajankalastajien Keskusjärjestön ja WWF:n yhdessä tekemä 6.4.2017 päivätty esitys vesilain tarkistamiseksi kalatalousvelvoitteen määräämisen osalta. Esitys ei valitettavasti ole johtanut ripeisiin toimenpiteisiin eikä lakiehdotusta saatu käsiteltäväksi päättymässä olevan vaalikauden aikana. Arviomuistio on nyt tervetullut askel oikeaan suuntaan ja sen johtopäätökset ovat oikeansuuntaisia. Kalatalousvelvoitteen määräämistä koskevan lakialoitteemme taustalla on yleisesti tunnustetut ja tiedostetut seikat: -luonnonvaraiset vaelluskalakannat ovat uhanalaisia; -Suomen virtavedet on pääosin padottu ja valjastettu vesivoiman tuotantoon; -padot katkaisevat vaelluskalojen elinkierron; -vanhoihin vesitalouslupiin ei sisälly kalatalousvelvoitteita; -nykyinen vesilaki ei mahdollista kalatalousvelvoitteen määräämistä lupaan, jossa sellaista ei ole; -EU:n vesipolitiikan puitedirektiivin vaatimuksia vesitalouslupien ehtojen päivittämisestä ei ole huomioitu, kun vesilakia muutettiin vuonna 2011; ja -vapaaehtoisuuteen perustuvat toimenpiteet kalakantojen elvyttämiseksi eivät tuota riittävä tulosta. Istutuksiin perustuvasta ”tekohengityksestä” on siirryttävä luontaisten kalakantojen elvyttämiseen ja vesistöjen ekologisen tilan parantamiseen. Kaikki vesitalousluvat on myöntämisajankohdasta riippumatta asetettava lainsäädännöllisesti samalle viivalle. 1
+
+Perustuslailliset näkökohdat Vesilain muuttamisen esteeksi esitetään usein perustuslaillisia näkökohtia. Vesitalousluvan pysyvyyden katsotaan rinnastuvan perustuslailla suojattuun omaisuudensuojaan. Vesilakia muutettaessa omaisuudensuoja pitää yhteensovittaa perustuslain 20§:n ns. ympäristöperusoikeuden kanssa. Ympäristöperusoikeus määrää mm., että vastuu luonnosta ja sen monimuotoisuudesta kuulu kaikille. Perustuslakivaliokunta on kivihiilen energiakäyttöä koskevan lakiehdotuksen käsittelyn yhteydessä vastikään linjannut ja ajantasaistanut näkökantoja koskien ympäristölainsäädännöstä johtuvaa liiketoimintaa koskevan säännöstön muuttamista ja sen suhdetta mm. omaisuudensuojaan. Perustuslakivaliokunta katsoi lausunnossaan PeVL 55/2018, ettei kivihiilen energiakäytön kieltäminen ilmaston- ja ympäristön suojelemiseksi suhteettomasti loukkaa sähkölaitosten omistuksensuojaa eikä rajoituksen asettaminen edellytä korvauksen maksamista. Perustuslakivaliokunta siteeraa hallituksen esityksen perusteluja (alleviivaus lisätty): ”Hallituksen esityksen perusteluissa katsotaan perustuslakivaliokunnan käytäntöön nojaten, että perustuslain 20 §:stä johtuvista syistä laitoksen omistajalle ei voi muodostua oikeutta saada korvausta siitä, ettei laitosta voi käyttää sellaiseen toimintaan, joka ei täytä laissa ilmastonmuutoksen ja yleisemmin ympäristön turmeltumisen estämiseksi säädettyjä energiantuotannon rajoituksia ja vaatimuksia. Lisäksi säätämisjärjestysperusteluihin sisältyvässä kokonaisarvioinnissa on merkitystä annettu sille perustuslakivaliokunnan lausuntokäytännössä useasti todetulle seikalle, että yritykset ja muut elinkeinon harjoittajat eivät voi perustellusti odottaa elinkeinotoimintaansa sääntelevän lainsäädännön pysyvän muuttumattomana (PeVL 32/2010 vp, PeVL 31/2006 vp ja PeVL 56/2005 vp). Perustuslakivaliokunta kirjaa perusteluissaan (alleviivaus lisätty): ”Perustuslakivaliokunta on esitetyn kiellon kaltaisia, ympäristövastuun toteutumisen edistämiseen liittyviä omaisuudensuojan rajoituksia tarkasteltaessa kiinnittänyt erityistä huomiota perustuslain omaisuudensuojasäännöksen ja ympäristövastuusäännöksen punnintaan perustuvaan keskinäissuhteeseen. Yhtäältä valiokunta on todennut, että perustuslain 20 §:n ympäristöperusoikeussäännös ei perusta yksilöittäin todennettavissa olevia velvoitteita eikä se myöskään muodostu erilliseksi perusteeksi kohdistaa maanomistajiin erityisesti ulottuvia sietämisvelvoitteita. Toisaalta saman perusoikeussäännöstön osina niillä kummallakin voi olla vaikutusta toistensa tulkintoihin sen kaltaisessa yhteydessä, jossa pyritään ihmisen ja ympäristön välistä tasapainoa edistäviin lainsäädäntöratkaisuihin (esim. PeVL 10/2014 vp, PeVL 36/2013 vp, PeVL 32/2010 vp, PeVL 20/2010 vp, PeVL 6/2010 vp, PeVL 38/1998 vp ja PeVL 21/1996 vp). Perustuslakivaliokunta on omaisuuden käyttörajoituksia koskevassa hyväksyttävyys- ja oikeasuhtaisuusarvioinnissaan antanut uudemmassa käytännössään erityistä painoa perustuslain 20 §:ään kiinnittyville perusteille (esim. PeVL 10/2014 vp, PeVL 36/2013 vp ja PeVL 6/2010 vp).” Kalatievelvoitteet suojaavat vesiluontoa ja sen monimuotoisuutta. Vesilain muutoksella täytäntöönpannaan Suomea sitovaa EU:n vesipolitiikan puitedirektiiviä. Kyse on ihmisen ja ympäristön tasapainoa edistävästä lainsäädännöstä. Perustuslakivaliokunnan linjausta
+
+noudatellen vesitalousluvan haltijalle ei pitäisi syntyä oikeutta korvaukseen kalatievelvoitteen asettamisesta. Arviomuistiossakin päädytään samankaltaiseen valtiosääntöoikeudelliseen tulkintaan toteamalla, että ”perustuslaki ei aseta estettä sellaiselle sääntelylle, jonka perusteella vesi-talouslupa hallinnollisena lupapäätöksenä voitaisiin ottaa uudelleen arvioitavaksi lupamääräysten riittävyyden ja ajantasaisuuden suhteen.” Arviomuistiossa ei nähdä perustuslaista johtuvan estettä sille, että vanhaan vesitalouslupaan voitaisiin sisällyttää uusia lupamääräyksiä, jotka asettavat luvan haltijalle nykyistä pidemmälle meneviä velvoitteita sekä rajoittavat toiminnan harjoittamisen edellytyksiä, ilman että luvan haltijalle syntyisi oikeutta saada korvausta edunmenetyksistä. Vesilain muutoksen kiireellisyys Kalakantojen elvyttäminen on ollut nykyhallituksen kärkihanke. Nykytoimenpiteillä ei ole saatu aikaan merkittävää positiivista kehitystä. Virtavesien ja vesiluonnon suojeleminen on monimuotoisuuden heikkenemisen pysäyttämisen kannalta olennaisen tärkeää. Vesilain muuttaminen kalatalousvelvoitteiden määräämisen osalta on välttämätöntä. Samassa yhteydessä pitäisi yleisemminkin purkaa vesitalouslupien ajallisesti rajoittamaton voimassaolo ja luoda mekanismi lupaehtojen määräaikaiselle tarkastamiselle. Määräaikainen lupaehtojen ajanmukaistaminen pitää olla mahdollista ilman että luvanhaltijalla on oikeutta korvaukseen mahdollisesta kustannusten noususta tai tuotannonmenetyksestä. EU:n vesipuitedirektiivi velvoittaa Suomen päivittämään lainsäädäntönsä direktiivin edellyttämälle tasolle. Lainsäädäntöhanke vesilain muuttamiseksi pitää käynnistää viipymättä.
+
+Maailman Luonnon Säätiö (WWF) Suomen Rahasto, sr
+
+Jari Luukkonen Suojelujohtaja
+
+Raija-Leena Ojanen Oikeudellinen neuvonantaja
+
+WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmisiä ja yhteisöjä toimimaan ympäristön suojelemiseksi. WWF:n tukijat ovat mukana pelastamassa maailman ainutlaatuisimpia luontokokonaisuuksia.
+
+---
+
 ### WWF Suomen Lausunto luonnoksesta vapaa-ajan kalatalouden kehittämisstrategiaksi
 
 Julkaistu: 22.2.2019  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/6/v/i/1j2gsmu6sbl6pac4qryi80/wwf_lausunto_vapaa-ajankalastuksen-kehittamisstrategia.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -879,7 +1051,6 @@ Olli Sivonen Suojeluasiantuntija
 
 Julkaistu: 22.2.2019  
 Aiheet: Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/3/5/t/30p1d1mkgakdrij3ql080j/wwf-lausunto-ym-uudenmaan-luonnnonsuojelualueet-helmikuu-2019.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -900,7 +1071,6 @@ Petteri Tolvanen ohjelmapäällikkö
 
 Julkaistu: 19.2.2019  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/8/e/z/x7tj1of4gdudt9lu0tvqkh/wwf-lausunto-maa-ja-metsatalousvaliokunta-suomen-ennakkovaikuttaminen-eun-ilmastopolitiikkaan-helmikuu2019.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -933,11 +1103,56 @@ Jussi Nikula ohjelmapäällikkö
 
 ---
 
+### Esitys maa- ja metsätalousministeriölle lohenkalastuksen säätelytoimenpiteiden muuttamiseksi
+
+Julkaistu: 18.2.2019  
+Aiheet: Lohi, Suomen uhanalaiset kalat  
+Linkki: https://wwf.fi/app/uploads/c/d/b/furi15g3p8rn2x5vmwwydg/esitys-lohenkalastuksen-saatelytoimenpiteiden-muuttamisesta-1.pdf
+
+18.2.2019
+
+ESITYS MAA- JA METSÄTALOUSMINISTERIÖLLE LOHENKALASTUKSEN SÄÄTELYTOIMENPITEIDEN MUUTTAMISEKSI
+
+Tässä esityksessä mukana olevat tahot haluavat Maa- ja metsätalousministeriön sekä huomioivan alla esitetyt huolet Itämeren lohen tilasta ja nykyisen kalastuksensäätelyn ongelmista että harkitsevan käyttöönotettavaksi esitettyjä toimenpiteitä, joiden tavoitteena ovat vahvemmat lohikannat ja tätä kautta myös lohenkalastuksen nykyistä kestävämpi tulevaisuus.
+
+Kaupallista lohenkalastusta aikaistettiin Suomen rannikolla Pohjanlahden alueella noin 1,5 kuukaudella vuonna 2017. Aikaistamiskokeiluun ryhdyttiin aikana, jolloin Tornionjokeen oli useamman vuoden ajan noussut ennätysmäärät lohia, ja kaupallisen kalastuksen kiintiöt seurasivat tieteellistä neuvonantoa. Lohen tulevaisuus näytti tuolloin vakaalta ja valoisalta. Lisäksi aikaistaminen sallittiin tiukoin reunaehdoin, ”jotta voidaan olla varmoja siitä, että merkittäviä kielteisiä vaikutuksia ei pääse luonnonlohikantojen tilaan syntymään” (MMM). Aikaistetun kalastusjakson aikana sallittiin kiintiötä hyödynnettävän enintään 25 % kokonaiskiintiöstä. Kun vuosina 2014–2016 Tornionjoen lohilaskurin ohitti noin 60 000–100 000 lohta, niin vuosina 2017 ja 2018 lohia oli vain noin 41 000–47 000. Samaan aikaan Tornionjoen lohen poikastiheydet ovat tippuneet vuoden 2015 määristä (41 kpl/100 m2) alle puoleen vuonna 2018 (17 kpl/100 m2). Lohen tulevaisuutta ja geneettistä monimuotoisuutta uhkaavat tällä hetkellä niin aikaistettu kalastus, ylisuuret kiintiöt kuin raportoimaton kalastuskin. Myös tautiriskit ovat olemassa.
+
+Kalastuksen aikaistamisesta luopuminen ja uudet aikarajat sekä mahdollinen ylämittasäätely Lohi- ja meritaimenstrategian seurantaryhmän kokouksessa (5.2.2018) esitettyjen tulosten (joita ei ole julkistettu yleisesti) perusteella, aikaistetun kalastusjakson aikana saalis koostuu merkittävissä määrin suurikokoisista ja villeistä lohista. Vuonna 2018 kolmen tai useamman merivuoden lohia oli saaliissa jopa 40–45 %. Loppukauden aikana vastaavan ikäisten yksilöiden osuus oli korkeimmillaan 15–27 %. Alkukaudesta jokiin pyrkivät siis erityisesti isot ja vanhat lohet (etupäässä naaraita) sekä latvavesien osapopulaatioiden yksilöt (MMM muistio 29.6.2018). Suuriin yksilöihin ei tällä hetkellä kohdistu minkäänlaisia suojelutoimenpiteitä, vaikka suurikokoisten kalojen osuuden turvaaminen populaatiossa niihin kohdistuvaa pyyntiä hillitsemällä edesauttaisi koko Itämeren lohen tulevaisuutta sekä siten myös mielekkään (joki- ja meri-) kalastuksen jatkuvuutta. Sen lisäksi, että suuret lohet tuottavat enemmän poikasia, niin suurten lohien osuus koko populaatiossa korreloi positiivisesti koko lohikannan geneettisen monimuotoisuuden kanssa, mikä ylläpitää lajin elinkelpoisuutta muuttuvassa ympäristössä. Useamman merivuoden jälkeen suurikokoisina kudulle palaavat lohet kantavat geenimuotoa, joka saa myös niiden poikaset todennäköisemmin palaamaan kudulle samoin suurikokoisina (Barson ym. 2015).
+
+Aikaistetun pyynnin saaliissa 2018 rasvaevällisiä villejä lohia oli jopa 77–81 % saaliista. Vuonna 2017 rasvaevällisiä yksilöitä oli vastaavasti aikaistuksen aikaisessa saaliissa jopa 83–87 %. Luontaisen elinkierron läpikäyneet kalat ovat elintärkeitä. Kalastuspainetta tulisikin näin siirtää nykyistä myöhemmäksi, jolloin istutettujen, pyydettäväksi tarkoitettujen lohien määrä merisaaliissa kasvaa, ja enemmän luonnonkalaa pääsee nousemaan kutujokiin. Istutettavien kalojen laadun ja siten istutusten tuloksellisuuden heikennyttyä viime vuosina, on erityisen tärkeää suojella luonnonvaraista villiä lohta (Vainikka ym. 2010). Aikaistettu kalastus ei selitä pudonneita nousukalamääriä, koska tuon jakson aikainen kokonaissaalismäärä on ollut rajallinen (3250–6800 lohta vuosina 2017–2018, kalastusta koko Pohjanlahdella, ml. terminaalialueet). Raportoimattoman kalastuksen lisääntyminen Itämerellä kansainvälisen merentutkimusneuvoston mukaan (ICES 2018) sekä kestämättömän suuret kalastuskiintiöt eivät edesauta tilannetta, jossa lohen nousumäärät Itämeren lohen tärkeimpään kutujokeen Tornionjokeen ovat vaarallisesti jääneet alle ns. kutukantatavoitteen. Tarvitaan siis muitakin toimenpiteitä kuin ainoastaan aikaistetusta pyynnistä luopuminen. Haitalliseksi osoittautuneesta kalastuskauden aikaistamisesta tulisi nyt siis luopua, mutta samalla ottaa käyttöön Ministeri Hemilän asetuksen aikaiset (258/1996) aikarajat rannikkokalastuksen aloittamiselle. Vuoden 1996 lohenkalastuksen aikarajoitukset olivat merkittävästi edesauttamassa Tornionjoen lohta elpymisen tielle (esim. Romakkaniemi ym. 2003). Samat rajoitukset myös mm. kasvattivat 3– 5 merivuoden lohien määriä Simojoessa merkitsevästi (Jokikokko & Jutila 2005). Nyt samoja toimenpiteitä tarvitaan pysäyttämään lohen mahdollinen laskusuhdanne, joka ei näytä rajoittuvan vain huonoihin nousijamääriin vaan myös poikastiheyksiin ja samanaikaisesti aikaansaatuun kalastuskuolleisuuden kohdentumiseen isoihin villeihin yksilöihin. Myös itse Tornionjoen kalastuksen aloittamisajankohtaa voidaan miettiä saman aikaisesti, kun lohen kaupallisen kalastuksen aikarajoja muutetaan. Jos kalastuksen aikarajoitusten muuttamisen ei voida arvioida turvaavan merkittävästi lisää kalaa kutujokiin, tulee vakavasti harkita myös mahdollisen ylämitan käyttöönottoa osana lohen suojelutoimenpiteitä. Tämä turvaisi myös geneettisen monimuotoisuuden kannalta tärkeiden suurikokoisten yksilöiden mahdollisuuden nousta kutujokiin. Arvioitaessa ylämitan soveltamista meri- ja jokikalastukseen tulee hyvin huomioida kaikki se tutkimustieto, mikä tiedetään Itämeren lohen vapauttamisen jälkeisestä kuolleisuudesta (esim. Havn ym. 2015, Jensen ym. 2010). Vuosina 2005–2007 kaupallisessa lohenkalastuksessa oli osittain käytössä 85 cm:n ylämitta rasvaevälliselle lohelle (ns. ”Korkeaojan asetus”). Tämä mahdollisti tuhansien suurikokoisten lohien vapauttamisen. Tutkimusten mukaan suurin osa lohista selvisi rysästä vapautuksesta, eikä useamman kerran rysästä vapauttaminen merkittävästi lisännyt kuolleisuutta (esim. Siira ym. 2006). Biologisesta näkökulmasta suurten kalojen vapauttamisen voidaan katsoa olevan pienempi uhka lohen tulevaisuudelle, kuin niiden ottaminen saaliiksi.
+
+Lohen kaupallisen kalastuksen kiintiön käyttämättä jättäminen osin Suomen neuvottelutavoite sekä virallinen kanta syksyn 2018 kalastuskomission kokoukseen oli saada aikaan päätös tieteellisen neuvonannon mukaisesta tai suuntaisesta kestävästä kalastuskiintiöstä kalastuskaudelle 2019. On syytä selvittää mahdollisuuksia jättää kalastamatta Suomen kiintiöstä EU:n kalastuskomissiossa hyväksytyn lohen ylikalastuksen laskennallinen osuus. Se olisi toimenpide, jolla merkittävästi edesauttaisimme lohijokiemme kantojen elinvoimaisuuden säilymistä sekä kalastuksen edellytyksiä tulevaisuudessa.
+
+Itämeren lohen kokonaiskiintiö vuodelle 2019 on noin 91 130 lohta. Tämä on 40 % suurempi kuin tieteellisen neuvonannon mukainen kestävä taso. Suomen osuus tästä kiintiöstä on noin 23 550 lohta. Jos Suomi noudattaisi vuonna 2019 ICES:n tieteellisen neuvonannon mukaista suositusta noin 65 000 lohen kiintiöstä, josta Suomen osuus on vajaa 16 800 lohta, tarkoittaisi tämä noin 6 800 lohta pienempää, kestävää kiintiöitä. Laskennallisesti se vastaavasti tarkoittaisi vuoden 2017 lohen tuottajahinnoilla (6,35 €/kg, keskipaino 5 kg) laskettuna yhteensä noin 215 000 euron ansionmenetyksiä rannikkokalastuksessa. Vuoden 2017 lohen kalastuksen käyttöoikeus jaettiin 202 kalastajalle. Ansionmenetys kalastajaa kohden olisi laskennallisesti ja keskimäärin alle 1 100 €. Ehdotamme, että maa- ja metsätalousministeriö selvittää mahdollisuuksia pienentää lohen kalastuskiintiötä rannikkokalastuksessa osana lohen suojelua. Lisäksi tulee avoimesti selvittää mahdollisuuksia kompensoida kalastuksen kestävyyttä parantavasta toimenpiteestä ja saaliin pienenemisestä johtuva ansionmenetys kalastajille täysimääräisenä (esimerkiksi Euroopan meri- ja kalatalousrahastosta). Pienemmät kiintiöt ovat sijoitus niin lohen kuin kalastajien tulevaisuuteen, joiden kerrannaisvaikutus ja ’takaisinmaksu’ parantuvan luonnonlisääntymisen ja poikasmäärien kautta olisi todennettavissa. Rannikkokalastuksen kiintiön pienentäminen ja kalan päästäminen enenemissä määrin jokiin, olisi myös järkevää kansantaloudellisesti ja tukisi Suomen sinisen talouden strategian tavoitteita lisäarvon aikaansaamiseksi perinteisten vesiluonnonvarojemme käytöstä.
+
+Selvitys lohilaskurin käyttömahdollisuuksista kalastuksensäätelyssä Tornionjoella olisi tarpeen aloittaa lisäksi selvitys siitä, kuinka jokeen nousevien lohien määrän seuraamista voitaisiin mahdollisesti paremmin hyödyntää jopa kalastuskauden aikaisissa säätelytoimenpiteissä. Muun muassa kalastuksen aloittaminen voitaisiin jatkossa säätää nousukalamäärien mukaan siten, että riittävän määrän lohia annetaan nousta jokeen (josta voitaisiin mallintaa koko kauden nousumäärät), ennen kuin kalastus aloitettaisiin. Tämä osaltaan edesauttaisi Tornionjoen kutukantatavoitteen täyttymistä. Tarvittaessa kalastusjärjestelyihin tulee jatkossa pystyä puuttumaan, jos lohia ei nouse Tornionjokeen riittävästi. Maailmalta löytyy esimerkkejä siitä, että lohenkalastus voidaan keskeyttää kokonaan, jos näyttää siltä, että kaloja ei nouse jokiin tarpeeksi (esim. Niva ym. 2016).
+
+Yhteenveto Osana harkintaa lohenkalastuksen järjestelyiden muuttamisesta, allekirjoittaneet tahot esittävät huomioitavan seuraavat ehdotukset: -
+
+-
+
+-
+
+Vuonna 2017 alkaneesta kalastuksen aikaistamiskokeilusta luovutaan ja palautetaan voimaan ns. ”Hemilän asetuksen” aikaiset kalastuksen aikarajat. Myös jokikalastuksen aloittamisajankohtaa voidaan tarpeen mukaan tarkastella samanaikaisesti. Jos kalastuksen aloittamisajankohdan säätelyssä ei löydy riittävää kunnianhimoa, tulee vähintäänkin rasvaevälliselle lohelle asettaa ylämitta, joka suojelee suurikokoisia yksilöitä. Jos ”Hemilän asetuksen” mukaiset kalastuksen aikarajat palautetaan, voidaan ylämitta ottaa harkinnanvaraiseksi tai suositeltavaksi toimenpiteeksi kaikessa kalastuksessa. Suomen olisi selvitettävä mahdollisuuksia pienentää lohen kalastuskiintiöitä omassa rannikkokalastuksessamme ja mahdollisuuksia kompensoida kaupallisille lohenkalastajille tästä aiheutuneet ansionmenetykset.
+
+-
+
+Aloitetaan selvitys Tornionjoen seurattavien nousukalamäärien kalastuksensäätelyssä saman kalastuskauden aikana.
+
+Seuraavat tahot ja henkilöt ovat tämän esityksen takana: Suomen Kalastusopaskilta ry Suomen luonnonsuojeluliitto Suomen Vapaa-ajankalastajien Keskusjärjestö Ry WWF Maailman Luonnon Säätiö (Suomen Rahasto) K-ryhmä Simojoen Lohiranta Pääkkönen Jasper Kuikka Sakari, Kalastusbiologian professori Lehtonen Hannu, Kalataloustieteen emeritusprofessori Primmer Craig, Evoluutiogenetiikan akatemiaprofessori Vainikka Anssi, Evolutiivisen akvaattisen biologian professori
+
+Helsinki 18.2.2019
+
+hyödyntämisestä
+
+Viitteet Barson, N. J., Aykanat, T., Hindar, K., Baranski, M., Bolstad, G. H., Fiske, P., Céleste, J., Jensen, A. J., Johnston, S. E., Karlsson, S., Kent, M., Moen, T., Niemelä, E., Nome, T., Næsje, T. F., Orell, P., Romakkaniemi, A., Sægrov, H., Urdal, K., Erkinaro, J., Lien, S. & Primmer, C. R. 2015. Sexdependent dominance at a single locus maintains variation in age at maturity in salmon. Nature, 528(7485), 405–408. Havn, T. B., Uglem, Solem, Ø., Cooke, S. J., Whoriskey, F. G. & Thorstad, E. B. 2015. The effect of catch-andrelease angling at high water temperatures on behaviour and survival of Atlantic salmon Salmo salar during spawning migration. Journal of Fish Biology 87: 342–359. ICES Advice on fishing opportunities, catch and effort. Baltic Sea Ecoregion. 2018. Atlantic salmon (Salmo salar) in subdivisions 22-31 (Baltic Sea, excluding the Gulf of Finland). Jensen, J. L. A., Halttunen, E., Thorstad, E. B., Næsje, T. F. & Rikardsen, A. H. 2010. Does catch-and-release angling alter the migratory behaviour of Atlantic salmon? Fisheries research 106: 550–554. Jokikokko, E. & Jutila, E. 2005. Effect of fishing regulation on the occurrence of repeat spawners and age distribution of Atlantic salmon in a northern Baltic river. Fisheries Management and Ecology 12: 341–347. Niva, T., Kanniainen, T., Orell, P. & Erkinaro, J. 2016. Lohenkalastuksen kantakohtaiset säätelytoimenpiteet, kirjallisuuskatsaus. Luonnonvara- ja biotalouden tutkimus 47/2016. Romakkaniemi, A., Perä, I., Karlsson, L. Jutila, E., Carlsson, U. & Pakarinen, T. 2003. Development of wild Atlantic salmon stocks in the rivers of the northern Baltic Sea in response to management measures. ICES Journal of Marine Science 60: 329–342. Siira, A., Suuronen, P., Ikonen, E. & Erkinaro, J. 2006. Survival of Atlantic salmon captured in and released from a commercial trap-net: Potential for selective harvesting of stocked salmon. Fisheries research 80: 280-294. Vainikka, A., Kallio-Nyberg, I. Heino, M. & Koljonen, M-L. 2010. Divergent trends in life-history traits between Atlantic salmon Salmo salar of wild and hatchery origin in the Baltic Sea. Journal of Fish Biology 76: 622–640.
+
+---
+
 ### WWF Suomen lausunto hallituksen esityksestä eduskunnalle laiksi kalastuslain muuttamisesta
 
 Julkaistu: 7.2.2019  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/9/i/s/6pjcatgcpb34rju87qbdn2/mmv-he-309_2018-laiksi-kalastuslain-muuttamisesta-070219_wwf-suomi.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -965,7 +1180,6 @@ WWF on maailmanlaajuinen, aikaansaava ympäristöjärjestö, joka innostaa ihmis
 ### WWF Suomen lausunto komission ehdotuksesta Euroopan parlamentin ja neuvoston asetukseksi kestävää sijoittamista helpottavasta kehyksestä
 
 Julkaistu: 5.2.2019  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/7/8/i/n0t5nh9vu4cheteehnm6kd/talousvaliokunta-wwf-suomi-kommentit-u-jatkokirjelma-kestavan-rahoituksen-taksonomia.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -996,11 +1210,18 @@ Image: World Economic Forum
 
 ## Tammikuu 2019
 
+### Valitus vesiluvan määräaikojen jatkamisesta
+
+Julkaistu: 28.1.2019  
+Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
+Linkki: https://wwf.fi/app/uploads/3/3/n/831txqg79653mrm5l66oh7/wwf-suomen-ja-suomen-luonnonsuojeluliiton-keski-suomen-piirin-valitus-vaasan-hallinto-oikeudelle-vesiluvan-maaraaikojen-jatkamisesta.pdf
+
+---
+
 ### WWF Suomen lausunto asiasta”E 100/2018 vp Valtioneuvoston selvitys: EU:n strateginen pitkän aikavälin visio vauraasta, modernista, kilpailukykyisestä ja ilmastoneutraalista taloudesta”
 
 Julkaistu: 24.1.2019  
 Aiheet: Ilmastonmuutos  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/q/r/esjrrq4dz7npp93s15rhxp/wwf-lausunto-maa-ja-metsatalousvaliokunta-eu-2050-ilmastostrategia-tammikuu2019.pdf
 
 WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
@@ -1035,7 +1256,6 @@ Jussi Nikula ohjelmapäällikkö
 
 Julkaistu: 23.1.2019  
 Aiheet: Suomen uhanalaiset kalat, Suomi, Virtavedet  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/b/q/p/cbwad8nfskyxredcdi6b3a/wwf-suomi_lausunto_nieria_kuolimo.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1110,7 +1330,6 @@ Manu Vihtonen Virtavesiasiantuntija
 
 Julkaistu: 10.1.2019  
 Aiheet: Ahma, Luonnon köyhtyminen, Salametsästys, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/l/k/z/7ezyhqfccrhidesvnzcx22d/wwf-lausunto-mmm-ahma-190110-valmis.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1176,7 +1395,6 @@ Petteri Tolvanen ohjelmapäällikkö
 
 Julkaistu: 10.1.2019  
 Aiheet: Ahma, Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/app/uploads/h/l/m/ull5wfjdthpefeg4tllwhwg/wwf-lausunto-mmv-riistavahinkolaki-190110.pdf
 
 WWF Lintulahdenkatu 10 00500 HELSINKI
@@ -1196,5 +1414,55 @@ Jari Luukkonen suojelujohtaja
 Petteri Tolvanen ohjelmapäällikkö
 
 Persson, J., Rauset, G. R. and Chapron, G. (2015): Paying for an Endangered Predator Leads to Population Recovery. CONSERVATION LETTERS, 8: 345–350. doi:10.1111/conl.12171
+
+---
+
+### WWF Suomen kommentit U-jatkokirjelmäluonnoksesta koskien kestävän rahoituksen taksonomiaa (16.11.2018)
+
+Julkaistu: 8.1.2019  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/h/x/j/etttbnndujlbtvqk63yvcnd/wwf-suomen-kommentit-u-jatkokirjelmaeluonnoksesta-koskien-kestaevaen-rahoituksen-taksonomiaa.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Ympäristöjaosto
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+16.11.2018
+
+Viite: U-jatkokirjelmäluonnos koskien kestävän rahoituksen taksonomiaa Asia: WWF Suomen kommentit EU oli avainasemassa kun kestävän kehityksen Agenda 2030 -toimintaohjelma ja Pariisin ilmastosopimus hyväksyttiin. EU:lla on nyt myös vastuu näiden sopimusten tuloksellisesta toimeenpanosta. Nämä kansainväliset sitoumukset tulee ottaa huomioon kaikessa poliittisessa päätöksenteossa. Myös finanssialaa koskevan sääntelyn pitää olla linjassa kiristyvän ilmastopolitiikan ja kestävän kehityksen tavoitteiden kanssa. Institutionaaliset sijoittajat ja varainhoitajat voivat omilla toimillaan merkittävästi jouduttaa vähähiiliseen infrastruktuuriin siirtymistä. EU:n jäsenmaat voivat nyt tukea ja vahvistaa EU:n kestävän rahoituksen toimintasuunnitelmaa seuranneita lainsäädäntöehdotuksia ja huolehtia siitä, että niitä käytetään investointien ohjaamiseksi kestävämpään suuntaan. Kestävyysluokitteluasetukseen tulee täydentää ympäristön kannalta kestävien (vihreiden) taloudellisten toimintojen lisäksi myös luokitus haitallisille (ruskeille) taloudellisille toimille. U-jatkokirjelmäluonnoksessa todetaan Suomen yleiseksi kannaksi seuraavaa: Suomi pitää järkevänä, että taksonomia rakennetaan vihreätä tukevasti, eikä niin kutsuttua ruskeaa teollisuutta rankaisevasti, millä voisi olla arvaamattomia ja hallitsemattomia vaikutuksia reaalitalouteen. Niin kauan kuin ympäristöystävällisen tuotannon kapasiteetti ei pysty korvaamaan täysin ruskeaa tuotantoa, ruskean tuotannon rankaisemisella voisi olla merkittäviä vaikutuksia kansalaisten elintasoon ja tätä kautta myös yhteiskuntarauhaan. Emme jaa luonnoksessa esitettyä pelkoa arvaamattomista vaikutuksista reaalitalouteen, kansalaisten elintasoon ja yhteiskuntarauhaan. Ruskeassa taksonomiassa ei myöskään ole kyse rankaisemisesta, niin kuin luonnoksessa annetaan ymmärtää. Ilmastonmuutoksen torjumiseksi on välttämätöntä tunnistaa ympäristölle haitallinen toiminta ja tiedostaa tällaisiin sijoituskohteisiin liittyvät riskit. Riskien tunnistaminen ja tiedostaminen on kaiken sijoitustoiminnan olennainen osa. On ristiriitaista ja virheellistä ajatella, että markkinavakaudelle voisi olla hyötyä siitä, että ilmastolle ja koko maapallon tulevaisuudelle haitalliset ympäristö- ja kestävyysriskit jätetään luokittelematta. Ehdotammekin, että yllä olevan tekstin sijaan Suomen yleiskantaan sisältyy seuraavaa: Kestävyysluokitteluasetukseen tulee täydentää ympäristön kannalta kestävien (vihreiden) taloudellisten toimintojen lisäksi myös luokitus haitallisille (ruskeille) taloudellisille toimille. Toiminta olisi vihreää eli ympäristön kannalta kestävää taloudellista toimintaa, jos se merkittävästi myötävaikuttaa määriteltyihin tavoitteisiin ja täyttää asetetut kriteerit. Ruskea luokitus voidaan asetuksessa toteuttaa peilaamalla vihreän luokituksen tavoitteisiin ja kriteereihin. Kestämätöntä eli ruskeaa on toiminta, joka olennaisesti vahingoittaa kestäviksi määriteltyjä ympäristötavoitteita. Kestävyysluokitus ei tee ruskeasta toiminnasta kiellettyä, vaan tuo läpinäkyvyyttä toiminnan luonteeseen.
+
+On tärkeää ymmärtää, että ruskeassa taksonomiassa ei ole kyse rankaisemisesta, eikä vihreä taksonomia ole kannustin. Tarkoituksena on luoda yhteinen kieli niin, että voidaan tuottaa vertailukelpoista tietoa. Taksonomia on ensimmäisessä vaiheessa konkreettinen luettelo aloista ja taloudellisista toimista, joista teknisten seulontakriteerien avulla määritetään, ovatko ne vihreitä vai ruskeita. Taksonomian sääntelyyn eivät kuulu kannustimet tai rankaisut, tämä edellyttäisi erillistä sääntelyä tai muita politiikkatoimia. Täydentämällä kestävyysluokitteluasetusta ruskealla taksonomialla on mahdollista mitata yritysten vihreitä ja ruskeita tuloja. Näinhän on tehty jo vuosia: investointipäätösten tueksi kehitettyjä työkaluja tarjoavat yritykset arvioivat yritysten vihreitä ja ruskeita tuloja ja myyvät nämä tiedot sijoittajille. Jatkossa tähän olisi käytössä yksi yhteinen EU-tason luokittelu, sen sijaan, että käytettäisiin monia erilaisia taksonomioita. On myös tärkeää huomioida, että maailman suurin monenkeskinen kehityspankki Euroopan investointipankki (EIB) on todennut, että ruskean taksonomian määrittely on yhtä tärkeää kuin vihreänkin. Tämä on merkittävää, koska EIB:n oma taksonomia on yksi niistä kahdesta, jonka varaan EU:n yhteinen luokittelu tulee rakentumaan.
+
+Maailman Luonnon Säätiö (WWF) Suomen rahasto
+
+Jari Luukkonen Suojelujohtaja
+
+Mia Rahunen Kestävän kehityksen asiantuntija
+
+---
+
+### Suomen kommentit E-kirjeluonnoksesta koskien EU:n pitkän aikavälin ilmastostrategiaa (3.12.2018)
+
+Julkaistu: 8.1.2019  
+Aiheet: Ilmastonmuutos  
+Linkki: https://wwf.fi/app/uploads/c/k/c/6aellkrbfxdet4axz4q6eda/wwf-suomen-kommentit-e-kirjeluonnoksesta-koskien-eun-pitkaen-aikavaelin-ilmastostrategiaa.pdf
+
+WWF Suomi Lintulahdenkatu 10 0000500 HELSINKI
+
+Ympäristöjaosto
+
+Puh (09) 7740 100 wwf.fi panda.org
+
+3.12.2018
+
+Viite: E-kirjeluonnos EU:n pitkän aikavälin ilmastostrategiasta Asia: WWF Suomen kommentit WWF Suomi esittää, että Suomi ilmaisisi kannassaan vieläkin vahvemmin 1,5 asteen tavoitteen asettamisen tärkeyden. Pitkän tähtäimen ilmastostrategian avulla EU:sta tulee ensimmäinen merkittävä toimija, joka vastaa tutkijoiden varoituksiin ja reagoi aktiivisesti Pariisin sopimuksen täytäntöönpanemiseksi. EU:n on kuitenkin saavutettava nollapäästöt paljon nopeammin kuin komission ehdotuksessa esitetään, jo vuoteen 2040 mennessä. WWF Suomi esittääkin, että Suomi tavoittelisi kunnianhimoisempaa hiilineutraaliustavoitetta EU-tasolla. Kuten ehdotuksessa Suomen kannaksi todetaan, kaikki ehdotetut skenaariot eivät riitä kunnianhimoltaan vastaamaan 1,5 asteen tavoitetta. Mielestämme vain kahdeksas skenaario on edistämiskelpoinen. Bioenergian hyödyntäminen yhdistettynä yhä testaamattomaan hiilidioksidin talteenotto- ja varastointiteknologiaan sisältää suuria riskejä. Parempi ja turvallisempi lähestymistapa onkin jo olemassa olevien tekniikoiden nopea käyttöönotto: energiatehokkuus, uusiutuva energia, kiertotalouden periaatteet ja luonnolliseen hiilidioksidin poistamiseen perustuvat ratkaisut, kuten metsien, kosteikkojen ja muiden ekosysteemien suojelu ja ennallistaminen. Lisäksi ehdotuksessa Suomen kannaksi mainitut sektorien väliset joustot ovat haitallisia ilmastopolitiikan kannalta, koska fossiilisten polttoaineiden päästöt eivät ole yhteismitallisia hiilinielujen kanssa, joten joustojen määrää tulisi vähentää. Pitkän aikavälin tavoite on välttämätön, mutta kuten lokakuussa julkaistussa IPCC:n raportissa selvitetään, ripeä lyhyen aikavälin toiminta on välttämätöntä. Jotta tämä nyt julkaistu komission strategia olisi paras mahdollinen ja saavuttaisi tavoitteensa, EU:n on myös päivitettävä vuoden 2030 tavoitteensa 1,5 asteen ja 2040-nettopäästötavoitteen mukaisesti ja muokattava sääntelykehys niin, että se kannustaa vähähiiliseen talouteen siirtymistä.
+
+Maailman Luonnon Säätiö (WWF) Suomen rahasto
+
+Jari Luukkonen Suojelujohtaja
+
+Mia Rahunen Ilmastoasiantuntija
 
 ---

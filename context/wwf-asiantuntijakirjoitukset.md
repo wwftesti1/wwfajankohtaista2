@@ -1,7 +1,7 @@
 # WWF Suomi – Asiantuntijakirjoitus 2000–
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Asiantuntijakirjoitus). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 151 (uusin 15.7.2026).
+Kohteita: 158 (uusin 15.7.2026).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
 
 ## Sisällysluettelo
@@ -14,6 +14,8 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 **2025**
 
 - 15.12.2025 – WWF:n kirje kansallisen ennallistamissuunnitelman valmistelun ohjausryhmälle
+- 9.7.2025 – Mai Suomisen mielipidekirjoitus Helsingin Sanomissa 16.6.
+- 26.6.2025 – WWF Suomen avoin kirje metsäyhtiöille
 
 **2024**
 
@@ -61,6 +63,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 
 **2021**
 
+- 27.9.2021 – Uhanalaisten lajien metsästys ei ole enää kestävää
 - 27.9.2021 – Päättäjien on pidettävä kiinni lupauksistaan luonnolle – valtioiden on puolitettava tuotannon ja kulutuksen luonnolle aiheuttama jalanjälki
 - 18.9.2021 – WWF:n ja Metsähallituksen määritelmät luonnonmetsästä poikkeavat toisistaan
 - 28.7.2021 – Kuntien pitää huolehtia luonnosta
@@ -88,6 +91,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 5.12.2019 – Ikimetsä on arvokkainta luonnonperintöä
 - 9.11.2019 – Kurtturuusu on vakava uhka saaristoluonnolle
 - 16.8.2019 – Kurtturuusu uhkaa saaristoluontoa
+- 9.7.2019 – Luonnon monimuotoisuus on nostettava ilmastopolitiikan rinnalle kehityspolitiikassa – näin Suomi olisi kokoaan suurempi maailmalla
 - 19.6.2019 – Hallitus vaikuttaa hakkuisiin välillisesti
 - 13.2.2019 – Valtioneuvoston korjattava metsästrategian ympäristöpuutteet
 - 16.1.2019 – Suomen on kannettava vastuunsa luonnon monimuotoisuuden heikkenemisestä
@@ -165,6 +169,8 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 2.12.2014 – Utvidgningen av Skärgårdhavets nationalpark skapar mera möjligheter
 - 9.10.2014 – Haitalliset vieraslajit on torjuttava
 - 9.10.2014 – Saimaannorppien suojelua on tehostettava viipymättä
+- 25.9.2014 – Bioenergian tulee olla osa ratkaisua – ei ongelmaa
+- 26.8.2014 – Puhtaan teknologian mallimaa kaipaa kasvojen pesua
 - 8.5.2014 – Monimuotoisuuden turvaaminen edellyttää luonnonlaiduntamista
 - 6.5.2014 – Konstsamfundet måste bära ansvar
 - 6.5.2014 – Vieraslajien torjunta on välttämätöntä
@@ -184,6 +190,7 @@ Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut.
 - 1.10.2013 – Aurinkopaneelit ja lounassirkat – toimisto tulevaisuudessa?
 - 30.9.2013 – Itämeren suojelutoimien vastuunjakoa selkeytettävä
 - 23.9.2013 – Luonnon monimuotoisuutta metsän ja niityn välimuodoissa
+- 25.8.2013 – Ilmastolakia ei kannata vieroksua
 - 22.8.2013 – Haitalliset vieraslajit kuriin yhteistyöllä
 - 22.8.2013 – Vieraslajien torjunta vaatii nopeita toimia
 - 24.6.2013 – Tehometsätalous aiheuttaa uhanalaisuutta
@@ -318,6 +325,29 @@ Eri teemaryhmien tavoitteita koskevat tiedot viedään arvioitavaksi yhteisenä 
 Hallitus on asettanut tiukat reunaehdot kansallisen ennallistamissuunnitelman valmistelulle. Julkisuudessakin on kerrottu Suomen hallituksen tavoitteesta heikentää ennallistamisasetuksen toimeenpanoa. Valmistelutyöstä kantautuu meille biodiversiteettityöryhmän jäsenille monilta tahoilta huolestuttavia tietoja. Huoli liittyy ennallistamisasetuksen erityisesti asetettujen reunaehtojen tuottamaan ennakoivaan sensuuriin, joka estää teemaryhmiä saamasta/ottamasta käsittelyynsä kaikkia olennaisia aloitteita. WWF Suomi on seurannut huolestuneena hankeikkunaan tallennettujen kokousmuistioiden ja osallistamistilaisuuksien sisältöjä: Toistaiseksi on saatavilla hyvin niukasti tietoa konkreettisista tavoitteista. WWF Suomi on laatinut politiikkasuositukset kansallisen ennallistamissuunnitelman laatimiseksi. Toivomme näiden herättävän laajasti yhteiskunnallista keskustelua 2025_ennallistamisenpolitiikkasuositukset_wwf_suomi.pdf Toivomme että edellä olevat kysymykset ja ohjausryhmän niihin antamat vastaukset edistävät vaikuttavan kansallisen ennallistamissuunnitelman syntymistä suomalaisten ja suomalaisen luonnon hyväksi. Kunnioittaen
 
 Elina Erkkilä Suojelujohtaja WWF Suomi 050 5224540 (elina.erkkila@wwf.fi)
+
+---
+
+### Mai Suomisen mielipidekirjoitus Helsingin Sanomissa 16.6.
+
+Julkaistu: 9.7.2025  
+Linkki: https://www.hs.fi/mielipide/art-2000011291280.html
+
+_(Ulkoinen linkki tai muu kuin tekstitiedosto – sisältöä ei poimittu.)_
+
+---
+
+### WWF Suomen avoin kirje metsäyhtiöille
+
+Julkaistu: 26.6.2025  
+Aiheet: Suomen metsät, Luonnon köyhtyminen, Metsäkato, Suomi  
+Linkki: https://wwf.fi/app/uploads/a/t/2/666i2e4pfwnjk2edk9qy6e/avoinkirje_vanhojen_metsien_suojelu.pdf
+
+25.6.2025 Massimo Reynaudo, UPM Kymmene Hans Sohlström, Stora Enso Jussi Vanhanen, Metsä Group Tiedoksi arvoisat ministerit Petteri Orpo, Sari Multala ja Sari Essayah WWF Suomen avoin kirje metsäyhtiöille Suomen hallitus on siirtänyt painavan vastuun metsäalan yrityksille WWF esittää syvän huolensa Suomen suojelemattomien valtionmaiden vanhojen metsien tulevaisuudesta ja toivoo teiltä aktiivisuutta näiden suojelemiseksi. Vastuu vanhojen metsien rajaamisesta hakkuiden ulkopuolelle on metsäteollisuudella puunostajana. Petteri Orpon hallitusohjelman mukaan vanhat metsät piti suojella. Toisin kävi: hallitus päätti hallituksen omista vanhan metsän kriteereistä keväällä 2025. Nämä kriteerit valitettavasti eivät vastaa Euroopan komission toimeksiantoa, eikä niillä ole tiedeyhteisön tukea. Orpon hallituksen kriteerejä ei voida pitää kansallisina kriteereinä, eikä niitä voida käyttää eri EU-lainsäädäntöjen toimeenpanossa Suomessa. Lausuntokierroksella WWF esitti kriteerien palauttamista valmisteluun. Keväällä tehty tieteenvastainen kriteeripäätös altistaa arvokkaita vanhoja metsiä hakkuille niin kuin kesäkuussa on uutisoitu. Metsähallituksen toteuttamat vanhan metsän hakkuut osoittavat, että Suomen valtio on kääntämässä selkänsä vanhoille metsille. WWF:n Suomen ja Ruotsin vanhoja metsiä koskeva raportti avaa tilanteen isoa kuvaa. Odotamme nyt teiltä vastuunkantoa ja toivomme, että edustamanne metsäyhtiöt voisivat aktivoitua pyytämään Petteri Orpon hallitusta ottamaan vanhojen metsien kriteerit uudelleen harkintaan ja tekemään tieteenmukaisen päätöksen. Hallituksen määrittämät tieteenvastaiset vanhojen metsien kriteerit ovat sekä luontoriski että mainehaitta suomalaiselle metsäteollisuudelle. Vanhat metsät ovat arvokkainta luontoamme ja niillä on keskeinen merkitys luontokadon pysäyttämisessä. Jos vanhoja metsiä edelleen hakataan, julkinen kritiikki kohdistuu tällaista puuta ostaviin metsäalan yrityksiin. WWF:n näkemyksen mukaan olisi tavoiteltavaa luoda metsäsektorille selkeä toimintaympäristö vanhojen metsien suojelun osalta. Pohdimme mielellämme yhdessä ratkaisua vanhojen metsien suojelemiseksi. Ystävällisin terveisin
+
+Jari Luukkonen, Pääsihteeri, WWF Suomi
+
+Elina Erkkilä Suojelujohtaja, WWF Suomi
 
 ---
 
@@ -696,6 +726,44 @@ _(Ulkoinen linkki tai muu kuin tekstitiedosto – sisältöä ei poimittu.)_
 
 ## 2021
 
+### Uhanalaisten lajien metsästys ei ole enää kestävää
+
+Julkaistu: 27.9.2021  
+Aiheet: Suomi, Luonnon köyhtyminen, Suomen metsät  
+Linkki: https://wwf.fi/uutiset/2021/09/uhanalaisten-lajien-metsastys-ei-ole-enaa-kestavaa/
+
+**WWF Suomen pääsihteeri Liisa Rohwederin, BirdLife Suomen toiminnanjohtaja Aki Arkiomaan sekä uhalaisten riistalajien metsästyksen kieltämiseen tähtäävän kansalaisaloitteen vastuuhenkilöiden Iikka Kiven ja Petri Lampilan mielipidekirjoitus julkaistiin Maaseudun tulevaisuudessa 27.9.2021.**
+
+Aleksi Lehikoinen ja Toni Laaksonen esittivät kirjoituksessaan (MT 20.9.), että uhanalaisarviointia ei ole mielekästä käyttää metsästyssääntelyn pohjana, koska arviointikriteerit ovat jäykät ja arviointi tehdään harvoin. Olemme samaa mieltä, että riistalajien arviointi voitaisiin halutessa tehdä useammin kuin nykyään.
+
+Kirjoitus liittyy eduskunnan käsittelyyn etenevään kansalaisaloitteeseen, jossa esitetään metsästyslain 37 § lisättäväksi kohta, joka velvoittaisi kieltämään uhanalaisen riistalajin metsästyksen. Suomessa saa rajoituksetta metsästää vesilintulajeja, jotka on jopa kolmesti peräkkäin arvioitu uhanalaiseksi, joten nykyinen järjestelmä ei toimi. Tämän muuttamiseen kansalaisaloite tähtää.
+
+Kansalaisaloitteen luonteeseen kuuluu, että sen avulla nostetaan eduskunnan käsittelyyn laajaa huolta herättävä asia ja esitykseen voi tulla muutoksia käsittelyn aikana. Aloitteen perusajatuksen säilyttävä muutos voisi olla, että vaikka uhanalaiset riistalajit lähtökohtaisesti rauhoitettaisiin, perustellut poikkeukset voitaisiin sallia.
+
+Esimerkiksi tällä hetkellä uhanalaisen pyyn metsästys voitaisiin sallia alueellisesti, jos tutkimus osoittaa metsästyksen kestäväksi. Uhanalaisuuden ohella metsästyksen kestävyyttä pitää arvioida myös metsästyslain muiden rauhoittamista koskevien normien perusteella.
+
+Kyseisen pykälän alkuosa ei muuttuisi: se mahdollistaa uhanalaisuusluokituksesta riippumatta rauhoittamaan riistaeläinlajin määräajaksi tai toistaiseksi, jos riistaeläimen kannan säilymisen turvaaminen sitä edellyttää. Laki on ollut voimassa vuosikymmeniä, mutta tätä mahdollisuutta on käytetty hyvin harvoin. Lakia on sen vuoksi syytä täsmentää.
+
+Nopeasti taantuvilla lajeilla tarvitaan kaikkia keinoja suunnan kääntämiseksi: niin elinympäristöjen parantamista, vieraspetojen vähentämistä, kansainvälistä yhteistyötä kuin metsästyskuolleisuuden rajoittamista.
+
+Kansalaisaloitteen saama laaja kannatus ja keskustelu uhanalaisten vesilintujen metsästämisestä kertovat, että hallinnon tulee reagoida lajien taantumiseen aiempaa herkemmin.
+
+#### Iikka Kivi
+
+#### Petri Lampila
+
+kansalaisaloitteen vastuuhenkilöt
+
+#### Aki Arkiomaa
+
+toiminnanjohtaja, BirdLife Suomi
+
+#### Liisa Rohweder
+
+pääsihteeri, WWF Suomi
+
+---
+
 ### Päättäjien on pidettävä kiinni lupauksistaan luonnolle – valtioiden on puolitettava tuotannon ja kulutuksen luonnolle aiheuttama jalanjälki
 
 Julkaistu: 27.9.2021  
@@ -940,6 +1008,18 @@ Aiheet: Suomi, Luonnon köyhtyminen, Metsäkato, Suomen metsät
 Linkki: https://wwf.fi/app/uploads/4/k/9/8fnhm69n4e0id4xaat1jya/kunttu-p--2019-kurtturuusu-uhkaa-saaristoluontoa--helsingin-sanomat-mielipide-16-8-2019-.png
 
 _(Ulkoinen linkki tai muu kuin tekstitiedosto – sisältöä ei poimittu.)_
+
+---
+
+### Luonnon monimuotoisuus on nostettava ilmastopolitiikan rinnalle kehityspolitiikassa – näin Suomi olisi kokoaan suurempi maailmalla
+
+Julkaistu: 9.7.2019  
+Aiheet: Luonnon köyhtyminen  
+Linkki: https://wwf.fi/app/uploads/1/b/0/qkqv0mt4dbt7xdke91youe/kehityspolitiikka_luonnon_monimuotoisuus_liisa_rohweder.pdf
+
+Luonnon monimuotoisuus on nostettava ilmastopolitiikan rinnalle kehityspolitiikassa – näin Suomi olisi kokoaan suurempi maailmalla High Level Political Forum, 9.7.2019 Liisa Rohweder Pääsihteeri WWF Suomi Osa vuoteen 2030 ulottuvista kestävän kehityksen globaaleista tavoitteista on edennyt suotuisaan suuntaan. Luonnon monimuotoisuuden heikkenemisen pysäyttämiseen sekä ilmastonmuutoksen hillintään liittyvien tavoitteiden toteutumisessa on kuitenkin vielä paljon tehtävää. Epäonnistuminen näiden tavoitteiden toteutumisessa vaarantaa myös useiden muiden kestävän kehityksen tavoitteiden saavuttamismahdollisuudet. Tällaisia ovat esimerkiksi köyhyyden ja nälän poistamiseen, terveyteen ja vesiturvaan, koulutukseen, säälliseen työhön, tasa-arvoisuuteen ja oikeudenmukaisuuteen liittyvät tavoitteet. Osaa näistä arvioidaan kuluvalla viikolla YK:n kestävän kehityksen korkean tason seurantakokouksessa. Tiistaina 8. heinäkuuta alkava seurantakokous on hyvä ajankohta arvioida myös Suomen uutta hallitusohjelmaa luonnon monimuotoisuutta edistävän kehityspolitiikan näkökulmasta. Hallitusohjelma lupaa kunnianhimoisesti Suomen näyttävän esimerkkiä luonnonmonimuotoisuuden suojelussa ja ilmastopolitiikassa. Ohjelmassa onkin useita konkreettisia kirjauksia asioiden huomioimiseksi kansallisesti. Monimuotoisuuden tukemista ei hallitusohjelmassa ole kuitenkaan nivottu ulko- ja kehityspolitiikkaan. Luonnon monimuotoisuus on vahvasti kehityspoliittinen asia, sillä kehittyvissä maissa luonnonvarojen merkitys bruttokansantuotteessa on suuri. Vielä suuremmaksi sen merkitys kasvaa, kun tarkastellaan köyhien yhteisöjen elinkeinoja, joista suurin osa on suoraan riippuvaisia luonnonvaroista. Siten köyhät ihmiset kärsivät myös ensimmäisenä luonnon monimuotoisuuden hupenemisesta. Meidän suomalaisten kulutus ulottuu kauas rajojemme ulkopuolelle. Helsingin yliopiston tekemän tutkimuksen mukaan 93 % Suomessa kulutetun ruuan vaikutuksista luonnon monimuotoisuuteen kohdistuu rajojemme ulkopuolelle. Ruokavalintamme ja muukin kulutuksemme perustuvat suurelta osin kehitysmaiden luonnonvaroihin. Niiden käytöllä on esimerkiksi metsäkadon kautta merkittävä vaikutus luonnon monimuotoisuuteen. Kehitysmaat tarvitsivat myös itse luonnonvarojaan ja monimuotoista luontoa niin perustarpeiden - ruuan ja veden - kuin kehityksen ja hyvinvoinninkin turvaamiseksi. Ympäristön ja luonnon monimuotoisuuden turvaamisen tulee olla kestävän kehityksen perusta, oli kyse sitten perinteisestä tai yksityissektorin kautta toteutettavasta kehitysyhteistyöstä. Kehityksen on
+
+rakennuttava sille, että kaikille pystytään tuottamaan ruokaa, vettä ja hyvinvointia planeettamme asettamissa rajoissa. On tärkeää varmistaa, ettei kestävää kehitystä ohjenuoranaan pitävän hallituksemme ulko- ja kehityspolitiikassa pääse syntymään epäjohdonmukaisuutta. Suomen tulee kehitysyhteistyössään ottaa YK:n kestävän kehityksen ja ilmastonmuutoksen torjumiseen liittyvien tavoitteiden lisäksi huomioon globaalit biodiversiteettisopimukset. Tähän meitä on patistanut myös OECD, joka vuonna 2017 julkaistussa vertaisarviossaan Suomen kehityspolitiikasta suositteli Suomea nostamaan ympäristön ja ilmaston yhtä vahvasti Suomen kehityspolitiikkaan kuin sukupuolten välisen tasa-arvon. Ruotsissa ollaan jo meitä edellä ja luonnon monimuotoisuuden suojelu on noussut kehityspolitiikan keskiöön. Suomen on lisäksi nostettava luonnon monimuotoisuuden suojeluun kohdennettavaa rahoitusosuutta kehitysyhteistyöbudjetissa. Rahoitusosuus on liian pieni, vain pari prosenttia kehitysyhteistyövaroista, ja tämä osuus on viime vuosina laskenut entisestään. Suomen kehityspoliittisia linjauksia laadittaessa luonnon monimuotoisuuden tukeminen on nostettava ulko- ja kehityspolitiikan tavoitteena sille kuuluvaan asemaan, lippulaivaksi ilmastopolitiikan rinnalle. Näin Suomi voi olla kokoaan suurempi kestävän kehityksen toimija maailmalla.
 
 ---
 
@@ -2224,6 +2304,26 @@ Liisa Rohweder pääsihteeri, WWF Suomi
 
 ---
 
+### Bioenergian tulee olla osa ratkaisua – ei ongelmaa
+
+Julkaistu: 25.9.2014  
+Aiheet: Energiatehokkuus, Suomi, Yritykset  
+Linkki: https://www.upmbiofuels.com/fi/ajankohtaista/blogit-ja-tarinat-biopolttoaineista/liisa-rohweder/bioenergian-tulee-olla-osa-ratkaisua-ei-ongelmaa/
+
+_(Ulkoinen linkki tai muu kuin tekstitiedosto – sisältöä ei poimittu.)_
+
+---
+
+### Puhtaan teknologian mallimaa kaipaa kasvojen pesua
+
+Julkaistu: 26.8.2014  
+Aiheet: Energiatehokkuus, Suomi  
+Linkki: https://www.lut.fi/uutiset/-/asset_publisher/h33vOeufOQWn/content/puhtaan-teknologian-mallimaa-kaipaa-kasvojen-pesua
+
+_(Ulkoinen linkki tai muu kuin tekstitiedosto – sisältöä ei poimittu.)_
+
+---
+
 ### Monimuotoisuuden turvaaminen edellyttää luonnonlaiduntamista
 
 Julkaistu: 8.5.2014  
@@ -2475,6 +2575,16 @@ Näiden hyötyjen saavuttamiseksi sekä luontotyyppien ja niissä elävän lajis
 FM Panu Kunttu WWF Suomen metsäasiantuntija
 
 MMK Mari Anttila WWF:n suojeluharjoittelija
+
+---
+
+### Ilmastolakia ei kannata vieroksua
+
+Julkaistu: 25.8.2013  
+Aiheet: Ilmastonmuutos, Suomi  
+Linkki: https://www.hs.fi/mielipide/art-2000002669633.html
+
+_(Ulkoinen linkki tai muu kuin tekstitiedosto – sisältöä ei poimittu.)_
 
 ---
 

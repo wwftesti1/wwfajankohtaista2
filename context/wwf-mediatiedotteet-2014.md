@@ -3,7 +3,6 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Mediatiedotteet). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 97 (uusin 18.12.2014).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 96 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -147,7 +146,6 @@ Huom: 96 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 ### Presidenttipari sai järjestöiltä kasviskorin ja kannustuksen torjua ilmaston lämpenemistä
 
 Julkaistu: 18.12.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/12/presidenttipari-sai-jarjestoilta-kasviskorin-ja-kannustuksen-torjua-ilmaston-lampenemista/
 
 **Ympäristö- ja eläinsuojelujärjestöt luovuttivat tänään presidenttiparille korillisen jouluisia kasvisherkkuja.**
@@ -164,7 +162,6 @@ Kasviskori muistuttaa siitä, että jokaisen kansalaisen on mahdollista pienent�
 
 Julkaistu: 11.12.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/12/wwf-vaatii-jakkuvarkin-tuulipuiston-kaava-jaihin-merikotkan-hairinnan-takia/
 
 **Porin Jakkuvärkin suunnitteilla olevan tuulipuiston reunalla kaadettiin runsas vuosi sitten merikotkan pesäpuu. Puu kaadettiin ilmeisesti tarkoituksella tuulipuiston rakentamisesta koituvan taloudellisen hyödyn takia. Merikotkan pesäpuun kaataminen suunnitteilla olevan tuulipuiston reunalla on vaarallinen ennakkotapaus.**
@@ -194,7 +191,6 @@ Seppo Keränen, WWF:n merikotkatyöryhmän Satakunnan aluevastaava, [email prote
 ### Venäjä torppaamassa alusjätevesikiellon täytäntöönpanon
 
 Julkaistu: 10.12.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/12/venaja-torppaamassa-alusjatevesikiellon-taytantoonpanon/
 
 **Itämeren käyttäminen risteilyalusten ja matkustajalaivojen jätevesien kaatopaikkana on jatkumassa. Saastuttamisen pysäyttäminen on kariutumassa yhden valtion vastustukseen: Venäjä ehdotti ainoana maana lykkäystä niin sanotun alusjätevesikiellon täytäntöönpanoon tänään päättyneessä Itämeren suojelukomissio HELCOMin kokouksessa. Päätöksen täytäntöönpanoa uhkasivat aiemmin jarruttaa myös Saksa ja Puola, mutta ne käänsivät kelkkansa.**
@@ -222,7 +218,6 @@ Lisätietoja: Sampsa Vilhunen, meriohjelman päällikkö, WWF Suomi, [email prot
 ### Uusi tutkimustulos: Itämeren pyöriäiskannan koko noin 450 yksilöä
 
 Julkaistu: 10.12.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/12/uusi-tutkimustulos-itameren-pyoriaiskannan-koko-noin-450-yksiloa/
 
 **Itämeren äärimmäisen uhanalaisen pyöriäiskannan koko voidaan arvioida nyt aiempaa huomattavasti tarkemmin. Pyöriäisiä esiintyy säännöllisesti myös Suomessa.**
@@ -258,7 +253,6 @@ SAMBAH on kautta aikojen suurin akustisia seurantamenetelmiä hyödyntävä hank
 ### UPM ja WWF Suomi tekevät yhteistyötä puupohjaisten biopolttoaineiden kestävyyden edistämiseksi
 
 Julkaistu: 4.12.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/12/upm-ja-wwf-suomi-tekevat-yhteistyota-puupohjaisten-biopolttoaineiden-kestavyyden-edistamiseksi/
 
 **UPM ja WWF Suomi ovat käyneet keskustelua puupohjaisten nestemäisten biopolttoaineiden tilanteesta Suomessa ja julkaisevat listauksen niiden kestävyyden edistämiseen liittyvistä yhteisistä toimenpiteistä.**
@@ -303,7 +297,6 @@ Lue WWF Suomen ja UPM:n dialogipaperi kokonaan: WWF Suomi ja UPM: Puupohjaiset n
 
 Julkaistu: 3.12.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/12/wwf-soidensuojelun-taydennysohjelmaa-on-jatkettava-alkuperaisen-suunnitelman-mukaan/
 
 **Ympäristöjärjestö WWF kannustaa hallitusta jatkamaan soidensuojelun täydennysohjelmaa alkuperäisen suunnitelman mukaan ja saattamaan se mahdollisimman pikaisesti maanomistajakuulemiseen. Tämä on paitsi voimassa olevan hallitusohjelman mukaista, myös kustannustehokkainta.**
@@ -333,7 +326,6 @@ Suomen suoluontotyypeistä yli puolet on uhanalaisia lähinnä metsätalouskäyt
 ### Limassa etsitään ratkaisua ilmastonmuutokseen
 
 Julkaistu: 1.12.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/12/limassa-etsitaan-ratkaisua-ilmastonmuutokseen/
 
 **Perun pääkaupungissa Limassa on alkanut YK:n alainen ilmastokokous.**
@@ -365,7 +357,6 @@ Sivusto, johon järjestöt koostavat tietoa kokouksen kulusta
 ### Pääministeri sai nuorilta aurinkoenergiavetoomuksen ja selfie-pyyntövyöryn
 
 Julkaistu: 28.11.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/11/paaministeri-sai-nuorilta-aurinkoenergiavetoomuksen-ja-selfie-pyyntovyoryn/
 
 **WWF Suomen vapaaehtoiset nuorten tiimin jäsenet luovuttivat tänään pääministeri Alexander Stubbille vetoomuksen aurinkoenergian edistämiseksi. Samalla WWF esitti Stubbille 19 organisaation yhteisen ehdotuksen siitä, miten aurinkoenergiapolitiikka pitäisi Suomessa korjata.**
@@ -413,7 +404,6 @@ Politiikkamuutosehdotus” Aurinkoenergia kotitalouksille ja taloyhtiöille kann
 ### Sarvikuono sai satelliittipannan Nepalissa
 
 Julkaistu: 27.11.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/11/sarvikuono-sai-satelliittipannan-nepalissa/
 
 **Sarvikuonojen suojelussa on otettu merkittävä edistysaskel.**
@@ -443,7 +433,6 @@ WWF Suomi on Suomen ulkoasiainministeriön kumppanuusjärjestö. Kehitysyhteisty
 ### WWF ja Outotec: Suomen on tartuttava vihreän talouden mahdollisuuksiin
 
 Julkaistu: 25.11.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/11/wwf-ja-outotec-suomen-on-tartuttava-vihrean-talouden-mahdollisuuksiin/
 
 **Suomen talousahdinkoon ja maailmanlaajuisen ympäristökriisin torjumiseen voidaan löytää ratkaisut samoilla keinoilla. Maassamme on lukuisia yrityksiä, joilla on mahdollisuudet kasvattaa toimintaansa puhtaan energian ja teknologian markkinoilla. Uusien ratkaisujen avulla voimme myös vähentää taloutemme riippuvuutta energiasta ja luonnonvaroista. Edelläkävijän ja innovaattorin rooli on kuitenkin lipsumassa Suomen ulottumattomiin.**
@@ -480,7 +469,6 @@ Minna Aila, markkinointi-, viestintä- ja yritysvastuujohtaja, Outotec, [email p
 
 Julkaistu: 24.11.2014  
 Kirjoittaja: Linda Koskinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/11/helsingin-lahiluontoa-kuvaava-teos-voitti-wwfn-vuoden-luontokirja-palkinnon/
 
 **WWF on valinnut Vuoden 2014 luontokirjaksi Jarmo Niemisen kirjoittaman teoksen Aarresaaret – Helsingin saariston uskomaton luonto. Kirja on ylistys Helsingin rikkaalle lähiluonnolle. Kolmen finalistin joukosta voittajan valitsi valokuvaaja Meeri Koutaniemi.**
@@ -517,7 +505,6 @@ WWF:n Vuoden luontokirja -kilpailu järjestettiin tänä vuonna jo 37. kerran. K
 
 Julkaistu: 19.11.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/11/hyvat-tavoitteet-vaarassa-vesittya-kalastuslain-uudistuksessa/
 
 **Uuden kalastuslain on tarkoitus turvata uhanalaisten kalalajien tulevaisuus. WWF kuitenkin pelkää, ettei nykyinen lakiesitys riitä toteuttamaan sinänsä erinomaista tavoitetta. Erityisesti vapaa-ajan verkkokalastukseen ehdotetut rajoitukset ovat täysin riittämättömiä. Toinen iso epäkohta on äärimmäisen uhanalaisten lajien laintasoisen rauhoittamisen jättäminen pois esityksestä.**
@@ -551,7 +538,6 @@ Kalastuslain uudistus on tällä viikolla ympäristövaliokunnan käsiteltävän
 ### Presidentti Halonen: Bhutanin onnellisuusindeksi antaa sijaa luonnolle
 
 Julkaistu: 14.11.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/11/presidentti-halonen-bhutanin-onnellisuusindeksi-antaa-sijaa-luonnolle/
 
 **Presidentti Tarja Halonen on vierailullaan Bhutanissa vakuuttunut maan käyttämän onnellisuusmittariston hyödyllisyydestä. Mittaristossa on monia samoja elementtejä kuin pohjoismaisessa hyvinvointimittaristossa.”Bhutan on tervetullut esimerkki siitä, että hyvinvointi, kulttuuri sekä luonnonmonimuotoisuus ja luonnonsuojelu on otettu ohjaamaan valtion kehittymistä”, presidentti Halonen toteaa.**
@@ -571,7 +557,6 @@ Tällä hetkellä puolet valtion pinta-alasta on suojeltu. WWF Suomi tukee ulkoa
 ### Kansalaisjärjestöjen eduskuntavaalikampanja haastaa ehdokkaat maailmantalouden tekijöiksi
 
 Julkaistu: 11.11.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/11/kansalaisjarjestojen-eduskuntavaalikampanja-haastaa-ehdokkaat-maailmantalouden-tekijoiksi/
 
 **Maailmantalouden tekijät on 13 kansalaisjärjestön eduskuntavaalikampanja, joka kutsuu ehdokkaita ja äänestäjiä keskustelemaan eriarvoisuudesta ja kestävästä taloudesta. Kaikkien eduskuntapuolueiden puheenjohtajat esittävät omat ratkaisunsa kestävään talouteen kampanjan avauksessa tiistaina 11. marraskuuta julkaistuilla videoilla.**
@@ -619,7 +604,6 @@ Kampanjakoordinaattori Niklas Kaskeala, Kepa, puh. 050 317 6716 Kehityspoliittin
 ### Itämeren käyttäminen risteilyalusten jätevesien kaatopaikkana uhkaa jatkua
 
 Julkaistu: 7.11.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/11/itameren-kayttaminen-risteilyalusten-jatevesien-kaatopaikkana-uhkaa-jatkua/
 
 **Risteilyalukset ja matkustajalaivat saavat jatkaa jätevesiensä laskemista Itämereen, mikäli Saksan, Puolan ja Venäjän ehdottama lykkäys niin sanotun alusjätevesikiellon täytäntöönpanoon menee läpi. Laillinen saastuttaminen on saamassa jatkoajan, sillä maat eivät olleet valmiita raportoimaan satamiensa vastaanottokapasiteetin riittävyydestä Itämeren suojelukomissio HELCOMin kokouksessa.**
@@ -654,7 +638,6 @@ Sampsa Vilhunen, meriohjelman päällikkö, WWF Suomi, [email protected], 040550
 
 Julkaistu: 31.10.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/10/pohjoismaiden-uhanalaisimman-linnun-kanta-elpymassa/
 
 **Suomen, Ruotsin ja Norjan yhteinen kiljuhanhikanta romahti 1900-luvun aikana tuhansista pesivistä pareista noin pariinkymmeneen. Pitkään sukupuuton partaalla olleen lajin pohjoismainen kanta on kuitenkin viime vuosina osoittanut varovaisia elpymisen merkkejä 30 vuotta sitten aloitetun sinnikkään suojelutyön tuloksena.**
@@ -684,7 +667,6 @@ Petteri Tolvanen, ohjelmapäällikkö, WWF Suomi, [email protected], 0400 168 93
 ### Tiikerien ja lumileopardien tarkka määrä uhkaa jäädä ikuiseksi mysteeriksi Himalajalla
 
 Julkaistu: 23.10.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/10/tiikerien-ja-lumileopardien-tarkka-maara-uhkaa-jaada-ikuiseksi-mysteeriksi-himalajalla/
 
 **Useat Himalajan vuoristossa elävät nisäkkäät ovat vaarassa hävitä, ennen kuin niiden populaatioiden kokoa on ehditty kunnolla selvittää. Maailman ankarimmissa olosuhteissa tähän asti selvinneistä isoista nisäkkäistä vaarassa ovat muun muassa uhanalaiset tiikeri ja lumileopardi. Myös kauluskarhun, intiansarvikuonon ja kultapandan populaatiot ovat vaarantuneita. Isoja nisäkkäitä häviää etenkin salametsästyksen ja elinympäristöjen muutosten ja tuhoutumisen takia.**
@@ -743,7 +725,6 @@ Kansainvälisen kehitysohjelman päällikkö Anne Tarvainen, WWF Suomi, 040 756 
 
 Julkaistu: 14.10.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/10/wwf-kalastusministerit-soivat-sanansa-ylikalastus-jatkuu-itamerella/
 
 **EU:n maatalous- ja kalastusneuvosto päätti eilen Luxemburgissa vuoden 2015 kalastuskiintiöistä Itämerellä. Juuri uudistetun Euroopan yhteisen kalastuspolitiikan keskeinen tavoite on lopettaa ylikalastus vuoteen 2015 mennessä. Ministerit söivät kuitenkin sanansa ja päätyivät jälleen nostamaan turskan ja lohen kalastuskiintiöt tutkijoiden tieteellisiä suosituksia suuremmiksi.**
@@ -772,7 +753,6 @@ Maa- ja metsätalousministeriön tiedote 13.10.2014
 
 Julkaistu: 14.10.2014  
 Kirjoittaja: Linda Koskinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/10/wwf-etsii-jalleen-vuoden-luontokirjaa/
 
 **WWF Suomen jokavuotiseen Vuoden luontokirja -kilpailuun voi osallistua 27.10. kello 16.00 asti. Kilpailussa etsitään jo 37. kerran suomalaiskustanteista teosta, jossa luonnon- ja ympäristönsuojelun sanoma on vahvasti esillä.**
@@ -823,7 +803,6 @@ Lisätietoja: Hanna-Liisa Kangas, ilmastovastaava, WWF Suomi, 045 631 8353
 ### WWF: Suomen tulisi selvittää kivihiilen haittaveron käyttöönotto
 
 Julkaistu: 8.10.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/10/wwf-suomen-tulisi-selvittaa-kivihiilen-haittaveron-kayttoonotto/
 
 **Hallituksen talouspoliittinen ministerivaliokunta päätti eilen 7.10. laskea turpeen veroa ja korottaa metsähakkeella tuotetun sähkön tuotantotukea. WWF Suomi vaatii, ettei turpeen veroa lasketa. Samalla tulisi pikaisesti selvittää ja ottaa käyttöön kivihiilen haittavero Suomessa.**
@@ -852,7 +831,6 @@ Hanna-Liisa Kangas, ilmastovastaava, WWF Suomi, 045 631 8353
 
 Julkaistu: 3.10.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/10/silakka-ei-kelpaa-suomalaisille-saalis-paatyy-turkiselainten-rehuksi/
 
 **Suomalaiset ammattikalastajat pyytävät silakkaa valtavat määrät, mutta suurin osa saaliista menee turkiseläinten rehuksi. WWF:n laskelmien mukaan elintarviketuotannon ulkopuolelle on pelkästään 2000-luvulla päätynyt pian miljardi kiloa silakkaa.**
@@ -893,7 +871,6 @@ WWF:n teltta Helsingin Silakkamarkkinoilla 5.10.2014 klo 10-16. Teltta sijaitsee
 
 Julkaistu: 30.9.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/wwfn-raportti-selkarankaisten-elainten-maara-romahti/
 
 **Luonnon monimuotoisuus on romahtanut 40 vuodessa. Tänään julkaistun WWF:n Living Planet 2014 -raportin mukaan selkärankaisten eläinten eli nisäkkäiden, lintujen, matelijoiden, sammakkoeläinten ja kalojen määrä on tällä hetkellä enää puolet siitä, mitä se oli 70-luvulla. Tämä johtuu pitkälti ihmisten toimista: kulutuksen kasvu ajaa eläimiä yhä ahtaammalle.**
@@ -941,7 +918,6 @@ Tiivistelmä suomeksi
 ### WWF: Aikeet koskiensuojelulain purkamiseksi vastuuttomia
 
 Julkaistu: 24.9.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/wwf-aikeet-koskiensuojelulain-purkamiseksi-vastuuttomia/
 
 **Ympäristöjärjestö WWF vastustaa tiukasti aikeita purkaa niin sanottu koskiensuojelulaki, joka suojelee vapaita virtavesiä vesivoimarakentamiselta. Vesivoima on uusiutuvaa energiaa, mutta ympäristön kannalta erittäin haitallista.”Vesi on uusiutuvaa, tuhotut ekosysteemit ja lajit eivät”, WWF Suomen pääsihteeri Liisa Rohweder toteaa.**
@@ -974,7 +950,6 @@ Pääsihteeri Liisa Rohweder, WWF Suomi, [email protected], 040 840 7461 Suojelu
 
 Julkaistu: 24.9.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/metsahallituksen-suojelupaatos-on-riittamaton-luontojarjestot-suljettiin-valmistelun-ulkopuolelle/
 
 **Metsähallitus on tänään julkaissut valtion maita koskevan, 13 000 hehtaaria koskevan suojelupäätöksen. Luonnonsuojelujärjestöjen (Birdlife Suomi, Greenpeace, Luonto-Liitto, Suomen luonnonsuojeluliitto, WWF) mielestä päätös on askel oikeaan suuntaan, mutta esityksen pinta-ala on riittämätön. Lisäksi päätöksen valmistelussa unohdettiin täysin avoimuus ja sidosryhmien osallistaminen.**
@@ -1007,7 +982,6 @@ Ympäristöministeriön verkkosivut: Luonnon monimuotoisuuden suojelun ja kestä
 
 Julkaistu: 23.9.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/itameren-ymparistoystavallisimman-viljelijan-palkinto-latviaan/
 
 **Latvialaiset Juris Cirulis ja Vija Cirule ovat voittaneet ympäristöjärjestö WWF:n jakaman Itämeren ympäristöystävällisin viljelijä -palkinnon. Latvialaispariskunta vastaanotti tunnustuksen tänään Puolassa Varsovassa. Myös Suomen edustajat, Helena ja Fredrik von Limburg Stirum, menestyivät kilpailussa mainiosti.**
@@ -1040,7 +1014,6 @@ Haastattelupyynnöt Juris Cirulisille ja Vija Cirulelle Pasaules Dobas Fondsin t
 
 Julkaistu: 22.9.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/wwf-ja-soppa365-tarjoavat-vastuullisia-kalaresepteja/
 
 **Silakka on ympäristön kannalta hyvä valinta, mutta mitä kaikkea siitä voi valmistaa? Sushia tekisi mieli, mutta voiko tonnikalaa syödä? Ympäristötietoisen kalansyöjän elämä helpottuu, kun WWF Suomi ja Sanoman yhteisöllinen ruokapalvelu Soppa365 yhdistävät voimansa ja tarjoavat suomalaisille syksyn aikana eettisiä ja herkullisia kalareseptejä.**
@@ -1070,7 +1043,6 @@ Tutustu WWF:n resepteihin osoitteessa www.soppa365.fi/author/wwf-suomi/
 ### WWF vetoaa hallitukseen ydinvoimalupien epäämiseksi
 
 Julkaistu: 18.9.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/wwf-vetoaa-hallitukseen-ydinvoimalupien-epaamiseksi/
 
 **WWF Suomi on tänään lähettänyt ministereille kirjeen, jossa se pyytää heitä välttämään energiapolitiikassa tehdyt aiemmat virheet ja epäämään hallituksen kokouksessa sekä TVO:n että Fennovoiman ydinvoimaluvat.**
@@ -1090,7 +1062,6 @@ Lisätiedot: Pääsihteeri Liisa Rohweder, WWF Suomi, puh. 040 840 7461 Ilmastov
 ### WWF ja Coca-Cola keräävät jälleen varoja jääkarhujen suojeluun
 
 Julkaistu: 9.9.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/wwf-ja-coca-cola-keraavat-jalleen-varoja-jaakarhujen-suojeluun/
 
 **Syyskuussa Coca-Cola ja WWF toteuttavat toista kertaa Arctic Home -kampanjan useassa Euroopan maassa, myös Suomessa. Toisen kampanjavuoden päätavoite on kerätä varoja jääkarhujen arktisen kodin suojeluun. Arktisen alueen jääpeitteen pieneneminen vaikeuttaa jääkarhuemojen ja pentujen selviämistä muuttuvassa elinympäristössä. Tänä vuonna jokaista www.arctichome.eu -sivujen kautta kampanjaan lahjoitettua euroa kohden Coca-Cola lahjoittaa yhden euron, aina miljoonaan euroon saakka.**
@@ -1116,7 +1087,6 @@ Viestintäjohtaja Anne Brax, WWF Suomi, puh. +358 50 367 1888, [email protected]
 ### Jungfruskärin lehdesniityt kunnostetaan perinteisin menetelmin
 
 Julkaistu: 4.9.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/jungfruskarin-lehdesniityt-kunnostetaan-perinteisin-menetelmin/
 
 **WWF Suomen vapaaehtoiset talkooleiriläiset kunnostavat Saaristomeren kansallispuistossa sijaitsevan Jungfruskärin puustoisia perinnemaisemia 3.–7. syyskuuta. Äärimmäisen uhanalaisia lehdesniittyjä hoitamalla turvataan monien hyönteis- ja kasvilajien ainutlaatuinen elinympäristö.**
@@ -1160,7 +1130,6 @@ Ytterligare information: Fältchef Trygve Löfroth, Forststyrelsens naturtjänst
 ### Jääkarhun DNA eristettiin tassunjäljestä
 
 Julkaistu: 2.9.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/09/jaakarhun-dna-eristettiin-tassunjaljesta/
 
 **Tutkijat ovat ensimmäistä kertaa onnistuneet eristämään jääkarhun DNA:ta lumeen jääneestä tassunjäljestä.**
@@ -1192,7 +1161,6 @@ Suojelujohtaja Jari Luukkonen, WWF Suomi, puh. 040 585 0020
 ### Ympäristöjärjestö WWF: Ympäristöhallinnon sulauttamisesta huonoja kokemuksia
 
 Julkaistu: 25.8.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/ymparistojarjesto-wwf-ymparistohallinnon-sulauttamisesta-huonoja-kokemuksia/
 
 **Maa- ja metsätalousministeri Petteri Orpo on jo pari kuukautta kestäneen ministerikautensa jälkeen kyllästynyt vastakkainasetteluun maa- ja metsätalousministeriön ja ympäristöministeriön välillä. Tässä vastakkainasettelu tuo kuitenkin esiin juuri sen, minkä takia on erittäin tärkeää, että Suomessa on muiden länsimaiden tapaan itsenäinen ympäristöhallinto.**
@@ -1217,7 +1185,6 @@ Lisätietoja: Suojelujohtaja Jari Luukkonen, WWF Suomi, puh. 040 585 0020
 
 Julkaistu: 22.8.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/valkoselkatikoilla-hyva-pesimavuosi/
 
 **Metsähallituksen, WWF Suomen ja lintutieteellisten yhdistysten valkoselkätikkaseurannoissa löytyi yli 180 parireviiriä, joilta varmistui 119 pesintää. Seurannoissa löydettiin lisäksi kymmeniä yksittäisiä havaintopaikkoja, joista monet voivat muodostua erittäin uhanalaisen lajin pesimäreviireiksi.**
@@ -1243,7 +1210,6 @@ Suunnittelija Timo Laine, Etelä-Suomen luontopalvelut, puhelin 040 588 1766
 ### Talkoolaisten taitoja hyödynnetään Itämeren tutkimuksessa
 
 Julkaistu: 21.8.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/talkoolaisten-taitoja-hyodynnetaan-itameren-tutkimuksessa/
 
 **WWF Suomen, Metsähallituksen luontopalvelujen ja Suomen ympäristökeskuksen yhteistyössä järjestämällä meritutkimusleirillä kansalaiset pääsevät osallistumaan Itämeren tutkimukseen. Itäisen Suomenlahden kansallispuistossa sijaitsevalla Ulko-Tammion saarella pidettävän leirin tarkoituksena on kerätä käyttökelpoista aineistoa useiden eri tutkimushankkeiden käyttöön.**
@@ -1276,7 +1242,6 @@ Lisätiedot: Meriohjelman päällikkö Sampsa Vilhunen, WWF Suomi, puh. 050 401 
 
 Julkaistu: 19.8.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/maapallon-varat-loppuivat-talta-vuodelta/
 
 **Tänään tiistaina ihmiset ovat käyttäneet loppuun maapallon tänä vuonna tuottamat uusiutuvat luonnonvarat. Huomisesta lähtien elämme siis velaksi. Ylikulutus kasvaa jatkuvasti: nyt kulutimme luonnonvarat jo pari viikkoa nopeammin kuin vuonna 2000.**
@@ -1316,7 +1281,6 @@ Suojelujohtaja Jari Luukkonen, WWF Suomi, puh.040 585 0020, [email protected]
 ### WWF: Suomen aurinkoenergiapolitiikka korjattava budjettiriihessä
 
 Julkaistu: 18.8.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/wwf-suomen-aurinkoenergiapolitiikka-korjattava-budjettiriihessa/
 
 **Suomen aurinkoenergiapolitiikan heikkoudet ovat nousseet julkiseen keskusteluun elokuun lopun budjettiriihen alla. WWF vaatii, että hallitus korjaa aurinkoenergiapolitiikan pahimmat puutteet elokuun budjettiriihessä. Käytännössä tämä tarkoittaa aurinkosähkön verotusta koskevan lain tulkinnan selkeyttämistä sekä aurinkoenergian ottamista mukaan tukijärjestelmien piiriin. WWF on tyytyväinen siitä, että aurinkoenergiapolitiikan puutteet ovat nousseet hallituksen asialistalle ja että niiden korjaaminen otetaan vakavasti.**
@@ -1342,7 +1306,6 @@ Lisätietoja: Ilmastovastaava Hanna-Liisa Kangas, WWF Suomi, 045 6318353, [email
 ### Merikotkakannan kehityksessä selvää alueellista vaihtelua
 
 Julkaistu: 14.8.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/merikotkakannan-kehityksessa-selvaa-alueellista-vaihtelua/
 
 **Suomen merikotkat saivat tänä kesänä ennätysmäärän poikasia, mutta kannan kehityksessä ja pesinnän onnistumisessa oli selvää alueellista vaihtelua.**
@@ -1374,7 +1337,6 @@ Ylitarkastaja Tuomo Ollila, Metsähallitus, puh. 0400 241 448
 ### WWF: EU ei saa kuriin laitonta puukauppaa
 
 Julkaistu: 6.8.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/wwf-eu-ei-saa-kuriin-laitonta-puukauppaa/
 
 **Laiton puutavarakauppa kukoistaa Euroopan Unionissa viime vuonna voimaan tulleesta puutavara-asetuksesta huolimatta. EU-komission ja WWF:n tutkimusten mukaan useat jäsenmaat eivät ole muuttaneet lainsäädäntöään vastaamaan unionin vaatimuksia. WWF vaatiikin EU:lta toimia tottelemattomia jäsenmaita vastaan.**
@@ -1400,7 +1362,6 @@ WWF:n barometri löytyy osoitteesta http://barometer.wwf.org.uk/what_we_do/gover
 ### WWF: Saimaannorppa voidaan parhaiten pelastaa yhteistyöllä
 
 Julkaistu: 5.8.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/wwf-saimaannorppa-voidaan-parhaiten-pelastaa-yhteistyolla/
 
 **”Uhanalaisen saimaannorpan suojeluun löydetään parhaat keinot, kun niitä ovat miettimässä laajasti kaikki asiasta kiinnostuneet tahot. Keskustelua on käytävä tieteellisen tiedon pohjalta, ei tunnepitoisesti”, sanoi WWF Suomen pääsihteeri Liisa Rohweder Saimaan alueen kalastajien norppakokouksessa Savonlinnassa tiistaina.**
@@ -1430,7 +1391,6 @@ Lisätiedot: Pääsihteeri Liisa Rohweder, WWF Suomi, puh. 040 8407461, [email p
 ### Jurmon perinnemaisemaa kunnostetaan WWF:n talkooleirillä
 
 Julkaistu: 5.8.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/08/jurmon-perinnemaisemaa-kunnostetaan-wwfn-talkooleirilla/
 
 **Saaristomerellä sijaitsevan Jurmon arvokkaat perinnemaisemat tarjoavat elinympäristön useille harvinaisille merilinnuille sekä uhanalaisille kasvi- ja hyönteislajeille. WWF Suomen ja Metsähallituksen luontopalvelujen järjestämän talkooleirin tavoitteena on estää perinnemaisemia uhkaava umpeenkasvu.**
@@ -1466,7 +1426,6 @@ Metsähallituksen luontopalvelut Metsähallituksen luontopalvelut vastaa Suomen 
 ### Maailmassa jäljellä enää reilut 3000 tiikeriä
 
 Julkaistu: 29.7.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/maailmassa-jaljella-enaa-reilut-3000-tiikeria/
 
 **Villien tiikerien määrä on pienentynyt hälyttävästi kansainvälisistä suojelutoimista huolimatta. Luonnossa tiikereitä arvellaan elävän enää noin 3200 yksilöä. Tarkkaa lukumäärää ei kuitenkaan tiedetä, sillä monissa Aasian maissa tiikerien lukumäärän kartoitus on alkutekijöissään. Epätietoisuus vaikeuttaa myös lajin suojelua. Tänään vietetään kansainvälistä tiikeripäivää.**
@@ -1498,7 +1457,6 @@ Lue lisää WWF Suomen tiikerinsuojelutyöstä.
 ### Hyvää mieltä ja hyötyliikuntaa Nothamnin talkooleirillä
 
 Julkaistu: 24.7.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/hyvaa-mielta-ja-hyotyliikuntaa-nothamnin-talkooleirilla/
 
 **WWF:n vapaaehtoiset talkooleiriläiset ahkeroivat parhaillaan Nothamnin yksityisellä suojelualueella. Läntisellä Uudellamaalla sijaitsevan Nothamnin perinnemaisemia kunnostetaan 19.–26. heinäkuuta. Nothamnissa tehtäviä talkootöitä ovat muun muassa niitto, haravointi ja risusavotta.**
@@ -1560,7 +1518,6 @@ Forststyrelsens naturtjänster Forststyrelsens naturtjänster svarar för vårde
 ### WWF: Rajoituksia ja rangaistuksia tiukennettava norpan suojelemiseksi – ministeriön toimittava heti
 
 Julkaistu: 23.7.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/wwf-rajoituksia-ja-rangaistuksia-tiukennettava-norpan-suojelemiseksi-ministerion-toimittava-heti/
 
 **Savonlinnan seudulta on löytynyt jälleen kuollut saimaannorpan kuutti.”Jokainen järveen heitetty verkko on kuolemanpyydys. Kuinka monta vastaavaa synkkää uutista vielä tarvitaan, ennen kuin norppien surmaamiselle laitetaan piste?” WWF:n pääsihteeri Liisa Rohweder ihmettelee.**
@@ -1586,7 +1543,6 @@ Lisätietoja: Pääsihteeri Liisa Rohweder, WWF Suomi, puh. 0408407461
 ### Saimaannorpan kuutti kuoli jälleen kalaverkkoon
 
 Julkaistu: 17.7.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/saimaannorpan-kuutti-kuoli-jalleen-kalaverkkoon/
 
 **Saimaannorpan kuutti kuoli jälleen kalaverkkoon. Kyseessä on kuudes kalanpyydyksiin kuollut saimaannorppa ja viides kuutti tänä vuonna.**
@@ -1619,7 +1575,6 @@ WWF:n Olen norpan ystävä – en kalasta verkoilla –sitoumuksen voi tehdä t�
 
 Julkaistu: 16.7.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/wwf-villin-lohen-suojelun-vastustamiselle-ei-ole-perusteita/
 
 **Itämeren villin lohen suojelussa on otettu selviä edistysaskelia. Esimerkiksi Tornionjokeen on noussut kutemaan lohia ennätystahtia suojelutoimenpiteiden kiristämisen ansiosta. WWF Suomi pitää tärkeänä, ettei hyvältä tieltä poiketa tulevina vuosina. Itämeren villin lohen tilasta ja tulevaisuudesta keskusteltiin WWF:n SuomiAreenassa järjestämässä paneelissa.**
@@ -1657,7 +1612,6 @@ SuomiAreena on Porissa 12.–19.7.2014 järjestettävä yhteiskunnallinen keskus
 ### WWF: Harmaahylkeen pyyntikiintiötä vähennettävä reilusti
 
 Julkaistu: 15.7.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/wwf-harmaahylkeen-pyyntikiintiota-vahennettava-reilusti/
 
 **WWF Suomi esittää, että harmaahylkeiden metsästyskiintiö lasketaan nykyisestä 1 050 yksilöstä 300–400 yksilöön. Nykyinen kiintiö on WWF:n mielestä vastuuttoman suuri, ja johtaisi toteutuessaan harmaahylkeen suotuisan suojelutason vaarantumiseen. WWF esittää kantansa lausunnossa, joka koskee hallin, itämerennorpan, euroopanmajavan ja saukon metsästystä metsästysvuonna 2014–2015.**
@@ -1694,7 +1648,6 @@ Merihyljetyöryhmän puheenjohtaja Antti Halkka, WWF Suomi, puh. 040 700 6582 Oh
 
 Julkaistu: 11.7.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/radiolahetinkuutti-kuoli-kalaverkkoon-3/
 
 **Itä-Suomen yliopiston radioseurannassa ollut saimaannorpan naaraskuutti on kuollut kalaverkkoon Saimaan Pihlajavedellä. Kyseessä on jo viides kalanpyydyksiin kuollut saimaannorppa ja neljäs kuutti tänä vuonna. Seurannassa on edelleen kolme kuuttia, joiden avulla selvitetään norpan poikasten liikkumista.**
@@ -1733,7 +1686,6 @@ Olen norpan ystävä – en kalasta verkoilla -diplomia voi hakea täältä.
 
 Julkaistu: 9.7.2014  
 Kirjoittaja: Kalle Erkkilä  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/vuoden-ymparistoystavallisin-maatila-palkittiin-salossa/
 
 **WWF:n jakaman viljelijöiden ympäristöpalkinnon ovat voittaneet salolaiset Fredrik ja Helena von Limburg Stirum, jotka suojelevat maatilallaan Kosken kartanossa kokonaisvaltaisesti Itämerta ja luonnon monimuotoisuutta.**
@@ -1789,7 +1741,6 @@ wwf.fi/wwf-suomi/palkinnot-ja-tunnustukset/itameren-viljelijoiden-ymparistopalki
 ### Kolin talkooleirillä ahkeroidaan jylhissä perinnemaisemissa
 
 Julkaistu: 8.7.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/kolin-talkooleirilla-ahkeroidaan-jylhissa-perinnemaisemissa/
 
 **Ikivanhat vaarat, koivujen valtaamat kaskimetsät, synkät kuusikot ja rehevät lehdot purojen varsilla. Tätä kaikkea on Pohjois-Karjalassa sijaitseva Koli, jossa WWF:n talkooleiriläiset kunnostavat Suomen tunnetuinta kansallismaisemaa 5.- 12. heinäkuuta.**
@@ -1827,7 +1778,6 @@ Metsähallituksen luontopalvelut Metsähallituksen luontopalvelut vastaa Suomen 
 ### Vahva edustus WWF:n hallintoneuvostoon – uusia jäseniä yhteiskunnan eri aloilta
 
 Julkaistu: 1.7.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/07/vahva-edustus-wwfn-hallintoneuvostoon-uusia-jasenia-yhteiskunnan-eri-aloilta/
 
 **WWF Suomen hallintoneuvostoon on valittu kolme uutta jäsentä. Suomen ympäristökeskuksen pääjohtaja Lea Kauppi, Aalto-yliopiston taloustieteen professori Sixten Korkman sekä emerituspiispa Eero Huovinen aloittavat hallintoneuvostossa, kun uusi toimintavuosi alkaa tänään 1. heinäkuuta.**
@@ -1865,7 +1815,6 @@ Pääsihteeri Liisa Rohweder, WWF Suomi, puh. 040 840 7461
 ### Saimaannorpan kuutit vaarassa heinäkuun alusta alkaen
 
 Julkaistu: 26.6.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/saimaannorpan-kuutit-vaarassa-heinakuun-alusta-alkaen/
 
 **Saimaannorpan suojelemiseksi säädetyt keväiset verkkokalastusrajoitukset päättyvät kesäkuun lopussa. Rajoitusten päättyessä etenkin nuoria ja kokemattomia norppia uhkaa hukkuminen verkkoihin. WWF Suomi ja Metsähallitus kannustavatkin Saimaalla kesäänsä viettäviä kalastamaan norppaystävällisillä pyyntimenetelmillä myös rajoitusajan ulkopuolella. Asiaa edistääkseen WWF julkisti torstaina Olen norpan ystävä – en kalasta verkoilla -diplomin, jonka ensimmäinen vastaanottaja on Savonlinnan Oopperajuhlien taiteellinen johtaja Jorma Silvasti.**
@@ -1897,7 +1846,6 @@ Diplomia voi hakea osoitteessa wwf.fi/saimaannorppadiplomi. WWF järjestää dip
 ### WWF:n vapaaehtoiset kunnostavat Vehmaanniemen perinnemaisemia Vammalassa
 
 Julkaistu: 25.6.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/wwfn-vapaaehtoiset-kunnostavat-vehmaanniemen-perinnemaisemia-vammalassa/
 
 **WWF:n vapaaehtoiset talkooleiriläiset työskentelevät Vehmaanniemen luonnonsuojelualueella 27.–29. kesäkuuta. Vehmaanniemi on valtakunnallisesti arvokas perinneympäristökokonaisuus, jonka niittyjä ja hakamaita kunnostetaan vuosittain noin 20 talkoolaisen voimin.**
@@ -1923,7 +1871,6 @@ Kenttäkoordinaattori Teemu Niinimäki, WWF Suomi, puh. 050 524 3206
 ### Salametsästys hälyttävissä lukemissa Mosambikissa ja Etelä-Afrikassa
 
 Julkaistu: 19.6.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/salametsastys-halyttavissa-lukemissa-mosambikissa-ja-etela-afrikassa/
 
 **Mosambikin pohjoisosassa tapettiin vuosina 2011–2013 jopa 480–900 norsua, selviää WWF:n teettämästä tutkimuksesta. Quirimbasin kansallispuistossa loppuvuodesta 2013 toteutetuissa ilmakuvauksissa lähes puolet havaituista norsuista osoittautui kuolleiksi. Tuoreiden tilastojen mukaan myös sarvikuonojen salametsästys on jatkunut eteläisessä Afrikassa huolestuttavana.**
@@ -1954,7 +1901,6 @@ Pääsihteeri Liisa Rohweder, WWF Suomi, puh. 040 840 7461
 
 Julkaistu: 18.6.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/upm-ja-wwf-suomi-monipuoliseen-yhteistyohon/
 
 **Biometsäteollisuusyhtiö UPM ja ympäristöjärjestö WWF Suomi ovat sopineet monipuolisesta yhteistyöstä, joka kattaa puupohjaisten biopolttoaineiden kestävyyden edistämisen sekä kestävän metsätalouden ja raaka-aineiden hankinnan Suomessa.**
@@ -1991,7 +1937,6 @@ Sari Mannonen, myynti- ja markkinointijohtaja, UPM Biopolttoaineet, puh. 045-265
 
 Julkaistu: 12.6.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/lahes-miljoonan-ihmisen-aani-kuului-oljyjatti-peraantyy-maailmanperintokohteen-oljynporaushankkeesta/
 
 **Brittiläinen öljy-yhtiö Soco International PLC peruu suunnitelmansa porata öljyä Afrikan vanhimmasta kansallispuistosta Virungasta. Samalla yhtiö lupaa pysyä poissa kaikista muistakin UNESCO:n maailmanperintökohteista. Socon päätös on suuri voitto Virungan yli 3000 eläinlajille, joiden joukossa on muun muassa erittäin uhanalainen vuorigorilla. WWF on kampanjoinut öljynporaussuunnitelmien lopettamiseksi yli vuoden ajan.**
@@ -2018,7 +1963,6 @@ Suojelujohtaja Jari Luukkonen, WWF Suomi, 040 585 0020
 
 Julkaistu: 10.6.2014  
 Kirjoittaja: Suvi Salminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/wwfn-panda-palkinto-30-000-euroa-maretariumille/
 
 **Ympäristöjärjestö WWF jakoi tänään 30 000 euron suuruisen Panda-palkintonsa. Palkinto myönnettiin kokonaan yhdelle hakijalle, Maretariumille. Maretarium on Kotkassa sijaitseva suomalaisten kalojen akvaariotalo, jossa on lisäksi muun muassa luontokuvanäyttelyjä ja luontokoulu. Panda-palkinnon tuella toimintaa laajennetaan kaloista muuhun vedenalaiseen luontoon: pohjaeläimiin, leviin ja kasvillisuuteen.**
@@ -2053,7 +1997,6 @@ Toimitusjohtaja Sari Saukkonen, Maretarium, [email protected], puh. 040 3110 331
 
 Julkaistu: 9.6.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/oljyonnettomuudesta-koitui-raahessa-jattimainen-puhdistusurakka-suurin-rantaan-ajautuneen-oljyn-torjuntaoperaatio-30-vuoteen/
 
 **Raahessa runsas viikko sitten tapahtuneen öljyonnettomuuden jälkien siivoaminen on lopetettu tahriutuneiden saarten rannoilla. Vain 3-5 öljytonnin päästöstä aiheutuneita jälkiä siivosivat luonnossa yli viikon verran sadat viranomaiset sekä ympäristöjärjestö WWF:n ja muut vapaaehtoiset, kaikkiaan noin 1 000 miestyöpäivää. Rannoilta kerättiin parisataa tonnia erilaista öljyyntynyttä jätettä.**
@@ -2100,7 +2043,6 @@ WWF:n vapaaehtoiset öljyntorjuntajoukot toimivat viranomaisten apuna öljyvahin
 
 Julkaistu: 5.6.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/satoja-uusia-lajiloydoksia-greater-mekong-alueella/
 
 **Jättiläismäinen liito-orava, liitävä gekko, luolassa elävä silmätön hämähäkki ja kala, joka parittelee päällään. Nämä ovat esimerkkejä 367 uudesta lajista, joita tutkijat ovat löytäneet Kaakkois-Aasiassa sijaitsevalta Greater Mekong -alueelta vuosien 2012–2013 aikana. Uusista lajeista kertoo WWF:n tuore raportti, Maailman ympäristöpäivänä julkaistu Mysterious Mekong.**
@@ -2148,7 +2090,6 @@ Kansainvälisen kehityksen ohjelmapäällikkö Anne Tarvainen, WWF Suomi, 040 75
 ### Raahen öljyntorjuntatöitä tehty kohta viikko – tältä näyttää onnettomuuspaikalla
 
 Julkaistu: 5.6.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/raahen-oljyntorjuntatoita-tehty-kohta-viikko-talta-nayttaa-onnettomuuspaikalla/
 
 **Raahen Rautaruukin tehtaalla viime perjantaina tapahtunut öljyvuoto työllistää öljyntorjujia jo kuudetta päivää. Viranomaiset ja vapaaehtoiset öljyntorjujat ovat tähän mennessä puhdistaneet Selkämatalan, Iso-Kraaselin, Kumpelen ja Vesimatalan saaria.**
@@ -2176,7 +2117,6 @@ Raahen öljyonnettomuuden puhdistustöiden etenemistä voi seurata Twitterissä 
 ### Tilanne luultua pahempi Raahessa: vapaaehtoisten urakka jatkuu
 
 Julkaistu: 3.6.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/tilanne-luultua-pahempi-raahessa-vapaaehtoisten-urakka-jatkuu/
 
 **Raahessa viime perjantaina tapahtuneen öljyonnettomuuden laajuus on aiemmin epäiltyä suurempi. Öljyntorjuntatyöt jatkuvat Raahen edustan saarissa vielä ainakin joitain päiviä, mahdollisesti jopa viikon. WWF:n vapaaehtoiset puhdistavat tänään rantoja Selkämatalan saaressa.**
@@ -2209,7 +2149,6 @@ Lue tiedotteita ja uutisia Raahen öljyonnettomuudesta:
 
 Julkaistu: 3.6.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/ilmoittaudu-vapaaehtoiseksi-oljyntorjujaksi-raaheen/
 
 **Vapaaehtoisia öljyntorjujia tarvitaan Raaheen rantaöljyntorjuntaan ainakin tiistaihin 10.6.**
@@ -2239,7 +2178,6 @@ Lue tiedotteita ja uutisia Raahen öljyonnettomuudesta:
 ### WWF:n vapaaehtoiset puhdistavat rantoja Raahen öljyonnettomuuden jäljiltä
 
 Julkaistu: 2.6.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/wwfn-vapaaehtoiset-puhdistavat-rantoja-raahen-oljyonnettomuuden-jaljilta/
 
 **Raahessa on aloitettu rantojen puhdistus perjantaina sattuneen öljyonnettomuuden jäljiltä. Onnettomuudessa Rautaruukin tehtaalta pääsi vuotamaan yhteensä noin 13 tonnia raskasta polttoöljyä, josta 3-5 tonnia päätyi vesistöön. Paikanpäällä rantapuhdistustehtävissä on yhteensä 75 vapaaehtoista, joista parikymmentä WWF:n vapaaehtoisia öljyntorjuntajoukkolaisia.**
@@ -2280,7 +2218,6 @@ Lue tiedotteita ja uutisia Raahen öljyonnettomuudesta:
 
 Julkaistu: 2.6.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/vapaaehtoisia-oljyntorjujia-tarvitaan-raahen-seudulta/
 
 **Raahessa rantojen puhdistus on käynnissä perjantaina sattuneen Rautaruukin öljyonnettomuuden jäljiltä. Nyt tarvitsemme tiistaiksi vapaaehtoisia rantaöljyntorjuntaan Raahen lähialueilta.**
@@ -2310,7 +2247,6 @@ Lue tiedotteita ja uutisia Raahen öljyonnettomuudesta:
 ### Öljyonnettomuus Raahessa – vapaaehtoisia tarvitaan
 
 Julkaistu: 1.6.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/06/oljyonnettomuus-raahessa-vapaaehtoisia-tarvitaan/
 
 **Teräsyhtiö Rautaruukin Raahen-tehtaalla on tapahtunut öljyvuoto, jonka seurauksena raskasta polttoöljyä on valunut mereen. Paikallinen pelastuslaitos on havainnut öljyä läheisten saarten rannoilla. Pelastuslaitos on aloittanut öljyn siivouksen, mutta myös vapaaehtoistyövoimalle on tarvetta ainakin huomenna maanantaina 2.6.**
@@ -2343,7 +2279,6 @@ Lue tiedotteita ja uutisia Raahen öljyonnettomuudesta:
 
 Julkaistu: 27.5.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/05/apukinoskuutit-liikkuvat-vaarallisilla-vesilla/
 
 **Neljä apukinoksiin syntynyttä kuuttia sai seurantalaitteen tänä keväänä Pihlajavedellä. Kolme niistä on jo laajentanut elinpiiriään verkkorajoitusalueen ulkopuolelle, selviää Itä-Suomen yliopiston toteuttamasta tutkimuksesta. Kuuttien seurannassa kokeillaan tänä vuonna uutta tekniikkaa, jonka tarjoama aineisto on äärimmäisen tarkkaa.**
@@ -2369,7 +2304,6 @@ Tutkija Marja Niemi, Itä-Suomen yliopisto, 050 341 3654 Ohjelmapäällikkö Pet
 ### Vallisaaren kulttuurimaisemia kunnostetaan presidentti Halosen nimikkoleirillä
 
 Julkaistu: 24.5.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/05/vallisaaren-kulttuurimaisemia-kunnostetaan-presidentti-halosen-nimikkoleirilla/
 
 **WWF Suomi, Metsähallituksen luontopalvelut ja Puolustusvoimat järjestävät kuluvan viikonlopun aikana Vallisaaressa presidentti Tarja Halosen nimeä kantavan talkooleirin. Talkoolaiset raivaavat umpeenkasvaneita kulttuurimaisemia ainutlaatuisella saarella, jota on kutsuttu myös Suomen Angkor Watiksi. Presidentti Halonen vieraili talkoissa lauantaina.**
@@ -2402,7 +2336,6 @@ Jari Luukkonen, suojelujohtaja, WWF Suomi, [email protected], 040 585 0020
 
 Julkaistu: 23.5.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/05/yli-600-eu-vaaliehdokasta-on-sitoutunut-wwfn-ymparistolupauksiin/
 
 **Suomalaiset voivat ympäristöystävällistä eurovaaliehdokasta etsiessään saada viime hetken tukea valinnalleen ympäristöjärjestö WWF:n “vaalikoneesta”. Kaikkiaan 60 suomalaista EU-vaaliehdokasta on allekirjoittanut netissä WWF:n sitoumuksen, jossa he lupaavat suojella ympäristöä ja ihmisten terveyttä, luoda työpaikkoja ja nykyistä vihreämmän talouden, jos heidät valitaan EU-parlamenttiin.**
@@ -2431,7 +2364,6 @@ Lue lisää: ep2014.wwf.eu/
 
 Julkaistu: 22.5.2014  
 Kirjoittaja: Joonas Fritze  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/05/porkkalan-kansallispuisto-paikkaisi-saaristoluonnon-suojelun-puutteita/
 
 **Suomen eteläisen saariston luonto on vertaansa vailla, mutta sen suojelussa on vakavia puutteita. Puutteiden korjaamiseksi WWF Suomen julkaisemassa raportissa esitetään Porkkalan kansallispuiston perustamista ja Saaristomeren, Tammisaaren saariston ja Itäisen Suomenlahden kansallispuistojen laajentamista. Ympäristöministeriö on ilmoittanut tarkastelevansa näiden kansallispuistojen tilannetta osana Suomenlahti 2014 -teemavuotta.**
@@ -2470,7 +2402,6 @@ Raportin voit ladata täältä.
 
 Julkaistu: 12.5.2014  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/05/green-office-toimistojen-paastosaastot-vastaavat-55-kuumatkan-ajokilometreja/
 
 **Suomen Green Office -toimistot vähensivät kasvihuonekaasupäästöjään vuoden 2013 aikana ennätykselliset 7 048 tonnia edelliseen vuoteen verrattuna. Sama päästömäärä tuprahtaisi ilmoille, jos kiertäisi maapallon autolla yli tuhat kertaa tai ajaisi autolla yli 60 vuotta yhtä mittaa (80 km/h). Automatka olisi yhtä pitkä kuin 55 edestakaista matkaa kuuhun.**
@@ -2508,7 +2439,6 @@ WWF:n Green Office -ympäristöjärjestelmän tavoitteena on toimiston ekologise
 ### Kuusi isoa suomalaisyritystä vähentää ympäristövaikutuksiaan vastuullisella soijalla
 
 Julkaistu: 8.5.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/05/kuusi-isoa-suomalaisyritysta-vahentaa-ymparistovaikutuksiaan-vastuullisella-soijalla/
 
 **Kuusi suomalaistoimijaa on sitoutunut siirtymään vastuullisesti tuotetun soijan käyttöön. Yritysten sitoumus vähentää soijan tuotannon ympäristövaikutuksia tuottajamaissa Etelä-Amerikassa. WWF Suomi kysyi kaikilta suurimmilta soijaa tuotteissaan käyttäviltä tai soijaa sisältäviä tuotteita myyviltä toimijoilta niiden suunnitelmista siirtyä vain vastuullisesti tuotettuun soijaan. Suomalaisyrityksistä WWF:n soijahaasteen hyväksyivät Arla, Atria, Finnprotein, HKScan, Ruokakesko ja Raisioagro.**
@@ -2582,7 +2512,6 @@ Finnprotein, Risto Uusitalo, kaupallinen johtaja, 044 032 1067
 ### Ympäristöjärjestöt: Julkinen tuki metsätaloudelle on pääosin ympäristölle haitallista
 
 Julkaistu: 2.5.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/05/ymparistojarjestot-julkinen-tuki-metsataloudelle-on-paaosin-ymparistolle-haitallista/
 
 **Ympäristöjärjestöt WWF Suomi, Suomen luonnonsuojeluliitto ja Luonto-Liitto arvostelevat Kemeran eli kestävän metsätalouden rahoituslain uudistusta. Järjestöjen mukaan on ongelmallista, että julkista rahaa aiotaan käyttää jatkossakin ympäristölle haitallisiin tukiin.**
@@ -2612,7 +2541,6 @@ WWF Suomi, metsäasiantuntija Panu Kunttu, [email protected], 050 305 5086 Suome
 ### Keinopesäkilpailu poiki uusia ideoita saimaannorpan suojeluun
 
 Julkaistu: 24.4.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/04/keinopesakilpailu-poiki-uusia-ideoita-saimaannorpan-suojeluun/
 
 **WWF Suomen julistama saimaannorpan keinopesäkilpailu on ratkennut. Kilpailun sato oli hyvä: ehdotusten joukosta nousi lukuisia innovatiivisia ideoita norpan pesinnän turvaamiseksi lumettomina talvina. Arvosteluraati jakoi voiton kolmen toisiaan muistuttavan ehdotuksen kesken.**
@@ -2647,7 +2575,6 @@ Ohjelmapäällikkö Petteri Tolvanen, WWF Suomi, 0400168939 Suojelubiologi Jouni
 
 Julkaistu: 11.4.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/04/wwf-pyytaa-eu-parlamenttiehdokkaita-sitoutumaan-ymparistonsuojeluun/
 
 **Ympäristöjärjestö WWF pyytää EU-parlamenttivaalien ehdokkaita koko EU:n alueella sitoutumaan yhdeksään ympäristön kannalta tärkeään tavoitteeseen. Perjantaihin 11.4. mennessä jo liki 30 suomalaista ehdokasta oli ilmoittanut sitoutuvansa edistämään kaikkia tai osaa WWF:n tavoitteista. Tavoitteet ulottuvat ilmastonmuutoksen hillinnästä laittoman salametsästyksen ja puukaupan pysäyttämiseen sekä kalakantojen suojeluun.**
@@ -2699,7 +2626,6 @@ Lisätiedot: Liisa Rohweder, pääsihteeri, WWF Suomi, puh. 040 8407461, [email 
 ### Sadat miljoonat sammuttavat illalla valot ilmaston puolesta
 
 Julkaistu: 29.3.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/sadat-miljoonat-sammuttavat-illalla-valot-ilmaston-puolesta/
 
 **Sadat miljoonat ihmiset ympäri maailmaa sammuttavat tänään valot tunnin ajaksi WWF:n Earth Hour -ilmastotempauksessa klo 20.30–21.30. Maailman suurimpaan ilmastotapahtumaan on Suomessa tempauksillaan ilmoittautunut mukaan lähes 600 yhteisöä ja kymmeniä tuhansia yksityishenkilöitä. Maailman laajuisesti Earth Houria vietetään tänäkin vuonna jokaisella seitsemällä mantereella, 158 maassa ja yli 7000 kaupungissa.**
@@ -2737,7 +2663,6 @@ Pääsihteeri Liisa Rohweder, WWF Suomi, 040 8407461
 ### Kapkaupunki valittiin kestävimmäksi kaupungiksi WWF:n kilpailussa
 
 Julkaistu: 27.3.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/kapkaupunki-valittiin-kestavimmaksi-kaupungiksi-wwfn-kilpailussa/
 
 **Etelä-Afrikan Kapkaupunki on valittu WWF:n Earth Hour City Challenge -kilpailun kansainväliseksi voittajaksi. Kilpailuun osallistui yhteensä yli 160 kaupunkia 14 maasta. Ainoana suomalaiskaupunkina kilpailuun osallistunut Lappeenranta pärjäsi kansainvälisessä kilpailussa hyvin, sillä se valittiin 14 parhaan kaupungin joukkoon. Kilpailu mittaa kaupunkien ilmastonmuutoksen vastaisia toimia esimerkiksi energiaan ja liikkumiseen liittyen.**
@@ -2822,7 +2747,6 @@ Lappeenrannan seudun ympäristöjohtaja Ilkka Räsänen, 0400 815284
 
 Julkaistu: 26.3.2014  
 Kirjoittaja: Annamari Säteri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/helsingissa-ennatysmaara-tapahtumia-earth-hourina/
 
 **Maailman suurinta ilmastotapahtumaa, WWF:n Earth Houria, vietetään taas tulevana lauantaina klo 20.30–21.30. Valot sammuvat myös ympäri Helsinkiä, kun tuhannet ihmiset sekä valtava määrä yrityksiä ilmaisevat huolensa ilmaston puolesta. Valojen sammuttamisen lisäksi Earth Hour näkyy monina tapahtumina ympäri Helsinkiä. Earth Hour kiinnittää tänä vuonna huomiota erityisesti arktisen alueen lajeihin, sillä arktinen alue lämpenee ilmastonmuutoksen vaikutuksesta kaksi kertaa nopeammin kuin maapallo keskimäärin.**
@@ -2856,7 +2780,6 @@ Pääsihteeri Liisa Rohweder, WWF Suomi, 040 8407461
 ### Eturivin näyttelijät heittivät talviturkkinsa arktisten lajien puolesta
 
 Julkaistu: 18.3.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/eturivin-nayttelijat-heittivat-talviturkkinsa-arktisten-lajien-puolesta/
 
 **Maailman suurin ilmastotapahtuma Earth Hour saa tukea kotimaisilta sekä ulkomaisilta eturivin näyttelijöiltä. Suomen Earth Houria tukevat tänä vuonna Malla Malmivaara, Ville Virtanen ja Joonas Saartamo. Myös huhtikuussa ensi-iltansa saavan Amazing Spider-Man 2 -elokuvan ohjaaja Marc Webb sekä näyttelijät Adrew Garfield, Emma Stone ja Jamie Foxx ovat ympäristöhankkeillaan tukemassa kansainvälistä Earth Hour -kampanjaa.**
@@ -2893,7 +2816,6 @@ Tiedottaja Katja Rönkkö, WWF Suomi, 040 7230208
 
 Julkaistu: 10.3.2014  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/kotimainen-kirjolohi-vihrealle-listalle-wwfn-kuluttajan-kalaoppaassa/
 
 **WWF Suomen Kuluttajan kalaopas on päivitetty. Suomalainen kirjolohi on nyt suositeltavien, kestävien kalavalintojen joukossa.**
@@ -2972,7 +2894,6 @@ Kriteerit kasvatetulle kalalle:
 
 Julkaistu: 5.3.2014  
 Kirjoittaja: Kalle Erkkilä  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/wwf-mtk-ja-slc-etsivat-itameren-ymparistoystavallisinta-viljelijaa/
 
 **Viidettä kertaa järjestettävällä viljelykilpailulla halutaan innostaa maataloustuottajia siirtymään Itämeren ravinnekuormaa pienentäviin viljelymenetelmiin. Kilpailun tavoitteena on välittää tietoa ympäristöystävällisestä viljelystä ja antaa tunnustusta maataloustuottajille, jotka ovat edelläkävijöitä vesistöjen rehevöitymistä vähentävien menetelmien käytössä.**
@@ -3034,7 +2955,6 @@ WWF:n Itämeri-ohjelmassa on tehty työtä vuodesta 2007 lähtien rehevöitymiso
 ### WWF ja Kuusakoski yhteistyöhön kierrätyksen ja uudelleenkäytön edistämiseksi
 
 Julkaistu: 4.3.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/wwf-ja-kuusakoski-yhteistyohon-kierratyksen-ja-uudelleenkayton-edistamiseksi/
 
 **Kuusakoski ja WWF Suomi lähtevät yhdessä edistämään uudelleenkäyttöä ja kierrätystä suomalaisissa yrityksissä. Erityinen paino on elektroniikan uudelleenkäytöllä, jonka tehostamisessa on Suomessa paljon potentiaalia.**
@@ -3061,7 +2981,6 @@ Leena Oiva, asiakkuuspäällikkö, WWF Suomi,, + 358 40 539 8338, [email protect
 
 Julkaistu: 3.3.2014  
 Kirjoittaja: Annamari Säteri  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/earth-hour-nostaa-esille-arktisten-alueiden-ahdinkoa/
 
 **WWF:n Earth Houria vietetään lauantaina 29. maaliskuuta kello 20.30–21.30. Maailman suurimman ilmastotapahtuman aikana sadat miljoonat ihmiset ja lukuisat organisaatiot eri puolilla maapalloa sammuttavat turhat valot tunnin ajaksi. Tämän symbolisen eleen avulla jokainen voi ilmaista päättäjille huolensa ympäristön tilasta ja ilmastokriisistä. Earth Hour keskittyy Suomessa ilmastonmuutoksen vaikutuksiin arktisilla alueilla ja kerää kansalaisten nimiä aurinkoenergian lisäämistä vaativaan vetoomukseen.**
@@ -3094,7 +3013,6 @@ Earth Hour -tapahtumaan voi ilmoittautua osoitteessa www.wwf.fi/earthhour
 
 Julkaistu: 2.3.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/03/itamerella-on-pyoriaisia/
 
 **Itämereltä löytyy äärimmäisen uhanalaisia pyöriäisiä. Tieto perustuu kaksivuotiseen akustiseen seurantaan, jossa on tallennettu pyöriäisen kaikuluotausääniä. Eniten havaintoja on tehty Tanskan vesillä lounaisella Itämerellä sekä runsaasti myös Ruotsin etelärannikolla ja Saksassa. Suomen alueelta havaintoja on tehty lounaiselta avomerialueelta. WWF on mukana hankkeessa.**
@@ -3126,7 +3044,6 @@ Olli Loisa, Turun ammattikorkeakoulu, [email protected], puh. 050 598 5743
 ### Valtaosa suomalaisista haluaa suojella vapaana virtaavat vedet
 
 Julkaistu: 24.2.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/02/valtaosa-suomalaisista-haluaa-suojella-vapaana-virtaavat-vedet/
 
 **Selvä enemmistö suomalaisista kannattaa vapaiden virtavesien suojelua, selviää WWF:n teettämästä kyselystä. Koskiensuojelulakiin ollaan tyytyväisiä: suurin osa kansasta haluaa säilyttää sen nykyisellään. Kyselyyn haastateltiin yli tuhatta suomalaista.**
@@ -3165,7 +3082,6 @@ Meriohjelman päällikkö Sampsa Vilhunen, WWF Suomi, 040 550 3854
 
 Julkaistu: 19.2.2014  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/02/ravintolat-tarjoavat-entista-kestavampaa-kalaa/
 
 **Lähes kolmannes suomalaisista ravintoloista on muuttanut kalavalikoimiaan vastuullisemmiksi viimeisen kahden vuoden aikana. Ravintolapäälliköistä yli puolet on sitä mieltä, että asiakkaat ovat kiinnostuneita kalan ja äyriäisten alkuperästä.**
@@ -3206,7 +3122,6 @@ Suojeluasiantuntija Matti Ovaska, WWF Suomi, 040 727 3149
 
 Julkaistu: 17.2.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/02/metsapoliittisesta-selonteosta-puuttuvat-metsaluonnon-suojelun-linjaukset/
 
 **WWF arvostelee valtioneuvoston hyväksymää, kautta aikain ensimmäistä metsäpoliittista selontekoa yksipuoliseksi ja metsäluonnon suojelun kannalta riittämättömäksi. Metsäpoliittinen selonteko ohjaa Suomen metsien käyttöä vuoteen 2050 asti. Selonteosta käydään keskiviikkona 19.2. eduskunnassa lähetekeskustelu.**
@@ -3237,7 +3152,6 @@ Lisätietoja: Panu Kunttu, metsäasiantuntija WWF Suomi,, puh. 050 305 5086 Pä�
 
 Julkaistu: 17.2.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/02/21-luonnonsuojelujarjestoa-vaatii-yhteispohjoismaista-suurpetokantojen-hoitoa/
 
 **21 luonnonsuojelujärjestöä Suomesta, Ruotsista ja Norjasta vetoaa tänään yhdessä maidensa hallituksiin, jotta uhanalaisten suurpetojen kantojen hoito suunniteltaisiin jatkossa yhteispohjoismaisesti. Järjestöillä on kaikkiaan yli 650 000 jäsentä ja tukijaa. Yhteinen kannanhoito on järjestöjen mielestä aloitettava sudesta, jonka suojelutilanne on suurpedoista huonoin niin Suomessa, Ruotsissa kuin Norjassakin.**
@@ -3272,7 +3186,6 @@ Lisätiedot: Petteri Tolvanen, ohjelmapäällikkö, WWF Suomi, puh. 0400 168939 
 
 Julkaistu: 14.2.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/02/wwf-ahman-metsastysta-ei-tule-sallia/
 
 **WWF Suomi on tänään jättänyt lausunnon MMM:n luonnoksesta ahman hoitosuunnitelmaksi. Suunnitelmassa ehdotetaan ahman metsästyksen sallimista ahman aiheuttamiin porovahinkoihin perustuvilla poikkeusluvilla poronhoitoalueen pohjois- ja itäosissa. WWF vastustaa jyrkästi äärimmäisen uhanalaiseksi luokitellun ahman metsästyksen avaamista. Hoitosuunnitelmaan sisältyvää ehdotusta ahman reviiripohjaiseksi korvausjärjestelmäksi WWF sen sijaan pitää erittäin tervetulleena.**
@@ -3307,7 +3220,6 @@ Lisätiedot: Ohjelmapäällikkö Petteri Tolvanen, WWF Suomi, puh.0400 168 939
 
 Julkaistu: 14.2.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/02/oljyjatin-toimet-virungan-kansallispuistossa-tutkitaan/
 
 **Monikansallisten yritysten yhteiskuntavastuuta valvova OECD:n toimielin ilmoitti tänään ottavansa tutkittavakseen WWF:n tekemän valituksen brittiläisen öljy-yhtiö Soco Internationalin toiminnasta. Valitus koskee Socon öljynporaussuunnitelmia Kongon demokraattisessa tasavallassa sijaitsevassa Virungan kansallispuistossa. WWF:llä on todisteita siitä, että yhtiö olisi rikkonut ihmisoikeuksia ja vahingoittanut ympäristöä kansallispuistossa, joka on myös UNESCO:n maailmanperintöalueella.**
@@ -3334,7 +3246,6 @@ Lisätiedot: Suojelujohtaja Jari Luukkonen, WWF Suomi, puh. +358 40 585 0020
 
 Julkaistu: 13.2.2014  
 Kirjoittaja: Kalle Erkkilä  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/02/wwf-suomi-julistaa-saimaannorpalle-pesarauhan/
 
 **Itä-Suomen yliopiston norppatutkija Miina Auttila julistaa tänään Joensuussa WWF Suomen perinteisen saimaannorpan pesärauhan. Tänä vuonna julistuksella halutaan kiinnittää huomio siihen, miten ilmastonmuutos vaikuttaa norpan pesintään.**
@@ -3385,7 +3296,6 @@ Pesärauhan julistajat 1993–2013
 
 Julkaistu: 6.2.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/02/tohtori-marco-lambertinista-wwfn-paajohtaja/
 
 **Tohtori Marco Lambertini on nimitetty tänään kansainvälisen ympäristöjärjestö WWF:n (Maailman luonnonsäätiö) pääjohtajaksi. Tällä hetkellä BirdLife International -järjestön pääsihteerinä toimiva Lambertini aloittaa WWF:n johdossa toukokuun alussa.**
@@ -3406,7 +3316,6 @@ Lisätiedot: Viestintäjohtaja Gemma Parkes, viestintä, kansainvälinen WWF, [e
 
 Julkaistu: 29.1.2014  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/01/saimaannorpan-pesinnan-avuksi-kasataan-lumikinoksia/
 
 **Saimaannorppaemo synnyttää normaalisti poikasen eli kuutin helmikuun loppupuolella luodon rantakinokseen. Nyt Saimaalle ei ole kertynyt riittävästi lunta saimaannorpan pesätarpeiksi. Sääennusteiden mukaan ei helmikuun alkupuolella saada riittävästi lunta normaaliin pesintään. EU:n rahoittamassa ja elokuussa 2013 käynnistyneessä Saimaannorppa-LIFE-hankkeessa parannetaan norpan pesimäolosuhteita kolaamalla niille apukinoksia.**
@@ -3435,7 +3344,6 @@ Saimaannorppa-LIFE-hanke (tiedote hankkeen käynnistymisestä 5.7.2013)
 
 Julkaistu: 29.1.2014  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/01/norppien-apukinosten-rakentamiseen-julkaistiin-ohjekirja/
 
 **Saimaalla kolataan pian lumikinoksia norppien pesämateriaaliksi. WWF Suomi julkaisi tänään viranomaisten ja vapaaehtoisten kolaajien avuksi ohjekirjan. Siinä annetut käytännön ohjeet apukinosten suunnittelusta, rakentamisesta ja tarvittavista voimavaroista perustuvat Itä-Suomen yliopiston tutkimuksiin.**
@@ -3480,7 +3388,6 @@ www.uef.fi/fi/norppa
 
 Julkaistu: 21.1.2014  
 Kirjoittaja: Anne Brax  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/01/wwf-etsii-suomenlahden-suojelijoita/
 
 **WWF Suomen vuotuinen Panda-palkinto myönnetään tänä vuonna teolle, aloitteelle tai hankkeelle, joka edistää Suomenlahden suojelua. 30 000 euron suuruinen palkinto on osa WWF:n Suomenlahti 2014 -vuoden toimenpideohjelmaa.**
@@ -3508,7 +3415,6 @@ Lue lisää Panda-palkinnosta: www.wwf.fi/pandapalkinto
 ### Suomalainen kaupunki kilpailee kestävimmän kaupungin tittelistä
 
 Julkaistu: 17.1.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/01/suomalainen-kaupunki-kilpailee-kestavimman-kaupungin-tittelista/
 
 **Ennätysmäärä kaupunkeja on saanut tunnustusta niiden ilmastonmuutoksen vastaisista toimista WWF:n kansainvälisessä kilpailussa. Tänään julkistettujen Earth Hour City Challenge -kilpailun finalistien joukkoon on yltänyt myös yksi suomalaiskaupunki, Lappeenranta. Kilpailu mittaa kaupunkien ilmastonmuutoksen vastaisia toimia esimerkiksi energiaan ja liikkumiseen liittyen. Kaupungit ovat avainasemassa päästöjen vähentämisessä, sillä globaalisti 75 prosenttia päästöistä aiheutuu kaupungeista. Kilpailun voittaja valitaan maaliskuussa.**
@@ -3583,7 +3489,6 @@ http://www.lappeenranta.fi/LiveLappeenranta
 
 Julkaistu: 17.1.2014  
 Kirjoittaja: Antti Haavisto  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/01/ennatysmaara-sarvikuonoja-paatyi-salametsastajien-saaliiksi/
 
 **Sarvikuonojen salametsästys on jatkanut räjähdysmäistä kasvuaan Etelä-Afrikassa. Maan hallituksen tänään julkaiseman tilaston mukaan salametsästäjät tappoivat maassa viime vuonna 1004 sarvikuonoa. Vuonna 2012 luku oli 668 sarvikuonoa.**
@@ -3613,7 +3518,6 @@ Suojelujohtaja Jari Luukkonen, WWF Suomi, puh. 040 585 0020
 ### Lihassa lymyää piilosoijaa
 
 Julkaistu: 14.1.2014  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/01/lihassa-lymyaa-piilosoijaa/
 
 **WWF:n uusi raportti kertoo, että soijan tuotanto on kasvanut kymmenkertaiseksi 50 viime vuoden aikana. Lisäksi tuotanto voi kasvaa puolella nykyisestä vuoteen 2050 mennessä, mikäli kulutus kasvaa nykytahdilla. Vuonna 2012 tuotetusta 270 miljoonasta soijatonnista kolme neljäsosaa käytettiin eläinten rehuun.**
@@ -3666,7 +3570,6 @@ The Growth of Soy: Impacts and Solutions -raportti sekä valokuvia ja infografii
 
 Julkaistu: 7.1.2014  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2014/01/tule-mukaan-meritutkimusleirille/
 
 **Osaatko snorklata, navigoida tai tunnistaa vedenalaisia lajeja? Tule vapaaehtoiseksi meritutkimusleirille! Leiri järjestetään 16.-23.8.2014 Itäisellä Suomenlahdella.**

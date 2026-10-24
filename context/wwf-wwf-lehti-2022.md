@@ -14,7 +14,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 - 29.11.2022 – Mestarimaastoutujan jäljillä kilometrien korkeudessa – näin asiantuntijat suojelevat harvinaista lumileopardia Nepalissa
 - 29.11.2022 – Luonnonsuojelussa täytyy laittaa kirivaihde päälle
 - 29.11.2022 – Kolumni: Itärajan aitaaminen vaikeuttaisi susien liikkumista ja lisääntymistä
-- 29.11.2022 – ”Jo oli aikakin!” – varkautelainen Sini Kero iloitsee rakkaan koskimaiseman vapautumisesta
+- 29.11.2022 – “Jo oli aikakin!” – varkautelainen Sini Kero iloitsee rakkaan koskimaiseman vapautumisesta
 - 16.11.2022 – Vedenalaiskuvaaja Pekka Tuuri viihtyy pintaa syvemmällä
 - 16.11.2022 – Tiikeri ei pääse raidoistaan
 - 16.11.2022 – Pinnalla nyt! Nappaa talteen WWF:läisten talviset vinkit
@@ -23,14 +23,14 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 **Lokakuu 2022**
 
 - 11.10.2022 – Uuden sukupolven luonnonsuojelijat
-- 11.10.2022 – Talkootöitä vuosikymmenten ajan:”Siinä unohtuu normaali arki, työt ja muut kuviot”
+- 11.10.2022 – Talkootöitä vuosikymmenten ajan: “Siinä unohtuu normaali arki, työt ja muut kuviot”
 - 11.10.2022 – Suojelimme yli kaksi miljoonaa hehtaaria sademetsää ja muita tuoreita onnistumisia
 - 11.10.2022 – Royalty-tuotteista virtavesien kunnostustalkoisiin — WWF tekee monenlaista yhteistyötä yritysten kanssa
 - 11.10.2022 – Onnea 50-vuotiaalle WWF Suomelle!
-- 11.10.2022 – Ilmasto nousi WWF:n toiminnan keskiöön 2000-luvulla:”Haaste on suuri ja tehtävää riittää”
+- 11.10.2022 – Ilmasto nousi WWF:n toiminnan keskiöön 2000-luvulla: “Haaste on suuri ja tehtävää riittää”
 - 10.10.2022 – Jo 50 vuotta luonnonsuojelua – onnistumiset osoittavat, että luonnonsuojelulla on merkitystä
 - 7.10.2022 – Yhdeksän vuotta nuorten voimaa
-- 6.10.2022 – Tiikerinsuojelija Smriti Dahal yllättyi uransa alussa:”Ymmärsin, että luonnonsuojelussa on kyse myös ihmisistä”
+- 6.10.2022 – Tiikerinsuojelija Smriti Dahal yllättyi uransa alussa: “Ymmärsin, että luonnonsuojelussa on kyse myös ihmisistä”
 - 6.10.2022 – Pinnalla nyt! WWF:läisten vinkit syksyyn
 - 6.10.2022 – Petteri Tolvasen koko työura on kulkenut kiljuhanhien kintereillä
 - 6.10.2022 – Jenni Räinän kolumni: Olemme aikamme lapsia
@@ -42,7 +42,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 **Kesäkuu 2022**
 
 - 9.6.2022 – Taloudellista toimintaa luonnon suojelemiseksi
-- 9.6.2022 – Roskaretket auttoivat ympäristöahdistukseen:”Olen huomannut, kuinka paljon yksikin ihminen voi saada aikaan”
+- 9.6.2022 – Roskaretket auttoivat ympäristöahdistukseen: “Olen huomannut, kuinka paljon yksikin ihminen voi saada aikaan”
 - 9.6.2022 – Luonto on tärkeä liittolainen ilmastonmuutoksen hillinnässä
 - 9.6.2022 – Kädet öljyssä Itämeren puolesta
 - 9.6.2022 – Jos metsään haluat mennä nyt
@@ -306,7 +306,7 @@ Jouni Tikkanen on helsinkiläinen kustannustoimittaja ja kirjoittaja, jolta ilme
 
 ---
 
-### ”Jo oli aikakin!” – varkautelainen Sini Kero iloitsee rakkaan koskimaiseman vapautumisesta
+### “Jo oli aikakin!” – varkautelainen Sini Kero iloitsee rakkaan koskimaiseman vapautumisesta
 
 Julkaistu: 29.11.2022  
 Aiheet: Virtavedet, Suomen uhanalaiset kalat, Suomi, WWF-lehti  
@@ -480,7 +480,7 @@ Kisukerho haluaa muistuttaa myös aikuisia ympäristönsuojelusta. Tässä heid�
 
 ---
 
-### Talkootöitä vuosikymmenten ajan:”Siinä unohtuu normaali arki, työt ja muut kuviot”
+### Talkootöitä vuosikymmenten ajan: “Siinä unohtuu normaali arki, työt ja muut kuviot”
 
 Julkaistu: 11.10.2022  
 Aiheet: WWF-lehti, Kentällä, Onnistumistarina, Perinneympäristöt, Suomi, Talkoot, Tukijan tarina, Vieraslajit  
@@ -656,7 +656,7 @@ pääsihteeri, WWF Suomi
 
 ---
 
-### Ilmasto nousi WWF:n toiminnan keskiöön 2000-luvulla:”Haaste on suuri ja tehtävää riittää”
+### Ilmasto nousi WWF:n toiminnan keskiöön 2000-luvulla: “Haaste on suuri ja tehtävää riittää”
 
 Julkaistu: 11.10.2022  
 Aiheet: WWF-lehti, Ilmastonmuutos, Luonnon köyhtyminen, Ylikulutus  
@@ -833,7 +833,7 @@ Haku vuoden 2023 WWF Nuoriin on nyt auki osoitteessa wwf.fi/wwfnuoret
 
 ---
 
-### Tiikerinsuojelija Smriti Dahal yllättyi uransa alussa:”Ymmärsin, että luonnonsuojelussa on kyse myös ihmisistä”
+### Tiikerinsuojelija Smriti Dahal yllättyi uransa alussa: “Ymmärsin, että luonnonsuojelussa on kyse myös ihmisistä”
 
 Julkaistu: 6.10.2022  
 Aiheet: Tiikeri, Nepal  
@@ -1030,7 +1030,7 @@ Tänäkin päivänä WWF tekee töitä uhanalaisten lajien suojelemiseksi – ja
 
 ---
 
-### Roskaretket auttoivat ympäristöahdistukseen:”Olen huomannut, kuinka paljon yksikin ihminen voi saada aikaan”
+### Roskaretket auttoivat ympäristöahdistukseen: “Olen huomannut, kuinka paljon yksikin ihminen voi saada aikaan”
 
 Julkaistu: 9.6.2022  
 Aiheet: WWF-lehti, Merten muoviroska, Suomi  

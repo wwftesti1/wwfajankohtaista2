@@ -3,7 +3,7 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Mediatiedotteet). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 33 (uusin 28.11.2024).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 3 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 2 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -58,7 +58,7 @@ Huom: 3 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 **Maaliskuu 2024**
 
 - 31.3.2024 – Jari Luukkonen aloittaa WWF Suomen pääsihteerinä 1.4.
-- 28.3.2024 – WWF: Hallituksen EU-vaikuttaminen on tuhoisaa luonnolle –”On tullut aika kysyä, onko nykyhallitus historiamme ympäristövastaisin”
+- 28.3.2024 – WWF: Hallituksen EU-vaikuttaminen on tuhoisaa luonnolle – “On tullut aika kysyä, onko nykyhallitus historiamme ympäristövastaisin”
 - 21.3.2024 – EU:n ennallistamisasetus vaakalaudalla Unkarin käännettyä takkinsa – Suomi yhtäkkiä vaa’ankieliasemassa
 - 20.3.2024 – Selvitys: Suklaabrändit eivät ole tehneet riittävästi metsäkadon torjumiseksi – pian se voi näkyä suklaapulana Euroopassa
 - 15.3.2024 – WWF:n Earth Hour kannustaa antamaan tunnin ajastaan luonnolle – maailman suurinta ympäristötapahtumaa vietetään lauantaina 23.3. klo 20.30–21.30
@@ -983,7 +983,7 @@ Haastattelupyynnöt: Viestintäjohtaja Joonas Fritze, 040 840 8500, [email prote
 
 ---
 
-### WWF: Hallituksen EU-vaikuttaminen on tuhoisaa luonnolle –”On tullut aika kysyä, onko nykyhallitus historiamme ympäristövastaisin”
+### WWF: Hallituksen EU-vaikuttaminen on tuhoisaa luonnolle – “On tullut aika kysyä, onko nykyhallitus historiamme ympäristövastaisin”
 
 Julkaistu: 28.3.2024  
 Aiheet: Uncategorized @fi  
@@ -1060,7 +1060,6 @@ Mai Suominen, johtava metsäasiantuntija, WWF Suomi, [email protected], 050 322 
 
 Julkaistu: 20.3.2024  
 Aiheet: Metsäkato, Sademetsät, Ylikulutus, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2024/03/selvitys-suklaabrandit-eivat-ole-tehneet-riittavasti-metsakadon-torjumiseksi-pian-se-voi-nakya-suklaapulana-euroopassa/
 
 **Pääsiäisen aikaan kauppojen hyllyt ovat pullollaan erilaisia suklaatuotteita. Monen herkun taustalta löytyy kuitenkin edelleen metsäkatoa, köyhyyttä ja lapsityövoimaa, selviää tuoreesta suklaan vastuullisuuspisteytyksestä.**

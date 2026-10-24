@@ -1,9 +1,8 @@
 # WWF Suomi – Mediatiedotteet 2025
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Mediatiedotteet). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 22 (uusin 16.12.2025).
+Kohteita: 23 (uusin 16.12.2025).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -36,6 +35,7 @@ Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyyp
 
 **Kesäkuu 2025**
 
+- 26.6.2025 – Sex års samarbete för Östersjön i Ingå – ett andra tvåstegsdike färdigställs i Västankvarn
 - 26.6.2025 – Jo kuusi vuotta yhteistyötä Itämeren puolesta Inkoossa – Västankvarniin valmistuu toinen kaksitasouoma
 - 25.6.2025 – WWF Suomi julkaisee urheilu- ja tapahtuma-alan vastuullisuusmerkin
 
@@ -433,6 +433,33 @@ Kuluneena keväänä kuutteja syntyi ennätysmäärä, 111 yksilöä. Heikon lum
 
 ## Kesäkuu 2025
 
+### Sex års samarbete för Östersjön i Ingå – ett andra tvåstegsdike färdigställs i Västankvarn
+
+Julkaistu: 26.6.2025  
+Aiheet: Itämeri, Ennallistaminen, Suomi  
+Kirjoittaja: Sini Harvo  
+Linkki: https://wwf.fi/uutiset/2025/06/sex-ars-samarbete-for-ostersjon-i-inga-ett-andra-tvastegsdike-fardigstalls-i-vastankvarn/
+
+**En 800 meter lång tvåstegsdike håller för närvarande på att byggas i In g å å ns avrinningsområde. Diket anläggs för att minska översvämningsproblem och den vattenbelastning de orsakar. WWF bygger diket med finansiering från Metsä Group i samarbete med undervisnings – och forskningsgården i Västankvarn.**
+
+Tvåstegsdiken stöder den biologiska mångfalden på två sätt: genom att minska mängden näringsämnen som rinner ut i Östersjön och genom att skapa nya livsmiljöer i jordbrukslandskapet.
+
+Dikena byggs, som namnet antyder, i två nivåer. Den nedre nivån är ett befintligt dike där vattnet rinner under torrare perioder. Den övre nivån fungerar som en översvämningsterrass där vattnet stiger vid högre flöden. Terrasserna håller kvar näringsämnen som redan kommit med det strömmande vattnet och hindrar dem från att sköljas bort från fälten.
+
+”Natur som trivs i gränszonen mellan vatten och land gynnas av att diket anläggs. Detta område kommer att skapa över 1600 kvadratmeter översvämningsäng, där olika växter och deras beroende organismer, som pollinatörer, kommer att trivas”, säger Viivi Kaasonen, naturskyddsexpert på WWF.
+
+Tvåstegsdiket finansieras av Metsä Group som en del av deras finansieringsprogram för naturprojekt.
+
+”Vårt mål är att stärka naturens tillstånd i vår egen verksamhet genom program för regenerativt skogsbruk och markanvändning. Finansieringen av naturprojekt är ett tillägg och ett icke-ersättningsbart program för restaureringsinsatser. Istället för konfrontation vill vi utveckla nätverk av naturaktörer. Enligt vår uppfattning är WWF en pålitlig och vägvisande expertorganisation, som vi har haft glädjen att samarbeta med”, säger Timo Lehesvirta, ledande naturspecialist vid Metsä Group.
+
+Diket byggs på platsen för en tidigare sjö. Det är inte möjligt att återställa sjön utan att förlora stora delar av åkermarken i Västankvarn. En lösning som ett tvåstegsdike är därför en bra kompromiss som gynnar både vattennaturen och det lokala jordbruket.
+
+WWF:s arbete med vatten reglering baseras på EU:s ramdirektiv för vatten, som syftar till att uppnå god ekologisk status senast 2027. Under det senaste århundradet har stora områden med myrar, sjöar och våtmarker dikats ut och slingrande fåror rätats ut för jord- och skogsbruk. Förlusten av naturliga vattenfördröjningsområden genom dikning har i stor utsträckning försämrat vattenhanteringen i avrinningsområdena.
+
+Betydelsen av vattenhanteringslösningar kommer att bli ännu viktigare i framtiden när klimatförändringarna ökar nederbörden och de milda vintrarna. Att anlägga tvåstegsdiken och våtmarker är därför ett viktigt sätt att anpassa sig till klimatförändringarna i regionen.
+
+---
+
 ### Jo kuusi vuotta yhteistyötä Itämeren puolesta Inkoossa – Västankvarniin valmistuu toinen kaksitasouoma
 
 Julkaistu: 26.6.2025  
@@ -585,7 +612,6 @@ Iiris Kokko nen, meriasiantuntija, WWF, [email protected], 044 518 8222
 
 Julkaistu: 23.4.2025  
 Aiheet: Perinneympäristöt, Ennallistaminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/tiedotteet/2025/04/moni-tuttu-niittykasvi-on-vahentynyt-villimpi-piha-on-polyttajille-parhaaksi/
 
 **Pölyttäjien tärkeimmät elinympäristöt ovat Suomessa uhanalaisia. Täydentäviä elinalueita pölyttäjille on mahdollista tarjota rakennetussa ympäristössä, kuten kotipihoilla ja parvekkeilla sekä kuntien ja yrityskiinteistöjen alueilla. WWF kannustaa OP Ryhmän kanssa kaikkia suomalaisia mukaan kampanjaan villimpien pihojen puolesta ja ilmoittamaan neliömetrejä Ala villiksi -laskuriin.**

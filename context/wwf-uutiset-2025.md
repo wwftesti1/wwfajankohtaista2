@@ -1,9 +1,9 @@
 # WWF Suomi – Uutiset 2025
 
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: Uutiset). Päivittyy automaattisesti kerran päivässä.
-Kohteita: 100 (uusin 26.12.2025).
+Kohteita: 98 (uusin 26.12.2025).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 26 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 1 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -72,11 +72,11 @@ Huom: 26 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 24.7.2025 – Maailman ylikulutuspäivä on tänään – “Luontokato ei pysähdy, jos ylikulutus jatkuu”
 - 22.7.2025 – Itämerellä elää merihevosen sukulainen ja pingviiniä muistuttava lintu – tunnetko nämä lajit?
 - 11.7.2025 – WWF: Itämerennorpan metsästyskiintiöstä esitetään aivan liian suurta
+- 7.7.2025 – Eväiden jämät Suomen uhanalaisimman nisäkkään uhkana – WWF kampanjoi naalin puolesta
 - 7.7.2025 – Näin varaudut punkkeihin villillä pihalla
 
 **Kesäkuu 2025**
 
-- 26.6.2025 – Sex års samarbete för Östersjön i Ingå – ett andra tvåstegsdike färdigställs i Västankvarn
 - 26.6.2025 – Luonnonystävän menovinkit kesälle 2025
 - 26.6.2025 – Hukkaako valtio valtavan potentiaalin säästää energiaa? –”Hallitus menee sieltä missä aita on matalin”
 - 25.6.2025 – Nyt seurataan yöeläimiä suorassa lähetyksessä – WWF:n Luontoliveen aukesi mäyräkamera
@@ -85,7 +85,6 @@ Huom: 26 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 24.6.2025 – Tukea kuivuuden ja metsäpalojen keskelle – katso kansainvälisen työmme tuoreimmat saavutukset
 - 16.6.2025 – Coca-Cola Suomi ja WWF Suomi yhteistyöhön vesien suojelussa Ingarskilanjoella
 - 13.6.2025 – Lapinpöllökamera hiljenee – poikaset ovat jättäneet pesän
-- 12.6.2025 – Näkökulma: Kannattava liiketoiminta ei voi perustua luonnonvarojen ylikulutukseen
 - 11.6.2025 – Energiayhtiöillä miljoonien kuutioiden kokoinen vastuu suomalaisen metsäluonnon tilasta
 - 9.6.2025 – WWF:n Panda-palkinto jaetaan kolmen voittajan kesken
 - 6.6.2025 – Norppaliven parhaat palat vuosi vuodelta
@@ -98,7 +97,6 @@ Huom: 26 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyy
 - 23.5.2025 – Tuore tutkimus valottaa bonobojen tilannetta: Ihmisen lähimpiin sukulaisiin kuuluvat apinat sinnittelevät Salongan kansallispuistossa
 - 21.5.2025 – Äärimmäisen uhanalaiset kiljuhanhet levähtivät jälleen Suomessa – muutto eteni talvehtimisalueilta Suomeen viipyilevästi
 - 19.5.2025 – Vapaaehtoiset öljyntorjuntajoukot harjoittelivat Kotkassa oikealla öljyllä ja kokeilivat torjuntavälineitä
-- 15.5.2025 – Webinaari: WWF-raportti pui kriittisten mineraalien ympäristövaikutuksia
 - 15.5.2025 – Suomi teki ennätyksen – eniten purettuja patoja koko Euroopassa
 - 9.5.2025 – Itämeren lohikannat ovat romahtaneet –”Kalastuksen myöhäistäminen on vähintä, mitä voimme tehdä”
 - 8.5.2025 – WWF aloitti suoran lähetyksen lapinpöllön pesältä – Edellisellä”tuotantokaudella” yli miljoona katselukertaa
@@ -218,7 +216,6 @@ WWF:n uutiskirjeen avulla pysyt kartalla luonnonsuojelun tuoreimmista kuulumisis
 
 Julkaistu: 19.12.2025  
 Aiheet: Uncategorized @fi, Ilmastonmuutos, Itä-Afrikka, Luonnon köyhtyminen, Mekong  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/12/wwf-suomi-antaa-luonnonkatastrofirahastostaan-30-000-euroa-vietnamiin-indonesiaan-ja-keniaan/
 
 **Voimakkaat sateet ovat aiheuttaneet loppuvuodesta mittavia tuhoja niin Aasiassa kuin itäisessä Afrikassa. WWF Suomen Luonnonkatastrofirahaston varoilla autetaan tuhojen korjaamisessa ja uusien luonnonkatastrofien hillitsemisessä.**
@@ -370,7 +367,6 @@ Palkitsemistilaisuus järjestettiin Kotina metsä -näyttelyn tiloissa Luonnonti
 
 Julkaistu: 8.12.2025  
 Aiheet: Ilmastonmuutos, Suomen metsät, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/12/hallituksen-energia-ja-ilmastostrategia-edelleen-pettymys-talla-ei-varmisteta-tavoitteiden-saavuttamista/
 
 **Hallitus julkaisi joulukuun alussa energia- ja ilmastostrategian, joka lähti eduskuntaan selontekona. Kesällä kommentoitavana ollut strategia on edelleen heikko.**
@@ -518,7 +514,6 @@ Koko raportti löytyy täältä.
 Julkaistu: 27.11.2025  
 Aiheet: Suomi, Ennallistaminen, Lahjoittaminen, Suomen metsät, Yritykset  
 Kirjoittaja: Emmi Karhiaho  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/11/miten-wwf-auttaa-suomen-luontoa-6-esimerkkia-joilla-pysaytetaan-suomalaisen-luonnon-hatatila/
 
 **Suomen luonto on kipeästi avun tarpeessa. Luontokadon vauhti kiihtyy ja musta joulu on jo tuttu ilmiö. WWF toimii joululahjoittajien tuella suomalaisen luonnon suojelemiseksi ja ennallistamiseksi. Tavoitteena on saada käännettyä huolestuttava kehitys positiiviseen suuntaan.**
@@ -592,7 +587,6 @@ WWF:n asiantuntijat toimivat monin keinoin Suomen luonnon hyväksi. Voittoa tavo
 Julkaistu: 24.11.2025  
 Aiheet: Luontolive  
 Kirjoittaja: Riikka Kaartinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/11/nakyiko-talvilintukamerassa-jotain-kiinnostavaa-nyt-voit-ilmoittaa-lajihavaintosi-uudella-tyokalulla/
 
 **WWF:n Luontoliven uudella työkalulla voit ilmoittaa lajihavaintosi muiden katselijoiden iloksi. Otamme mielellämme palautetta ja kehitysehdotuksia vastaan, sillä havaintotyökalua kehitetään jatkuvasti.**
@@ -1190,7 +1184,6 @@ Ala villiksi -kampanja jatkuu jälleen ensi vuonna, ja WWF tekee sitä yhteisty�
 Julkaistu: 23.10.2025  
 Aiheet: Ilmastonmuutos, Suomen metsät, Suomi  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/10/ilmastopolitiikan-korjaussarja-tarjoiltiin-hallitukselle-hopealautasella-enaa-tarvitaan-poliittista-tahtoa/
 
 **Suomen ilmastopaneeli julkaisi vastikään listan konkreettisista toimista, joiden avulla valtion rikkinäinen ilmastopolitiikka voitaisiin korjata. Nyt on kyse enää siitä, haluaako Petteri Orpon hallitus kiihdyttää vai hillitä ilmastokriisiä.**
@@ -1348,7 +1341,6 @@ Virtaankosken ennallistamiseen ja alueen virkistys- ja matkailukäytön kehittä
 
 Julkaistu: 22.9.2025  
 Aiheet: Itämeri, Ennallistaminen, Kentällä, Luonnon köyhtyminen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/09/kaarinalaisen-suon-ennallistaminen-osoittaa-etta-luonto-palautuu-yhteistyolla/
 
 **Saaristomer en suojeluun tähtäävä hanke pääsi vauhtiin syyskuussa, kun Kaarinassa Linnavuoren luonnonsuojelualueella ennallistettiin ojitettu suo. Monen toimijan yhteistyönä edennyt työ on oiva esimerkki vesiensuojelun lisäksi siitä, mi llaisia EU:n ennallistamisasetuksen mukaisia toimia Suomessa jo tehdään.**
@@ -1456,7 +1448,6 @@ Hankerahoituksen avulla Metsähallitus jatkaa ja kehittää naalin lisäruokinta
 Julkaistu: 2.9.2025  
 Aiheet: Ilmastonmuutos, Suomen metsät, Suomi  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/09/ilmastoneutraalius-edelleen-saavutettavissa-jos-hallitus-kaarii-hihat/
 
 **Hallituksen lähes totaalinen ilmastotoimettomuus muodostaa ison riskin myös Suomen taloudelle. Tänään julkaistu raportti osoittaa, että tehokkailla ilmastotoimilla voi olla positiivinen vaikutus talouteen.**
@@ -1499,7 +1490,6 @@ Tuore selvitys sisältää joitakin politiikkasuosituksia, joita olisi aiheellis
 
 Julkaistu: 1.9.2025  
 Aiheet: Luonnon köyhtyminen, Ilmastonmuutos, Metsäkato, Sademetsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/09/ymparistolakeja-uhataan-heikentaa-vetoa-euhun-pika-aikataululla/
 
 **Luonnonsuojelun turvaaminen, ilmastonmuutoksen hillintä, metsäkadon pysäyttäminen. Näitä kaikkia edistetään EU:n ympäristölainsäädännöllä, jota pyritään nyt heikentämään. Kansalaiset voivat vedota luonnon puolesta Euroopan komission avoimessa kuulemisessa, joka sulkeutuu jo 10.9.**
@@ -1824,7 +1814,6 @@ Kuten Pölyttäjäkamerassa, myös omalle pihalle voi luoda pölyttäjäystävä
 Julkaistu: 5.8.2025  
 Aiheet: Merten muoviroska, Meret  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/08/kansainvaliset-muoviroskaneuvottelut-jatkuvat-yha-paheneva-muoviongelma-uhkaa-luonnon-ja-ihmisten-terveytta/
 
 **Neuvottelut kansainvälisestä muoviroskasopimuksesta jatkuvat tänään Sveitsissä. WWF korostaa, että sopimuksen sisäl löstä ei ole varaa joustaa. Neuvottelujen alla julkaistu raportti varoittaa muovin terveysriskeistä ja korostaa tarvetta muovinkäytön kansainväliselle säätelylle.**
@@ -2113,12 +2102,112 @@ Itämerennorpan kokonaiskanta on edelleen vain kymmenisen prosenttia entisestä 
 
 ---
 
+### Eväiden jämät Suomen uhanalaisimman nisäkkään uhkana – WWF kampanjoi naalin puolesta
+
+Julkaistu: 7.7.2025  
+Aiheet: Suomi, Naali  
+Kirjoittaja: Joonas Fritze  
+Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2025/evaiden-jamat-suomen-uhanalaisimman-nisakkaan-uhkana-wwf-kampanjoi-naalin-puolesta/
+
+**WWF suojelee äärimmäisen uhanalaista naalia viestimällä jät teiden käsittelyn merkityksestä Tunturi-Lapissa.**
+
+WWF:n suojeluasiantuntija Anna Westerling kapuaa Saanan rinnettä ja pysähtyy tähyämään vieressä kumpuileville tuntureille. Kaukana laaksossa jolkottaa porotokka, kun taas Saanan huippua kohti huhkii toinen lauma: retkeilijöiden ehtymätön virta.
+
+Westerling on Kilpisjärvellä naalin asialla. Suomen uhanalaisin nisäkäs on saanut näillä seuduilla poikasia jo kolmena vuotena peräkkäin. Se on luonnonsuojelun onnistuminen, sillä edellisen kerran naalin pesintä onnistui Suomessa 1990-luvun puolivälissä. Pohjoismainen naalikanta on kasvanut viime vuosina liki 600 yksilöön.
+
+Naalin tilanne on kuitenkin kaukana turvatusta. Metsästys hävitti lajin lähes kokonaan Suomesta 1900-luvun alkuun mennessä. Vaikka naaleja ei ole saanut pyytää sataan vuoteen, pohjoismainen kanta oli kutistunut vuosituhannen vaihteeseen tultaessa liki olemattomaksi.
+
+Naalin suurin uhka on nykyään sen oma sukulainen, kettu, joka on levittäytynyt yhä pohjoisemmaksi. Ihminen on siivittänyt repolaisen voittokulkua monin tavoin.
+
+Ilmastonmuutos hyödyttää kettua, joka suurempana ja erittäin sopeutuvaisena lajina on vallannut elintilaa arktisiin oloihin erikoistuneelta serkultaan. Se valtaa naalin pesimäpaikkoja ja voi tappaa naalin pentuja. Lisäksi kettu voi hyötyä retkeilijöistä. Vaikka naalikin hyödyntää haaskoja, sen elinalueille jätetyt ruoka- ja saalistähteet päätyvät todennäköisemmin ketun kitaan ja auttavat sitä levittäytymään yhä laajemmalle.
+
+Niinpä Westerling jatkaa taivaltamista kohti retkeilijöiden suosimaa kotaa toiveenaan tavoittaa tunturissa liikkujat.
+
+#### Tietoiskuja eränkävijöille
+
+Eletään kesäkuuta, ja jos naali näyttäytyisi näillä rinteillä juuri nyt, olisi se todennäköisesti vaihtamassa vaaleaa talviturkkiaan ruskeaan suvipukuun.
+
+Samalla asialla ovat myös Käsivarren tunturit, joiden tummia rinteitä kirjovat edelleen vaaleat lumenviipymät. Pohjoinen luonto tuntuu pitävän tiukasti kiinni talven jäänteistä.
+
+Saanan kota pilkottaa lehdettömän tunturikoivikon lomasta noin kilometrin kipuamisen jälkeen. Tältä taukopaikalta alkaa puuton tunturipaljakka, naalin elinalue.
+
+Kodalla kärisee makkara, ja ihmiset evästävät myös taukopaikan ulkopuolella. Viileä tuuli pyyhkii maiseman yli. Läheiseen varvikkoon laskeutuu kurnuttava riekko.
+
+Westerling laskee kantamuksensa ja ryhtyy mallailemaan mukanaan kantamaansa taulua kodan seinämään. Taulu on teetetty tietoiskuksi retkeilijöille, joiden toivotaan kiinnittävän huomiota jätehuoltoon naalin auttamiseksi.
+
+”Kettuja liikkuu paljon autiotupien ja leiripaikkojen läheisyydessä, ja ne ovat oppineet hyödyntämään ihmisten läsnäoloa”, Westerling sanoo.
+
+Westerling johtaa kampanjaa, jonka tavoitteena on lisätä retkeilijöiden, kalastajien ja metsästäjien tietoisuutta tunturiin jäävän bio- ja saalisjätteen haittavaikutuksista.
+
+”Kampanja on yksi osa monipuolista työtä naalin suojelemiseksi. Monesta erillisestä toimesta muodostuu vaikuttava kokonaisuus”, Westerling sanoo.
+
+Mustunut banaaninkuori pilkistää kahden kivenlohkareen välistä kodan takana. Viidentoista metrin päässä tummuneesta kuoresta nököttää huussi, johon ruuantähteet saisi viedä kompostoitumaan. Muuten retkietikettiä on noudatettu hyvin, ja taukopaikka on siisti.
+
+Kampanjan sanomaa välitetään monin tavoin. Metsähallitus vie informaatiotauluja tupiin ja vaellusreittien varsille myös kauemmas erämaa-alueille. WWF on teettänyt esitteitä ja tarroja, joita Käsivarren ja Utsjoen alueen matkailuyrittäjät voivat hyödyntää ja jakaa asiakkailleen. Lisäksi WWF on järjestänyt infotilaisuuksia kausityöntekijöille ja eräoppaille sekä suunnannut viestejä sosiaalisessa mediassa Lapin luonnossa liikkuville.
+
+Myös muissa Pohjoismaissa on ollut kiinnostusta WWF Suomen teettämille materiaaleille.
+
+”Naalikanta on hajaantunut ja pirstoutunut Pohjoismaissa lukuisiin osapopulaatioihin. On paljon alueita, joille naali ei ole vielä palannut, eikä näille alueille haluta houkutella kettuja tarjoamalla niille ylimääräistä ravintoa”, Westerling sanoo.
+
+Käsivarren pienen naalipopulaation suunta on hyvä, mutta haasteita on.
+
+”Täällä Käsivarren alueella on muutamia naalipareja ja muutama yksinäinen nuorikin. Myyrävuosi on kuitenkin ollut huono, ja naalin on vaikeaa saada evästä. Pesintämenestys riippuu aika paljon ravintotilanteesta”, Metsähallituksen Luontopalvelujen suunnittelija Antti Ohenoja sanoo.
+
+Westerling nostaa repun selkäänsä. Myös retkeilijöiden tauko on ohitse, ja matka alas Saanan rinteitä alkaa. Evästauolla nautittujen ruokien jätteet on kierrätetty huolellisesti.
+
+”Jätteiden vähentäminen on teko, johon kuka tahansa Lapin luonnossa liikkuva voi osallistua ja siten vaikuttaa”, Westerling sanoo ja harppoo kohti avotunturia kuvaamaan kampanjasta kertovaa somevideota.
+
+Kampanja on osa laajempaa naalinsuojeluhanketta (Felles Fjellrev – Together for the Arctic Fox), jota osarahoittaa Euroopan unionin Interreg Aurora -rahasto. Kampanjan opastaulut, esitteet ja tarrat on teetetty Finn Spring Oy:n juomabrändi Villin tuella.
+
+**Tietolaatikko:**
+
+- Naalin suojelun muita keinoja Naalien lisäruokinta. Metsähallituksen Luontopalvelut ja WWF ylläpitävät naalin tärkeimmillä esiintymisalueilla ruokinta-automaatteja. Automaatit on rakennettu niin, ettei kettu pääse hyödyntämään niiden tarjontaa. Kettukannan rajoittaminen. Metsähallitus tukee kettujen metsästystä pohjoisilla tunturialueilla. Luonnonnaalien tarhaaminen. Norjassa vapautetaan tarhaoloissa syntyneitä luonnonnaalien pentuja luontoon. Pesäpaikkojen tarkastaminen. Metsähallituksen Luontopalvelut, WWF ja vapaaehtoiset tarkastavat naalin pesäpaikkoja, jotta mahdolliset pesinnät havaitaan.
+- Naalien lisäruokinta. Metsähallituksen Luontopalvelut ja WWF ylläpitävät naalin tärkeimmillä esiintymisalueilla ruokinta-automaatteja. Automaatit on rakennettu niin, ettei kettu pääse hyödyntämään niiden tarjontaa.
+- Kettukannan rajoittaminen. Metsähallitus tukee kettujen metsästystä pohjoisilla tunturialueilla.
+- Luonnonnaalien tarhaaminen. Norjassa vapautetaan tarhaoloissa syntyneitä luonnonnaalien pentuja luontoon.
+- Pesäpaikkojen tarkastaminen. Metsähallituksen Luontopalvelut, WWF ja vapaaehtoiset tarkastavat naalin pesäpaikkoja, jotta mahdolliset pesinnät havaitaan.
+
+**Tietolaatikko:**
+
+- Neljä vinkkiä tunturissa liikkujalle Älä jätä ruuantähteitä, saalisjätteitä tai kalanperkeitä tunturiin, vaan vie mukanasi kaikki, mitä toitkin. Suunnittele ruokamäärät ja annoskoot ennakkoon ja varaa ylimääräistä ruokaa kohtuudella. Biojätteen minimoimiseksi valmista kerralla vain sen verran kuin jaksat syödä. Ota mukaan tiiviitä pusseja jätteitä varten. Hyödynnä myös ulkohuussien kompostit, mutta noudata aina ohjeistusta. Jos et pysty kuljettamaan jätteitä mukanasi eikä kompostointimahdollisuuksia ole, hautaa tähteet maahan ja peitä muutamalla reilun kokoisella kivellä, jottei kettu pääse niihin käsiksi.
+- Älä jätä ruuantähteitä, saalisjätteitä tai kalanperkeitä tunturiin, vaan vie mukanasi kaikki, mitä toitkin.
+- Suunnittele ruokamäärät ja annoskoot ennakkoon ja varaa ylimääräistä ruokaa kohtuudella. Biojätteen minimoimiseksi valmista kerralla vain sen verran kuin jaksat syödä.
+- Ota mukaan tiiviitä pusseja jätteitä varten. Hyödynnä myös ulkohuussien kompostit, mutta noudata aina ohjeistusta.
+- Jos et pysty kuljettamaan jätteitä mukanasi eikä kompostointimahdollisuuksia ole, hautaa tähteet maahan ja peitä muutamalla reilun kokoisella kivellä, jottei kettu pääse niihin käsiksi.
+
+#### Kalastajat mukana kampanjassa
+
+Arktiset vedet -ohjelman juontaja ja tuottaja Juhani Henriksson istahtaa rovaniemeläisen hotellin aamupalalle ja tervehtii aurinkoisesti. Ohjelman kuvaukset ovat parhaillaan käynnissä, mutta pohjoinen luonto vetää miestä puoleensa myös vapaa-ajalla – Henriksson on palannut Inarista lomamatkalta myöhään edellisenä iltana.
+
+Arktiset vedet on 14 kautta pyörinyt kalastusohjelma, joka pyrkii Henrikssonin mukaan toimimaan myös laajemmin luonnon ja sen kestävän käytön äänitorvena.
+
+”Kun aloitimme, emme tienneet biologiasta, vaelluskaloista, patojen haitoista tai ylipäätään luonnonsuojelusta juuri mitään, vaan teimme ohjelmaa luonto- ja kalastusharrastus edellä. Nyt tieto on lisääntynyt huimasti”, Henriksson sanoo.
+
+”Haluan omassa työssäni vaikuttaa tarinoiden kautta siihen, miten ihmiset näkevät ja arvostavat pohjoista luontoa ja erämaata.”
+
+Naalin Henriksson näkee yhtenä pohjoisen luonnon symboleista.
+
+”Kävimme taannoin Kilpisjärvellä kuvausreissulla katsomassa paikkaa, jossa naali oli pesinyt vuonna 1996. Siitä reissusta meni pari vuotta, kun kuulimme positiivisia uutisia naalin pesinnästä Suomessa. Kyllä se ilahdutti kovasti.”
+
+Suomessa Henriksson ei ole vielä nähnyt naalia, vaikka kuvausryhmä sen elinalueilla liikkuukin. Arktiset vedet tukee kampanjaa naalin puolesta.
+
+”Pyrimme aina kuvauksiin lähtiessämme siihen, ettemme jätä luontoon jälkiä. Kannamme itse jätteen ja roskat mukanamme ja hautaamme biojätteet ja kalanperkeet. Tämä on perusperiaatteemme.”
+
+Kalastajia Henriksson vinkkaa retkilapion ottamisesta tunturiin, jotta perkeet voi haudata helposti.
+
+”Ja jos on majoitus lähellä, kalan voi käsitellä vasta mökillä, missä jätehuolto toimii.”
+
+Henrikssonin mukaan kalastajat osaavat huomioida ympäröivän luonnon yhä paremmin.
+
+”Ei eräetikettiä tunnettu parikymmentä vuotta sitten yhtään niin hyvin kuin nyt. Ihmisten ajattelussa ja toiminnassa tapahtunut iso muutos parempaan.”
+
+---
+
 ### Näin varaudut punkkeihin villillä pihalla
 
 Julkaistu: 7.7.2025  
 Aiheet: Suomi, Luonnon köyhtyminen  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/07/nain-varaudut-punkkeihin-villilla-pihalla/
 
 **Puutiaiset ovat runsastuneet Suomessa. Huoli näistä tauteja levittävistä ötököistä on aiheellinen, ja jokainen voi tehdä varotoimia puutiaisten välttämiseksi. Pihapiirissä voi yhtä aikaa edistää luonnon monimuotoisuutta ja huomioida puutiaisten riskin.**
@@ -2169,40 +2258,11 @@ Ala villiksi -kampanjan pääyhteistyökumppani on OP Ryhmä.
 
 ## Kesäkuu 2025
 
-### Sex års samarbete för Östersjön i Ingå – ett andra tvåstegsdike färdigställs i Västankvarn
-
-Julkaistu: 26.6.2025  
-Aiheet: Itämeri, Ennallistaminen, Suomi  
-Kirjoittaja: Sini Harvo  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2025/06/sex-ars-samarbete-for-ostersjon-i-inga-ett-andra-tvastegsdike-fardigstalls-i-vastankvarn/
-
-**En 800 meter lång tvåstegsdike håller för närvarande på att byggas i In g å å ns avrinningsområde. Diket anläggs för att minska översvämningsproblem och den vattenbelastning de orsakar. WWF bygger diket med finansiering från Metsä Group i samarbete med undervisnings – och forskningsgården i Västankvarn.**
-
-Tvåstegsdiken stöder den biologiska mångfalden på två sätt: genom att minska mängden näringsämnen som rinner ut i Östersjön och genom att skapa nya livsmiljöer i jordbrukslandskapet.
-
-Dikena byggs, som namnet antyder, i två nivåer. Den nedre nivån är ett befintligt dike där vattnet rinner under torrare perioder. Den övre nivån fungerar som en översvämningsterrass där vattnet stiger vid högre flöden. Terrasserna håller kvar näringsämnen som redan kommit med det strömmande vattnet och hindrar dem från att sköljas bort från fälten.
-
-”Natur som trivs i gränszonen mellan vatten och land gynnas av att diket anläggs. Detta område kommer att skapa över 1600 kvadratmeter översvämningsäng, där olika växter och deras beroende organismer, som pollinatörer, kommer att trivas”, säger Viivi Kaasonen, naturskyddsexpert på WWF.
-
-Tvåstegsdiket finansieras av Metsä Group som en del av deras finansieringsprogram för naturprojekt.
-
-”Vårt mål är att stärka naturens tillstånd i vår egen verksamhet genom program för regenerativt skogsbruk och markanvändning. Finansieringen av naturprojekt är ett tillägg och ett icke-ersättningsbart program för restaureringsinsatser. Istället för konfrontation vill vi utveckla nätverk av naturaktörer. Enligt vår uppfattning är WWF en pålitlig och vägvisande expertorganisation, som vi har haft glädjen att samarbeta med”, säger Timo Lehesvirta, ledande naturspecialist vid Metsä Group.
-
-Diket byggs på platsen för en tidigare sjö. Det är inte möjligt att återställa sjön utan att förlora stora delar av åkermarken i Västankvarn. En lösning som ett tvåstegsdike är därför en bra kompromiss som gynnar både vattennaturen och det lokala jordbruket.
-
-WWF:s arbete med vatten reglering baseras på EU:s ramdirektiv för vatten, som syftar till att uppnå god ekologisk status senast 2027. Under det senaste århundradet har stora områden med myrar, sjöar och våtmarker dikats ut och slingrande fåror rätats ut för jord- och skogsbruk. Förlusten av naturliga vattenfördröjningsområden genom dikning har i stor utsträckning försämrat vattenhanteringen i avrinningsområdena.
-
-Betydelsen av vattenhanteringslösningar kommer att bli ännu viktigare i framtiden när klimatförändringarna ökar nederbörden och de milda vintrarna. Att anlägga tvåstegsdiken och våtmarker är därför ett viktigt sätt att anpassa sig till klimatförändringarna i regionen.
-
----
-
 ### Luonnonystävän menovinkit kesälle 2025
 
 Julkaistu: 26.6.2025  
 Aiheet: Suomi, Talkoot, Yritykset  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/06/menovinkit-luonnonystavan-kesalle-202/
 
 **Tänä kesänä WWF on mukana monessa. Kokosimme tärpit kiinnostaviin kesätapahtumiin, joissa voit muun muassa torjua vieraslajeja, pyöräillä saimaannorpan puolesta ja oppia roskattomasta retkeilystä.**
@@ -2261,7 +2321,6 @@ Päivitetty 8.8.2025
 
 Julkaistu: 26.6.2025  
 Aiheet: Energiatehokkuus, Ilmastonmuutos, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/06/hukkaako-valtio-valtavan-potentiaalin-saastaa-energiaa-hallitus-menee-sielta-missa-aita-on-matalin/
 
 **Suomessa rakennusten energiatehokkuutta on hitaasti viety hyvään suuntaan. Nyt ministeriö on kuitenkin painamassa jarrua, vaikka vauhtia pitäisi kiihdyttää.**
@@ -2346,7 +2405,6 @@ WWF toteuttaa livelähetyksen mäyrän pesältä yhdessä luontokuvaaja Tuomas H
 Julkaistu: 25.6.2025  
 Aiheet: Saimaannorppa, Suomi  
 Kirjoittaja: Silja Honkavuori  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/06/kaksi-saimaannorppaa-kuoli-kalanpyydyksiin-wwf-vetoaa-kalastamaan-norppaturvallisin-menetelmin-ja-jattamaan-verkot-kuivalle-maalle/
 
 **Saimaan Haukivedeltä ja Puruvedeltä on löytynyt kaksi kalanpyydyksiin kuollutta saimaannorppaa. Toinen norpista menehtyi asetuksen vastaiseen löysänieluiseen katiskaan ja toinen asetuksen sallimaan avorysään. WWF muistuttaa norppaturvallisen kalastuksen tärkeydestä.**
@@ -2525,7 +2583,6 @@ Liite: Lue koko vuosiraportti! (https://wwf.fi/app/uploads/2/f/k/sexpmyw5ekpzxvt
 Julkaistu: 16.6.2025  
 Aiheet: Yritykset, Ennallistaminen, Itämeri  
 Kirjoittaja: Emmi Karhiaho  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/06/coca-cola-suomi-ja-wwf-suomi-yhteistyohon-vesien-suojelussa-ingarskilanjoella/
 
 **Coca-Cola Suomi ja WWF Suomi aloittavat Länsi-Uudellamaalla yhteistyöprojektin, joka keskittyy vesien suojeluun Ingarskilanjoen valuma-alueella. Yhteistyössä joelle rakennetaan kaksitasouoma, jolla voidaan ehkäistä rankkasateiden ja tulvien aiheuttamaa ravinteiden valumista Itämereen ja siten vähentää alueen vesistöjen rehevöitymistä.**
@@ -2581,50 +2638,10 @@ WWF:n Luontoliven teknisestä toteutuksesta vastaavat Live Eye Oy ja Pukki Visua
 
 ---
 
-### Näkökulma: Kannattava liiketoiminta ei voi perustua luonnonvarojen ylikulutukseen
-
-Julkaistu: 12.6.2025  
-Aiheet: Ylikulutus, Yritykset  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2025/06/nakokulma-kannattava-liiketoiminta-ei-voi-perustua-luonnonvarojen-ylikulutukseen/
-
-**Siirtymä aidosti kestäviin liiketoimintamalleihin on edellytys paitsi yritystoiminnan kannattavuudelle, myös koko yhteiskunnan hyvinvoinnille, kirjoittaa WWF:n suojelun neuvonantaja Jussi Nikula.**
-
-Euroopan maiden välisessä luonnonvaratuottavuuden vertailussa Suomi on kaukana muiden perässä: sillä luonnonvaramäärällä, jolla ruotsalainen tuottaa lähes kaksi, suomalainen tuottaa vain yhden euron. Erityisen huolestuttavaa on, että tämä ero on vain kasvanut viime vuosina.
-
-Suomalaisen liike-elämän kyvykkyyden tietäen syy tuhlailevaan luonnonvarojen käyttöön ei voi olla osaamisen puutteessa. Ennemminkin vaikuttaa siltä, että lyhyen aikavälin tavoitteisiin keskittyminen on tehnyt useimmista yrityksistä sokeita pitkäaikaisen menestyksen perusedellytykselle, aidosti kestävälle luonnonvarojen käytölle.
-
-Hallitustenvälinen luontopaneeli IPBES vahvisti vuodenvaihteessa tiedon siitä, että jatkamalla luonnonvarojen ylikulutusta etenemme nopeasti kohti yhä vaarallisempaa ilmastoa ja ekosysteemien romahdusta. Ylikulutukseen liittyvät luonto- ja ilmastoriskit ovat vuodesta toiseen olleet myös maailman talousfoorumi WEF:n riskilistauksen kärjessä.
-
-> Ongelma on siinä, ettei kehityksen aallonpohjiin olisi enää aikaa, sillä meillä on äärimmäinen kiire vähentää haurastuvien ekosysteemien murentamista. Jussi Nikula — Jussi Nikula
-
-Vaikka luonnonvarojen kulutuksen ja globaalien kriisien välinen syy-seuraussuhde on ollut tiedossa jo pitkään, on yrityksissä usein jumiuduttu kehittämään liiketoimintaa nykyisiä toimintamalleja hiomalla ja kustannustehokkuutta parantamalla. Nämä eivät kuitenkaan tuota ratkaisuja perusongelmaan, luonnonvarojen ylikulutukseen.
-
-Vastaavanlainen näköalattomuus tuntuu vaivaavan myös ajankohtaista poliittista keskustelua. Esimerkiksi EU:n yritysvastuudirektiiviä heikentämään pyrkivän Omnibus-paketin kaltaiset aloitteet on kuitenkin parasta nähdä osana ympäristöpolitiikan edistymisen perinteistä aaltoliikettä, joka ei muuta kehityksen isoja linjoja. Suunta on ollut selvä jo vuosikymmenien ajan, ja eroon on päästy niin otsonikatoa aiheuttavista freoneista kuin tehtaiden jätevesipäästöistä. Näistäkin käytiin aikanaan kovaa vääntöä, mutta harvempi lienee isossa kuvassa pettynyt päätöksiin.
-
-Ongelma on siinä, ettei kehityksen aallonpohjiin olisi enää aikaa, sillä meillä on äärimmäinen kiire vähentää haurastuvien ekosysteemien murentamista. Mitä pidempään jatkamme ylikulutusta, sitä suuremmaksi muutoksen hintalappu kasvaa. Erityisen harmillista tällainen vastuullisuuspolitiikan peruuttelu on vastuullisimmille toimijoille, jotka ovat jo kykeneviä vastaamaan yritysvastuuvaatimuksiin.
-
-Onneksi ylikuluttavista liiketoimintamalleista irtautumiseen ohjaava muutos on jo käynnissä. Muun muassa Euroopan keskuspankki on talouden vakauden turvaamiseksi päättänyt priorisoida ilmasto- ja luontoriskien hallintaa pankkivalvonnassaan. Se tarkoittaa rahoituksen hinnan nousua niille yrityksille, joiden toiminta on riippuvaista luonnonvarojen ylikulutuksesta.
-
-> Yritysten on viimeistään nyt ryhdyttävä työstämään kohti kestävää liiketoimintaa vieviä siirtymäsuunnitelmia. Jussi Nikula — Jussi Nikula
-
-Tämän päivän investoinnit voivat lukita yrityksen ylikulutuksen polulle, ja siksi yritysten tulisi viimeistään nyt hahmotella oma polkunsa kohti aidosti kestävää toimintaa. Se tarkoittaa toiminnan ja strategioiden läpikotaista tarkastelua sekä ripeää, mutta harkittua siirtymää kestävyysrajojen mukaisiin liiketoimintamalleihin. Siirtymä on välttämätön paitsi koko yhteiskunnan hyvinvoinnin, myös kannattavan liiketoiminnan jatkuvuuden turvaamiseksi.
-
-Oikeudenmukainen siirtymä kestävämpiin liiketoimintamalleihin vaatii nykyistä selvästi tiukempaa ympäristösääntelyä sekä kannustimia. Yksi selkeimmistä keinoista olisi riittävän hinnan asettaminen luonnonvarojen käytön haitoille. Aiheuttaja maksaa -periaatteen mukaisesti toteutettuna se tekisi kilpailusta tasapuolisempaa ja palkitsisi kestäviin liiketoimintamalleihin sitoutuneita yhtiöitä ja yrityksiä.
-
-Lopulta kestävyyssiirtymässä on kyse myös eloonjäämisestä: ne yritykset, jotka eivät pysy muutoksen kyydissä, korvautuvat kykenevämmillä.
-
-Kirjoitus on julkaistu lyhennettynä Kauppalehdessä 10.6.2025.
-
-Lisätietoja: Jussi Nikula, Suojelun neuvonantaja
-
----
-
 ### Energiayhtiöillä miljoonien kuutioiden kokoinen vastuu suomalaisen metsäluonnon tilasta
 
 Julkaistu: 11.6.2025  
 Aiheet: Suomen metsät, Ilmastonmuutos, Luonnon köyhtyminen, Suomi  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/06/energiayhtioilla-miljoonien-kuutioiden-kokoinen-vastuu-suomalaisen-metsaluonnon-tilasta/
 
 **Energiayhtiöillä on keskeinen rooli suomalaisen metsäluonnon turvaamisessa, ja siksi niiden on syytä kiinnittää tarkkaa huomiota siihen, mistä ne puuta hankkivat.**
@@ -2792,7 +2809,6 @@ Liite: Tutustu raporttiin! (https://wwf.fi/app/uploads/c/g/t/l1pvwe1347z0z3yd07p
 Julkaistu: 5.6.2025  
 Aiheet: Ilmastonmuutos  
 Kirjoittaja: Totti Toiskallio  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/06/euroopan-paastoja-vahennettava-euroopassa-ilmastotieteilijoilta-varoitus-vuoden-2040-ilmastotavoitteesta/
 
 **Jokaisen maan ja alueen tulisi tehdä oma osuutensa ilmastokriisin ratkaisemiseksi. Silti Euroopan komissio valmistelee mallia, jossa se voisi siirtää vastuuta rajojensa ulkopuolelle.**
@@ -2968,37 +2984,6 @@ Suomenlahdella seilaa entistä huonokuntoisempia aluksia, mikä on kasvattanut �
 
 ---
 
-### Webinaari: WWF-raportti pui kriittisten mineraalien ympäristövaikutuksia
-
-Julkaistu: 15.5.2025  
-Aiheet: Luonnon köyhtyminen, Metsäkato, Sademetsät, Ylikulutus, Yritykset  
-Sisältötyyppi: luokiteltu  
-Linkki: https://wwf.fi/uutiset/2025/05/webinaari-wwf-raportti-pui-kriittisten-mineraalien-ymparistovaikutuksia/
-
-**WWF Suomi järjestää Maailman ympäristöpäivänä 5.6. webinaarin, jossa käsitellään tropiikista Suomeen tuotavien mineraalien ja metallien tuotannon usein pimentoon jääviä ympäristövaikutuksia.**
-
-Mineraali- ja metallikaivosten vaiettuja ympäristövaikutuksia luotaa WWF:n kesäkuussa julkaistava raportti, jonka tulokset ja suositukset esitellään webinaarissa. Raportissa pureudutaan myös siihen, mitä suomalaiset alan suuryritykset kertovat vastuullisuudestaan. Maksuton webinaari järjestetään 5. kesäkuuta kello 13–15 Teamsissa.
-
-#### Miksi osallistua?
-
-Webinaari on hyödyllinen kaivossektorin yrityksille sekä mineraaleja ja metalleja ostaville, jalostaville sekä hyödyntäville yrityksille, vastuullisuusraportteja laativille tahoille, virkahenkilöille, päättäjille, tutkimustahoille ja kansalaisjärjestöille.
-
-Webinaarista saat muun muassa:
-
-– ajantasaista tietoa mineraalien ja metallien tuotannon ympäristöriskeistä ja ihmisoikeusvaikutuksista tropiikissa, – tilannekuvan valikoitujen yritysten raportoinnista koskien arvoketjun ympäristövaikutuksia, – suosituksia yrityksille tavoitteiden asettamisen, toimeenpanon ja raportoinnin tueksi sekä ohjenuoria viranomaisille, rahoitussektorille, vastuullisuuskonsulteille ja kuluttajille.
-
-#### Webinaarin ohjelma
-
-Webinaarissa esitellään raportin keskeiset havainnot sekä WWF:n suositukset. Lisäksi kuullaan yrityksen, ministeriön sekä kaivossektorin vientiä edistävän tahon kommenttipuheenvuorot.
-
-Aika: Torstai 5.6 klo 13–15 Paikka: Verkkotapahtuma Teamsin välityksellä. Ilmoittautuminen: Toivomme ilmoittautumisia alla olevan linkin kautta 4.6. kello 16 mennessä. Tallenne: Webinaari tallennetaan. Ilmoittautumalla saat tallenteen itsellesi.
-
-Lisätietoja antaa WWF:n kansainvälinen metsäasiantuntija, raportin laatinut Maija Kaukonen: 045 6741423, [email protected].
-
-Liite: Ilmoittaudu webinaariin! (https://www.anpdm.com/public/event/RegistrationForm/43455A4372404459477340)
-
----
-
 ### Suomi teki ennätyksen – eniten purettuja patoja koko Euroopassa
 
 Julkaistu: 15.5.2025  
@@ -3157,7 +3142,6 @@ Uhanalaisten lajien joukkoon vaarantuneeksi luokiteltava lumileopardi on yksi v�
 Julkaistu: 23.4.2025  
 Aiheet: Perinneympäristöt, Suomi  
 Kirjoittaja: Minna Nyrhinen-Blazquez  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/04/moni-tuttu-niittykasvi-on-vahentynyt-villimpi-piha-on-polyttajille-parhaaksi/
 
 **Pölyttäjien tärkeimmät elinympäristöt ovat Suomessa uhanalaisia. Täydentäviä elinalueita pölyttäjille on mahdollista tarjota rakennetussa ympäristössä, kuten kotipihoilla ja parvekkeilla sekä kuntien ja yrityskiinteistöjen alueilla. WWF kannustaa OP Ryhmän kanssa kaikkia suomalaisia mukaan kampanjaan villimpien pihojen puolesta ja ilmoittamaan neliömetrejä Ala villiksi -laskuriin.**
@@ -3314,7 +3298,6 @@ Verkkokalastuksen kieltoalue (linkki avautuu uuteen ikkunaan): Kartta verkkokala
 Julkaistu: 11.4.2025  
 Aiheet: Liikakalastus, Meret  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/04/maailman-suurin-sillikanta-on-vaarassa-koillis-atlantin-silli-ja-makrilli-punaiselle-wwfn-kalaoppaassa/
 
 **Koillis-Atlantin makrilli- ja sillikannat ovat taantuneet vuosia jatkuneen ylikalastuksen vuoksi. Koillis-Atlantin silli ja makrilli ovat myös Suomen markkinoilla suosittuja kaloja, ja WWF:n Kalaopas suosittelee nyt välttämään niiden ostamista.**
@@ -3509,7 +3492,6 @@ Liite: Tarkista lempisuklaasi vastuullisuus Chocolate Scorecardin sivuilta! (htt
 Julkaistu: 3.4.2025  
 Aiheet: Earth Hour  
 Kirjoittaja: Minna Nyrhinen-Blazquez  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/04/wwfn-earth-houriin-osallistui-yli-12-miljoonaa-suomalaista/
 
 **Maailman suurin ympäristötapahtuma WWF:n Earth Hour näytti lauantaina 22.3. valomerkin luonnon ja ilmaston puolesta sekä innosti ihmisiä antamaan aikaansa planeetallemme.**
@@ -3719,7 +3701,6 @@ Seuraavaksi katseet kääntyvät kansainvälisessä ympäristöpolitiikassa syks
 
 Julkaistu: 27.2.2025  
 Aiheet: Bolivia, Metsäpalot, Onnistumistarina, Sademetsät  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/02/elamaa-metsapalojen-jalkeen-kuvat-amazonin-sademetsasta-antavat-toivoa-jaguaarin-selviytymisesta/
 
 **Viime syksynä Amazonin sademetsiä piinasivat historiallisen vakavat maastopalot. Luonnon selviytymiskyky hämmästyttää Boliviassa, missä paloista elpymistä on tuettu myös suomalaisten avulla.**
@@ -3907,7 +3888,6 @@ Vaikka apukinoksia ja keinopesiä on nyt kattavasti eri puolilla saimaannorpan p
 Julkaistu: 13.2.2025  
 Aiheet: Itämeri, Öljyntorjuntajoukot, Talkoot  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/02/wwfn-vapaaehtoiset-siivosivat-10-kilometrin-edesta-rasvaseokseen-peittyneita-rantoja-hangossa/
 
 **Hangossa ympäristövahingon torjuntatyöt ovat edistyneet hyvin, ja suurin osa kaupungin keskustan lähellä olevista rannoista on saatu siivottua. WWF kiittää urakkaan osallistuneita lähes 250 vapaaehtoista, joiden ansiosta rasvaseoksen poistaminen luonnosta on sujunut tehokkaasti.**
@@ -4102,7 +4082,6 @@ Suomen, Ruotsin ja Norjan yhteistä naalikantaa on seurattu vuosittain valtioide
 Julkaistu: 13.1.2025  
 Aiheet: Yritykset, Suomen metsät, Virtavedet  
 Kirjoittaja: Emmi Karhiaho Riikka Kaartinen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/uutiset/2025/01/kuinka-vesiensuojelu-valtavirtaistetaan-metsien-kasittelyssa-tornatorista-wwfn-paayhteistyokumppani/
 
 **WWF ja Tornator aloittavat kolmevuotisen vesiensuojeluyhteistyön, jonka tarkoituksena on minimoida metsien käsittelyn haitalliset vesistövaikutukset kokonaisten valuma-alueiden tasolla yksittäisten pistemäisten toimien sijaan. Yhteistyön aikana luodaan toimintamalli, joka helpottaa vesistöjen huomioimista metsien käsittelyn suunnittelussa.**

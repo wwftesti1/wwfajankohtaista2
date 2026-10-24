@@ -3,7 +3,7 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: WWF-lehti). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 31 (uusin 17.11.2011).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 30 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 17 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -835,7 +835,6 @@ Teksti: Katja Rönkkö
 
 Julkaistu: 25.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-1-2011/uusi-eduskunta-asettuu-paljon-vartijaksi/
 
 **Uudistettavan metsälain tulisi sallia talousmetsien hoito ilman avohakkuita.**
@@ -868,7 +867,6 @@ Tutustu WWF:n hallitusohjelmateeseihin: www.wwf.fi/vaalit.
 
 Julkaistu: 25.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-1-2011/olisiko-sinulla-hetki-aikaa/
 
 **Kummiksi ryhtyminen on helppoa, kun mahdollisuus kävelee kadulla vastaan.**
@@ -911,7 +909,6 @@ Teksti: Mira Hannuksela
 
 Julkaistu: 25.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-1-2011/metsien-kaukainen-sini/
 
 **Kuka on määrännyt, että metsät kuuluvat ensisijaisesti ihmisille?**
@@ -938,7 +935,6 @@ Kirjailija Leena Lehtolainen tunnetaan erityisesti rikosromaaneistaan, joissa se
 
 Julkaistu: 25.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-1-2011/makua-lautaselle-kotikonstein/
 
 **Hyötykasviyhdistyksen toiminnanjohtaja Anu Ranta kannustaa kasvattamaan yrtit ja versot itse.**
@@ -993,7 +989,6 @@ Teksti: Mira Hannuksela
 
 Julkaistu: 25.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-1-2011/kuin-kala-vedessa/
 
 **Sampsa Vilhusella on konstit Itämeren ja tonnikalan pelastamiseen.**
@@ -1046,7 +1041,6 @@ Teksti: Mira Hannuksela
 
 Julkaistu: 24.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-2-2011/villisika-ja-syklaami/
 
 **Eräällä kävelyretkistäni kohtasin villisian porsaineen. Kosteikossa vilisi neljänlaisia haikaroita.**
@@ -1071,7 +1065,6 @@ Kirjailija Leena Lehtolainen tunnetaan erityisesti rikosromaaneistaan, joissa se
 
 Julkaistu: 24.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-2-2011/pyoralla-perille/
 
 **Polkupyörä on helppo ja ekologinen tapa liikkua paikasta toiseen. Coming Thru -pyöräblogia pitävä Markus Varha antaa vinkit fillaristille.**
@@ -1122,7 +1115,6 @@ Teksti: Mira Hannuksela
 
 Julkaistu: 24.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-2-2011/leirien-loihtija/
 
 **Antti Lappo on nukkunut 3,5 vuotta elämästään teltassa WWF:n talkooleireillä.**
@@ -1217,7 +1209,6 @@ Teksti: Anne Brax
 
 Julkaistu: 24.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-2-2011/hiilta-sitoville-tropiikin-metsille-hintalappu/
 
 **Metsiä on suojeltava jo tänään eikä vasta 30 vuoden päästä.**
@@ -1240,7 +1231,6 @@ Maija Kaukonen suojeluasiantuntija
 
 Julkaistu: 24.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-1-2011/telakaivuri-tarkkuustyossa/
 
 **On joulukuun neljästoista ja Täktominlahden kosteikon viimeinen rakennuspäivä. Talvinen aurinko paistaa puiden välistä ja tuuli viilentää oloa vilpoisesta jäätäväksi parissa tunnissa. Puolen vuoden kuluttua tässä paikassa lorisee vesi ja linnut pyörivät pesäpuuhissa.**
@@ -1329,7 +1319,6 @@ Teksti: Laura Rahka
 
 Julkaistu: 24.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-1-2011/kadonnut-metsa/
 
 **Mitä yhteistä on eteläamerikkalaisella pihvillä, kansainvälisillä ilmastoneuvotteluilla, tulvilla ja tiikereillä? Vastaus on metsäkato.**
@@ -1454,7 +1443,6 @@ _(Sisällön haku epäonnistui tällä kertaa.)_
 
 Julkaistu: 19.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-2-2011/saimaannorpan-synnyinmailla/
 
 **Kevätaurinko paistaa täydeltä terältä. On oivallinen päivä bongata saimaannorppa köllöttelemässä ja kuivattelemassa turkkiaan Saimaan jäällä. Pesälaskennalla kartoitetaan, kuinka monta kuuttia lumipeitteiden suojissa on syntynyt.**
@@ -1527,7 +1515,6 @@ Juttu on julkaistu WWF:n Pandan polku -lehdessä 2/2011.
 
 Julkaistu: 19.5.2011  
 Kirjoittaja: Mira Hannuksela  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/pandan-polku-2-2011/puolen-vuosisadan-rakkaustarina/
 
 **Panda on katsellut maailman menoa WWF:n logossa jo viisikymmentä vuotta. Se on nähnyt paljon: uhanalaisten lajien pelastamista sukupuutolta, riemuvoittoja metsiensuojelussa, sitkeää kamppailua ilmastonmuutoksen selättämiseksi. WWF juhlii nyt viisikymppisiään maailmassa, jossa ratkaisut ympäristöhaasteisiin eivät ole mustavalkoisia kuin pandan kasvot, päinvastoin.**

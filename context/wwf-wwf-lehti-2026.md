@@ -3,7 +3,7 @@
 Lähde: https://wwf.fi/ajankohtaista/ (sisältötyyppi: WWF-lehti). Päivittyy automaattisesti kerran päivässä.
 Kohteita: 38 (uusin 6.10.2026).
 Kuvat jätetty pois; PDF-tekstien taulukko- ja palstamuotoilu voi olla hajonnut. Ulkoisista linkeistä (esim. lehtien mielipidekirjoitukset) mukana vain otsikko ja linkki.
-Huom: 23 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
+Huom: 2 kohteelta puuttuu sivustolla sisältötyyppi; ne on luokiteltu kohdetyypin tai otsikon perusteella (merkitty ”luokiteltu”).
 
 ## Sisällysluettelo
 
@@ -145,7 +145,6 @@ Kaikesta tästä huolimatta Sääksjärvi näkee alueella myös toivoa.
 
 Julkaistu: 6.10.2026  
 Aiheet: WWF-lehti, Öljyntorjuntajoukot  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2026/toivottavasti-meita-ei-tarvita/
 
 **Öljyn kerääminen rannalta on hidasta ja raskasta käsityötä. Tiedän sen myös omasta kokemuksesta.**
@@ -447,7 +446,6 @@ Syksyisin Kotakorven lempipaikka löytyy meren rannalta.
 
 Julkaistu: 6.10.2026  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-3-2026/anna-sievisen-kolumni-elaimet-osaavat-enemman-kuin-luulemme/
 
 **Osaisikohan kimalainen käyttää työkaluja kuten apina, pohti käyttäytymisekologi Olli Loukola. Ajatus kuulostaa pähkähullulta, mutta dosentilla oli syynsä optimismiin. Olihan Loukola jo opettanut pörriäiset esimerkiksi pelaamaan jalkapalloa.**
@@ -562,7 +560,6 @@ WWF:n asiantuntijat ja vapaaehtoiset öljyntorjuntajoukot siivosivat Saimaan Hau
 Julkaistu: 1.9.2026  
 Aiheet: WWF-lehti, Ilmastonmuutos, Liikakalastus, Saimaannorppa  
 Kirjoittaja: Anne Salomäki  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/kalanpyydys-on-kuolinloukku-monelle-kuutille-havaittujen-kuolemien-valtava-maara-ei-selity-kannan-kasvulla/
 
 **Vastuullinen kalastaja jättää Saimaalla verkot naulaan ympäri vuoden ja käyttää ainoastaan norppaturvallista katiskaa.**
@@ -596,7 +593,6 @@ Pyydyskuolemien korkea määrä on saanut jotkut epäilemään, että taustalla 
 Julkaistu: 4.6.2026  
 Aiheet: Luonnon köyhtyminen, Ukraina, WWF-lehti  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/wwf-ukraina-valvoo-ettei-luontoa-unohdeta-sodassa/
 
 **Sota ei ole syy tinkiä luonnonsuojelusta – päinvastoin. Etenkin, kun sen tuhot luonnossa ovat niin massiiviset kuin Ukrainassa. WWF Ukraina tekee töitä, jotta ympäristö huomioidaan maan toipumisessa ja tulevaisuuden rakentamisessa.**
@@ -632,7 +628,6 @@ Sodan tuhoja Ukrainan luonnolle ei voida perua, mutta nyt ratkaistaan, jäävät
 Julkaistu: 4.6.2026  
 Aiheet: Suomen metsät, Kentällä, Talkoot, WWF-lehti  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/vain-muutaman-papanan-tahden-kevatpaiva-liito-oravan-jatoksia-jahdaten/
 
 **Oravista intoileva Tiitu Saarikoski etsi liito-oravan papanoita Nuuksion kansallispuistosta yhdessä 50 vapaaehtoisen kanssa.**
@@ -749,7 +744,6 @@ Kaakaon kysyntä kasvaa globaalisti samaan aikaan kun viljelylle soveltuvat alue
 Julkaistu: 4.6.2026  
 Aiheet: WWF-lehti  
 Kirjoittaja: Anne Salomäki  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/somevaikuttaja-kotiografi-on-omassa-pihassaan-ihan-villina/
 
 **Ala villiksi -kampanjan kasvo Jari Saarelainen eli Kotiografi luottaa siihen, että luonto osaa hommansa. Hän tarkastelee omaa pihaansa myös kimalaisen näkökulmasta.**
@@ -782,7 +776,6 @@ Ala villiksi -kampanja on toteutettu yhteistyössä OP Pohjolan kanssa.
 
 Julkaistu: 4.6.2026  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/saiga-antiloopien-maarat-kasvaneet-mongoliassa-ja-muita-tuoreita-onnistumisia/
 
 **Kiitos tuestasi! Nämä ajankohtaiset onnistumiset eivät olisi mahdollisia ilman tukijoitamme ja pitkäjänteistä luonnonsuojelutyötämme.**
@@ -813,7 +806,6 @@ Luovutimme maaliskuussa yli 11 000 suomalaisen allekirjoittaman metsänieluvetoo
 
 Julkaistu: 4.6.2026  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/pinnalla-nyt-tyontekijoidemme-vinkit-kesaan-2/
 
 **WWF-lehden Pinnalla nyt -palstalla WWF:n työntekijät kertovat omat vinkkinsä kesäiseen tekemiseen. Nappaa vinkit ja nauti luonnosta!**
@@ -832,7 +824,6 @@ Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/pinnalla-nyt-tyontekijoidemme-
 
 Julkaistu: 4.6.2026  
 Aiheet: Itämeri, Suomen metsät, Virtavedet, WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/pidetaan-suomen-vedet-puhtaina/
 
 **Kesä Suomessa vietetään vesistöjen äärellä: katsellaan järven selkää, merenlahden tyyntä pintaa, tunnetaan laiturin lämpimät laudat paljaan ihon alla. Sitten on niitä epämiellyttävämpiä kesäkokemuksia, kun uimareissu peruuntuu sinilevän vuoksi tai kun iho on uinnin jälkeen ruskeana humuksesta.**
@@ -851,7 +842,6 @@ Puhdas vesi on suomalaisen luontokokemuksen ytimessä, mutta se ei ole itsestä�
 
 Julkaistu: 4.6.2026  
 Aiheet: Ylikulutus, WWF-lehti, Yritykset  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/paivittyva-kuluttajansuojalaki-voimaannuttaa-vastuullisuuteen/
 
 **Suomen kuluttajansuojalakia päivitetään EU:n direktiivin pohjalta – positiiviseen suuntaan.”Kuluttajansuojalain päivityksen tavoitteena on antaa kuluttajille entistä paremmat mahdollisuudet tehdä vastuullisia valintoja”, kertoo WWF:n vastuullisuusasiantuntija Anna Korva.**
@@ -1022,7 +1012,6 @@ Romppanen on vakuuttunut, että salametsästyskulttuuri ei ole Pohjois-Karjalast
 Julkaistu: 4.6.2026  
 Aiheet: Tukijan tarina, WWF-lehti  
 Kirjoittaja: Anne Salomäki  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-2-2026/mimmit-sijoittaa-tulevaisuuteen-vastuullisuus-on-tapa-valttaa-huonoja-sijoituksia/
 
 **Evita Lestinen toivoo yritysten omistajiksi ja johtajiksi ihmisiä, jotka ajattelevat muutakin kuin itseään.**
@@ -1150,7 +1139,6 @@ Mukaan tarvitaan myös puun ostajat ja puuta käyttävät yritykset sekä julkis
 
 Julkaistu: 11.3.2026  
 Aiheet: Saimaannorppa, Ilmastonmuutos, Luonnon köyhtyminen, Suomen uhanalaiset kalat, Suomi, WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/verkko-ei-valikoi-saalistaan/
 
 **Nieriää ja saimaannorppaa yhdistävät elinympäristön lisäksi kaksi suurta uhkaa, ilmastonmuutos ja verkkokalastus. Kalaverkot eivät valikoi saalistaan, ja myös saimaannorpan poikaset eli kuutit ovat vaarassa hukkua niihin. Kuuttien lisäksi verkkokalastuksen rajoitusajan ja -alueen laajentaminen auttaisi myös Saimaan uhanalaisia kaloja.**
@@ -1246,7 +1234,6 @@ Työ on myös merkityksellistä, sillä lapset ovat tulevaisuuden päättäjiä 
 
 Julkaistu: 10.3.2026  
 Aiheet: Ylikulutus, WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/wwf-kummi-julia-thuren-kannustaa-miettimaan-kulutusvalintoja/
 
 **Vaikuttaja ja tietokirjailija Julia Thurén on jo pitkään ollut WWF:n kummi. Kummiuteen motivoi ajatus paremman planeetan tulevaisuudesta.**
@@ -1276,7 +1263,6 @@ Näin kevään kynnyksellä Thurén kannustaa pysähtymään hetkeen ja nauttima
 Julkaistu: 10.3.2026  
 Aiheet: Suomi, Perinneympäristöt  
 Kirjoittaja: Minna Nyrhinen-Blazquez  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/villiinnyttaa-voi-vaikka-pankin-pihaa/
 
 **OP Pohjolan rakennuttajapäällikkö Markku Estola auttaa OP:n konttoreita ympäri Suomen löytämään parhaat keinot antaa luonnolle tilaa.**
@@ -1301,7 +1287,6 @@ Kampanjan kolmannen vuoden alkaessa laskurin lukemat näyttävät jo yli kuutta 
 
 Julkaistu: 10.3.2026  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/suvi-auvisen-kolumni-suojele-nakymatonta/
 
 **Eletään niin, että karhukainenkin selviäisi tällä planeetalla.**
@@ -1329,7 +1314,6 @@ Suvi Auvinen on helsinkiläinen toimittaja ja kirjailija, jonka karhukaisista ke
 Julkaistu: 10.3.2026  
 Aiheet: WWF-lehti, Saimaannorppa, Suomi  
 Kirjoittaja: Anne Salomäki  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/saimaannorppa-on-ismo-marttiselle-sukuvika/
 
 **WWF:n suojelukoordinaattori ja hallituksen jäsen Ismo Marttinen liikkuu kotinurkillaan Saimaalla syvissä vesissä, veden pinnalla ja jäitä pitkin.**
@@ -1358,7 +1342,6 @@ Työ tuntuu tärkeältä ja merkitykselliseltä, ja on hienoa, kun oma ääni tu
 
 Julkaistu: 10.3.2026  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/saimaannorpalle-ennatysmaara-apukinoksia-ja-muita-tuoreita-onnistumisia/
 
 **Kiitos tuestasi! Nämä ajankohtaiset onnistumiset eivät olisi mahdollisia ilman tukijoitamme ja pitkäjänteistä luonnonsuojelutyötämme.**
@@ -1395,7 +1378,6 @@ Viranomaisten mukaan kasvua selittävät useat suojelutoimet, kuten salametsäst
 
 Julkaistu: 10.3.2026  
 Aiheet: WWF-lehti  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/pinnalla-nyt-tyontekijoidemme-vinkit-kevaaseen/
 
 **WWF-lehden Pinnalla nyt -palstalla WWF:n työntekijät kertovat omat vinkkinsä keväiseen tekemiseen. Nappaa vinkit ja nauti luonnosta!**
@@ -1415,7 +1397,6 @@ Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/pinnalla-nyt-tyontekijoidemme-
 Julkaistu: 10.3.2026  
 Aiheet: Perinneympäristöt, Suomi, WWF-lehti  
 Kirjoittaja: Pinja Silvonen  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/laidunnus-lisaa-monimuotoisuutta/
 
 **Salmensuun tila on yksi harvoista suomalaisista tiloista, joka tuottaa sertifioitua luonnonlaidunlihaa. Samalla hoidetaan arvokasta ja uhanalaista luontoa.**
@@ -1445,7 +1426,6 @@ Lue lisää luonnonlaidunlihasta tietosivuiltamme: Luonnonlaidunliha
 Julkaistu: 10.3.2026  
 Aiheet: WWF-lehti, Ilmastonmuutos, Itä-Afrikka, Sademetsät  
 Kirjoittaja: Tiitu Saarikoski  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/kameleonttien-koti-ja-valtava-vesivarasto-vuoristometsat-takaavat-vedensaannin-yli-300-000-ihmiselle/
 
 **Tansaniassa sijaitsevat Itä-Usambaran vuoristometsät ällistyttävät lajikirjollaan. Metsien säilyminen on elinehto myös alueen ihmisille, joiden kanssa WWF tekee yhteistyötä luonnon suojelemiseksi.**
@@ -1510,7 +1490,6 @@ Shuza on sokea, mikä tuo omat haasteensa viljelyyn. Hän kuuluu WWF:n tukemaan 
 
 Julkaistu: 10.3.2026  
 Aiheet: Earth Hour  
-Sisältötyyppi: luokiteltu  
 Linkki: https://wwf.fi/wwf-lehti/wwf-lehti-1-2026/earth-hour-nayttaa-etta-valitamme/
 
 **WWF:n Earth Hour kutsuu jälleen ihmiset, yritykset ja organisaatiot antamaan tunnin luonnolle. Mitä useampi tekee ympäristölle myönteisiä valintoja, sitä suurempi vaikutus saadaan aikaan.**
